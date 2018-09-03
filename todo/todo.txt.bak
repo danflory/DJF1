@@ -123,13 +123,24 @@ x 2018-09-03 @switch make change to bashrc on home lap -fad
 (C) clean work shed
 (A) take the large glass cleaner to walmarto fill
 (A) pri a pick trail to walk
-(A) buy computer fans ... learn how to size them
-(A) discover my trail for today +fitness
+(A) buy computer fans ... learn how to size them https://www.quietpc.com/faq/27
+x 2018-09-03 discover my trail for today +fitness WILDCAT TRAIL
 (A) install todo.txt extension on home desktop vscode
 +fitness
 (J) j commit your todo often and alwas at end of day
-resolve bash history issue home desk
+(B) resolve bash history issue home desk
 (D) resolve bash history home lap
 (D) resolve bash history wk
 (A) give linda my soldering iron
 x 2018-09-03 in bashrc put an echo of where the file is
+x play szopa -chess scoremore than 4.17 -note this in htis position all but my move would have drawn complicated
+how do I do add with priority?
+(A) powergrep to work computer
+powergrep install on home lap
+@switch relocate gtd shortcut to github not todo desktop
+@switch relocate gtd shortcut to github not todo laptop
+(A) try to use the add ons from github instead of home
+work out the bash var names -note do space after the equal it must be VAR="value"
+x 2018-09-03 when adding quotes in bash todo item it must be excaped -\" not -"- -note 
+x 2018-09-03 2018-09-03 fix directory of system variable to EDITOR used by edit command in todo.txt
+x 2018-09-03 restart to reload enviroment variable EDITOR
