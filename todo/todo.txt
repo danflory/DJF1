@@ -22,12 +22,10 @@
 (D) modify extention repeat to allow for multiple repeats
 (E) @God +home +GTD be a doer of the word +james + ss
 (E) @God church service
-(J)  clean at end of day; shower; clothes out +gtd
 (J)  personal email clean daily +gtd
 (J)  READ every day -gtd david alan 2nd edition  in kindle +gtd
 (J) @God swith on the brain
 (J) +health 
-(J) +health weight loss track in SparkPeople
 (J) +skills practice cad 20 min free cad t:2018-09-01
 (J) charge phone daily
 (J) DO gtd every day +gtd
@@ -53,8 +51,8 @@
 @switch install outline for todo-clr +todo-clr home desk
 @switch install outline for todo-clr +todo-clr home lap
 @switch install outline for todo-clr +todo-clr wk
-@switch make change to bashrc on home lap -fad
-@switch make change to bashrc on wk -fad
+x 2018-09-03 @switch make change to bashrc on home lap -fad
+(B) @switch make change to bashrc on wk -fad
 @switch to +todo.sh  install add with pri home desk
 @switch to +todo.sh  install add with pri home lap
 @switch to +todo.sh  install add with pri wk
@@ -122,6 +120,17 @@
 @z_triggerList prayer
 @z_triggerList the tickler list
 @z_triggerList wood
-x 2018-09-02 spark people double pay I sent email yesterday
-@waiting spark people double pay I sent email yesterday
 (C) clean work shed
+(A) take the large glass cleaner to walmarto fill
+(A) pri a pick trail to walk
+(A) buy computer fans ... learn how to size them https://www.quietpc.com/faq/27
+(A) discover my trail for today +fitness
+(A) install todo.txt extension on home desktop vscode
++fitness
+(J) j commit your todo often and alwas at end of day
+(B) resolve bash history issue home desk
+(D) resolve bash history home lap
+(D) resolve bash history wk
+(A) give linda my soldering iron
+x 2018-09-03 in bashrc put an echo of where the file is
+x play szopa -chess scoremore than 4.17 -note this in htis position all but my move would have drawn complicated
