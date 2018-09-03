@@ -1,21 +1,24 @@
 (A) +home closit shelves
 (A) +home Hang extension cord on wall for linda
 (A) +home under bumper on linda's car @car
-(A) fertalize lawn
+<<<<<<< HEAD
+x 2018-09-02 move todo.txt mapping to  github home lap
+=======
+(A) move todo.txt mapping to  github home lap
+>>>>>>> b225852ad44c70281a9c07634ba592a9eaf5594b
 (A) move todo.txt mapping to  github home desk
 (A) move todo.txt mapping to  github wk
 (B)  +home remove bush in front
 (B)  +home roundup
+(B) +gtd +plaintext +note http://plaintext-productivity.net/2-00-notes-and-drafts-introduction.html  @study 
 (B) +buyGraphicCard
 (B) +cleanOffice  boxes under desk consolidate to one shelf
 (B) +cleanOffice  build pullup/horizontal bar
-(B) +gtd +plaintext +note http://plaintext-productivity.net/2-00-notes-and-drafts-introduction.html  @study 
 (B) cut brush and paint with killer
 (B) reCheck spark people due:2d
 (C)  @car struts 
 (C) +home fix the grass trimmer
 (C) Change plugs and gasket  @car
-(C) clean work shed
 (C) consider doing step bet
 (D) @_project +God +memoryWork I will return to this after some of the new of GTD is off
 (D) @_project swith on the brain t:due:11-20-2018 I am switching on my brain with GTD
@@ -23,10 +26,10 @@
 (D) modify extention repeat to allow for multiple repeats
 (E) @God +home +GTD be a doer of the word +james + ss
 (E) @God church service
-(J)  clean at end of day; shower; clothes out +gtd
 (J)  personal email clean daily +gtd
 (J)  READ every day -gtd david alan 2nd edition  in kindle +gtd
-(J) +health weight loss track in SparkPeople
+
+(J) +health 
 (J) +skills practice cad 20 min free cad t:2018-09-01
 (J) charge phone daily
 (J) DO gtd every day +gtd
@@ -49,12 +52,15 @@
 @soon +home roundup
 @soon +home under bumper on linda's car
 @study +review +todotxt for +gtd https://gist.github.com/alehandrof/9941620
-@switch make change to bashrc on home lap -fad
-@switch make change to bashrc on wk -fad
+@switch install outline for todo-clr +todo-clr home desk
+@switch install outline for todo-clr +todo-clr home lap
+@switch install outline for todo-clr +todo-clr wk
+x 2018-09-03 @switch make change to bashrc on home lap -fad
+(B) @switch make change to bashrc on wk -fad
 @switch to +todo.sh  install add with pri home desk
 @switch to +todo.sh  install add with pri home lap
 @switch to +todo.sh  install add with pri wk
-@switch to +todo.sh  install addr home desk 
+@switch to +todo.sh  install addr home desk
 @switch to +todo.sh  install addr home lap
 @switch to +todo.sh  install addr wk
 @switch to +todo.sh  install again home desk
@@ -88,6 +94,8 @@
 @switch to +todo.sh  install recur home lap
 @switch to +todo.sh  install recur wk
 @switch to +todo.sh  install repeat home desk
+@switch to +todo.sh  install repeat home lap
+@switch to +todo.sh  install repeat usefull for habits 1.laptop
 @switch to +todo.sh  install repeat usefull for habits 2.home desk
 @switch to +todo.sh  install repeat usefull for habits 3.Worklap
 @switch to +todo.sh  install repeat wk
@@ -100,9 +108,13 @@
 @switch to +todo.sh  install standup home desk
 @switch to +todo.sh  install standup home lap
 @switch to +todo.sh  install standup wk
-x 2018-09-03 @switch to +todo.sh  install top 
-@switch to +todo.sh  pomodori program home desk @waiting must get ruby
-@waiting spark people double pay I sent email yesterday
+@switch to +todo.sh  install top home desk
+@switch to +todo.sh  install top home lap
+@switch to +todo.sh  install top wk
+@switch to +todo.sh  pomodori program home desk
+@switch to +todo.sh  pomodori program home lap
+@switch to +todo.sh  pomodori program wk
+@switch to +todo.sh read https://github.com/todotxt/todo.txt-cli/wiki/Todo.sh-Add-on-Directory
 @z_definePriorities a-today b-mabyToday c-soon d-maybeSomeday e-notes to expand j-habits k-triggerlist l-studies
 @z_triggerList after work studies
 @z_triggerList car
@@ -112,18 +124,33 @@ x 2018-09-03 @switch to +todo.sh  install top
 @z_triggerList prayer
 @z_triggerList the tickler list
 @z_triggerList wood
-how to fertalize tree get link
-step 2 of outline unpace chfunctional test
-step 3 of outline practicit several days.
-x 2018-09-02 move todo.txt mapping to  github home lap
+<<<<<<< HEAD
 x 2018-09-02 spark people double pay I sent email yesterday
-x 2018-09-03 @switch to +todo.sh  install repeat home lap
-x 2018-09-03 @switch to +todo.sh read https://github.com/todotxt/todo.txt-cli/wiki/Todo.sh-Add-on-Directory
-x 2018-09-03 +installing +todo-cli-plugins put plug in to their own directory as available with readme and then link to the command.
-x 2018-09-03 install symbolic link maker on home laptop http://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html
-x 2018-09-03 step 1 of outline put the zip in actions folder
-x https://github.com/samuelsnyder/outline-todo.txt outline project page +note+install +todo.sh @switch top
-+install +todo.sh @switch edit
-x 2018-09-03 +install +todo.sh @switch lately
-+install +todo.sh @switch v
-+install +todo.sh @switch view
+@waiting spark people double pay I sent email yesterday
+(C) clean work shed
+=======
+(C) clean work shed
+(A) take the large glass cleaner to walmarto fill
+(A) pri a pick trail to walk
+(A) buy computer fans ... learn how to size them https://www.quietpc.com/faq/27
+x 2018-09-03 discover my trail for today +fitness WILDCAT TRAIL
+(A) install todo.txt extension on home desktop vscode
++fitness
+(J) j commit your todo often and alwas at end of day
+(B) resolve bash history issue home desk
+(D) resolve bash history home lap
+(D) resolve bash history wk
+(A) give linda my soldering iron
+x 2018-09-03 in bashrc put an echo of where the file is
+x play szopa -chess scoremore than 4.17 -note this in htis position all but my move would have drawn complicated
+how do I do add with priority?
+(A) powergrep to work computer
+powergrep install on home lap
+@switch relocate gtd shortcut to github not todo desktop
+@switch relocate gtd shortcut to github not todo laptop
+(A) try to use the add ons from github instead of home
+work out the bash var names -note do space after the equal it must be VAR="value"
+x 2018-09-03 when adding quotes in bash todo item it must be excaped -\" not -"- -note 
+x 2018-09-03 2018-09-03 fix directory of system variable to EDITOR used by edit command in todo.txt
+x 2018-09-03 restart to reload enviroment variable EDITOR
+>>>>>>> b225852ad44c70281a9c07634ba592a9eaf5594b
