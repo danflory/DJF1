@@ -2,7 +2,6 @@
 (A) +home Hang extension cord on wall for linda
 (A) +home under bumper on linda's car @car
 (A) fertalize lawn
-(A) move todo.txt mapping to  github home desk
 (A) move todo.txt mapping to  github wk
 (B)  +home remove bush in front
 (B)  +home roundup
@@ -10,13 +9,12 @@
 (B) +cleanOffice  boxes under desk consolidate to one shelf
 (B) +cleanOffice  build pullup/horizontal bar
 (B) +gtd +plaintext +note http://plaintext-productivity.net/2-00-notes-and-drafts-introduction.html  @study 
-(B) cut brush and paint with killer
-(B) reCheck spark people due:2d
+(B) cut brush and paint with killer part 2
 (C)  @car struts 
 (C) +home fix the grass trimmer
 (C) Change plugs and gasket  @car
 (C) clean work shed
-(C) consider doing step bet
+(D) consider doing step bet
 (D) @_project +God +memoryWork I will return to this after some of the new of GTD is off
 (D) @_project swith on the brain t:due:11-20-2018 I am switching on my brain with GTD
 (D) +home +wood paper rack
@@ -28,8 +26,6 @@
 (J)  READ every day -gtd david alan 2nd edition  in kindle +gtd
 (J) +health weight loss track in SparkPeople
 (J) +skills practice cad 20 min free cad t:2018-09-01
-(J) charge phone daily
-(J) DO gtd every day +gtd
 (J) The implanted word every day. 
 (K) @study t+todotxt for +gtd https://gist.github.com/alehandrof/9941620
 (K) @triggerList after work studies
@@ -100,7 +96,6 @@
 @switch to +todo.sh  install standup home desk
 @switch to +todo.sh  install standup home lap
 @switch to +todo.sh  install standup wk
-x 2018-09-03 @switch to +todo.sh  install top 
 @switch to +todo.sh  pomodori program home desk @waiting must get ruby
 @waiting spark people double pay I sent email yesterday
 @z_definePriorities a-today b-mabyToday c-soon d-maybeSomeday e-notes to expand j-habits k-triggerlist l-studies
@@ -112,18 +107,11 @@ x 2018-09-03 @switch to +todo.sh  install top
 @z_triggerList prayer
 @z_triggerList the tickler list
 @z_triggerList wood
-how to fertalize tree get link
-step 2 of outline unpace chfunctional test
-step 3 of outline practicit several days.
-x 2018-09-02 move todo.txt mapping to  github home lap
-x 2018-09-02 spark people double pay I sent email yesterday
-x 2018-09-03 @switch to +todo.sh  install repeat home lap
-x 2018-09-03 @switch to +todo.sh read https://github.com/todotxt/todo.txt-cli/wiki/Todo.sh-Add-on-Directory
-x 2018-09-03 +installing +todo-cli-plugins put plug in to their own directory as available with readme and then link to the command.
-x 2018-09-03 install symbolic link maker on home laptop http://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html
-x 2018-09-03 step 1 of outline put the zip in actions folder
-x https://github.com/samuelsnyder/outline-todo.txt outline project page +note+install +todo.sh @switch top
-+install +todo.sh @switch edit
-x 2018-09-03 +install +todo.sh @switch lately
-+install +todo.sh @switch v
-+install +todo.sh @switch view
+(B) how to fertalize tree get link note:JaY.txt
+(C) step 2 of outline unpace chfunctional test
+(C) step 3 of outline practicit several days.
+@swith +install stale and test
+(J) DO gtd every day +gtd
+(J) charge phone daily
+(D) should I +install @switch +todo.sh "chron" I can do this is vsCode
+@waiting these require python I changes shebang but that didn't work. +install @swith the stduy-sweet, but not all, just addr, lsgc, lsgp
