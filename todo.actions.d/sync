@@ -14,4 +14,4 @@ function usage {
 
 $TODO_FULL_SH commit
 $TODO_FULL_SH pull
-$TODO_FULL_SH push
+$TODO_FULL_SH push$TODO_FULL_SH push
