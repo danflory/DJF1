@@ -117,3 +117,11 @@ x @waiting for email back about the vitiamin bill
 x 2018-09-02 @study +gtd +plaintext +note http://plaintext-productivity.net/2-00-notes-and-drafts-introduction.html
 x 2018-09-02 +gtd @swith I changed the settings in .bashrc to be: -falias t=todo.sh -fad /c/d/PortableApps/todo.txt_cli-2.11.0/todo.cfg
 x 2018-09-02 +note by turning on auto save in vscode I solve problem of todo.sh change conflicts
+x 2018-09-02 spark people double pay I sent email yesterday
+x clean and reorganize my bathrooom cabnets
+x clean home desktop computer desktop folder
+x refill small glass cleaner and put in work bag
+x replace the laptop cooler platform with mine
+x 2018-09-03  clean at end of day; shower; clothes out +gtd
+x spark people double pay I sent email yesterday. The second payment was google pay subscription
+x 2018-09-03 buy new keyboard for home
