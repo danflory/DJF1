@@ -1,7 +1,9 @@
 (A) +home closit shelves
 (A) +home Hang extension cord on wall for linda
 (A) +home under bumper on linda's car @car
-(A) move lists to todotxt to  gethub 
+(A) move todo.txt mapping to  github home lap
+(A) move todo.txt mapping to  github home desk
+(A) move todo.txt mapping to  github wk
 (B)  +home remove bush in front
 (B)  +home roundup
 (B) @study +gtd +plaintext +note http://plaintext-productivity.net/2-00-notes-and-drafts-introduction.html
