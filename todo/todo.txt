@@ -2,102 +2,51 @@
 (A) +home Hang extension cord on wall for linda
 (A) +home under bumper on linda's car @car
 (A) fertalize lawn
-(A) move todo.txt mapping to  github wk
-(B)  +home remove bush in front
-(B)  +home roundup
 (B) +buyGraphicCard
 (B) +cleanOffice  boxes under desk consolidate to one shelf
 (B) +cleanOffice  build pullup/horizontal bar
-(B) +gtd +plaintext +note http://plaintext-productivity.net/2-00-notes-and-drafts-introduction.html  @study 
+(B) +gtd +plaintext +note http://plaintext-productivity.net/2-00-notes-and-drafts-introduction.html  (K) 
+(B) +home remove bush in front
+(B) +home roundup
 (B) cut brush and paint with killer part 2
-(C)  @car struts 
+(B) how to fertalize tree get link note:JaY.txt
+(C) @car struts 
 (C) +home fix the grass trimmer
+(C) +home remove bush in front
+(C) +home roundup
+(C) +home under bumper on linda's car
 (C) Change plugs and gasket  @car
 (C) clean work shed
-(D) consider doing step bet
+(C) step 2 of outline unpace chfunctional test
+(C) step 3 of outline practicit several days.
 (D) @_project +God +memoryWork I will return to this after some of the new of GTD is off
 (D) @_project swith on the brain t:due:11-20-2018 I am switching on my brain with GTD
 (D) +home +wood paper rack
+(D) consider doing step bet
 (D) modify extention repeat to allow for multiple repeats
+(D) should I +install @switch +todo.sh "chron" I can do this is vsCode
 (E) @God +home +GTD be a doer of the word +james + ss
 (E) @God church service
-(J)  clean at end of day; shower; clothes out +gtd
-(J)  personal email clean daily +gtd
-(J)  READ every day -gtd david alan 2nd edition  in kindle +gtd
+(J) @GodsPrize +WebSite https://wordpress.com/stats/day/godsprize.wordpress.com
 (J) +health weight loss track in SparkPeople
 (J) +skills practice cad 20 min free cad t:2018-09-01
+(J) charge phone daily
+(J) clean at end of day; shower; clothes out +gtd
+(J) DO gtd every day +gtd
+(J) personal email clean daily +gtd
+(J) READ every day -gtd david alan 2nd edition  in kindle +gtd
 (J) The implanted word every day. 
-(K) @study t+todotxt for +gtd https://gist.github.com/alehandrof/9941620
-(K) @triggerList after work studies
-(K) @triggerList car
-(K) @triggerList God
-(K) @triggerList money
-(K) @triggerList prayer
-(K) @triggerList the tickler list
-(K) @triggerList wood
-(K) +recreation +chess @reocuring action copy it to track
-@buyGraphicsCard -get fans for computer case
-@GodsPrize +WebSite https://wordpress.com/stats/day/godsprize.wordpress.com
-@Notes example of hiden h:1 Contexts: +home riding AtChurch or h:1 Other Lists: Projects
-@someday -gtd reconsider extention view
-@somedayMaybe +home fix the grass trimmer
-@soon +home remove bush in front
-@soon +home roundup
-@soon +home under bumper on linda's car
-@study +review +todotxt for +gtd https://gist.github.com/alehandrof/9941620
+(K) +review +todotxt for +gtd https://gist.github.com/alehandrof/9941620
+(K) t+todotxt for +gtd https://gist.github.com/alehandrof/9941620
 @switch make change to bashrc on home lap -fad
 @switch make change to bashrc on wk -fad
-@switch to +todo.sh  install add with pri home desk
-@switch to +todo.sh  install add with pri home lap
-@switch to +todo.sh  install add with pri wk
-@switch to +todo.sh  install addr home desk 
-@switch to +todo.sh  install addr home lap
-@switch to +todo.sh  install addr wk
-@switch to +todo.sh  install again home desk
-@switch to +todo.sh  install again home lap
-@switch to +todo.sh  install again wk
-@switch to +todo.sh  install birseye home desk
-@switch to +todo.sh  install birseye home lap
 @switch to +todo.sh  install birseye wk
-@switch to +todo.sh  install cd home desk
-@switch to +todo.sh  install cd home lap
-@switch to +todo.sh  install cd wk
-@switch to +todo.sh  install lsgc home desk
-@switch to +todo.sh  install lsgc home desk
-@switch to +todo.sh  install lsgc home lap
-@switch to +todo.sh  install lsgc home lap
-@switch to +todo.sh  install lsgc wk
-@switch to +todo.sh  install lsgc wk
-@switch to +todo.sh  install lsgp home desk
-@switch to +todo.sh  install lsgp home lap
-@switch to +todo.sh  install lsgp wk
-@switch to +todo.sh  install mit or mitf home desk
-@switch to +todo.sh  install mit or mitf home lap
 @switch to +todo.sh  install mit or mitf wk
-@switch to +todo.sh  install program home desk
-@switch to +todo.sh  install program home lap
-@switch to +todo.sh  install program wk
-@switch to +todo.sh  install projectview home desk
-@switch to +todo.sh  install projectview home lap
-@switch to +todo.sh  install projectview wk
-@switch to +todo.sh  install recur home desk
-@switch to +todo.sh  install recur home lap
-@switch to +todo.sh  install recur wk
-@switch to +todo.sh  install repeat home desk
-@switch to +todo.sh  install repeat usefull for habits 2.home desk
-@switch to +todo.sh  install repeat usefull for habits 3.Worklap
-@switch to +todo.sh  install repeat wk
-@switch to +todo.sh  install rm home desk
-@switch to +todo.sh  install rm home lap
-@switch to +todo.sh  install rm wk
-@switch to +todo.sh  install sp home desk
-@switch to +todo.sh  install sp home lap
 @switch to +todo.sh  install sp wk
-@switch to +todo.sh  install standup home desk
-@switch to +todo.sh  install standup home lap
 @switch to +todo.sh  install standup wk
 @switch to +todo.sh  pomodori program home desk @waiting must get ruby
-@waiting spark people double pay I sent email yesterday
+@swith +install stale and test
+@waiting these require python I changes shebang but that didn't work. +install @swith the stduy-sweet, but not all, just dr,ad lsgc, lsgp
 @z_definePriorities a-today b-mabyToday c-soon d-maybeSomeday e-notes to expand j-habits k-triggerlist l-studies
 @z_triggerList after work studies
 @z_triggerList car
@@ -107,11 +56,3 @@
 @z_triggerList prayer
 @z_triggerList the tickler list
 @z_triggerList wood
-(B) how to fertalize tree get link note:JaY.txt
-(C) step 2 of outline unpace chfunctional test
-(C) step 3 of outline practicit several days.
-@swith +install stale and test
-(J) DO gtd every day +gtd
-(J) charge phone daily
-(D) should I +install @switch +todo.sh "chron" I can do this is vsCode
-@waiting these require python I changes shebang but that didn't work. +install @swith the stduy-sweet, but not all, just addr, lsgc, lsgp
