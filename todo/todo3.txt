@@ -1,0 +1,28 @@
+Use simple task @study +gtd @phone
+   
+make in @phone +gtd @in
+x 2018-08-20 put todotxt on github @newSoftware +gtd
+read GTD original book @study +gtd @in
+learn todotxt.net  https://github.com/benrhughes/todotxt.net/wiki/help @home +gtd
+@health weight loss
+@study read GTD in oneNote +gtd
+@God @home +GTD be a doer of the word +james + ss
+learn simpleTask @study @phone +gtd
+@home +garage rack under tabel
+@home closit shelves
+@home fix the trimmer
+@God +WebSite https://wordpress.com/stats/day/godsprize.wordpress.com
+@recreation +chess
+@recreation +TV time
+@recreation +woodwork
+@health +nutritionStudies
+@health +exercise
+@God +memoryWork
+@God church service
+@God swith on the brain
+@God +SaturdayStudy
+@in remove todo.txt program and ohters keep todo.ne
+@in price hosting at name cheap, is now the tme or will word press do it?
+x 2018-08-20 chek if todo.net is available for android instead of simpletask
+@l A is for the other lists.
+@in do set up of lists

@@ -1,0 +1,52 @@
+(A) +home closit shelves
+@somedayMaybe +home fix the grass trimmer
+(B) +health +nutritionStudies
+@_project +God +memoryWork I will return to this after some of the new of GTD is off
+(E) @God church service
+@_project swith on the brain t:due:11-20-2018
+(B) +home +wood paper rack
+(E) @God +home +GTD be a doer of the word +james + ss
+@weeklyRepeat +skills practice cad 20 min free cad t:2018-09-01
+(A) @GodsPrize +WebSite https://wordpress.com/stats/day/godsprize.wordpress.com
+x 2018-08-31  +exercise +health this week I am not adding exercise, I'm cutting back for one week. +Name change for gtd change +exercise +health to just +fit +helth is for dr and other health
+(B) 2018-08-21 +recreation +woodwork  @woodwork +reocuring action copy it to track
+@soon 2018-08-23 +home under bumper on linda's car
+@soon 2018-08-23 +home remove bush in front
+@soon 2018-08-23 +home roundup
+@habit 2018-08-20 +READ every day +gtd david alan 2nd edition  in kindle
+@habit 2018-08-20 DO gtd every day +gtd
+@habit 2018-08-23 +health weight loss track in SparkPeople
++waiting check back for reply to email sent to admin@myorderfulfillment.com
+@triggerList 2018-08-23 the tickler list
+@triggerList 2018-08-23 wood
+@triggerList 2018-08-23 car
+@triggerList 2018-08-23 money
+@triggerList 2018-08-23 God
+@triggerList 2018-08-23 prayer
+@triggerList 2018-08-23 after work studies
+@triggerList 2018-08-23 GTD activities
+2018-08-23 @waiting for email back about the vitiamin bill
+@Notes 2018-08-23 example of hiden h:1 Contexts: +home riding AtChurch or h:1 Other Lists: Projects
+2018-08-23 @study +gtd +plaintext +note http://plaintext-productivity.net/2-00-notes-and-drafts-introduction.html
+2018-08-23 +gtd @study original book in kindle
+2018-08-30 haircut +health +habit +reocurs due:2018-11-01
+2018-08-30 +recreation +chess @reocuring action copy it to track t:daily
+@habit 2018-08-20 clean at end of day; shower; clothes out +gtd
+@habit 2018-08-21 personal email clean daily +gtd
+2018-08-30 @habit charge phone daily
+2018-08-23 @study +review +todotxt for +gtd https://gist.github.com/alehandrof/9941620
+2018-08-30 clean office do someting to clean it every day @habit
+2018-08-31 @buyGraphicsCard -get fans for computer case
+(A) 2018-08-31 @_project switch to +todo.sh
+(A) 2018-08-31 @switch to +todo.sh read https://github.com/todotxt/todo.txt-cli/wiki/Todo.sh-Add-on-Directory
+(A) 2018-08-31 @switch to +todo.sh  install
+(A) @habit 2018-08-31 check dans mail
+@habit 2018-08-31 +cleanOffice  do someting to clean it every day
+2018-08-31  +cleanOffice  boxes under desk
+2018-08-31 +cleanOffice  boxes under desk consolidate to one shelf
+2018-08-31 +cleanOffice boxes under desk consolidate to one shelf build pullup/horizontal bar
+2018-08-31 x 2018-08-31 +cleanOffice  oldMsdn - the simplest thing
+(A) 2018-08-31 @switch to +todo.sh  find the repeating for habits
+(A) 2018-08-31 @switch to +todo.sh  +Q does Remeber the milk work on corporate?
+2018-08-31 +learnTodoCLI
+2018-08-31 +buyGraphicCard

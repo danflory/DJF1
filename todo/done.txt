@@ -1,0 +1,119 @@
+x 2016-03-10 test
+x 2016-03-10 priority
+x 2016-03-10 test4 @ctx1 +wcf
+x 2016-03-10 so long to trello
+x 2016-03-10 try todotxt PP
+x 2016-03-10 @WCF +end-to-end Ch1
+x 2016-03-10 @WCF +end-to-end Ch2
+x 2016-03-10 @WCF +end-to-end Ch3
+x 2016-03-10 @WCF +end-to-end Ch4
+x 2016-03-10 03/10/2016 @bible +memory Mark 3:5-6
+x 2016-03-10 learn todotxt @productivity +todotxt +clockwork PPPP
+x 2016-03-10 2016-03-10 @productivity reactivate dropbox
+x 2016-03-10 2016-03-10 @productivity  portable apps install
+x 2016-03-10 2016-03-10 @productivity sync usb with todo folder RealTimeSync
+x 2016-03-10 2016-03-10 @productivity +clockwork attach to dropbox need login several hours really
+x 2016-03-10 2016-03-10 review Matthew 4:4 @bible
+x 2016-03-10 2016-03-10 set up autoIt selector for todotxt @productivity -todotxt
+x 2016-03-10 Ms keys @productivity
+x 2016-03-10 @WCF +end-to-end Ch5 @study due:2016-03-10
+x 2016-03-14 (A) @WCF +end-to-end Ch6 @study due:2016-03-10
+x 2016-03-15 (A) @WCF +end-to-end Ch7 @study due:2016-03-10
+x 2016-03-15 (A) @WCF +end-to-end Ch8 @study due:2016-03-10
+x 2016-03-15 (B) @WCF +end-to-end Ch9 @study due:2016-03-11
+x 2016-03-14 03/10/2016 @bible +memory Mark 3:5-6 review due:2016-03-11
+x 2016-03-14 2016-03-10 set up selectors for VS,everything,and oneNote @productivity
+x 2016-03-16 (A) 2016-03-10 @job @appointments Sean Everhart JHA monday at 10am
+x 2016-03-16 (A) 2016-03-10 @job @appointments Von Maur  due:2016-03-15 1:30 telephone
+x 2016-03-12 ms keys +keyboard @productivity
+x 2016-03-14 2016-03-13 @fun +martianExpidition ch4
+x 2016-03-14 2016-03-13 @fun +martianExpidition ch5
+x 2016-03-14 2016-03-13 @fun +martianExpidition ch6
+x 2016-03-14 2016-03-13 @fun +martianExpidition ch7
+x 2016-03-14 2016-03-13 @fun +martianExpidition ch8
+x 2016-03-18 @health +anxiety +strategies set appointment with Marian
+x 2016-03-17 2016-03-10  @appointments Charles Doyle Counselor due:2016-03-17 9:00am +anxiety
+x 2016-03-16 2016-03-16  @appointments +anxiety due:2016-03-16 d'Amour
+x 2016-03-16 2016-03-16  2016-03-16  @appointments +anxiety due:2016-03-07 d'Amour
+x 2016-03-16 2016-03-16   2016-03-16  @appointments +anxiety due:2016-03-04 d'Amour
+x 2018-08-25 (E) @God +SaturdayStudy
+x 2018-08-28 +home +wood blocks under east shelves @woodwork
+x 2018-08-24 (A) learn todotxt.net  https://github.com/benrhughes/todotxt.net/wiki/help +home +gtd
+x 2018-08-25 (A) +home +garage rack under tabel
+x 2018-08-25 2018-08-23 +note by unchecking the autoPath for archive I lost my completed tasks for today
+x 2018-08-24 2018-08-24 make #n ahk for new todotxt item.
+x 2018-08-29 2018-08-29 +health +nutritionStudies
+x 2018-08-29 2018-08-29 @GodsPrize work 20 minutes
+x 2018-08-29 2018-08-29  +exercise +health this week I am not adding exercise, I'm cutting back for one week.
+x 2018-08-30 2018-08-30 +recreation +chess @reocuring action Working on auto expand 3hr per move
+x 2018-08-30 @habits 2018-08-20 clean at end of day; shower; clothes out +gtd
+x 2018-08-30 @habits 2018-08-21 personal email clean daily +gtd
+x 2018-08-31 @study read GTD in oneNote +gtd this will move to gtd.sh
+x 2018-08-30 2018-08-23 @study t+todotxt for +gtd https://gist.github.com/alehandrof/9941620
+x 2018-08-30 2018-08-30 clean office do someting to clean it every day @habit
+x 2018-08-30 2018-08-30 @God swith on the brain this time I'm switching on my brain by practicing GTD for the rest of my life at least three months without other big brain changes
+x 2018-08-20 Use simple task @study +gtd @phone
+x 2018-08-20 @health weight loss track in SparkPeople -done
+x 2018-08-20 @in remove todo.txt program and ohters keep todo.ne
+2018-08-20 @God @home +GTD be a doer of the word +james + ss done
+x 2018-08-20 learn todotxt.net  https://github.com/benrhughes/todotxt.net/wiki/help @home +gtd -done
+x 2018-08-20 put todotxt on github @newSoftware +gtd
+x 2018-08-20 Use simple task @study +gtd @phone
+x 2018-08-20 learn todotxt.net  https://github.com/benrhughes/todotxt.net/wiki/help @home +gtd
+x 2018-08-20 @home +garage rack under tabel I cut 6 inch angle ends
+x 2018-08-20 @GodsPrize +WebSite https://wordpress.com/stats/day/godsprize.wordpress.com
+x 2018-08-20 @health +exercise
+x 2018-08-21 read GTD original book @study 20min
+x 2018-08-21 @in price hosting at name cheap, is now the tme or will word press do it? $3 a month
+x 2018-08-22 (A) @in do set up of lists
+x 2018-08-21 @program get ahk and make doneAndClone update this exists i todo.txt it is ctrl - shift - c
+x 2018-08-21 2018-08-20 -habit gtd every day
+x 2018-08-21 2018-08-20 -habit clean at end of day; shower; clothes out
+x 2018-08-21 2018-08-21 @GodsPrize +WebSite https://wordpress.com/stats/day/godsprize.wordpress.com
+x 2018-08-21 2018-08-21 @health +exercise long walk at work good day
+x 2018-08-21 2018-08-21 learn todotxt.net  https://github.com/benrhughes/todotxt.net/wiki/help @home +gtd I love the about key givig help
+x 2018-08-21 2018-08-21 @health weight loss track in SparkPeople -habit
+x 2018-08-21 2018-08-21 @health +nutritionStudies I am practicing the use of fiber
+x 2018-08-21 2018-08-20 -habit read every day -gtd david alan 2nd edition
+x 2018-08-21 2018-08-21 @recreation +chess
+x 2018-08-21 2018-08-21 @recreation +TV time
+x 2018-08-23 2018-08-23 test archive
+x 2018-09-01 (B) +health +nutritionStudies
+x 2018-09-01 +skills practice cad 20 min free cad
+x 2018-09-01 (A)  +exercise +health this week I am not adding exercise, I'm cutting back for one week.
+x 2018-09-01 +waiting check back for reply to email sent to admin@myorderfulfillment.com
+x 2018-09-01 @triggerList 2018-08-23 GTD activities
+x 2018-09-01 2018-08-30 haircut +health +habit +reocurs due:2018-09-01
+x 2018-08-30 2018-08-30 Electric out go to simple simon  
+x 2018-08-30 2018-08-30 Check about replacing samsung battery. 30 screws lots of glue. Dont bother get walmart batery back up for 10
+x 2018-09-01 @habits 2018-08-20 DO gtd every day +gtd
+x 2018-09-01 2018-08-23 @waiting for email back about the vitiamin bill
+x 2018-09-01 (A) 2018-09-01 Mow lawn
+x 2018-09-01 (A) 2018-09-01 Door check restore door for 10. 50cents a foot for tile.
+x 2018-09-01 (A) 2018-09-01 Prayer breakfast 
+x 2018-09-01 read todo-clr instructions again
+x install extension add with pri and done to +homeDesktop +gtd
+x install extension EDIT, to +homeDesktop +gtd
+x install extension *todo.txt_clr* , to +homeDesktop +gtd
+x 2018-09-02  +cleanOffice  boxes under desk
+x  +exercise +health this week I am not adding exercise, I'm cutting back for one week. +Name change for gtd change +exercise +health to just +fit +helth is for dr and other health
+x +cleanOffice  oldMsdn - the simplest thing
+x 2018-09-02 @remember +name David G,berry,pious, From prayer b.
+x 2018-09-02 @remember I permission God
+x 2018-09-02 @switch to +todo.sh  find the repeating for habits
+x 2018-09-02  +health weight loss track in SparkPeople
+x 2018-09-02  charge phone daily
+x 2018-09-02 @habit check dans mail
+x 2018-09-02 Move out vack
+x 2018-09-02 haircut  +reocurs due:2018-11-01
+x 2018-09-02 +cleanOffice  do someting to clean it every day
+x 2018-09-02 +READ every day +gtd david alan 2nd edition  in kindle
+x 2018-09-02 DO gtd every day +gtd
+x 2018-09-02 @GodsPrize +WebSite https://wordpress.com/stats/day/godsprize.wordpress.com
+x 2018-09-02 move lists to get hub repopri c consider doing step betcut brush and paint with killer
+x 2018-09-02 +waiting check back for reply to email sent to admin@myorderfulfillment.com
+x 2018-09-02 edit isnt working add edit isnt working the location of extensins needed to be at $home on windows
+x @waiting for email back about the vitiamin bill
+x 2018-09-02 @study +gtd +plaintext +note http://plaintext-productivity.net/2-00-notes-and-drafts-introduction.html
+x 2018-09-02 +gtd @swith I changed the settings in .bashrc to be: -falias t=todo.sh -fad /c/d/PortableApps/todo.txt_cli-2.11.0/todo.cfg
+x 2018-09-02 +note by turning on auto save in vscode I solve problem of todo.sh change conflicts
