@@ -56,3 +56,13 @@
 @z_triggerList prayer
 @z_triggerList the tickler list
 @z_triggerList wood
+(A) take the large glass cleaner to walmarto fill
+(A) pri a pick trail to walk
+(A) buy computer fans ... learn how to size them https://www.quietpc.com/faq/27
+(J) j commit your todo often and alwas at end of day
+(B) resolve bash history issue home desk
+(D) resolve bash history home lap
+(D) resolve bash history wk
+(A) give linda my soldering iron
+(A) powergrep to work computer
+powergrep install on home lap

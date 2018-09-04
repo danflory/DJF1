@@ -154,3 +154,10 @@ x 2018-09-03  -gtd reconsider extention view
 x 2018-09-03  +home fix the grass trimmer
 x 2018-09-03 @Notes example of hiden h:1 Contexts: +home riding AtChurch or h:1 Other Lists: Projects
 x 2018-09-03 move todo.txt mapping to  github wk
+x 2018-09-03 discover my trail for today +fitness WILDCAT TRAIL
+x 2018-09-03 in bashrc put an echo of where the file is
+x play szopa -chess scoremore than 4.17 -note this in htis position all but my move would have drawn complicated
+x 2018-09-03 work out the bash var names -note do space after the equal it must be VAR="value"
+x 2018-09-03 when adding quotes in bash todo item it must be excaped -\" not -"- -note 
+x 2018-09-03 2018-09-03 fix directory of system variable to EDITOR used by edit command in todo.txt
+x 2018-09-03 restart to reload enviroment variable EDITOR
