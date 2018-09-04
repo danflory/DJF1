@@ -1,1 +1,19 @@
 (A) fix required field for Cathy Jones 187557
+move from OneNote to todo.txt_clr that I use at home
+@z_definePriorities a-today
+@z_definePriorities b-mabyToday
+@z_definePriorities c-soon
+@z_definePriorities d-maybeSomeday
+@z_definePriorities e-notes to expand
+@z_definePriorities j-habits
+@z_definePriorities r-repeating
+@z_definePriorities l-studies
+@z_triggerList after work studies
+@z_triggerList car
+@z_triggerList God
+@z_triggerList GTD activities
+@z_triggerList money
+@z_triggerList prayer
+@z_triggerList the tickler list
+@z_triggerList woodx +ChangeToTodoTxt_CLI 1. move program @z +ChangeToTodoTxt
+software Center: problem loading required components try later

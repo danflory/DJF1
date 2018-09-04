@@ -1,8 +1,25 @@
-x 2018-09-04  setup work todo.txt at work
-x 2018-09-04  windows startup was very slow - updaing windows version
-x 2018-09-04  +gtd +installTodoTxt step1 clone github repo
-x 2018-09-04  +gtc +installTodoTxt step2 change the default shell in vscode
-x 2018-09-04  +gtd +installTodoTxt step3 copy the todo.cfg to a newFile (workTodo.cfg) change the TODO_DIR
-x 2018-09-04  +gtd +installTodoTxt step4 fix symlinks in todo.actions.d git doesn't preserve them.
 (A) fix required field for Cathy Jones 187557
-x 2018-09-04 fix trouble removing a directory named /c/d +answer use linux : rm -r '~' ; the single quotes find it, the -r for a directory
+move from OneNote to todo.txt_clr that I use at home
+@z_definePriorities a-today
+@z_definePriorities b-mabyToday
+@z_definePriorities c-soon
+@z_definePriorities d-maybeSomeday
+@z_definePriorities e-notes to expand
+@z_definePriorities j-habits
+@z_definePriorities r-repeating
+@z_definePriorities l-studies
+@z_triggerList after work studies
+@z_triggerList car
+@z_triggerList God
+@z_triggerList GTD activities
+@z_triggerList money
+@z_triggerList prayer
+@z_triggerList the tickler list
+@z_triggerList woodx +ChangeToTodoTxt_CLI 1. move program @z +ChangeToTodoTxt
+x reboot after software required update
+software Center: problem loading required components try later
+x 2018-09-04 fix +gtd +installTodoTxt step4  the references to actions for example I used a github subdirectory that don't move well
+x 2018-09-04 fix +gtd +installTodoTxt step5 move the trigger list and priority definitions
+x check email 11am
+x break walk around building 10:50 while the computer restarted Required Software .... that failed
+x read GTD by Allen while computer is down OccurancesToday:xxx

@@ -3,5 +3,10 @@ x 2018-09-04  windows startup was very slow - updaing windows version
 x 2018-09-04  +gtd +installTodoTxt step1 clone github repo
 x 2018-09-04  +gtc +installTodoTxt step2 change the default shell in vscode
 x 2018-09-04  +gtd +installTodoTxt step3 copy the todo.cfg to a newFile (workTodo.cfg) change the TODO_DIR
-x 2018-09-04  +gtd +installTodoTxt step4 fix the symlink references to a github subdirectory that don't move well.
 x 2018-09-04 fix trouble removing a directory named /c/d +answer use linux : rm -r '~' ; the single quotes find it, the -r for a directory
+x reboot after software required update
+x 2018-09-04 fix +gtd +installTodoTxt step4  the references to actions for example I used a github subdirectory that don't move well
+x 2018-09-04 fix +gtd +installTodoTxt step5 move the trigger list and priority definitions
+x check email 11am
+x break walk around building 10:50 while the computer restarted Required Software .... that failed
+x read GTD by Allen while computer is down OccurancesToday:xxx

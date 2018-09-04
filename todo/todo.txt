@@ -1,16 +1,16 @@
-t(A) +home closit shelves
+(A) +home closit shelves
 (A) +home Hang extension cord on wall for linda
 (A) +home under bumper on linda's car @car
 (A) fertalize lawn
 (B) +buyGraphicCard
 (B) +cleanOffice  boxes under desk consolidate to one shelf
 (B) +cleanOffice  build pullup/horizontal bar
-(B) +gtd +plaintext +note http://plaintext-productivity.net/2-00-notes-and-drafts-introduction.html  (K) 
+(B) +gtd +plaintext +note http://plaintext-productivity.net/2-00-notes-and-drafts-introduction.html  (K)
 (B) +home remove bush in front
 (B) +home roundup
 (B) cut brush and paint with killer part 2
 (B) how to fertalize tree get link note:JaY.txt
-(C) @car struts 
+(C) @car struts
 (C) +home fix the grass trimmer
 (C) +home remove bush in front
 (C) +home roundup
@@ -35,7 +35,7 @@ t(A) +home closit shelves
 (J) DO gtd every day +gtd
 (J) personal email clean daily +gtd
 (J) READ every day -gtd david alan 2nd edition  in kindle +gtd
-(J) The implanted word every day. 
+(J) The implanted word every day.
 (K) +review +todotxt for +gtd https://gist.github.com/alehandrof/9941620
 (K) t+todotxt for +gtd https://gist.github.com/alehandrof/9941620
 @switch make change to bashrc on home lap -fad
