@@ -10,3 +10,7 @@ x 2018-09-04 fix +gtd +installTodoTxt step5 move the trigger list and priority d
 x check email 11am
 x break walk around building 10:50 while the computer restarted Required Software .... that failed
 x read GTD by Allen while computer is down OccurancesToday:xxx
+x 2018-09-04 how to move starting gtd context to end of line. use regex in vscode
+x 2018-09-04 issue: why do I get a second line prompt instead of an add. Answer: there is a ' or " that needed escape
+x 2018-09-04 note: vertical thinking is about planning thinking about what -gtdAllen
+x 2018-09-04 issue: how does addr work? Answer: expected one empty line at EOF, last entry is what will have repeated context or project -gtd
