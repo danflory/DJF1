@@ -1,0 +1,8 @@
+x 2018-09-04  setup work todo.txt at work
+x 2018-09-04  windows startup was very slow - updaing windows version
+x 2018-09-04  +gtd +installTodoTxt step1 clone github repo
+x 2018-09-04  +gtc +installTodoTxt step2 change the default shell in vscode
+x 2018-09-04  +gtd +installTodoTxt step3 copy the todo.cfg to a newFile (workTodo.cfg) change the TODO_DIR
+x 2018-09-04  +gtd +installTodoTxt step4 fix symlinks in todo.actions.d git doesn't preserve them.
+(A) fix required field for Cathy Jones 187557
+x 2018-09-04 fix trouble removing a directory named /c/d +answer use linux : rm -r '~' ; the single quotes find it, the -r for a directory

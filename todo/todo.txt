@@ -67,3 +67,5 @@ t(A) +home closit shelves
 (A) powergrep to work computer
 powergrep install on home lap
 how to store github credentials note:Zfc.md
++todo.txt +install step 1 clone github repo to place it will be called
+required updated from jha
