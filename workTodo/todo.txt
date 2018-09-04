@@ -38,13 +38,6 @@ remember: passwordSafe login weekly @repeating
 remember: use the onenote back button top left
 remember: vsCode does a nice job sorting the todo.txt
 s: studies @zMyContexts
-x 2018-09-04 +CleanUpOneNoteReference @repeating
-x 2018-09-04 early to meetings 60%
-x 2018-09-04 move from OneNote to todo.txt_clr that I use at home
-x 2018-09-04 remember: OneNote link to local page weekly @repeating
-x 2018-09-04 remember: passwordSafe login weekly @repeating
-x 2018-09-04 remember: use the onenote back button top left
-x 2018-09-04 vertical: what are my contexts?
 zt: after work studies @z_triggerList
 zt: chad @z_triggerList
 zt: Cherwell @z_triggerList
@@ -54,12 +47,7 @@ zt: r-repeating @z_definePriorities
 zt: Safari Books @z_triggerList
 zt: SP feedback from chad @z_triggerList
 zt:Power User @z_triggerList
-x 2018-09-04 clean desktop on work computer
 issue: +gtd moving to todo.txt the EDITOR environment variable is not set
 issue: how to set windows 10 environment variables
 (A) check error about the preview service when I preview a MD document note:sCo.md
-x 2018-09-04 187557 make the fields not required on Completed side
-x 2018-09-04 187557 fix the workflow that wasn't preserving the original submitter.
-x 2018-09-04 187557 clear with Cathy Jones the process, add editing time to the Submitted list so that the editor can enter it when they mark the document as 'Completed'
-x 2018-09-04 update the workflow to move the new submitted list
 (A) issue: check what happens when a document of the same name is added, should the old version be kept in completed?
