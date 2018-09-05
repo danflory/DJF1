@@ -167,3 +167,5 @@ x test
 x 2018-09-04 18:46 I modified the downloaded todo.sh to put in H and M on "do"
 x 2018-09-04 20:15 +study todo.sh code and help
 x 2018-09-04 21:44 install two md markdown editory writer monkey and typeora
+x fit 10 minutes eliptical
+x 2018-09-05 05:32 unpack outlline and link it. to link cd /c/Users/msdn/github/djf/todo.actions.d
