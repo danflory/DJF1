@@ -1,16 +1,22 @@
-t(A) +home closit shelves
+(A) +home closit shelves
 (A) +home Hang extension cord on wall for linda
 (A) +home under bumper on linda's car @car
+(A) buy computer fans ... learn how to size them https://www.quietpc.com/faq/27 note:6hU.md
 (A) fertalize lawn
+(A) give linda my soldering iron
+(A) powergrep to work computer
+(A) pri a pick trail to walk
+(A) take the large glass cleaner to walmarto fill
 (B) +buyGraphicCard
 (B) +cleanOffice  boxes under desk consolidate to one shelf
 (B) +cleanOffice  build pullup/horizontal bar
-(B) +gtd +plaintext +note http://plaintext-productivity.net/2-00-notes-and-drafts-introduction.html  (K) 
+(B) +gtd +plaintext +note http://plaintext-productivity.net/2-00-notes-and-drafts-introduction.html  (K)
 (B) +home remove bush in front
 (B) +home roundup
 (B) cut brush and paint with killer part 2
 (B) how to fertalize tree get link note:JaY.txt
-(C) @car struts 
+(B) resolve bash history issue home desk
+(C) @car struts
 (C) +home fix the grass trimmer
 (C) +home remove bush in front
 (C) +home roundup
@@ -24,6 +30,8 @@ t(A) +home closit shelves
 (D) +home +wood paper rack
 (D) consider doing step bet
 (D) modify extention repeat to allow for multiple repeats
+(D) resolve bash history home lap
+(D) resolve bash history wk
 (D) should I +install @switch +todo.sh "chron" I can do this is vsCode
 (E) @God +home +GTD be a doer of the word +james + ss
 (E) @God church service
@@ -33,13 +41,12 @@ t(A) +home closit shelves
 (J) charge phone daily
 (J) clean at end of day; shower; clothes out +gtd
 (J) DO gtd every day +gtd
+(J) j commit your todo often and alwas at end of day
 (J) personal email clean daily +gtd
 (J) READ every day -gtd david alan 2nd edition  in kindle +gtd
-(J) The implanted word every day. 
+(J) The implanted word every day.
 (K) +review +todotxt for +gtd https://gist.github.com/alehandrof/9941620
 (K) t+todotxt for +gtd https://gist.github.com/alehandrof/9941620
-@switch make change to bashrc on home lap -fad
-@switch make change to bashrc on wk -fad
 @switch to +todo.sh  install birseye wk
 @switch to +todo.sh  install mit or mitf wk
 @switch to +todo.sh  install sp wk
@@ -56,14 +63,10 @@ t(A) +home closit shelves
 @z_triggerList prayer
 @z_triggerList the tickler list
 @z_triggerList wood
-(A) take the large glass cleaner to walmarto fill
-(A) pri a pick trail to walk
-(A) buy computer fans ... learn how to size them https://www.quietpc.com/faq/27 note:6hU.md
-(J) j commit your todo often and alwas at end of day
-(B) resolve bash history issue home desk
-(D) resolve bash history home lap
-(D) resolve bash history wk
-(A) give linda my soldering iron
-(A) powergrep to work computer
++todo.txt +install step 1 clone github repo to place it will be called
 powergrep install on home lap
-how to store github credentials note:Zfc.md
+remember: to use add complete you must type all word add not just a
+test2
+remember: when using rm it only takes one, I will call that a feature - workarround is to edit file in vsCode
+x 2018-09-04 21:44 install two md markdown editory writer monkey and typeora
+note: I can't afford watercooling at this time, and it is costly enought that it only makes sense with top tier GPU/ CPU were talking 00 GPU and top RIZEN with new MB .... not now.

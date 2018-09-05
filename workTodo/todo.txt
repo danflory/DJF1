@@ -51,3 +51,4 @@ issue: +gtd moving to todo.txt the EDITOR environment variable is not set
 issue: how to set windows 10 environment variables
 (A) check error about the preview service when I preview a MD document note:sCo.md
 (A) issue: check what happens when a document of the same name is added, should the old version be kept in completed?
+issue: track down the markdos server error is this the same thing? https://www.mkdocs.org/

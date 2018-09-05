@@ -1,6 +1,6 @@
 # fix required field for Cathy Jones 187557 due:2018-09-04
 
-[completed page](https://jackhenry.sharepoint.com/sites/jhaeditingservices/Completed%20Editing%20Jobs)
+[completed page](https://jackhenry.sharepoint.com/sites/jhaet ditingservices/Completed%20Editing%20Jobs)
 
 [submission page]("https://jackhenry.sharepoint.com/sites/jhaeditingservices/Editing%20Submissions/Forms/By%20Editor.aspx")
 
