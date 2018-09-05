@@ -161,3 +161,8 @@ x 2018-09-03 work out the bash var names -note do space after the equal it must 
 x 2018-09-03 when adding quotes in bash todo item it must be excaped -\" not -"- -note 
 x 2018-09-03 2018-09-03 fix directory of system variable to EDITOR used by edit command in todo.txt
 x 2018-09-03 restart to reload enviroment variable EDITOR
+x 2018-09-04 how to store github credentials note:Zfc.md
+x 2018-09-04 18:44 required updated from jha
+x test
+x 2018-09-04 18:46 I modified the downloaded todo.sh to put in H and M on "do"
+x 2018-09-04 20:15 +study todo.sh code and help

@@ -1188,7 +1188,7 @@ case $action in
 
         # Check if this item has already been done
         if [ "${todo:0:2}" != "x " ]; then
-            now=$(date '+%Y-%m-%d')
+            now=$(date '+%Y-%m-%d %H:%M')
             # remove priority once item is done
             sed -i.bak $item"s/^(.) //" "$TODO_FILE"
             sed -i.bak $item"s|^|x $now |" "$TODO_FILE"
