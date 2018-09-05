@@ -10,13 +10,8 @@
 (C) more TypeScript
 (D) create script to center and hold the alerts
 (D) pri a instead of the remember: prefix consider using Anki when you can commit to it for a while
-(J) appointments first in morning
-(J) close at end of day Clean ending
-(J) early to meetings 60%
-(J) notes on every meeting
-(J) process quick note from OneNote
-(J) regular breaks
-(J) start that phone
+(J) early to meetings 60% @habit
+(J) notes on every meeting @habit
 +CleanUpOneNoteReference @repeating
 a: today @z_definePriorities
 b: mabyToday @z_definePriorities
@@ -50,5 +45,23 @@ zt:Power User @z_triggerList
 issue: +gtd moving to todo.txt the EDITOR environment variable is not set
 issue: how to set windows 10 environment variables
 (A) check error about the preview service when I preview a MD document note:sCo.md
-(A) issue: check what happens when a document of the same name is added, should the old version be kept in completed?
 issue: track down the markdos server error is this the same thing? https://www.mkdocs.org/
+understand the commit and sync process being used
+close at end of day Clean ending
+(A) move news to online
+a initiate: my vacation project
+(B) get outline up and running
+a initiate: Voitano project
+(C) make some shortcuts. like show A, .... or get 'view' to work. and yes I want to edit single line hmm.
+remeber: the search item can find a tag just use the excape '(A'
+appointments first in morning
+(A) 11am all hands meeting
+(A) required updates failed yesterday.
+2018-09-06 process quick note from OneNote @habit
+(A) how do I view by date? future dates of repeat look nice.
+2018-09-06 regular breaks @habit
+2018-09-06 start that phone @habit
+remember: for repeating the priority will be stripped so habits and such need a list I am swithing the m to @habit
+issue: for sorting I gues I have to use my sytem like on this line.
+(B) I need a system to keep notes on repeating tasks. I guess I'll modify the note action for my own purpose
+remember: if you forget to excape a quote ctrl-c then the up arrow retrievs the first line.

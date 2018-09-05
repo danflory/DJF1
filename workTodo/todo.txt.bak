@@ -10,13 +10,13 @@
 (C) more TypeScript
 (D) create script to center and hold the alerts
 (D) pri a instead of the remember: prefix consider using Anki when you can commit to it for a while
-(J) appointments first in morning
-(J) close at end of day Clean ending
-(J) early to meetings 60%
-(J) notes on every meeting
-(J) process quick note from OneNote
-(J) regular breaks
-(J) start that phone
+x 2018-09-05 09:15 appointments first in morning
+x 2018-09-05 07:32 close at end of day Clean ending
+(J) early to meetings 60% @habit
+(J) notes on every meeting @habit
+x 2018-09-05 09:18 process quick note from OneNote
+x 2018-09-05 09:20 regular breaks
+x 2018-09-05 09:20 start that phone
 +CleanUpOneNoteReference @repeating
 a: today @z_definePriorities
 b: mabyToday @z_definePriorities
@@ -50,5 +50,32 @@ zt:Power User @z_triggerList
 issue: +gtd moving to todo.txt the EDITOR environment variable is not set
 issue: how to set windows 10 environment variables
 (A) check error about the preview service when I preview a MD document note:sCo.md
-(A) issue: check what happens when a document of the same name is added, should the old version be kept in completed?
+x 2018-09-05 09:12 issue: +187557 check what happens when a document of the same name is added, should the old version be kept in completed? This was a bad issue, I have to create doc with a unique name.
 issue: track down the markdos server error is this the same thing? https://www.mkdocs.org/
+understand the commit and sync process being used
+x 2018-09-05 07:24 +health drink 8 cup of water this morning early
+close at end of day Clean ending
+x 2018-09-05 07:35 the time is now included in my items
+x 2018-09-05 07:35 morning email
+(A) move news to online
+a initiate: my vacation project
+x 2018-09-05 08:00 vote for corporate recognition
+(B) get outline up and running
+x 2018-09-05 09:12 standup
+x 2018-09-05 09:12 Voitanos 1 hour open office meeting - notes onenote:https://jackhenry-my.sharepoint.com/personal/dflory_jhacorp_com/Documents/Notebooks/GTD/meeting%20notes.one#Voitanos%209/5/2018%20&section-id={601328E8-6E7A-4F47-9466-A020DE840770}&page-id={26A1D95F-EF74-4E21-95DC-E30ABA3DC72E}&end
+a initiate: Voitano project
+(C) make some shortcuts. like show A, .... or get 'view' to work. and yes I want to edit single line hmm.
+remeber: the search item can find a tag just use the excape '(A'
+appointments first in morning
+(A) 11am all hands meeting
+(A) required updates failed yesterday.
+2018-09-06 process quick note from OneNote @habit
+(A) how do I view by date? future dates of repeat look nice.
+2018-09-06 regular breaks @habit
+2018-09-06 start that phone @habit
+x 2018-09-05 09:22 remember: log the meetings and time
+remember: for repeating the priority will be stripped so habits and such need a list I am swithing the m to @habit
+issue: for sorting I gues I have to use my sytem like on this line.
+(B) I need a system to keep notes on repeating tasks. I guess I'll modify the note action for my own purpose
+remember: if you forget to excape a quote ctrl-c then the up arrow retrievs the first line.
+x 2018-09-05 09:33 first off I had to recover my todo.sh I don't have any idea where it went.
