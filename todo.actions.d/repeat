@@ -50,7 +50,7 @@ if [[ "$DAYS" != "" ]]; then
         # make new date relative from now
         DATE=`date -d $DAYS" days" +%Y-%m-%d`
     fi
-    LINE=$DATE" "$LINE # and append to the line
+    LINE="t:"$DATE" "$LINE # and append to the line dan along with t:
 fi
 
 if [[ "$LINE" != "" ]] ; then

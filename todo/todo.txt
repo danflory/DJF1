@@ -7,7 +7,7 @@
 (A) powergrep to work computer
 (A) pri a pick trail to walk
 (A) take the large glass cleaner to walmarto fill
-(B) +buyGraphicCard
+
 (B) +cleanOffice  boxes under desk consolidate to one shelf
 (B) +cleanOffice  build pullup/horizontal bar
 (B) +gtd +plaintext +note http://plaintext-productivity.net/2-00-notes-and-drafts-introduction.html  (K)
@@ -26,7 +26,7 @@
 (C) step 2 of outline unpace chfunctional test
 (C) step 3 of outline practicit several days.
 (D) @_project +God +memoryWork I will return to this after some of the new of GTD is off
-(D) @_project swith on the brain t:due:11-20-2018 I am switching on my brain with GTD
+(D) @_project swith on the brain t:2018-11-20 I am switching on my brain with GTD
 (D) +home +wood paper rack
 (D) consider doing step bet
 (D) modify extention repeat to allow for multiple repeats
@@ -35,16 +35,16 @@
 (D) should I +install @switch +todo.sh "chron" I can do this is vsCode
 (E) @God +home +GTD be a doer of the word +james + ss
 (E) @God church service
-(J) @GodsPrize +WebSite https://wordpress.com/stats/day/godsprize.wordpress.com
-(J) +health weight loss track in SparkPeople
-(J) +skills practice cad 20 min free cad t:2018-09-01
-(J) charge phone daily
-(J) clean at end of day; shower; clothes out +gtd
-(J) DO gtd every day +gtd
-(J) j commit your todo often and alwas at end of day
-(J) personal email clean daily +gtd
-(J) READ every day -gtd david alan 2nd edition  in kindle +gtd
-(J) The implanted word every day.
+@habit @GodsPrize +WebSite https://wordpress.com/stats/day/godsprize.wordpress.com
+@habit +health weight loss track in SparkPeople
+@habit +skills practice cad 20 min free cad t:2018-09-01
+x 2018-09-05 18:19 @habit charge phone daily
+@habit clean at end of day; shower; clothes out +gtd
+x 2018-09-05 18:19 @habit DO gtd every day +gtd
+x 2018-09-05 18:20 @habit j commit your todo often and alwas at end of day
+@habit personal email clean daily +gtd
+x 2018-09-05 18:20 @habit READ every day -gtd david alan 2nd edition  in kindle +gtd
+@habit The implanted word every day.
 (K) +review +todotxt for +gtd https://gist.github.com/alehandrof/9941620
 (K) t+todotxt for +gtd https://gist.github.com/alehandrof/9941620
 @switch to +todo.sh  install birseye wk
@@ -74,3 +74,9 @@ use outline action for projects
 project initiate some little shell shell that do things, like reverse my temp chess analysis
 remember: a simicolon on bash line isn't nice
 issue: archive may overright out of box action archive, check default pass thrugh methodology
+2018-09-06 @habit charge phone daily
+@habit DO gtd every day +gtd
+2018-09-06 @habit j commit your todo often and alwas at end of day
+@habit READ every day -gtd david alan 2nd edition  in kindle +gtd
+x 2018-09-05 18:36 +todo.txt_clr +fix main .sh I added time to the done date
+x 2018-09-05 18:38 put at t: in front of the repeat +fix +todo.txt_clr
