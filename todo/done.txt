@@ -166,3 +166,4 @@ x 2018-09-04 18:44 required updated from jha
 x test
 x 2018-09-04 18:46 I modified the downloaded todo.sh to put in H and M on "do"
 x 2018-09-04 20:15 +study todo.sh code and help
+x 2018-09-04 21:44 install two md markdown editory writer monkey and typeora
