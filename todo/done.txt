@@ -180,3 +180,5 @@ x 2018-09-05 20:41 2018-09-06 @habit j commit your todo often and alwas at end o
 x 2018-09-05 18:36 +todo.txt_clr +fix main .sh I added time to the done date
 x 2018-09-05 18:38 put at t: in front of the repeat +fix +todo.txt_clr
 x 2018-09-05 19:56 @habit 30 min purpose walking daily
+x 2018-09-05 21:05 @habit personal email clean daily +gtd
+x 2018-09-05 21:10 @habit The implanted word every day. parable of sower. receive with gladness!
