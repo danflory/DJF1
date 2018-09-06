@@ -7,7 +7,6 @@
 (A) powergrep to work computer
 (A) pri a pick trail to walk
 (A) take the large glass cleaner to walmarto fill
-
 (B) +cleanOffice  boxes under desk consolidate to one shelf
 (B) +cleanOffice  build pullup/horizontal bar
 (B) +gtd +plaintext +note http://plaintext-productivity.net/2-00-notes-and-drafts-introduction.html  (K)
@@ -36,10 +35,10 @@
 (E) @God +home +GTD be a doer of the word +james + ss
 (E) @God church service
 @habit @GodsPrize +WebSite https://wordpress.com/stats/day/godsprize.wordpress.com
-@habit +health weight loss track in SparkPeople
+x 2018-09-05 20:41 @habit +health weight loss track in SparkPeople
 @habit +skills practice cad 20 min free cad t:2018-09-01
 x 2018-09-05 18:19 @habit charge phone daily
-@habit clean at end of day; shower; clothes out +gtd
+x 2018-09-05 19:57 @habit clean at end of day; shower; clothes out +gtd
 x 2018-09-05 18:19 @habit DO gtd every day +gtd
 x 2018-09-05 18:20 @habit j commit your todo often and alwas at end of day
 @habit personal email clean daily +gtd
@@ -74,9 +73,15 @@ use outline action for projects
 project initiate some little shell shell that do things, like reverse my temp chess analysis
 remember: a simicolon on bash line isn't nice
 issue: archive may overright out of box action archive, check default pass thrugh methodology
-2018-09-06 @habit charge phone daily
-@habit DO gtd every day +gtd
-2018-09-06 @habit j commit your todo often and alwas at end of day
-@habit READ every day -gtd david alan 2nd edition  in kindle +gtd
+x 2018-09-05 20:39 2018-09-06 @habit charge phone daily
+x 2018-09-05 20:41 2018-09-06 @habit j commit your todo often and alwas at end of day
 x 2018-09-05 18:36 +todo.txt_clr +fix main .sh I added time to the done date
-put at t: in front of the repeat
+x 2018-09-05 18:38 put at t: in front of the repeat +fix +todo.txt_clr
+x 2018-09-05 19:56 @habit 30 min purpose walking daily
+t:2018-09-06 @habit 30 min purpose walking daily
+t:2018-09-06 @habit clean at end of day; shower; clothes out +gtd
+t:2018-09-06 @habit DO gtd every day +gtd
+t:2018-09-06 @habit READ every day -gtd david alan 2nd edition  in kindle +gtd
+t:2018-09-06 @habit charge phone daily
+t:2018-09-06 @habit +health weight loss track in SparkPeople
+t:2018-09-06 @habit j commit your todo often and alwas at end of day
