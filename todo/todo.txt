@@ -1,7 +1,7 @@
 (A) +home Hang extension cord on wall for linda
 (A) +home closit shelves
 (A) +home under bumper on linda's car @car
-(A) buy computer fans ... learn how to size them https://www.quietpc.com/faq/27 note:6hU.md
+(A) buy computer fans and GPU Graphic Card  ... learn how to size them https://www.quietpc.com/faq/27 note:6hU.md
 (A) fertalize lawn
 (A) give linda my soldering iron
 (A) powergrep to work computer
@@ -73,4 +73,6 @@ t:2018-09-06 @habit j commit your todo often and alwas at end of day
 t:2018-09-06 @habit personal email clean daily +gtd
 t:2018-09-08 @habit pri a pick trail to walk
 t:2018-09-12 @habit +skills practice cad 20 min free cad t:2018-09-01
-(A) use outline action for projects
+x 2018-09-05 22:09 use outline action for projects
+(A) note: my computer crashed note:HX3.md
+ 
