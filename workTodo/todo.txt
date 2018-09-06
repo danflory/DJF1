@@ -1,7 +1,3 @@
-
-x 2018-09-06 11:23 +case delete "origianlly created on"
-x 2018-09-06 11:23 +case email Cathy only on create
-x 2018-09-06 11:23 +case take out the department on the create and edit form.
 (A) +Jhatoday +CSWP +News +NewsArchive [dan's implementation("https://jackhenry.sharepoint.com/:o:/r/sites/esdm3pdevs/Daniel/_layouts/15/WopiFrame.aspx?sourcedoc=%7BA8793407-5549-4F56-9522-A9BDC9B5EF90%7D&file=SharePoint%20Search.one&action=default")
 (A) +Jhatoday +CSWP +peopleSoft
 (A) +gtd check error about the preview service when I preview a MD document note:sCo.md
@@ -14,7 +10,6 @@ x 2018-09-06 11:23 +case take out the department on the create and edit form.
 (C) +consider moving the perminant stuff to a different list folder - but it shouldnt be and activity that repeats I use the action \repeat' for that
 (C) +initiate work on moble problem +Cherwell 223581
 (C) +initiate: learning plan for workflow
-x 2018-09-06 14:01 +initiate: my vacation project
 (C) +initiate: Voitano project
 (C) +program make some shortcuts. like show A, .... or get 'view' to work. and yes I want to edit single line hmm.
 (C) +learn More React
@@ -65,27 +60,15 @@ zt: Power User @z_triggerList
 t:2018-09-07 t:2018-09-04 +repeating GTD progress for chad every two weeks
 (B) issue: when repeat bumps the date it doesn't recognize date with the "t:" that I added
 (C) +initate project to have document site like MS docs
-x 2018-09-06 11:24 +case issue: Depart Name is not filling in on creation.
 (B) record completion of process change for Chad's list
 (B) +gtd how do I duplicate an entry?
-x 2018-09-06 14:29 +Jhatoday +CSWP +News +NewsArchive paging article Code C:\d\reposForSubs\ContentWebParts_jhaToday13qa
-x 2018-09-06 14:16 +Jhatoday +CSWP +News + NewsArchive paging article move Control_ListWithPaging_dfwpStyle.html into my repo; Code C:\d\reposForSubs\ContentWebParts_jhaToday13qa
-x 2018-09-06 13:07 +Jhatoday +CSWP +News + NewsArchive paging article add plugin \'easy auto refresh\' to my vm chrome to keep exercise those jhatoday13qa search servers going.
 +remember addr expects one blank line end and uses previous
-x 2018-09-06 14:28 +Jhatoday +CSWP +News +NewsArchive paging article https://sharepointinterface.com/2015/05/03/advanced-paging-with-sharepoint-content-search-web-part-display-templates/
-x 2018-09-06 14:28 +Jhatoday +CSWP +News +NewsArchive format the code in the out of box paging control.
-x 2018-09-06 14:28 +Jhatoday +CSWP +News +NewsArchive move paging buttons under the list. look for the line "_#= ctx.RenderGroups(ctx) =#_" and put it above code condition "if(showPaging)"
-x 2018-09-06 14:29 +Jhatoday +CSWP +News direct link to the template page https://jhatoday13qa.jhacorp.com/_layouts/15/sitemanager.aspx?Source={WebUrl}_layouts/15/settings.aspx
 (D) +program create +gtd action to look for 'code c:' on the line and run that to open directory
 (D) +program create +gtd action to initiatie a new project in my repoForSubs
-x 2018-09-06 13:55 @habit start msTeam
 t:2018-09-07 @habit start msTeam
 t:2018-09-13 +initiate: my vacation project
 (A) t:2018-09-07 +jhatoday move news to online
-x 2018-09-06 14:30 +Jhatoday +CSWP +News +NewsArchive edit web part to change the control to correct template
 2018-09-06 14:30 +Jhatoday +CSWP +News +NewsArchive edit web part to change the control to correct template
-x 2018-09-06 14:30 +Jhatoday +CSWP +News +NewsArchive change template name to    <title>List with Paging dfwpStyle</title> +Jhatoday +CSWP +News +NewsArchive
-x 2018-09-06 15:03 change title of Item_jhaNewsItemGrouped.html to from  JhaNewsItemTemplate to "Jha News with groups" +Jhatoday +CSWP +News +NewsArchive +Jhatoday +CSWP +News +NewsArchive
 (C) +program +gtd fix addr it only gets one word and it moves lists and tags to back
 +Jhatoday +CSWP +News.Archive.Item format code 'Item_OneLIneForNewsArchive.html'
 +Jhatoday +CSWP +News.Archive.Item  Item_OneLIneForNewsArchive.html to C:\d\reposForSubs\ContentWebParts_jhaToday13qa and commit
@@ -94,7 +77,5 @@ x 2018-09-06 15:03 change title of Item_jhaNewsItemGrouped.html to from  JhaNews
 +Jhatoday +CSWP +News.Archive issue how many items
 +Jhatoday +CSWP +News.Archive issue how many repeat webpart for each category
 +Jhatoday +CSWP +News.Archive issue how many repeat check in all my templates
-
-
 remember: use format section for html inside of aspx
 remember use this for decoding html entity https://mothereff.in/html-entities

@@ -74,3 +74,19 @@ x 2018-09-06 08:29 software Center: problem loading required components try late
 x 2018-09-06 08:31 +gtd how do I select from move @ context  to end of line A: use regex in code
 x 2018-09-06 08:32 I need a system to keep notes on repeating tasks. I guess I'll modify the note action for my own purpose
 x 2018-09-06 08:33 +gtd issue: why doesn't Repeat action  add x add in the date but sometimes it does
+x 2018-09-06 11:23 +case delete "origianlly created on"
+x 2018-09-06 11:23 +case email Cathy only on create
+x 2018-09-06 11:23 +case take out the department on the create and edit form.
+x 2018-09-06 14:01 +initiate: my vacation project
+x 2018-09-06 11:24 +case issue: Depart Name is not filling in on creation.
+x 2018-09-06 14:29 +Jhatoday +CSWP +News +NewsArchive paging article Code C:\d\reposForSubs\ContentWebParts_jhaToday13qa
+x 2018-09-06 14:16 +Jhatoday +CSWP +News + NewsArchive paging article move Control_ListWithPaging_dfwpStyle.html into my repo; Code C:\d\reposForSubs\ContentWebParts_jhaToday13qa
+x 2018-09-06 13:07 +Jhatoday +CSWP +News + NewsArchive paging article add plugin \'easy auto refresh\' to my vm chrome to keep exercise those jhatoday13qa search servers going.
+x 2018-09-06 14:28 +Jhatoday +CSWP +News +NewsArchive paging article https://sharepointinterface.com/2015/05/03/advanced-paging-with-sharepoint-content-search-web-part-display-templates/
+x 2018-09-06 14:28 +Jhatoday +CSWP +News +NewsArchive format the code in the out of box paging control.
+x 2018-09-06 14:28 +Jhatoday +CSWP +News +NewsArchive move paging buttons under the list. look for the line "_#= ctx.RenderGroups(ctx) =#_" and put it above code condition "if(showPaging)"
+x 2018-09-06 14:29 +Jhatoday +CSWP +News direct link to the template page https://jhatoday13qa.jhacorp.com/_layouts/15/sitemanager.aspx?Source={WebUrl}_layouts/15/settings.aspx
+x 2018-09-06 13:55 @habit start msTeam
+x 2018-09-06 14:30 +Jhatoday +CSWP +News +NewsArchive edit web part to change the control to correct template
+x 2018-09-06 14:30 +Jhatoday +CSWP +News +NewsArchive change template name to    <title>List with Paging dfwpStyle</title> +Jhatoday +CSWP +News +NewsArchive
+x 2018-09-06 15:03 change title of Item_jhaNewsItemGrouped.html to from  JhaNewsItemTemplate to "Jha News with groups" +Jhatoday +CSWP +News +NewsArchive +Jhatoday +CSWP +News +NewsArchive
