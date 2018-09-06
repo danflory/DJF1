@@ -36,7 +36,19 @@ x 2018-09-05 07:24 +health drink 8 cup of water this morning early
 x 2018-09-05 07:35 the time is now included in my items
 x 2018-09-05 07:35 morning email
 x 2018-09-05 08:00 vote for corporate recognition
-x 2018-09-05 09:12 standup
 x 2018-09-05 09:12 Voitanos 1 hour open office meeting - notes onenote:https://jackhenry-my.sharepoint.com/personal/dflory_jhacorp_com/Documents/Notebooks/GTD/meeting%20notes.one#Voitanos%209/5/2018%20&section-id={601328E8-6E7A-4F47-9466-A020DE840770}&page-id={26A1D95F-EF74-4E21-95DC-E30ABA3DC72E}&end
 x 2018-09-05 09:22 remember: log the meetings and time
 x 2018-09-05 09:33 first off I had to recover my todo.sh I don't have any idea where it went.
+x 2018-09-05 09:41 Review my done file once a day and add notes as needed @habit
+x 2018-09-05 09:45 passwordSafe login weekly @repeating
+x 2018-09-05 09:52 I found the vs studio extention for todo.txt it has several commands and a road map
+x 2018-09-05 09:53 review program notes for vsCode extension todo.txt
+x 2018-09-05 10:01 check Cherwell @habit
+x 2018-09-05 10:01 early to meetings 60% @habit
+x 2018-09-05 10:01 notes on every meeting @habit
+x 2018-09-05 10:02 use todo.sh archive every day @habit
+x 2018-09-05 10:07 changed all (J) to at habit
+x 2018-09-05 12:00 11am all hands meeting @missedMEETING!
+x 2018-09-05 13:10 restart after corporate update
+x 2018-09-05 13:47 work with mindy to learn how to change a document name using workflow, two days of trying failed.
+x 2018-09-05 15:54 fix required field for Cathy Jones 187557 due:2018-09-04 note:qJn.md

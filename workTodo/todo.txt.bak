@@ -1,38 +1,87 @@
+ use todo.sh archive every day @habit
 (A) +Jhatoday +CSWP +News +archive
 (A) +Jhatoday +CSWP +peopleSoft
-(A) fix required field for Cathy Jones 187557 due:2018-09-04 note:qJn.md
+(A) check error about the preview service when I preview a MD document note:sCo.md
+(A) delete origianlly created on
+(A) how do I view by date? future dates of repeat look nice.
+(A) initiate work on moble problem +Cherwell 223581
+(A) move news to online
+(A) required updates failed yesterday.
 (A) software Center: problem loading required components try later
+(A) weekly status notes @habit
+(B) get outline up and running
 (B) how do I select from end of line goal move the context to end of line
+(B) I need a system to keep notes on repeating tasks. I guess I'll modify the note action for my own purpose
 (B) issue: why doesn't the add x add in the date but sometimes it does
+(B) since the ls sorts the items I can use that code and make it save to temp file then rename to todo.txt give it a name.
 (C) Andrew Connell course
 (C) consider moving the perminant stuff to a different list folder - but it shouldnt be and activity that repeats I use the action \repeat' for that
+(C) initiate: learning plan for workflow
+(C) make some shortcuts. like show A, .... or get 'view' to work. and yes I want to edit single line hmm.
 (C) More React
 (C) more TypeScript
 (D) create script to center and hold the alerts
 (D) pri a instead of the remember: prefix consider using Anki when you can commit to it for a while
-(J) early to meetings 60% @habit
-(J) notes on every meeting @habit
 +CleanUpOneNoteReference @repeating
+2018-09-06 check Cherwell @habit
+2018-09-06 early to meetings 60% @habit
+2018-09-06 notes on every meeting @habit
+2018-09-06 process quick note from OneNote @habit
+2018-09-06 regular breaks @habit
+2018-09-06 Review my done file once a day and add notes as needed @habit
+2018-09-06 review program notes for vsCode extension todo.txt
+2018-09-06 start that phone @habit
+2018-09-12 +cherwell 211442 relocate a site with same design word doc attached to case.
+2018-09-12 +cherwell 222878 hide that quick launch on modern
+2018-09-12 passwordSafe login weekly @repeating
+a initiate: my vacation project
+a initiate: Voitano project
 a: today @z_definePriorities
+appointments first in morning
 b: mabyToday @z_definePriorities
 c: OnNoteMaintenance @zMyContexts
 c: phone @zMyContexts
 c: phone @zMyContexts
 c: soon @z_definePriorities
 Cherwell @zMyContexts
+close at end of day Clean ending
 d: maybeSomeday @z_definePriorities
+issue: +gtd moving to todo.txt the EDITOR environment variable is not set
+issue: for sorting I gues I have to use my sytem like on this line.
+issue: how to set windows 10 environment variables
+issue: track down the markdos server error is this the same thing? https://www.mkdocs.org/
+note:the info button helps
 p: e-notes to expand @z_definePriorities
 p: j-habits @z_definePriorities
 p: l-studies @z_definePriorities
 r: GTD progress for chad every two weeks Due:2018-09-04 @repeating
 r: refresh my git repo of jhatody production catalog @repeating
 r: weekly status @repeating
+remeber: the search item can find a tag just use the excape '(A'
+remember: for repeating the priority will be stripped so habits and such need a list I am swithing the m to @habit
+remember: if you forget to excape a quote ctrl-c then the up arrow retrievs the first line.
 remember: just add +href to the end to keep a link without priority it will stay off todo
 remember: OneNote link to local page weekly @repeating
-remember: passwordSafe login weekly @repeating
+remember: the pattern repeat ITEM days
+remember: use browser history more
 remember: use the onenote back button top left
 remember: vsCode does a nice job sorting the todo.txt
 s: studies @zMyContexts
+understand the commit and sync process being used
+work with mindy to learn how to change a document name using workflow, two days of trying failed.
+x 2018-09-05 09:41 Review my done file once a day and add notes as needed @habit
+x 2018-09-05 09:45 passwordSafe login weekly @repeating
+x 2018-09-05 09:52 I found the vs studio extention for todo.txt it has several commands and a road map
+x 2018-09-05 09:53 review program notes for vsCode extension todo.txt
+x 2018-09-05 10:01 check Cherwell @habit
+x 2018-09-05 10:01 early to meetings 60% @habit
+x 2018-09-05 10:01 notes on every meeting @habit
+x 2018-09-05 10:02 use todo.sh archive every day @habit
+x 2018-09-05 10:07 changed all (J) to at habit
+x 2018-09-05 12:00 11am all hands meeting @missedMEETING!
+x 2018-09-05 13:10 restart after corporate update
+x 2018-09-05 13:47 work with mindy to learn how to change a document name using workflow, two days of trying failed.
+x 2018-09-05 15:54 fix required field for Cathy Jones 187557 due:2018-09-04 note:qJn.md
 zt: after work studies @z_triggerList
 zt: chad @z_triggerList
 zt: Cherwell @z_triggerList
@@ -42,26 +91,5 @@ zt: r-repeating @z_definePriorities
 zt: Safari Books @z_triggerList
 zt: SP feedback from chad @z_triggerList
 zt:Power User @z_triggerList
-issue: +gtd moving to todo.txt the EDITOR environment variable is not set
-issue: how to set windows 10 environment variables
-(A) check error about the preview service when I preview a MD document note:sCo.md
-issue: track down the markdos server error is this the same thing? https://www.mkdocs.org/
-understand the commit and sync process being used
-close at end of day Clean ending
-(A) move news to online
-a initiate: my vacation project
-(B) get outline up and running
-a initiate: Voitano project
-(C) make some shortcuts. like show A, .... or get 'view' to work. and yes I want to edit single line hmm.
-remeber: the search item can find a tag just use the excape '(A'
-appointments first in morning
-(A) 11am all hands meeting
-(A) required updates failed yesterday.
-2018-09-06 process quick note from OneNote @habit
-(A) how do I view by date? future dates of repeat look nice.
-2018-09-06 regular breaks @habit
-2018-09-06 start that phone @habit
-remember: for repeating the priority will be stripped so habits and such need a list I am swithing the m to @habit
-issue: for sorting I gues I have to use my sytem like on this line.
-(B) I need a system to keep notes on repeating tasks. I guess I'll modify the note action for my own purpose
-remember: if you forget to excape a quote ctrl-c then the up arrow retrievs the first line.
+email Cathy only on create
+take out the department on the create and edit form.
