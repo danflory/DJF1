@@ -167,3 +167,18 @@ x test
 x 2018-09-04 18:46 I modified the downloaded todo.sh to put in H and M on "do"
 x 2018-09-04 20:15 +study todo.sh code and help
 x 2018-09-04 21:44 install two md markdown editory writer monkey and typeora
+x fit 10 minutes eliptical
+x 2018-09-05 05:32 unpack outlline and link it. to link cd /c/Users/msdn/github/djf/todo.actions.d
+x 2018-09-05 20:41 @habit +health weight loss track in SparkPeople
+x 2018-09-05 18:19 @habit charge phone daily
+x 2018-09-05 19:57 @habit clean at end of day; shower; clothes out +gtd
+x 2018-09-05 18:19 @habit DO gtd every day +gtd
+x 2018-09-05 18:20 @habit j commit your todo often and alwas at end of day
+x 2018-09-05 18:20 @habit READ every day -gtd david alan 2nd edition  in kindle +gtd
+x 2018-09-05 20:39 2018-09-06 @habit charge phone daily
+x 2018-09-05 20:41 2018-09-06 @habit j commit your todo often and alwas at end of day
+x 2018-09-05 18:36 +todo.txt_clr +fix main .sh I added time to the done date
+x 2018-09-05 18:38 put at t: in front of the repeat +fix +todo.txt_clr
+x 2018-09-05 19:56 @habit 30 min purpose walking daily
+x 2018-09-05 21:05 @habit personal email clean daily +gtd
+x 2018-09-05 21:10 @habit The implanted word every day. parable of sower. receive with gladness!
