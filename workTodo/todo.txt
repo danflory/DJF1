@@ -5,7 +5,6 @@
 (A) +Jhatoday +CSWP +peopleSoft
 (A) +case 223581 a set up office on my divice to work  for Tracey Sadler-Lassiter note:yRb.md
 (A) +Jhatoday +CSWP +jhatoday move news to online 
-x 2018-09-07 13:52 +try using alarms for appointments set them at start of day +result it worked
 (B) +case 230377 communications site questions, need comment. I spent an hour looking for articles describing the different types of sites, and created a couple at https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/TestDiscussionBoard/AllItems.aspx
 (B) +corp listen to all hands
 (B) +decide: do I want to have my tag: as first thing or @ as first or +tag as first when and why +A the + highlights if VS Code use it
@@ -75,9 +74,6 @@ t:2018-09-12 +repeat CleanUpOneNoteReference
 t:2018-09-12 +repeating passwordSafe login weekly
 t:2018-09-13 +initiate: my vacation project
 t:2018-09-14 +repeating GTD progress for chad every two weeks
-x 2018-09-07 10:51 +case 230363 how to set folder permissions ... not the list. https://support.office.com/en-us/article/change-the-permissions-on-a-subfolder-5427bd7c-f20a-4f75-8cf2-5359dd45a1a6
-x 2018-09-07 13:34 test sync process note:p4L.md
-x 2018-09-07 13:36 @meeting migration status standup  note:IzX.md
 zt: after work studies @z_triggerList
 zt: chad @z_triggerList
 zt: Cherwell @z_triggerList

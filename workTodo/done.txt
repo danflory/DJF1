@@ -108,3 +108,7 @@ x 2018-09-07 07:46 t:2018-09-07 @habit check Cherwell
 x 2018-09-07 07:46 t:2018-09-07 @habit give all cases an +case so I can get a report
 x 2018-09-07 08:05 modify the nav action to use chrome
 x 2018-09-07 08:06 +gtd +Q find the action for todo.txt go to url +A it is called "Nav"
+x 2018-09-07 13:52 +try using alarms for appointments set them at start of day +result it worked
+x 2018-09-07 10:51 +case 230363 how to set folder permissions ... not the list. https://support.office.com/en-us/article/change-the-permissions-on-a-subfolder-5427bd7c-f20a-4f75-8cf2-5359dd45a1a6
+x 2018-09-07 13:34 test sync process note:p4L.md
+x 2018-09-07 13:36 @meeting migration status standup  note:IzX.md
