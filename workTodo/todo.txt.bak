@@ -1,81 +1,97 @@
-(A) +Jhatoday +CSWP +News +NewsArchive [dan's implementation("https://jackhenry.sharepoint.com/:o:/r/sites/esdm3pdevs/Daniel/_layouts/15/WopiFrame.aspx?sourcedoc=%7BA8793407-5549-4F56-9522-A9BDC9B5EF90%7D&file=SharePoint%20Search.one&action=default")
-(A) +Jhatoday +CSWP +peopleSoft
-(A) +gtd check error about the preview service when I preview a MD document note:sCo.md
-(A) +gtd find the action for todo.txt go to url
-(B) +gtd get outline up and running
-(B) +corp listen to all hands
-(B) +gtd understand the commit and sync process being used
-(C) +learn Andrew Connell course
-(C) +consider adding more aliases to bash for other todo lists that have a different config. Like I have for work and home, I can have a list for case work and use alias tC when working on cases.
-(C) +consider moving the perminant stuff to a different list folder - but it shouldnt be and activity that repeats I use the action \repeat' for that
-(C) +initiate work on moble problem +Cherwell 223581
-(C) +initiate: learning plan for workflow
-(C) +initiate: Voitano project
-(C) +program make some shortcuts. like show A, .... or get 'view' to work. and yes I want to edit single line hmm.
-(C) +learn More React
-(C) +learn more TypeScript
-(D) +consider instead of the remember: prefix consider using Anki when you can commit to it for a while
-(D) +program create script to center and hold the appointment alerts so I don't miss them.... or just do an alarm
++Jhatoday +CSWP +News +NewsArchive [dan's implementation("https://jackhenry.sharepoint.com/:o:/r/sites/esdm3pdevs/Daniel/_layouts/15/WopiFrame.aspx?sourcedoc=%7BA8793407-5549-4F56-9522-A9BDC9B5EF90%7D&file=SharePoint%20Search.one&action=default")
+(A) +Jhatoday +CSWP +News.Archive check in all my templates as I move them.
+(A) +Jhatoday +CSWP +News.Archive +issue position of paging buttons +fix center them
+(A) +Jhatoday +CSWP +News.Archive +Q how many items should be on the new archive lists +A 49 that is the max
+x 2018-09-07 15:54 +Jhatoday +CSWP +News.Archive copy the web parts local
+(A) +Jhatoday +CSWP +News.Archive copy the templates local
+(A) +Jhatoday +CSWP +News.Archive Spin up SPO jhatoday oneDrive 
+(A) +Jhatoday +CSWP +News.Archive
+(A) +Jhatoday +CSWP +News.Archive
+(A) +Jhatoday +CSWP +News.Archive
+(B) +Jhatoday +CSWP +peopleSoft
+(A) +case 223581 a set up office on my divice to work  for Tracey Sadler-Lassiter note:yRb.md
+(A) +Jhatoday +CSWP +jhatoday move news to online
+(B) +case 230377 communications site questions, need comment. I spent an hour looking for articles describing the different types of sites, and created a couple at https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/TestDiscussionBoard/AllItems.aspx
+x 2018-09-07 15:06 +corp listen to all hands
 (B) +decide: do I want to have my tag: as first thing or @ as first or +tag as first when and why +A the + highlights if VS Code use it
 (B) +decide: is @repeating the same as @habit or not?
 (B) +decide: just add +href to the end to keep a link without priority it will stay off todo
+(B) +gtd check error about the preview service when I preview a MD document note:sCo.md
+(B) +gtd get outline up and running
+(B) +gtd how do I duplicate an entry?
+(B) +gtd understand the commit and sync process being used
 (B) +issue: track down the markdos server error is this the same thing? https://www.mkdocs.org/
-+remember:  the search item can find a tag just use the excape '(A'
-+remember:  repeat can do then extend due date by using + normal is re-entr days from now
-+remember: add an extra space to a new entry if you want it to sort to the top
-+remember: for repeating the priority will be stripped so habits and such need a list I am swithing the m to @habit
-+remember: if you forget to escape a quote ctrl-c then the up arrow retrievs the first line.
-+remember: OneNote link to local page weekly @repeating
-+remember: the info button helps
-+remember: the pattern for the repeat action is ITEM daysForward
-+remember: use browser history more
-+remember: use the onenote back button top left
-+remember: vsCode does a nice job sorting the todo.txt
-t:2018-09-06 @habit early to meetings 60%
-t:2018-09-06 @habit process quick note from OneNote
-t:2018-09-07 @habit use todo.sh archive every day
-t:2018-09-07 @habit give all cases an +case so I can get a report
-t:2018-09-07 +repeating CleanUpOneNoteReference
-t:2018-09-07 @habit check Cherwell
-t:2018-09-07 appointments first in morning
-t:2018-09-07 close at end of day Clean ending
-t:2018-09-07 @habit notes on every meeting
-t:2018-09-07 @habit Review my done file once a day and add notes as needed
-t:2018-09-07 @habit start that phone
-t:2018-09-08 @habit regular breaks
+(B) +Q how do I suppress the git warnings about LF?
+(B) issue: when repeat bumps the date it doesn't recognize date with the "t:" that I added
+(B) record completion of process change for Chad's list
+(B) search for kvm switch note:IWA.md
+(C) +consider adding more aliases to bash for other todo lists that have a different config. Like I have for work and home, I can have a list for case work and use alias tC when working on cases.
+(C) +consider moving the permanent stuff to a different list folder - but it shouldnt be and activity that repeats I use the action \repeat' for that
+(C) +initiate project to have document site like MS docs
+(C) +initiate work on mobile problem +Cherwell 223581
+(C) +initiate: learning plan for workflow
+(C) +initiate: +Voitano project
+(C) +learn Andrew Connell course
+(C) +learn More React
+(C) +learn more TypeScript
+(C) +program +gtd fix addr it only gets one word and it moves lists and tags to back
+(C) +program make some shortcuts. like show A, .... or get 'view' to work. and yes I want to edit single line hmm.
+(C) +program imitate the theme of MS vs code setting editor as practice for good program design
+(D) +consider instead of the remember: prefix consider using Anki when you can commit to it for a while
+(D) +program create +gtd action to initiatie a new project in my repoForSubs
+(D) +program create +gtd action to look for 'code c:' on the line and run that to open directory
+(D) +program create script to center and hold the appointment alerts so I don't miss them.... or just do an alarm
+(D) +fix  +gtd the commit so it just always adds all added as well as modified like it does now.
+(D) +program +gtd make the todo.sh ls command use regex
+https://github.com/todotxt/todo.txt-cli/wiki totxtWiki
+x 2018-09-07 15:17 +Jhatoday +CSWP +News.Archive.Item format code 'Item_OneLIneForNewsArchive.html'
++remember use this url for decoding html entity https://mothereff.in/html-entities
++remember addr expects one blank line end and uses previous
++remember repeat can do then extend due date by using + normal is re-entr days from now
++remember the search item can find a tag just use the excape '(A'
++remember add an extra space to a new entry if you want it to sort to the top
++remember for repeating the priority will be stripped so habits and such need a list I am swithing the m to @habit
++remember if you forget to escape a quote ctrl-c then the up arrow retrievs the first line.
++remember OneNote link to local page weekly @repeating
++remember the info button helps
++remember the pattern for the repeat action is ITEM daysForward
++remember use browser history more
++remember use the onenote back button top left
++remember use VS Code "format section" for html inside of aspx
++remember vsCode does a nice job sorting the todo.txt
+t:2018-09-08 @habit 1 check Cherwell
+t:2018-09-08 @habit 2 check the skype status
+t:2018-09-08 @habit 3 early to meetings 60%
+t:2018-09-08 @habit 4 notes on every meeting
+t:2018-09-08 @habit 5 regular breaks
+t:2018-09-08 @habit 6 Review my done file once a day and add notes as needed
+t:2018-09-08 @habit 7 start msTeam
+t:2018-09-08 @habit 8 start that phone
+t:2018-09-08 @habit 9 use todo.sh archive every day
+t:2018-09-08 @habit 10 appointments first in morning
+t:2018-09-08 @habit 11 close at end of day Clean ending
+t:2018-09-10 @habit 12 process quick note from OneNote
+t:2018-09-10 @meeting migration status standup  note:IzX.md
+t:2018-09-11 @habit 13 weekly status notes
 t:2018-09-11 +repeat: refresh my git repo of jhatody production catalog
-t:2018-09-11 @habit weekly status notes
 t:2018-09-12 +case 211442 relocate a site with same design word doc attached to case.
 t:2018-09-12 +case 222878 hide that quick launch on modern
+t:2018-09-12 +repeat CleanUpOneNoteReference
 t:2018-09-12 +repeating passwordSafe login weekly
+t:2018-09-13 +initiate: my vacation project
+t:2018-09-14 +repeating GTD progress for chad every two weeks
 zt: after work studies @z_triggerList
 zt: chad @z_triggerList
 zt: Cherwell @z_triggerList
 zt: GTD @z_triggerList
 zt: Pluralsight @z_triggerList
+zt: Power User @z_triggerList
 zt: r-repeating @z_definePriorities
 zt: Safari Books @z_triggerList
 zt: SP feedback from chad @z_triggerList
-zt: Power User @z_triggerList
-t:2018-09-07 t:2018-09-04 +repeating GTD progress for chad every two weeks
-(B) issue: when repeat bumps the date it doesn't recognize date with the "t:" that I added
-(C) +initate project to have document site like MS docs
-(B) record completion of process change for Chad's list
-(B) +gtd how do I duplicate an entry?
-+remember addr expects one blank line end and uses previous
-(D) +program create +gtd action to look for 'code c:' on the line and run that to open directory
-(D) +program create +gtd action to initiatie a new project in my repoForSubs
-t:2018-09-07 @habit start msTeam
-t:2018-09-13 +initiate: my vacation project
-(A) t:2018-09-07 +jhatoday move news to online
-2018-09-06 14:30 +Jhatoday +CSWP +News +NewsArchive edit web part to change the control to correct template
-(C) +program +gtd fix addr it only gets one word and it moves lists and tags to back
-+Jhatoday +CSWP +News.Archive.Item format code 'Item_OneLIneForNewsArchive.html'
-+Jhatoday +CSWP +News.Archive.Item  Item_OneLIneForNewsArchive.html to C:\d\reposForSubs\ContentWebParts_jhaToday13qa and commit
-+Jhatoday +CSWP +News.Archive set the web part tytle .. company News
-+Jhatoday +CSWP +News.Archive issue center the paging
-+Jhatoday +CSWP +News.Archive issue how many items
-+Jhatoday +CSWP +News.Archive issue how many repeat webpart for each category
-+Jhatoday +CSWP +News.Archive issue how many repeat check in all my templates
-remember: use format section for html inside of aspx
-remember use this for decoding html entity https://mothereff.in/html-entities
++initate research for +case 222878 Kimberly Matheny hide Quick Launch the quick launh project has its own vsCode shorcut in shortcut folder
+(D) +study read the git book I need to know what push and sync are doing
+meeting notes IDG All Hands Monthly note:56x.md
+x 2018-09-07 15:08 clean out download folder I had 1900 items in it! 4 GB in my recycle bin are clean too!
+
+x 2018-09-07 15:16 clean out download folder
