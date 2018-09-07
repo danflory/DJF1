@@ -70,14 +70,15 @@ remember: a simicolon on bash line isn't nice
 remember: to use add complete you must type all word add not just a
 remember: when using rm it only takes one, I will call that a feature - workarround is to edit file in vsCode
 t:2018-09-06 @habit @GodsPrize +WebSite https://wordpress.com/stats/day/godsprize.wordpress.com
-t:2018-09-06 @habit +health weight loss track in SparkPeople
-t:2018-09-06 @habit 30 min purpose walking daily
-t:2018-09-06 @habit charge phone daily
-t:2018-09-06 @habit clean at end of day; shower; clothes out +gtd
-t:2018-09-06 @habit DO gtd every day +gtd
-t:2018-09-06 @habit j commit your todo often and alwas at end of day
-t:2018-09-06 @habit personal email clean daily +gtd
-t:2018-09-06 @habit READ every day -gtd david alan 2nd edition  in kindle +gtd
-t:2018-09-06 @habit The implanted word every day.
-t:2018-09-08 @habit pri a pick trail to walk
-t:2018-09-12 @habit +skills practice cad 20 min free cad t:2018-09-01
+x 2018-09-07 16:41 t:2018-09-06 @habit 1. +health weight loss track in SparkPeople
+t:2018-09-06 @habit 2. 30 min purpose walking daily
+t:2018-09-06 @habit 3. charge phone daily
+t:2018-09-06 @habit 4. clean at end of day; shower; clothes out +gtd
+t:2018-09-06 @habit 5. DO gtd every day +gtd
+t:2018-09-06 @habit 6. j commit your todo often and alwas at end of day
+t:2018-09-06 @habit 7. personal email clean daily +gtd
+t:2018-09-06 @habit 8. READ every day -gtd david alan 2nd edition  in kindle +gtd
+t:2018-09-06 @habit 9. The implanted word every day.
+t:2018-09-08 @habit 10. pri a pick trail to walk
+t:2018-09-12 @habit 11. +skills practice cad 20 min free cad t:2018-09-01
+t:2018-09-08 t:2018-09-06 @habit 1. +health weight loss track in SparkPeople

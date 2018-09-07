@@ -20,9 +20,12 @@ https://pcpartpicker.com/product/JVWrxr/msi-geforce-gtx-1060-6gb-gaming-x-video-
 ## the case too because my case won't keep it cooland quiet!
 
 https://www.superbiiz.com/detail.php?name=CA-DEFS-BK&show=p
+t
 
 ## decisions
  
  * Case and fan and one extra fan to give three fans
 
  https://pcpartpicker.com/list/
+
+## Consider not getting a case, instead mod the one Penny gave me.
