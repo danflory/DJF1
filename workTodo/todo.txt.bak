@@ -1,8 +1,6 @@
-x 2018-09-07 15:54 +Jhatoday +CSWP +News +NewsArchive [dan's implementation("https://jackhenry.sharepoint.com/:o:/r/sites/esdm3pdevs/Daniel/_layouts/15/WopiFrame.aspx?sourcedoc=%7BA8793407-5549-4F56-9522-A9BDC9B5EF90%7D&file=SharePoint%20Search.one&action=default")
 (A) +Jhatoday +CSWP +News.Archive check in all my templates as I move them.
 (A) +Jhatoday +CSWP +News.Archive +issue position of paging buttons +fix center them
 (A) +Jhatoday +CSWP +News.Archive +Q how many items should be on the new archive lists +A 49 that is the max
-x 2018-09-07 15:54 +Jhatoday +CSWP +News.Archive copy the web parts local
 (A) +Jhatoday +CSWP +News.Archive copy the templates local
 (A) +Jhatoday +CSWP +News.Archive Spin up SPO jhatoday oneDrive
 (A) +Jhatoday +CSWP +News.Archive
@@ -12,7 +10,6 @@ x 2018-09-07 15:54 +Jhatoday +CSWP +News.Archive copy the web parts local
 (A) +case 223581 a set up office on my divice to work  for Tracey Sadler-Lassiter note:yRb.md
 (A) +Jhatoday +CSWP +jhatoday move news to online
 (B) +case 230377 communications site questions, need comment. I spent an hour looking for articles describing the different types of sites, and created a couple at https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/TestDiscussionBoard/AllItems.aspx
-x 2018-09-07 15:06 +corp listen to all hands
 (B) +decide: do I want to have my tag: as first thing or @ as first or +tag as first when and why +A the + highlights if VS Code use it
 (B) +decide: is @repeating the same as @habit or not?
 (B) +decide: just add +href to the end to keep a link without priority it will stay off todo
@@ -44,7 +41,6 @@ x 2018-09-07 15:06 +corp listen to all hands
 (D) +fix  +gtd the commit so it just always adds all added as well as modified like it does now.
 (D) +program +gtd make the todo.sh ls command use regex
 https://github.com/todotxt/todo.txt-cli/wiki totxtWiki
-x 2018-09-07 15:17 +Jhatoday +CSWP +News.Archive.Item format code 'Item_OneLIneForNewsArchive.html'
 +remember use this url for decoding html entity https://mothereff.in/html-entities
 +remember addr expects one blank line end and uses previous
 +remember repeat can do then extend due date by using + normal is re-entr days from now
@@ -92,5 +88,3 @@ zt: SP feedback from chad @z_triggerList
 +initate research for +case 222878 Kimberly Matheny hide Quick Launch the quick launh project has its own vsCode shorcut in shortcut folder
 (D) +study read the git book I need to know what push and sync are doing
 meeting notes IDG All Hands Monthly note:56x.md
-x 2018-09-07 15:08 clean out download folder I had 1900 items in it! 4 GB in my recycle bin are clean too!
-x 2018-09-07 15:16 clean out download folder
