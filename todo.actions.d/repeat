@@ -32,17 +32,17 @@ if [[ "$LINE" =~ ^\([A-Z]\) ]]; then
 LINE=$(echo "$LINE" | cut -f2- -d ' ') # cut off the priority
 fi
 
-if [[ "$LINE" =~ ^[0-9][0-9][0-9][0-9] ]]; then
+if [[ "$LINE" =~ ^t:[0-9][0-9][0-9][0-9] ]]; then
     DATE=$(echo "$LINE" | cut -f1 -d ' ') # identify the date
     LINE=$(echo "$LINE" | cut -f2- -d ' ') # cut off the date
-else 
+else
     DATE=""
 fi
 
 DAYS=$2
-if [[ "$DAYS" != "" ]]; then  
+if [[ "$DAYS" != "" ]]; then
     if [[ $DAYS == \+* ]]; then
-        if [[ "$DATE" != "" ]]; then  
+        if [[ "$DATE" != "" ]]; then
             # increase the due date
             DATE=`date -d $DATE" "$DAYS" days" +%Y-%m-%d`
 	fi
