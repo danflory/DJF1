@@ -182,3 +182,5 @@ x 2018-09-05 18:38 put at t: in front of the repeat +fix +todo.txt_clr
 x 2018-09-05 19:56 @habit 30 min purpose walking daily
 x 2018-09-05 21:05 @habit personal email clean daily +gtd
 x 2018-09-05 21:10 @habit The implanted word every day. parable of sower. receive with gladness!
+x 2018-09-05 22:09 use outline action for projects
+x 2018-09-07 06:50 @decide I could use Q A as list context or colon keys and call them issue soultion or about anything I choose. note:be4.md
