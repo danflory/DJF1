@@ -34,8 +34,6 @@
 (A) +Jhatoday +CSWP +News.Archive issue center the paging
 (A) +Jhatoday +CSWP +News.Archive issue how many items should be on the new archive lists
 (A) +Jhatoday +CSWP +News.Archive check in all my templates on qa just for habit
-x 2018-09-07 08:39 +Jhatoday +CSWP +News.Archive set the web part tytle .. company News
-x 2018-09-07 08:39 +Jhatoday +CSWP +News.Archive.Item  Item_OneLIneForNewsArchive.html to C:\d\reposForSubs\ContentWebParts_jhaToday13qa and commit
 +Jhatoday +CSWP +News.Archive.Item format code 'Item_OneLIneForNewsArchive.html'
 +remember addr expects one blank line end and uses previous
 +remember:  repeat can do then extend due date by using + normal is re-entr days from now
@@ -49,15 +47,8 @@ x 2018-09-07 08:39 +Jhatoday +CSWP +News.Archive.Item  Item_OneLIneForNewsArchiv
 +remember: use browser history more
 +remember: use the onenote back button top left
 +remember: vsCode does a nice job sorting the todo.txt
-x 2018-09-07 08:22 2018-09-06 14:30 +Jhatoday +CSWP +News +NewsArchive edit web part to change the control to correct template
 +remember +href use this url for decoding html entity https://mothereff.in/html-entities
 +remember: use VS Code "format section" for html inside of aspx
-x 2018-09-07 08:22 t:2018-09-07 @habit notes on every meeting
-x 2018-09-07 08:13 t:2018-09-07 @habit Review my done file once a day and add notes as needed
-x 2018-09-07 08:11 t:2018-09-07 @habit start msTeam
-x 2018-09-07 08:12 t:2018-09-07 @habit start that phone
-x 2018-09-07 08:23 t:2018-09-07 appointments first in morning
-x 2018-09-07 08:14 t:2018-09-07 close at end of day Clean ending
 t:2018-09-14 +repeating GTD progress for chad every two weeks
 t:2018-09-08 @habit check Cherwell
 t:2018-09-08 @habit check the skype status
@@ -71,15 +62,6 @@ t:2018-09-12 +case 211442 relocate a site with same design word doc attached to 
 t:2018-09-12 +case 222878 hide that quick launch on modern
 t:2018-09-12 +repeating passwordSafe login weekly
 t:2018-09-13 +initiate: my vacation project
-x 2018-09-07 07:25 @habit check the skype status
-x 2018-09-07 07:28 t:2018-09-06 @habit process quick note from OneNote
-x 2018-09-07 07:30 t:2018-09-06 @habit early to meetings 60%
-x 2018-09-07 07:35 fixt +gtd +action repeat so that the t: I added before dates would be found as part of the date
-x 2018-09-07 07:36 t:2018-09-07 @habit use todo.sh archive every day
-x 2018-09-07 07:46 t:2018-09-07 @habit check Cherwell
-x 2018-09-07 07:46 t:2018-09-07 @habit give all cases an +case so I can get a report
-x 2018-09-07 08:05 modify the nav action to use chrome
-x 2018-09-07 08:06 +gtd +Q find the action for todo.txt go to url +A it is called "Nav"
 zt: after work studies @z_triggerList
 zt: chad @z_triggerList
 zt: Cherwell @z_triggerList
