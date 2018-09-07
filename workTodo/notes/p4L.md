@@ -16,6 +16,11 @@ t push #this one is needed because sync reports that local is ahead of remote.
 and t sync should report all is ok
 
 ## if only changes and no new files have been made
-over and over during the day!
-then simply
-t sync.
+I tryed just sync, it appears to commit the modifications to the file
+
+sync then syas "Alread up to date" but...
+push doesn't report "Nothing to do"
+
+so I guess it is
+sync
+push
