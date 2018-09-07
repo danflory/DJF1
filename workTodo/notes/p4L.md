@@ -6,11 +6,16 @@ Commit is always needed to get changes local.
 
 after a commit then you need to push
 
-so the process is.
+so one process is.
+
+```bash
 t sync - probably just once every computer change
-
 t commit
-t push
-
+t push #this one is needed because sync reports that local is ahead of remote.
+```
 and t sync should report all is ok
 
+## if only changes and no new files have been made
+over and over during the day!
+then simply
+t sync.
