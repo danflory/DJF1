@@ -112,3 +112,9 @@ x break walk around building 10:50 while the computer restarted Required Softwar
 x check email 11am
 x read GTD by Allen while computer is down OccurancesToday:xxx
 x reboot after software required update
+x 2018-09-07 15:54 +Jhatoday +CSWP +News +NewsArchive [dan's implementation("https://jackhenry.sharepoint.com/:o:/r/sites/esdm3pdevs/Daniel/_layouts/15/WopiFrame.aspx?sourcedoc=%7BA8793407-5549-4F56-9522-A9BDC9B5EF90%7D&file=SharePoint%20Search.one&action=default")
+x 2018-09-07 15:54 +Jhatoday +CSWP +News.Archive copy the web parts local
+x 2018-09-07 15:06 +corp listen to all hands
+x 2018-09-07 15:17 +Jhatoday +CSWP +News.Archive.Item format code 'Item_OneLIneForNewsArchive.html'
+x 2018-09-07 15:08 clean out download folder I had 1900 items in it! 4 GB in my recycle bin are clean too!
+x 2018-09-07 15:16 clean out download folder
