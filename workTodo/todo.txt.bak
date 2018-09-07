@@ -29,7 +29,6 @@
 (D) +program create +gtd action to initiatie a new project in my repoForSubs
 (D) +program create +gtd action to look for 'code c:' on the line and run that to open directory
 (D) +program create script to center and hold the appointment alerts so I don't miss them.... or just do an alarm
-
 @meeting migration status standup  note:IzX.md
 +href https://github.com/todotxt/todo.txt-cli/wiki totxtWiki
 (A) +Jhatoday +CSWP +News.Archive issue center the paging
@@ -57,7 +56,6 @@ x 2018-09-07 08:22 t:2018-09-07 @habit notes on every meeting
 x 2018-09-07 08:13 t:2018-09-07 @habit Review my done file once a day and add notes as needed
 x 2018-09-07 08:11 t:2018-09-07 @habit start msTeam
 x 2018-09-07 08:12 t:2018-09-07 @habit start that phone
-
 x 2018-09-07 08:23 t:2018-09-07 appointments first in morning
 x 2018-09-07 08:14 t:2018-09-07 close at end of day Clean ending
 t:2018-09-14 +repeating GTD progress for chad every two weeks
@@ -99,4 +97,4 @@ t:2018-09-08 close at end of day Clean ending
 t:2018-09-08 @habit notes on every meeting
 t:2018-09-08 appointments first in morning
 t:2018-09-12 +repeat CleanUpOneNoteReference
-(B) search for kvm switch
+(B) search for kvm switch note:IWA.md

@@ -90,3 +90,21 @@ x 2018-09-06 13:55 @habit start msTeam
 x 2018-09-06 14:30 +Jhatoday +CSWP +News +NewsArchive edit web part to change the control to correct template
 x 2018-09-06 14:30 +Jhatoday +CSWP +News +NewsArchive change template name to    <title>List with Paging dfwpStyle</title> +Jhatoday +CSWP +News +NewsArchive
 x 2018-09-06 15:03 change title of Item_jhaNewsItemGrouped.html to from  JhaNewsItemTemplate to "Jha News with groups" +Jhatoday +CSWP +News +NewsArchive +Jhatoday +CSWP +News +NewsArchive
+x 2018-09-07 08:39 +Jhatoday +CSWP +News.Archive set the web part tytle .. company News
+x 2018-09-07 08:39 +Jhatoday +CSWP +News.Archive.Item  Item_OneLIneForNewsArchive.html to C:\d\reposForSubs\ContentWebParts_jhaToday13qa and commit
+x 2018-09-07 08:22 2018-09-06 14:30 +Jhatoday +CSWP +News +NewsArchive edit web part to change the control to correct template
+x 2018-09-07 08:22 t:2018-09-07 @habit notes on every meeting
+x 2018-09-07 08:13 t:2018-09-07 @habit Review my done file once a day and add notes as needed
+x 2018-09-07 08:11 t:2018-09-07 @habit start msTeam
+x 2018-09-07 08:12 t:2018-09-07 @habit start that phone
+x 2018-09-07 08:23 t:2018-09-07 appointments first in morning
+x 2018-09-07 08:14 t:2018-09-07 close at end of day Clean ending
+x 2018-09-07 07:25 @habit check the skype status
+x 2018-09-07 07:28 t:2018-09-06 @habit process quick note from OneNote
+x 2018-09-07 07:30 t:2018-09-06 @habit early to meetings 60%
+x 2018-09-07 07:35 fixt +gtd +action repeat so that the t: I added before dates would be found as part of the date
+x 2018-09-07 07:36 t:2018-09-07 @habit use todo.sh archive every day
+x 2018-09-07 07:46 t:2018-09-07 @habit check Cherwell
+x 2018-09-07 07:46 t:2018-09-07 @habit give all cases an +case so I can get a report
+x 2018-09-07 08:05 modify the nav action to use chrome
+x 2018-09-07 08:06 +gtd +Q find the action for todo.txt go to url +A it is called "Nav"
