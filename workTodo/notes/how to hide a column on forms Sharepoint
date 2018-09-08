@@ -1,0 +1,9 @@
+Hide a column in Sharepoint List
+1 Answer
+To begin, go to List Settings > Advanced Settings.
+Select Yes on Allow management of content types.
+Click on one of the existing content types under the Content Type section Next, click on the column you intend to hide, and choose the option Hidden. Click OK.
+Go to the New Item tab and select the Edit form.
+Hide list column on new, edit item-OOTB - SharePoint Stack Exchange
+https://sharepoint.stackexchange.com/questions/.../hide-list-column-on-new-edit-item-oo...
+Search for: Hide a column in Sharepoint List
