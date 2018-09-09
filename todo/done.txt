@@ -184,3 +184,28 @@ x 2018-09-05 21:05 @habit personal email clean daily +gtd
 x 2018-09-05 21:10 @habit The implanted word every day. parable of sower. receive with gladness!
 x 2018-09-05 22:09 use outline action for projects
 x 2018-09-07 06:50 @decide I could use Q A as list context or colon keys and call them issue soultion or about anything I choose. note:be4.md
+x 2018-09-08 16:37 buy computer fans and GPU Graphic Card  ... learn how to size them https://www.quietpc.com/faq/27 note:6hU.md
+x 2018-09-08 11:00 t:2018-09-06 @habit +health weight loss track in SparkPeople
+x 2018-09-08 11:04 t:2018-09-06 @habit 30 min purpose walking daily
+x 2018-09-08 08:13 t:2018-09-06 @habit charge phone daily
+x 2018-09-08 11:06 t:2018-09-06 @habit DO gtd every day +gtd
+x 2018-09-08 11:09 t:2018-09-06 @habit j commit your todo often and alwas at end of day
+x 2018-09-08 11:09 t:2018-09-06 @habit The implanted word every day.
+x 2018-09-08 11:09 t:2018-09-08 @habit pri a pick trail to walk +report today rain so the trail is the mall
+x 2018-09-08 11:02 @habit +health weight loss track in SparkPeople
+x 2018-09-08 16:38 t:2018-09-10 @habit 30 min purpose walking daily
+x 2018-09-08 16:39 t:2018-09-06 @habit personal email clean daily +gtd
+x 2018-09-09 08:39 t:2018-09-09 @habit 01. The implanted word every day.
+x 2018-09-09 08:53 t:2018-09-09 @habit 02. j commit your todo often and alwas at end of day
+x 2018-09-09 08:43 t:2018-09-09 08:42 @habit 03. +gtd put everything on list. Daily give concerns to god he cares
+x 2018-09-09 08:53 t:2018-09-09 @habit 04. charge phone daily
+x 2018-09-09 08:52 t:2018-09-09 @habit 05. FIT (apropriate 30 min a day)
+x 2018-09-09 08:10 +home closit shelvest:2018-09-10 08:42 t:2018-09-09 @habit 03. DO gtd every day +gtd
+x 2018-09-09 08:50 @habit 02. cast cares on God daily put yout.
+x 2018-09-09 08:46 @care beth and John
+x 2018-09-09 08:47 @care I don't perform well at work
+x 2018-09-09 08:47 @care there is to much to do at home
+x 2018-09-09 08:48 @care I am overweight
+x 2018-09-09 08:48 @care what will god say to me on judgement
+x 2018-09-09 08:49 @care Lind's health
+x 2018-09-09 08:49 @care I want to be smarter
