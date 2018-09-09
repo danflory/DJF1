@@ -209,3 +209,11 @@ x 2018-09-09 08:48 @care I am overweight
 x 2018-09-09 08:48 @care what will god say to me on judgement
 x 2018-09-09 08:49 @care Lind's health
 x 2018-09-09 08:49 @care I want to be smarter
+x 2018-09-09 08:56 @switch to +todo.sh  install sp wk
+x 2018-09-09 08:57 +Decision will my tags have capitial leters or not, when will they have capital letters
+x 2018-09-09 08:58 +Q where do the notes go on archive?
+x 2018-09-09 08:59 issue: archive from Note Action may overright out of box action archive, check default pass thrugh methodology +A it does call Out of box
+x 2018-09-09 09:01 note: I can't afford watercooling at this time, and it is costly enought that it only makes sense with top tier GPU/ CPU were talking 00 GPU and top RIZEN with new MB .... not now.
+x 2018-09-09 08:54 t:2018-09-06 @habit 07. READ every day -gtd david alan 2nd edition  in kindle +gtd
+x 2018-09-09 09:08 android studio will clone from git hu too much
+x 2018-09-09 17:13 fit tracker. note:N9b.md
