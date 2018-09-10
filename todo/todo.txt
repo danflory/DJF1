@@ -1,12 +1,13 @@
-(A) +home closit shelves
 (A) +home Hang extension cord on wall for linda
 (A) +home under bumper on linda's car @car
-(A) buy computer fans and GPU Graphic Card  ... learn how to size them https://www.quietpc.com/faq/27 note:6hU.md
+(A) +research how to do patio
+(A) clone repo to phone note:MFE.md
 (A) fertalize lawn
 (A) give linda my soldering iron
 (A) make get it so I can have two alias th and tw. 
 (A) note: my computer crashed note:HX3.md
 (A) powergrep to work computer
+(A) set up leela in cloud
 (A) take the large glass cleaner to walmarto fill
 (B) +cleanOffice  boxes under desk consolidate to one shelf
 (B) +cleanOffice  build pullup/horizontal bar
@@ -43,12 +44,7 @@
 (K) t+todotxt for +gtd https://gist.github.com/alehandrof/9941620
 @switch to +todo.sh  install birseye wk
 @switch to +todo.sh  install mit or mitf wk
-@switch to +todo.sh  install sp wk
 @switch to +todo.sh  install standup wk
-@switch to +todo.sh  pomodori program home desk @waiting must get ruby
-@swith +install stale and test
-@waiting these require python I changes shebang but that didn't work. +install @swith the stduy-sweet, but not all, just dr,ad lsgc, lsgp
-@z_definePriorities a-today b-mabyToday c-soon d-maybeSomeday e-notes to expand j-habits k-triggerlist l-studies
 @z_triggerList after work studies
 @z_triggerList car
 @z_triggerList God
@@ -60,9 +56,8 @@
 +Decision will my tags have capitial leters or not, when will they have capital letters
 +Q where do the notes go on archive? +A they seem to stay in place
 +todo.txt +install step 1 clone github repo to place it will be called
+(A) +todo.txt +install step 1 clone github repo to place it will be called
 initiate project for deciding and exploring the note action
-issue: archive may overright out of box action archive, check default pass thrugh methodology
-note: I can't afford watercooling at this time, and it is costly enought that it only makes sense with top tier GPU/ CPU were talking 00 GPU and top RIZEN with new MB .... not now.
 powergrep install on home lap
 pray scripture for the unsaved - project initiation
 project initiate some little shell shell that do things, like reverse my temp chess analysis
@@ -86,3 +81,20 @@ t:2018-09-11 @habit 07. personal email clean daily +gtd
 t:2018-09-11 @habit 02. 30 min purpose walking daily
 t:2018-09-11 @habit 05. DO gtd every day +gtd
 t:2018-09-11 @habit 09. The implanted word every day.
++initiate pray scripture for the unsaved - project 
++initiate some little shell shell that do things, like reverse my temp chess analysis
+remember: a simicolon on bash line isn't nice
+remember: to use add complete you must type all word add not just a
+remember: when using rm it only takes one, I will call that a feature - workarround is to edit file in vsCode
+t:2018-09-06 @habit 08. clean at end of day; shower; clothes out +gtd
+t:2018-09-09 @habit 06. +health weight loss track in SparkPeople
+t:2018-09-09 @habit 09. personal email clean daily +gtd
+t:2018-09-09 +home closit shelves
+t:2018-09-15 @habit 03. pri a pick trail to walk
+t:2018-09-15 @habit 12, @GodsPrize +WebSite https://wordpress.com/stats/day/godsprize.wordpress.com
+t:2018-10-12 @habit 11. +skills practice cad 20 min free cad 
+t:2018-09-10 @habit 02. cast cares on God daily put yout.
+t:2018-09-10 @habit 05. FIT (apropriate 30 min a day)
+@habit 04. charge phone daily
+@habit 02. j commit your todo often and alwas at end of day
+@habit 07. READ every day -gtd david alan 2nd edition  in kindle +gtd
