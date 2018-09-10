@@ -1,14 +1,21 @@
-(A) +Jhatoday +CSWP +News.Archive check in all my templates as I move them.
 (A) +Jhatoday +CSWP +News.Archive +issue position of paging buttons +fix center them
-(A) +Jhatoday +CSWP +News.Archive +Q how many items should be on the new archive lists +A 49 that is the max
-(A) +Jhatoday +CSWP +News.Archive copy the templates local
-(A) +Jhatoday +CSWP +News.Archive Spin up SPO jhatoday oneDrive
-(A) +Jhatoday +CSWP +News.Archive
-(A) +Jhatoday +CSWP +News.Archive
-(A) +Jhatoday +CSWP +News.Archive
+(A) +Jhatoday +CSWP +News create content type in type hub
+(A) +Jhatoday +CSWP +News debug why the ultimate debugger fails
+(A) +Jhatoday +CSWP +News +ceate_test_content catagories
+(A) +Jhatoday +CSWP +News +ceate_test_content dates
+(A) +Jhatoday +CSWP +News +test expires
+(A) +Jhatoday +CSWP +News +test +template_format main page each catagory
+(A) +Jhatoday +CSWP +News +test +template_format news page
+(A) +Jhatoday +CSWP +News +test +template_format news archive page each catagory
+(A) +Jhatoday +CSWP +News +test +template_format paging
+(A) +Jhatoday +CSWP +News +test +query only newspages
+(A) +Jhatoday +CSWP +News +test +query correct category X5
+(A) +Jhatoday +CSWP +News +test +query correct number of returns
+(A) +Jhatoday +CSWP +News +test expires
+(A) +Jhatoday +CSWP +News.Archive Spin up SPO jhatoday oneDrive +blocked it seems I can only use mapped drive not oneDrive
+(A) +Jhatoday +CSWP +News Ultimate diagnostic isn't working.
 (B) +Jhatoday +CSWP +peopleSoft
 (A) +case 223581 a set up office on my divice to work  for Tracey Sadler-Lassiter note:yRb.md
-(A) +Jhatoday +CSWP +jhatoday move news to online
 (B) +case 230377 communications site questions, need comment. I spent an hour looking for articles describing the different types of sites, and created a couple at https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/TestDiscussionBoard/AllItems.aspx
 (B) +decide: do I want to have my tag: as first thing or @ as first or +tag as first when and why +A the + highlights if VS Code use it
 (B) +decide: is @repeating the same as @habit or not?
@@ -46,7 +53,6 @@ https://github.com/todotxt/todo.txt-cli/wiki totxtWiki
 +remember repeat can do then extend due date by using + normal is re-entr days from now
 +remember the search item can find a tag just use the excape '(A'
 +remember add an extra space to a new entry if you want it to sort to the top
-+remember for repeating the priority will be stripped so habits and such need a list I am swithing the m to @habit
 +remember if you forget to escape a quote ctrl-c then the up arrow retrievs the first line.
 +remember OneNote link to local page weekly @repeating
 +remember the info button helps
@@ -55,8 +61,6 @@ https://github.com/todotxt/todo.txt-cli/wiki totxtWiki
 +remember use the onenote back button top left
 +remember use VS Code "format section" for html inside of aspx
 +remember vsCode does a nice job sorting the todo.txt
-t:2018-09-08 @habit 3 early to meetings 60%
-t:2018-09-08 @habit 4 notes on every meeting
 t:2018-09-10 @habit 12 process quick note from OneNote
 t:2018-09-10 @meeting migration status standup  note:IzX.md
 t:2018-09-11 @habit 13 weekly status notes
@@ -80,7 +84,6 @@ zt: SP feedback from chad @z_triggerList
 (D) +study read the git book I need to know what push and sync are doing
 meeting notes IDG All Hands Monthly note:56x.md
 t:2018-09-11 @habit 1 check Cherwell
-@habit 2 check the skype status
 t:2018-09-11 @habit 5 regular breaks
 t:2018-09-11 @habit 6 Review my done file once a day and add notes as needed
 t:2018-09-11 @habit 10 appointments first in morning
@@ -88,3 +91,7 @@ t:2018-09-11 @habit 11 close at end of day Clean ending
 t:2018-09-11 @habit 8 start that phone
 t:2018-09-11 @habit 7 start msTeam
 t:2018-09-11 @habit 9 use todo.sh archive every day
++Jhatoday +CSWP +jhatoday move news to online
+t:2018-09-11 @habit 3 early to meetings 60%
+t:2018-09-11 @habit 2 check the skype status
+t:2018-09-11 @habit 4 notes on every meeting

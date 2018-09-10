@@ -127,3 +127,10 @@ x 2018-09-10 07:50 t:2018-09-08 @habit 8 start that phone
 x 2018-09-10 07:52 t:2018-09-08 @habit 9 use todo.sh archive every day
 x 2018-09-10 07:50 t:2018-09-08 @habit 10 appointments first in morning
 x 2018-09-10 07:50 t:2018-09-08 @habit 11 close at end of day Clean ending
+x 2018-09-10 10:27 +Jhatoday +CSWP +News.Archive check in all my templates as I move them.
+x 2018-09-10 16:17 +Jhatoday +CSWP +News.Archive +Q how many items should be on the new archive lists +A 49 that is the max
+x 2018-09-10 10:27 +Jhatoday +CSWP +News.Archive copy the templates local
+x 2018-09-10 10:31 +Jhatoday +CSWP +jhatoday move news to online
+x 2018-09-10 14:06 t:2018-09-08 @habit 3 early to meetings 60%
+x 2018-09-10 14:08 t:2018-09-08 @habit 4 notes on every meeting
+x 2018-09-10 14:06 @habit 2 check the skype status
