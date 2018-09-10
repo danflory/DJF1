@@ -1,21 +1,20 @@
-(A) +Jhatoday +CSWP +News.Archive +issue position of paging buttons +fix center them
-(A) +Jhatoday +CSWP +News create content type in type hub
-(A) +Jhatoday +CSWP +News debug why the ultimate debugger fails
+(A) +case 223581 a set up office on my divice to work  for Tracey Sadler-Lassiter note:yRb.md
 (A) +Jhatoday +CSWP +News +ceate_test_content catagories
 (A) +Jhatoday +CSWP +News +ceate_test_content dates
-(A) +Jhatoday +CSWP +News +test expires
-(A) +Jhatoday +CSWP +News +test +template_format main page each catagory
-(A) +Jhatoday +CSWP +News +test +template_format news page
-(A) +Jhatoday +CSWP +News +test +template_format news archive page each catagory
-(A) +Jhatoday +CSWP +News +test +template_format paging
-(A) +Jhatoday +CSWP +News +test +query only newspages
 (A) +Jhatoday +CSWP +News +test +query correct category X5
 (A) +Jhatoday +CSWP +News +test +query correct number of returns
+(A) +Jhatoday +CSWP +News +test +query only newspages
+(A) +Jhatoday +CSWP +News +test +template_format main page each catagory
+(A) +Jhatoday +CSWP +News +test +template_format news archive page each catagory
+(A) +Jhatoday +CSWP +News +test +template_format news page
+(A) +Jhatoday +CSWP +News +test +template_format paging
 (A) +Jhatoday +CSWP +News +test expires
-(A) +Jhatoday +CSWP +News.Archive Spin up SPO jhatoday oneDrive +blocked it seems I can only use mapped drive not oneDrive
+(A) +Jhatoday +CSWP +News +test expires
+(A) +Jhatoday +CSWP +News create content type in type hub
+(A) +Jhatoday +CSWP +News debug why the ultimate debugger fails
 (A) +Jhatoday +CSWP +News Ultimate diagnostic isn't working.
-(B) +Jhatoday +CSWP +peopleSoft
-(A) +case 223581 a set up office on my divice to work  for Tracey Sadler-Lassiter note:yRb.md
+(A) +Jhatoday +CSWP +News.Archive +issue position of paging buttons +fix center them
+(A) +Jhatoday +CSWP +News.Archive Spin up SPO jhatoday oneDrive +blocked it seems I can only use mapped drive not oneDrive
 (B) +case 230377 communications site questions, need comment. I spent an hour looking for articles describing the different types of sites, and created a couple at https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/TestDiscussionBoard/AllItems.aspx
 (B) +decide: do I want to have my tag: as first thing or @ as first or +tag as first when and why +A the + highlights if VS Code use it
 (B) +decide: is @repeating the same as @habit or not?
@@ -25,6 +24,7 @@
 (B) +gtd how do I duplicate an entry?
 (B) +gtd understand the commit and sync process being used
 (B) +issue: track down the markdos server error is this the same thing? https://www.mkdocs.org/
+(B) +Jhatoday +CSWP +peopleSoft
 (B) +Q how do I suppress the git warnings about LF?
 (B) issue: when repeat bumps the date it doesn't recognize date with the "t:" that I added
 (B) record completion of process change for Chad's list
@@ -33,37 +33,52 @@
 (C) +consider moving the permanent stuff to a different list folder - but it shouldnt be and activity that repeats I use the action \repeat' for that
 (C) +initiate project to have document site like MS docs
 (C) +initiate work on mobile problem +Cherwell 223581
-(C) +initiate: learning plan for workflow
 (C) +initiate: +Voitano project
+(C) +initiate: learning plan for workflow
 (C) +learn Andrew Connell course
 (C) +learn More React
 (C) +learn more TypeScript
 (C) +program +gtd fix addr it only gets one word and it moves lists and tags to back
-(C) +program make some shortcuts. like show A, .... or get 'view' to work. and yes I want to edit single line hmm.
 (C) +program imitate the theme of MS vs code setting editor as practice for good program design
+(C) +program make some shortcuts. like show A, .... or get 'view' to work. and yes I want to edit single line hmm.
 (D) +consider instead of the remember: prefix consider using Anki when you can commit to it for a while
+(D) +fix  +gtd the commit so it just always adds all added as well as modified like it does now.
+(D) +program +gtd make the todo.sh ls command use regex
 (D) +program create +gtd action to initiatie a new project in my repoForSubs
 (D) +program create +gtd action to look for 'code c:' on the line and run that to open directory
 (D) +program create script to center and hold the appointment alerts so I don't miss them.... or just do an alarm
-(D) +fix  +gtd the commit so it just always adds all added as well as modified like it does now.
-(D) +program +gtd make the todo.sh ls command use regex
-https://github.com/todotxt/todo.txt-cli/wiki totxtWiki
-+remember use this url for decoding html entity https://mothereff.in/html-entities
-+remember addr expects one blank line end and uses previous
-+remember repeat can do then extend due date by using + normal is re-entr days from now
-+remember the search item can find a tag just use the excape '(A'
+(D) +study read the git book I need to know what push and sync are doing
++initate research for +case 222878 Kimberly Matheny hide Quick Launch the quick launh project has its own vsCode shorcut in shortcut folder
++Jhatoday +CSWP +jhatoday move news to online
 +remember add an extra space to a new entry if you want it to sort to the top
++remember addr expects one blank line end and uses previous
 +remember if you forget to escape a quote ctrl-c then the up arrow retrievs the first line.
 +remember OneNote link to local page weekly @repeating
++remember repeat can do then extend due date by using + normal is re-entr days from now
 +remember the info button helps
 +remember the pattern for the repeat action is ITEM daysForward
++remember the search item can find a tag just use the excape '(A'
 +remember use browser history more
 +remember use the onenote back button top left
++remember use this url for decoding html entity https://mothereff.in/html-entities
 +remember use VS Code "format section" for html inside of aspx
 +remember vsCode does a nice job sorting the todo.txt
+https://github.com/todotxt/todo.txt-cli/wiki totxtWiki
+meeting notes IDG All Hands Monthly note:56x.md
 t:2018-09-10 @habit 12 process quick note from OneNote
 t:2018-09-10 @meeting migration status standup  note:IzX.md
+t:2018-09-11 @habit 1 check Cherwell
+t:2018-09-11 @habit 10 appointments first in morning
+t:2018-09-11 @habit 11 close at end of day Clean ending
 t:2018-09-11 @habit 13 weekly status notes
+t:2018-09-11 @habit 2 check the skype status
+t:2018-09-11 @habit 3 early to meetings 60%
+t:2018-09-11 @habit 4 notes on every meeting
+t:2018-09-11 @habit 5 regular breaks
+t:2018-09-11 @habit 6 Review my done file once a day and add notes as needed
+t:2018-09-11 @habit 7 start msTeam
+t:2018-09-11 @habit 8 start that phone
+t:2018-09-11 @habit 9 use todo.sh archive every day
 t:2018-09-11 +repeat: refresh my git repo of jhatody production catalog
 t:2018-09-12 +case 211442 relocate a site with same design word doc attached to case.
 t:2018-09-12 +case 222878 hide that quick launch on modern
@@ -80,18 +95,3 @@ zt: Power User @z_triggerList
 zt: r-repeating @z_definePriorities
 zt: Safari Books @z_triggerList
 zt: SP feedback from chad @z_triggerList
-+initate research for +case 222878 Kimberly Matheny hide Quick Launch the quick launh project has its own vsCode shorcut in shortcut folder
-(D) +study read the git book I need to know what push and sync are doing
-meeting notes IDG All Hands Monthly note:56x.md
-t:2018-09-11 @habit 1 check Cherwell
-t:2018-09-11 @habit 5 regular breaks
-t:2018-09-11 @habit 6 Review my done file once a day and add notes as needed
-t:2018-09-11 @habit 10 appointments first in morning
-t:2018-09-11 @habit 11 close at end of day Clean ending
-t:2018-09-11 @habit 8 start that phone
-t:2018-09-11 @habit 7 start msTeam
-t:2018-09-11 @habit 9 use todo.sh archive every day
-+Jhatoday +CSWP +jhatoday move news to online
-t:2018-09-11 @habit 3 early to meetings 60%
-t:2018-09-11 @habit 2 check the skype status
-t:2018-09-11 @habit 4 notes on every meeting
