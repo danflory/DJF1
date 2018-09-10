@@ -118,3 +118,12 @@ x 2018-09-07 15:06 +corp listen to all hands
 x 2018-09-07 15:17 +Jhatoday +CSWP +News.Archive.Item format code 'Item_OneLIneForNewsArchive.html'
 x 2018-09-07 15:08 clean out download folder I had 1900 items in it! 4 GB in my recycle bin are clean too!
 x 2018-09-07 15:16 clean out download folder
+x 2018-09-10 07:46 t:2018-09-08 @habit 1 check Cherwell
+x 2018-09-10 07:47 t:2018-09-08 @habit 2 check the skype status
+x 2018-09-10 07:48 t:2018-09-08 @habit 5 regular breaks
+x 2018-09-10 07:48 t:2018-09-08 @habit 6 Review my done file once a day and add notes as needed
+x 2018-09-10 07:51 t:2018-09-08 @habit 7 start msTeam
+x 2018-09-10 07:50 t:2018-09-08 @habit 8 start that phone
+x 2018-09-10 07:52 t:2018-09-08 @habit 9 use todo.sh archive every day
+x 2018-09-10 07:50 t:2018-09-08 @habit 10 appointments first in morning
+x 2018-09-10 07:50 t:2018-09-08 @habit 11 close at end of day Clean ending
