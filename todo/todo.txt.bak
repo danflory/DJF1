@@ -58,7 +58,7 @@
 @z_triggerList the tickler list
 @z_triggerList wood
 +Decision will my tags have capitial leters or not, when will they have capital letters
-+Q where do the notes go on archive?
++Q where do the notes go on archive? +A they seem to stay in place
 +todo.txt +install step 1 clone github repo to place it will be called
 initiate project for deciding and exploring the note action
 issue: archive may overright out of box action archive, check default pass thrugh methodology
@@ -66,19 +66,27 @@ note: I can't afford watercooling at this time, and it is costly enought that it
 powergrep install on home lap
 pray scripture for the unsaved - project initiation
 project initiate some little shell shell that do things, like reverse my temp chess analysis
-remember: a simicolon on bash line isn't nice
-remember: to use add complete you must type all word add not just a
-remember: when using rm it only takes one, I will call that a feature - workarround is to edit file in vsCode
-t:2018-09-06 @habit @GodsPrize +WebSite https://wordpress.com/stats/day/godsprize.wordpress.com
-x 2018-09-07 16:41 t:2018-09-06 @habit 1. +health weight loss track in SparkPeople
-t:2018-09-06 @habit 2. 30 min purpose walking daily
-t:2018-09-06 @habit 3. charge phone daily
-t:2018-09-06 @habit 4. clean at end of day; shower; clothes out +gtd
-t:2018-09-06 @habit 5. DO gtd every day +gtd
-t:2018-09-06 @habit 6. j commit your todo often and alwas at end of day
-t:2018-09-06 @habit 7. personal email clean daily +gtd
-t:2018-09-06 @habit 8. READ every day -gtd david alan 2nd edition  in kindle +gtd
-t:2018-09-06 @habit 9. The implanted word every day.
-t:2018-09-08 @habit 10. pri a pick trail to walk
-t:2018-09-12 @habit 11. +skills practice cad 20 min free cad t:2018-09-01
-t:2018-09-08 t:2018-09-06 @habit 1. +health weight loss track in SparkPeople
++remember a simicolon on bash line isn't nice
++remember to use add complete you must type all word add not just a
++remember when using rm it only takes one, I will call that a feature - workarround is to edit file in vsCode
+x 2018-09-10 06:43 t:2018-09-06 @habit 07. personal email clean daily +gtd
+t:2018-09-06 @habit 08. READ every day -gtd david alan 2nd edition  in kindle +gtd
+t:2018-09-15 @habit 10. pick trail to walk
+t:2018-09-15 @habit 11. +skills practice cad 20 min free cad t:2018-09-01
+t:2018-09-08 @habit 01. +health weight loss track in SparkPeople
+t:2018-09-08 @habit @GodsPrize +WebSite https://wordpress.com/stats/day/godsprize.wordpress.com
++remember just sync does update local no need to pull
+x 2018-09-10 06:44 t:2018-09-08 @habit 02. 30 min purpose walking daily
+t:2018-09-08 @habit 03. charge phone daily
+t:2018-09-08 @habit 04. clean at end of day; shower; clothes out +gtd
+x 2018-09-10 06:44 t:2018-09-08 @habit 05. DO gtd every day +gtd
+t:2018-09-08 @habit 06. j commit your todo often and alwas at end of day
+x 2018-09-10 06:45 t:2018-09-08 @habit 09. The implanted word every day.
++Q why does a note get entered twice in note file?
+in note action set note type to .md .... this isn't just in .cfg
++info for termux on android the bash.bashrc is at /data/data/com.termux/files/usr/etc/bash.bashrc - Shrotcut.lnk
++info the termux directory for DFF1 repo is at /c/Users/msdn/storage/downloads/DJF1/
+t:2018-09-11 @habit 07. personal email clean daily +gtd
+t:2018-09-11 @habit 02. 30 min purpose walking daily
+t:2018-09-11 @habit 05. DO gtd every day +gtd
+t:2018-09-11 @habit 09. The implanted word every day.

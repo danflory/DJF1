@@ -9,4 +9,6 @@ on restart I had to go to basics
 When I unhooked the monitors today it stoped again.
 Theory: I had a loose power cord. When I tried restarting it failed.
 
---------
+## Another OS Crash
+
+something about driver.

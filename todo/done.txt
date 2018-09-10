@@ -185,3 +185,21 @@ x 2018-09-05 21:10 @habit The implanted word every day. parable of sower. receiv
 x 2018-09-05 22:09 use outline action for projects
 x 2018-09-07 06:50 @decide I could use Q A as list context or colon keys and call them issue soultion or about anything I choose. note:be4.md
 x 2018-09-07 16:41 t:2018-09-06 @habit 1. +health weight loss track in SparkPeople
+x 2018-09-07 16:44 t:2018-09-06 @habit @GodsPrize +WebSite https://wordpress.com/stats/day/godsprize.wordpress.com
+x 2018-09-07 16:46 t:2018-09-06 @habit 02. 30 min purpose walking daily
+x 2018-09-07 16:46 t:2018-09-06 @habit 03. charge phone daily
+x 2018-09-07 16:46 t:2018-09-06 @habit 04. clean at end of day; shower; clothes out +gtd
+x 2018-09-07 16:47 t:2018-09-06 @habit 05. DO gtd every day +gtd
+x 2018-09-07 16:47 t:2018-09-06 @habit 06. j commit your todo often and alwas at end of day
+x 2018-09-07 16:47 t:2018-09-06 @habit 09. The implanted word every day.
+x 2018-09-07 16:51 test note:8dZ.md
+x 2018-09-07 17:01 test note:NYd.md
+x 2018-09-07 17:15 test note:7vN.md
+x 2018-09-07 17:27 test note:zIq.md
+x 2018-09-07 17:29 test2
+x 2018-09-07 17:30 test2 note:E3Z.md
+x 2018-09-07 17:32 test3 note:qTo.md
+x 2018-09-10 06:43 t:2018-09-06 @habit 07. personal email clean daily +gtd
+x 2018-09-10 06:44 t:2018-09-08 @habit 02. 30 min purpose walking daily
+x 2018-09-10 06:44 t:2018-09-08 @habit 05. DO gtd every day +gtd
+x 2018-09-10 06:45 t:2018-09-08 @habit 09. The implanted word every day.
