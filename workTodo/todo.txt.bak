@@ -82,7 +82,6 @@ meeting notes IDG All Hands Monthly note:56x.md
 t:2018-09-11 +repeat: refresh my git repo of jhatody production catalog
 t:2018-09-12 +case 211442 relocate a site with same design word doc attached to case.
 t:2018-09-12 +case 222878 hide that quick launch on modern
-x 2018-09-11 07:35 t:2018-09-12 +initiate: my vacation project +PTO
 t:2018-09-12 +repeat CleanUpOneNoteReference
 t:2018-09-12 +repeating passwordSafe login weekly
 t:2018-09-14 +repeating GTD progress for chad every two weeks
@@ -99,6 +98,3 @@ request my home docking station.
 t:2018-9-26 add PTO time https://www.jhaeap.com/psc/HR92PRD/EMPLOYEE/HRMS/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL?
 research kql. So far the results seem mostly random. https://docs.microsoft.com/en-us/sharepoint/dev/general-development/keyword-query-language-kql-syntax-reference note:gRM.md
 +fix snagit shortcuts none of them seem to work
-x 2018-09-11 10:33 +info +news +jhatoday jhaArticle.left.aspx is the page layout. This is found 1. library contents, observe the column page layout it says "JHA Article Page w/Categories" click the link and look inthe browser address bar. that will tell the file name
-x 2018-09-11 10:42 +info how to set the default content type..... It is on the List settings! advance types change new button order and default content type"
-x 2018-09-11 11:08 -info how to find the fields used in a page note:IBD.md
