@@ -1,0 +1,3 @@
+# 11:08 -info how to find the fields used in a page
+
+https://jackhenry-my.sharepoint.com/personal/dflory_jhacorp_com/_layouts/OneNote.aspx?id=%2Fpersonal%2Fdflory_jhacorp_com%2FDocuments%2FNotebooks%2FDaniel%20Flory%20Main&wd=target%28Reference%20links.one%7CBC05C456-AB78-44E6-9BE8-93F3B49CD64B%2FHow%20to%20find%20the%20fields%20used%20in%20a%20page%20layout%7CA2F53720-D952-42C8-9E78-FE413B9A9848%2F%29

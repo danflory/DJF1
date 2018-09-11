@@ -135,3 +135,7 @@ x 2018-09-10 14:06 t:2018-09-08 @habit 3 early to meetings 60%
 x 2018-09-10 14:08 t:2018-09-08 @habit 4 notes on every meeting
 x 2018-09-10 14:06 @habit 2 check the skype status
 x 2018-09-11 07:08 t:2018-09-13 +initiate: my vacation project +PTO
+x 2018-09-11 07:35 t:2018-09-12 +initiate: my vacation project +PTO
+x 2018-09-11 10:33 +info +news +jhatoday jhaArticle.left.aspx is the page layout. This is found 1. library contents, observe the column page layout it says "JHA Article Page w/Categories" click the link and look inthe browser address bar. that will tell the file name
+x 2018-09-11 10:42 +info how to set the default content type..... It is on the List settings! advance types change new button order and default content type"
+x 2018-09-11 11:08 -info how to find the fields used in a page note:IBD.md
