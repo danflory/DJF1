@@ -86,7 +86,6 @@ t:2018-09-12 +initiate: my vacation project +PTO
 t:2018-09-12 +repeat CleanUpOneNoteReference
 t:2018-09-12 +repeating passwordSafe login weekly
 t:2018-09-14 +repeating GTD progress for chad every two weeks
-x 2018-09-11 07:08 t:2018-09-13 +initiate: my vacation project +PTO
 zt: after work studies @z_triggerList
 zt: chad @z_triggerList
 zt: Cherwell @z_triggerList
