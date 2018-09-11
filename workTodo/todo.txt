@@ -48,6 +48,20 @@
 (D) +program create +gtd action to look for 'code c:' on the line and run that to open directory
 (D) +program create script to center and hold the appointment alerts so I don't miss them.... or just do an alarm
 (D) +study read the git book I need to know what push and sync are doing
+@habit 01 check Cherwell
+@habit 02 check the skype status
+@habit 03 early to meetings 60%
+@habit 04 notes on every meeting
+@habit 05 regular breaks
+@habit 06 Review my done file once a day and add notes as needed
+@habit 07 start msTeam
+@habit 08 start that phone
+@habit 09 use todo.sh archive every day
+@habit 10 appointments first in morning
+@habit 11 close at end of day Clean ending
+@habit 12 process quick note from OneNote
+@habit 13 weekly status notes
+@meeting migration status standup  note:IzX.md
 +initate research for +case 222878 Kimberly Matheny hide Quick Launch the quick launh project has its own vsCode shorcut in shortcut folder
 +Jhatoday +CSWP +jhatoday move news to online
 +remember add an extra space to a new entry if you want it to sort to the top
@@ -65,27 +79,14 @@
 +remember vsCode does a nice job sorting the todo.txt
 https://github.com/todotxt/todo.txt-cli/wiki totxtWiki
 meeting notes IDG All Hands Monthly note:56x.md
-t:2018-09-10 @habit 12 process quick note from OneNote
-t:2018-09-10 @meeting migration status standup  note:IzX.md
-t:2018-09-11 @habit 1 check Cherwell
-t:2018-09-11 @habit 10 appointments first in morning
-t:2018-09-11 @habit 11 close at end of day Clean ending
-t:2018-09-11 @habit 13 weekly status notes
-t:2018-09-11 @habit 2 check the skype status
-t:2018-09-11 @habit 3 early to meetings 60%
-t:2018-09-11 @habit 4 notes on every meeting
-t:2018-09-11 @habit 5 regular breaks
-t:2018-09-11 @habit 6 Review my done file once a day and add notes as needed
-t:2018-09-11 @habit 7 start msTeam
-t:2018-09-11 @habit 8 start that phone
-t:2018-09-11 @habit 9 use todo.sh archive every day
 t:2018-09-11 +repeat: refresh my git repo of jhatody production catalog
 t:2018-09-12 +case 211442 relocate a site with same design word doc attached to case.
 t:2018-09-12 +case 222878 hide that quick launch on modern
+t:2018-09-12 +initiate: my vacation project +PTO
 t:2018-09-12 +repeat CleanUpOneNoteReference
 t:2018-09-12 +repeating passwordSafe login weekly
-t:2018-09-13 +initiate: my vacation project
 t:2018-09-14 +repeating GTD progress for chad every two weeks
+x 2018-09-11 07:08 t:2018-09-13 +initiate: my vacation project +PTO
 zt: after work studies @z_triggerList
 zt: chad @z_triggerList
 zt: Cherwell @z_triggerList
@@ -95,3 +96,4 @@ zt: Power User @z_triggerList
 zt: r-repeating @z_definePriorities
 zt: Safari Books @z_triggerList
 zt: SP feedback from chad @z_triggerList
+request my home docking station.
