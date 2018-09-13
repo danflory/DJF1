@@ -139,3 +139,4 @@ x 2018-09-11 07:35 t:2018-09-12 +initiate: my vacation project +PTO
 x 2018-09-11 10:33 +info +news +jhatoday jhaArticle.left.aspx is the page layout. This is found 1. library contents, observe the column page layout it says "JHA Article Page w/Categories" click the link and look inthe browser address bar. that will tell the file name
 x 2018-09-11 10:42 +info how to set the default content type..... It is on the List settings! advance types change new button order and default content type"
 x 2018-09-11 11:08 -info how to find the fields used in a page note:IBD.md
+x 2018-09-12 10:46 +case 23299 network links on for a new item on blue icon page... and resulting case I created 233645 +reportable time 7am to 11am

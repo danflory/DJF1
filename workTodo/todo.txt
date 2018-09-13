@@ -98,3 +98,4 @@ request my home docking station.
 t:2018-9-26 add PTO time https://www.jhaeap.com/psc/HR92PRD/EMPLOYEE/HRMS/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL?
 research kql. So far the results seem mostly random. https://docs.microsoft.com/en-us/sharepoint/dev/general-development/keyword-query-language-kql-syntax-reference note:gRM.md
 +fix snagit shortcuts none of them seem to work
+friendly tires
