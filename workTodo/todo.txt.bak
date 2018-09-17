@@ -1,5 +1,4 @@
 (A) +case 223581 a set up office on my divice to work  for Tracey Sadler-Lassiter note:yRb.md
-(A) +Jhatoday +CSWP +News +ceate_test_content catagories
 (A) +Jhatoday +CSWP +News +ceate_test_content dates
 (A) +Jhatoday +CSWP +News +test +query correct category X5
 (A) +Jhatoday +CSWP +News +test +query correct number of returns
@@ -12,7 +11,6 @@
 (A) +Jhatoday +CSWP +News +test expires
 (A) +Jhatoday +CSWP +News create content type in type hub
 (A) +Jhatoday +CSWP +News debug why the ultimate debugger fails
-(A) +Jhatoday +CSWP +News Ultimate diagnostic isn't working.
 (A) +Jhatoday +CSWP +News.Archive +issue position of paging buttons +fix center them
 (A) +Jhatoday +CSWP +News.Archive Spin up SPO jhatoday oneDrive +blocked it seems I can only use mapped drive not oneDrive
 (B) +case 230377 communications site questions, need comment. I spent an hour looking for articles describing the different types of sites, and created a couple at https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/TestDiscussionBoard/AllItems.aspx
@@ -23,12 +21,11 @@
 (B) +gtd get outline up and running
 (B) +gtd how do I duplicate an entry?
 (B) +gtd understand the commit and sync process being used
-(B) +issue: track down the markdos server error is this the same thing? https://www.mkdocs.org/
-(B) +Jhatoday +CSWP +peopleSoft
+(B) +issue: track down the markdoc server error I get when working .md is this the same thing? https://www.mkdocs.org/
 (B) +Q how do I suppress the git warnings about LF?
-(B) issue: when repeat bumps the date it doesn't recognize date with the "t:" that I added
-(B) record completion of process change for Chad's list
-(B) search for kvm switch note:IWA.md
+(B) +issue: when repeat bumps the date it doesn't recognize date with the "t:" that I added
+(B) +info completion of process change for Chad's list
+(B) +home search for kvm switch note:IWA.md
 (C) +consider adding more aliases to bash for other todo lists that have a different config. Like I have for work and home, I can have a list for case work and use alias tC when working on cases.
 (C) +consider moving the permanent stuff to a different list folder - but it shouldnt be and activity that repeats I use the action \repeat' for that
 (C) +initiate project to have document site like MS docs
@@ -48,11 +45,6 @@
 (D) +program create +gtd action to look for 'code c:' on the line and run that to open directory
 (D) +program create script to center and hold the appointment alerts so I don't miss them.... or just do an alarm
 (D) +study read the git book I need to know what push and sync are doing
-@habit 01 check Cherwell
-@habit 02 check the skype status
-@habit 03 early to meetings 60%
-@habit 04 notes on every meeting
-@habit 05 regular breaks
 @habit 06 Review my done file once a day and add notes as needed
 @habit 07 start msTeam
 @habit 08 start that phone
@@ -61,7 +53,7 @@
 @habit 11 close at end of day Clean ending
 @habit 12 process quick note from OneNote
 @habit 13 weekly status notes
-@meeting migration status standup  note:IzX.md
++fix snagit shortcuts none of them seem to work
 +initate research for +case 222878 Kimberly Matheny hide Quick Launch the quick launh project has its own vsCode shorcut in shortcut folder
 +Jhatoday +CSWP +jhatoday move news to online
 +remember add an extra space to a new entry if you want it to sort to the top
@@ -77,14 +69,17 @@
 +remember use this url for decoding html entity https://mothereff.in/html-entities
 +remember use VS Code "format section" for html inside of aspx
 +remember vsCode does a nice job sorting the todo.txt
+friendly tires
 https://github.com/todotxt/todo.txt-cli/wiki totxtWiki
 meeting notes IDG All Hands Monthly note:56x.md
-t:2018-09-11 +repeat: refresh my git repo of jhatody production catalog
-t:2018-09-12 +case 211442 relocate a site with same design word doc attached to case.
-t:2018-09-12 +case 222878 hide that quick launch on modern
-t:2018-09-12 +repeat CleanUpOneNoteReference
-t:2018-09-12 +repeating passwordSafe login weekly
-t:2018-09-14 +repeating GTD progress for chad every two weeks
+request my home docking station.
+research kql. So far the results seem mostly random. https://docs.microsoft.com/en-us/sharepoint/dev/general-development/keyword-query-language-kql-syntax-reference note:gRM.md
+2018-09-17 07:57 t:2018-09-11 +repeat: refresh my git repo of jhatody production catalog
+(A) t:2018-09-12 +case 211442 relocate a site with same design word doc attached to case.
+(A) t:2018-09-12 +case 222878 hide that quick launch on modern
+(B) t:2018-09-12 +repeat CleanUpOneNoteReference
+t:2018-09-14 +repeating show GTD progress for chad every two weeks
+t:2018-9-26 add PTO time https://www.jhaeap.com/psc/HR92PRD/EMPLOYEE/HRMS/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL?
 zt: after work studies @z_triggerList
 zt: chad @z_triggerList
 zt: Cherwell @z_triggerList
@@ -94,8 +89,18 @@ zt: Power User @z_triggerList
 zt: r-repeating @z_definePriorities
 zt: Safari Books @z_triggerList
 zt: SP feedback from chad @z_triggerList
-request my home docking station.
-t:2018-9-26 add PTO time https://www.jhaeap.com/psc/HR92PRD/EMPLOYEE/HRMS/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL?
-research kql. So far the results seem mostly random. https://docs.microsoft.com/en-us/sharepoint/dev/general-development/keyword-query-language-kql-syntax-reference note:gRM.md
-+fix snagit shortcuts none of them seem to work
-friendly tires
+(C) sp-chrome this was an hour study and email to chad
+(A) +news fix home news template. remove extra line on item
+(A) 1. fix the New style
+(A) email tracy about her phone.
+(A) work with +kyle in QA audience
+(A) work with +kyle in case for date/txt mixup
+work with +MS +Tracey Sadler-lasiter about phone.
+@habit 01 check Cherwell
+@habit 02 check the skype status
+@habit 03 early to meetings 60%
+@meeting +jhaMigration "https://jackhenry-my.sharepoint.com/personal/dflory_jhacorp_com/_layouts/OneNote.aspx?id=%2Fpersonal%2Fdflory_jhacorp_com%2FDocuments%2FNotebooks%2FGTD&wd=target%28meeting%20notes.one%7C601328E8-6E7A-4F47-9466-A020DE840770%2FJhaToday%20Migration%209%5C%2F17%5C%2F2018%7CFD84BEEF-BFBF-44BE-954D-8F146B1D882E%2F%29 onenote:https://jackhenry-my.sharepoint.com/personal/dflory_jhacorp_com/Documents/Notebooks/GTD/meeting%20notes.one#JhaToday%20Migration%209/17/2018%20&section-id={601328E8-6E7A-4F47-9466-A020DE840770}&page-id={FD84BEEF-BFBF-44BE-954D-8F146B1D882E}&end"
+@habit 04 notes on every meeting
+@habit 05 regular breaks
+t:2018-09-24 +repeat: refresh my git repo of jhatody production catalog
+t:2018-09-24 +repeating passwordSafe login weekly
