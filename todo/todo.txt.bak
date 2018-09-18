@@ -53,6 +53,8 @@
 @z_triggerList prayer
 @z_triggerList the tickler list
 @z_triggerList wood
+<<<<<<< HEAD
+<<<<<<< HEAD
 +Decision will my tags have capitial leters or not, when will they have capital letters
 +Q where do the notes go on archive? +A they seem to stay in place
 +todo.txt +install step 1 clone github repo to place it will be called
@@ -81,6 +83,16 @@ t:2018-09-11 @habit 07. personal email clean daily +gtd
 t:2018-09-11 @habit 02. 30 min purpose walking daily
 t:2018-09-11 @habit 05. DO gtd every day +gtd
 t:2018-09-11 @habit 09. The implanted word every day.
+=======
+(A) +todo.txt +install step 1 clone github repo to place it will be called
+initiate project for deciding and exploring the note action
+powergrep install on home lap
+>>>>>>> origin/master
+=======
+(A) +todo.txt +install step 1 clone github repo to place it will be called
+initiate project for deciding and exploring the note action
+powergrep install on home lap
+>>>>>>> origin/master
 +initiate pray scripture for the unsaved - project 
 +initiate some little shell shell that do things, like reverse my temp chess analysis
 remember: a simicolon on bash line isn't nice
