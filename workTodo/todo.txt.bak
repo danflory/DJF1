@@ -1,19 +1,38 @@
+(A) +case 211442 relocate a site with same design word doc attached to case.
+(A) +case 222878 hide that quick launch on modern
 (A) +case 223581 a set up office on my divice to work  for Tracey Sadler-Lassiter note:yRb.md
+(A) +case 230377 communications site questions, need comment. I spent an hour looking for articles describing the different types of sites, and created a couple at https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/TestDiscussionBoard/AllItems.aspx
+(A) +case 233870 Brian Dickey round robin ticket assignments
+(A) +case 235789 Tracy Tate "create Web parts on home page"
+(A) +case 237379 permission for IIycc Anne Santos, I emailed Ryan Mgr. "https://jackhenry.sharepoint.com/sites/jhacomms/firewall/3px%20%20Episys%20Ports/Forms/AllItems.aspx"
+(A) +case Cathy Jones Education needs workflow adjustment.
+(A) +Jhatoday _CSWP +News which field is start refinable 17 or refinable 18?
+(A) +Jhatoday +CSWP +News +Archive +issue error in SPO
+(A) +Jhatoday +CSWP +News +Archive +issue position of paging buttons +fix center them
 (A) +Jhatoday +CSWP +News +ceate_test_content dates
-(A) +Jhatoday +CSWP +News +test +query correct category X5
+(A) +Jhatoday +CSWP +News +test +query correct category
 (A) +Jhatoday +CSWP +News +test +query correct number of returns
-(A) +Jhatoday +CSWP +News +test +query only newspages
+(A) +Jhatoday +CSWP +News +test +query only newspages the URL works set all to use URL
 (A) +Jhatoday +CSWP +News +test +template_format main page each catagory
 (A) +Jhatoday +CSWP +News +test +template_format news archive page each catagory
 (A) +Jhatoday +CSWP +News +test +template_format news page
 (A) +Jhatoday +CSWP +News +test +template_format paging
 (A) +Jhatoday +CSWP +News +test expires
 (A) +Jhatoday +CSWP +News +test expires
-(A) +Jhatoday +CSWP +News create content type in type hub
-(A) +Jhatoday +CSWP +News debug why the ultimate debugger fails
-(A) +Jhatoday +CSWP +News.Archive +issue position of paging buttons +fix center them
-(A) +Jhatoday +CSWP +News.Archive Spin up SPO jhatoday oneDrive +blocked it seems I can only use mapped drive not oneDrive
-(B) +case 230377 communications site questions, need comment. I spent an hour looking for articles describing the different types of sites, and created a couple at https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/TestDiscussionBoard/AllItems.aspx
+(A) +Jhatoday +CSWP +News Home page template has incorect links as title.
+(A) +Jhatoday +CSWP +News try to set the date myself.
+(A) +laptop change password for forclients
+(A) +Jhatoday +CSWP +News 1. fix the New style remaining need to test this new
+(A) +Jhatoday +CSWP +News check start date lt eq
+(A) +Jhatoday +CSWP +News debug start date on archive
+(A) +Jhatoday +CSWP +News make a testing list I can ask Carlos to check.
+(A) +Jhatoday +CSWP +News  +Archive            company News must set query start < today
+(A) +Jhatoday +CSWP +News  +Archive        Executive Update dup and add company
+(A) +Jhatoday +CSWP +News  +Archive      Symitar Brand News
+(A) +Jhatoday +CSWP +News  +Archive   Jack Henry Brand News
+(A) +Jhatoday +CSWP +News  +Archive Profit Stars Brand Newsfix the 'New' formatting it didn't work on a couple
+(A) +Jhatoday +CSWP peoplesoft list content
+(A) +Jhatoday +CSWP +News should more than 49 item be paged if active?
 (B) +decide: do I want to have my tag: as first thing or @ as first or +tag as first when and why +A the + highlights if VS Code use it
 (B) +decide: is @repeating the same as @habit or not?
 (B) +decide: just add +href to the end to keep a link without priority it will stay off todo
@@ -21,11 +40,13 @@
 (B) +gtd get outline up and running
 (B) +gtd how do I duplicate an entry?
 (B) +gtd understand the commit and sync process being used
-(B) +issue: track down the markdoc server error I get when working .md is this the same thing? https://www.mkdocs.org/
-(B) +Q how do I suppress the git warnings about LF?
-(B) +issue: when repeat bumps the date it doesn't recognize date with the "t:" that I added
-(B) +info completion of process change for Chad's list
 (B) +home search for kvm switch note:IWA.md
+(B) +info completion of process change for Chad's list
+(B) +issue: track down the markdoc server error I get when working .md is this the same thing? https://www.mkdocs.org/
+(B) +issue: when repeat bumps the date it doesn't recognize date with the "t:" that I added
+(B) +Q how do I suppress the git warnings about LF?
+(B) t:2018-09-12 CleanUpOneNoteReference
+(B) +initiate test md in team site and Teams
 (C) +consider adding more aliases to bash for other todo lists that have a different config. Like I have for work and home, I can have a list for case work and use alias tC when working on cases.
 (C) +consider moving the permanent stuff to a different list folder - but it shouldnt be and activity that repeats I use the action \repeat' for that
 (C) +initiate project to have document site like MS docs
@@ -36,15 +57,21 @@
 (C) +learn More React
 (C) +learn more TypeScript
 (C) +program +gtd fix addr it only gets one word and it moves lists and tags to back
+(C) +program do the bash macros in VScode macros
 (C) +program imitate the theme of MS vs code setting editor as practice for good program design
 (C) +program make some shortcuts. like show A, .... or get 'view' to work. and yes I want to edit single line hmm.
-(D) +consider instead of the remember: prefix consider using Anki when you can commit to it for a while
+(C) +PersuadChad sp-chrome chad wasn't comfortable come back to it.
+(D) +consider instead of the remember: prefix consider using Anki when you can commit to it for a while this would need to be a new habit
 (D) +fix  +gtd the commit so it just always adds all added as well as modified like it does now.
 (D) +program +gtd make the todo.sh ls command use regex
 (D) +program create +gtd action to initiatie a new project in my repoForSubs
 (D) +program create +gtd action to look for 'code c:' on the line and run that to open directory
 (D) +program create script to center and hold the appointment alerts so I don't miss them.... or just do an alarm
-(D) +study read the git book I need to know what push and sync are doing
+(C) +study read the git book I need to know what push and sync are doing
+@habit 01 check Cherwell
+@habit 02 check the skype status
+@habit 03 early to meetings 60%
+@habit 04 notes on every meeting
 @habit 06 Review my done file once a day and add notes as needed
 @habit 07 start msTeam
 @habit 08 start that phone
@@ -52,7 +79,9 @@
 @habit 10 appointments first in morning
 @habit 11 close at end of day Clean ending
 @habit 12 process quick note from OneNote
-@habit 13 weekly status notes
+@habit 13 weekly status notes on Wednesday
+@meeting +jhaMigration "https://jackhenry-my.sharepoint.com/personal/dflory_jhacorp_com/_layouts/OneNote.aspx?id=%2Fpersonal%2Fdflory_jhacorp_com%2FDocuments%2FNotebooks%2FGTD&wd=target%28meeting%20notes.one%7C601328E8-6E7A-4F47-9466-A020DE840770%2FJhaToday%20Migration%209%5C%2F17%5C%2F2018%7CFD84BEEF-BFBF-44BE-954D-8F146B1D882E%2F%29 onenote:https://jackhenry-my.sharepoint.com/personal/dflory_jhacorp_com/Documents/Notebooks/GTD/meeting%20notes.one#JhaToday%20Migration%209/17/2018%20&section-id={601328E8-6E7A-4F47-9466-A020DE840770}&page-id={FD84BEEF-BFBF-44BE-954D-8F146B1D882E}&end"
++decide add +status to items for weekly status
 +fix snagit shortcuts none of them seem to work
 +initate research for +case 222878 Kimberly Matheny hide Quick Launch the quick launh project has its own vsCode shorcut in shortcut folder
 +Jhatoday +CSWP +jhatoday move news to online
@@ -69,16 +98,13 @@
 +remember use this url for decoding html entity https://mothereff.in/html-entities
 +remember use VS Code "format section" for html inside of aspx
 +remember vsCode does a nice job sorting the todo.txt
-friendly tires
-https://github.com/todotxt/todo.txt-cli/wiki totxtWiki
-meeting notes IDG All Hands Monthly note:56x.md
-request my home docking station.
-research kql. So far the results seem mostly random. https://docs.microsoft.com/en-us/sharepoint/dev/general-development/keyword-query-language-kql-syntax-reference note:gRM.md
-2018-09-17 07:57 t:2018-09-11 +repeat: refresh my git repo of jhatody production catalog
-(A) t:2018-09-12 +case 211442 relocate a site with same design word doc attached to case.
-(A) t:2018-09-12 +case 222878 hide that quick launch on modern
-(B) t:2018-09-12 +repeat CleanUpOneNoteReference
-t:2018-09-14 +repeating show GTD progress for chad every two weeks
+2018-09-17  +repeat: refresh my git repo of jhatody production catalog
++home friendly tires for alignment
++study https://github.com/todotxt/todo.txt-cli/wiki totxtWiki
+(B) +followUp request my home docking station.
+(B) +followUp research kql. So far the results seem mostly random. https://docs.microsoft.com/en-us/sharepoint/dev/general-development/keyword-query-language-kql-syntax-reference note:gRM.md
+t:2018-09-24 +repeat: refresh my git repo of jhatody production catalog
+t:2018-09-24 +repeating passwordSafe login weekly
 t:2018-9-26 add PTO time https://www.jhaeap.com/psc/HR92PRD/EMPLOYEE/HRMS/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL?
 zt: after work studies @z_triggerList
 zt: chad @z_triggerList
@@ -89,18 +115,4 @@ zt: Power User @z_triggerList
 zt: r-repeating @z_definePriorities
 zt: Safari Books @z_triggerList
 zt: SP feedback from chad @z_triggerList
-(C) sp-chrome this was an hour study and email to chad
-(A) +news fix home news template. remove extra line on item
-(A) 1. fix the New style
-(A) email tracy about her phone.
-(A) work with +kyle in QA audience
-(A) work with +kyle in case for date/txt mixup
-work with +MS +Tracey Sadler-lasiter about phone.
-@habit 01 check Cherwell
-@habit 02 check the skype status
-@habit 03 early to meetings 60%
-@meeting +jhaMigration "https://jackhenry-my.sharepoint.com/personal/dflory_jhacorp_com/_layouts/OneNote.aspx?id=%2Fpersonal%2Fdflory_jhacorp_com%2FDocuments%2FNotebooks%2FGTD&wd=target%28meeting%20notes.one%7C601328E8-6E7A-4F47-9466-A020DE840770%2FJhaToday%20Migration%209%5C%2F17%5C%2F2018%7CFD84BEEF-BFBF-44BE-954D-8F146B1D882E%2F%29 onenote:https://jackhenry-my.sharepoint.com/personal/dflory_jhacorp_com/Documents/Notebooks/GTD/meeting%20notes.one#JhaToday%20Migration%209/17/2018%20&section-id={601328E8-6E7A-4F47-9466-A020DE840770}&page-id={FD84BEEF-BFBF-44BE-954D-8F146B1D882E}&end"
-@habit 04 notes on every meeting
-@habit 05 regular breaks
-t:2018-09-24 +repeat: refresh my git repo of jhatody production catalog
-t:2018-09-24 +repeating passwordSafe login weekly
+@habit 14 review entire list weekly

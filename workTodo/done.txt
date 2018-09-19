@@ -1,4 +1,4 @@
-x 2018-09-04  +gtc +installTodoTxt step2 change the default shell in vscode
+t x 2018-09-04  +gtc +installTodoTxt step2 change the default shell in vscode
 x 2018-09-04  +gtd +installTodoTxt step1 clone github repo
 x 2018-09-04  +gtd +installTodoTxt step3 copy the todo.cfg to a newFile (workTodo.cfg) change the TODO_DIR
 x 2018-09-04  setup work todo.txt at work
@@ -159,10 +159,68 @@ x 2018-09-17 07:25 @habit 03 early to meetings 60%
 x 2018-09-17 07:34 @habit 04 notes on every meeting
 x 2018-09-17 07:34 @habit 05 regular breaks
 x 2018-09-13 08:58 +study sp-chrome this was an hour study and email to chad the plug in will help me
-x 2018-09-14 09:59 work with +kyle in QA set start date start date I sent email to kyle
-x 2018-09-14 10:02 work with +MS +Tracey Sadler-lasiter about phone. I forwarded Tracey MS email and responded to MS email
-x 2018-09-17 07:23 work with +kyle in QA start date
-x 2018-09-17 13:52 +try using alarms for appointments set them at start of day +result it workedx 2018-09-17 07:51 +Jhatoday +CSWP +News Ultimate diagnostic isn't working. this appears to fail if: there is a query error, or no results of query.
+x 2018-09-14 09:59 +News work with +kyle in QA set start date start date I sent email to kyle
+x 2018-09-14 10:02 +case +report work with +MS +Tracey Sadler-lasiter about phone. I forwarded Tracey MS email and responded to MS email
+x 2018-09-17 07:23 +News work with +kyle in QA start date
+x 2018-09-17 13:52 +habit +try using alarms for appointments set them at start of day +result it workedx 2018-09-17 07:51 +Jhatoday +CSWP +News Ultimate diagnostic isn't working. this appears to fail if: there is a query error, or no results of query.
 x 2018-09-17 07:39 check out +gtd +nav function for one note notes this will work well for meeting notes and other notes I just link to in GTD
 x 2018-09-17 07:47 discover that the combined query +jhatodayMigration for not expired and start after today failed because start wasnt set
 x 2018-09-17 07:58 t:2018-09-12 +repeating passwordSafe login weekly
+x 2018-09-17 10:55 +Jhatoday +CSWP +News create content type in type hub FAILED because of inheritance
+x 2018-09-17 10:55 +report +Jhatoday +CSWP +News debug why the ultimate debugger fails
+x 2018-09-17 10:56 +Jhatoday +CSWP +News +Archive Spin up SPO jhatoday oneDrive +blocked it seems I can only use mapped drive not oneDrive FAIL for _catalog
+x 2018-09-17 10:57 +news fix home news template. remove extra line
+x 2018-09-17 08:05 @habit 06 Review my done file once a day and add notes as needed
+x 2018-09-17 08:06 @habit 07 start msTeam
+x 2018-09-17 08:06 @habit 08 start that phone
+x 2018-09-17 08:06 @habit 09 use todo.sh archive every day
+x 2018-09-17 08:06 @habit 10 appointments first in morning
+x 2018-09-17 08:07 @habit 11 close at end of day Clean ending
+x 2018-09-17 08:07 @habit 12 process quick note from OneNote
+x 2018-09-17 10:53 +news +report all ask kyle for 'ArticleStartDate' to be mapped to RefinableDate18 Chad had to get this to work by deleting collection level
+x 2018-09-18 07:49 @habit 01 check Cherwell
+x 2018-09-18 07:49 @habit 02 check the skype status
+x 2018-09-18 07:49 @habit 03 early to meetings 60%
+x 2018-09-18 07:50 @habit 04 notes on every meeting Notes on two team meetings
+x 2018-09-18 07:50 @habit 05 regular breaks
+x 2018-09-18 07:50 @habit 06 Review my done file once a day and add notes as needed
+x 2018-09-18 07:52 @habit 07 start msTeam
+x 2018-09-18 07:52 @habit 08 start that phone
+x 2018-09-18 07:52 @habit 09 use todo.sh archive every day
+x 2018-09-18 07:52 @habit 10 appointments first in morning
+x 2018-09-18 07:52 @habit 11 close at end of day Clean ending
+x 2018-09-18 15:47 +report +case 230377 communications site questions, need comment. I spent an hour looking for articles describing the different types of sites, and created a couple at https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/TestDiscussionBoard/AllItems.aspx
+x 2018-09-18 10:09 add +Jhatoday RefinableDate17 as sort AND query for
+x 2018-09-18 14:29 +report set 17 in query on            company News both sort and in query for all 5
+x 2018-09-18 14:30 set 17 in query on        Executive Update
+x 2018-09-18 14:33 set 17 in query on   Jack Henry Brand News
+x 2018-09-18 14:34 set 17 in query on      Symitar Brand News
+x 2018-09-18 14:34 set 17 in query on Profit Stars Brand News
+x 2018-09-18 14:34 Export +Home News CSWP to import on each
+x 2018-09-18 13:18 News +subsite + report done query on            company News name, query, sort, appearance, template ....
+x 2018-09-18 13:20 News +subsite query on        Executive Update TAKE CARE TO DOUBLE CHECK RefinableDate17 not Int or a line off
+x 2018-09-18 13:22 News +subsite query on   Jack Henry Brand News
+x 2018-09-18 13:24 News +subsite query on      Symitar Brand News
+x 2018-09-18  13:24 +News +subsite query on +Profit Stars Brand News
+x 2018-09-18 13:59 +News +subsite +report fix internal heading by removing WP Title the solution is chrome none to make white bkground+subsite            company News
+x 2018-09-18 13:59 fix internal heading by removing WP Title the solution is chrome none to make white bkground+subsite        Executive Update
+x 2018-09-18 14:00 fix internal heading by removing WP Title the solution is chrome none to make white bkground+subsite   Jack Henry Brand News
+x 2018-09-18 14:01 fix internal heading by removing WP Title the solution is chrome none to make white bkground+subsite      Symitar Brand News
+x 2018-09-18 14:49 peopleSoft sorting
+x 2018-09-18 15:09 peopleSoft location
+x 2018-09-18 15:09 PeopleSoft templates
+x 2018-09-18 15:09 answer mindy about my computer not being able to edit work flows. I just use a VM now.
+x 2018-09-19 07:17 @habit 01 check Cherwell
+x 2018-09-19 07:18 @habit 02 check the skype status
+x 2018-09-19 07:18 @habit 03 early to meetings 60% NO Meetings yesterday
+x 2018-09-19 07:18 @habit 04 notes on every meeting No Meetings yesterday
+x 2018-09-19 07:19 @habit 06 Review my done file once a day and add notes as needed
+x 2018-09-19 07:19 @habit 07 start msTeam
+x 2018-09-19 07:19 @habit 08 start that phone
+x 2018-09-19 07:19 @habit 09 use todo.sh archive every day
+x 2018-09-19 07:19 @habit 10 appointments first in morning
+x 2018-09-19 07:20 @habit 11 close at end of day Clean ending
+x 2018-09-19 07:42 +Jhatoday +CSWP +News fix internal heading by removing WP Title +subsite Profit Stars Brand News
+x 2018-09-19 07:50 meeting notes IDG All Hands Monthly note:56x.md
+x 2018-09-19 07:53 show GTD progress for chad every two weeks
+x 2018-09-19 07:49 @habit 14 review entire list weekly
