@@ -1,3 +1,0 @@
-# @switch +install note action Now Test
-
-test install

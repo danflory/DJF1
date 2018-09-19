@@ -1,6 +1,9 @@
 (A) +home Hang extension cord on wall for linda
 (A) +home under bumper on linda's car @car
 (A) +research how to do patio
+(A) +todo.txt +install step 1 clone github repo to place it will be called
+(A) +todo.txt +install step 1 clone github repo to place it will be called
+(A) +todo.txt +install step 1 clone github repo to place it will be called
 (A) clone repo to phone note:MFE.md
 (A) fertalize lawn
 (A) give linda my soldering iron
@@ -42,6 +45,9 @@
 (E) @God church service
 (K) +review +todotxt for +gtd https://gist.github.com/alehandrof/9941620
 (K) t+todotxt for +gtd https://gist.github.com/alehandrof/9941620
+@habit 02. j commit your todo often and alwas at end of day
+@habit 04. charge phone daily
+@habit 07. READ every day -gtd david alan 2nd edition  in kindle +gtd
 @switch to +todo.sh  install birseye wk
 @switch to +todo.sh  install mit or mitf wk
 @switch to +todo.sh  install standup wk
@@ -53,23 +59,56 @@
 @z_triggerList prayer
 @z_triggerList the tickler list
 @z_triggerList wood
-(A) +todo.txt +install step 1 clone github repo to place it will be called
-initiate project for deciding and exploring the note action
-powergrep install on home lap
++ chess +question user password
++chess +question how do I sign up
++Decision will my tags have capitial leters or not, when will they have capital letters
++info for termux on android the bash.bashrc is at /data/data/com.termux/files/usr/etc/bash.bashrc - Shrotcut.lnk
++info the termux directory for DFF1 repo is at /c/Users/msdn/storage/downloads/DJF1/
++initiate pray scripture for the unsaved - project 
 +initiate pray scripture for the unsaved - project 
 +initiate some little shell shell that do things, like reverse my temp chess analysis
++initiate some little shell shell that do things, like reverse my temp chess analysis
++Q where do the notes go on archive? +A they seem to stay in place
++Q why does a note get entered twice in note file?
++remember a simicolon on bash line isn't nice
++remember just sync does update local no need to pull
++remember to use add complete you must type all word add not just a
++remember when using rm it only takes one, I will call that a feature - workarround is to edit file in vsCode
++todo.txt +install step 1 clone github repo to place it will be called
+=======
+=======
+>>>>>>> origin/master
+>>>>>>> origin/master
+in note action set note type to .md .... this isn't just in .cfg
+initiate project for deciding and exploring the note action
+initiate project for deciding and exploring the note action
+initiate project for deciding and exploring the note action
+powergrep install on home lap
+powergrep install on home lap
+powergrep install on home lap
 remember: a simicolon on bash line isn't nice
 remember: to use add complete you must type all word add not just a
 remember: when using rm it only takes one, I will call that a feature - workarround is to edit file in vsCode
-t:2018-09-06 @habit 08. clean at end of day; shower; clothes out +gtd
-t:2018-09-09 @habit 06. +health weight loss track in SparkPeople
-t:2018-09-09 @habit 09. personal email clean daily +gtd
-t:2018-09-09 +home closit shelves
-t:2018-09-15 @habit 03. pri a pick trail to walk
-t:2018-09-15 @habit 12, @GodsPrize +WebSite https://wordpress.com/stats/day/godsprize.wordpress.com
-t:2018-10-12 @habit 11. +skills practice cad 20 min free cad 
-t:2018-09-10 @habit 02. cast cares on God daily put yout.
-t:2018-09-10 @habit 05. FIT (apropriate 30 min a day)
-@habit 04. charge phone daily
-@habit 02. j commit your todo often and alwas at end of day
-@habit 07. READ every day -gtd david alan 2nd edition  in kindle +gtd
+@habit 08. clean at end of day; shower; clothes out +gtd
+@habit 08. READ every day -gtd david alan 2nd edition  in kindle +gtd
+@habit @GodsPrize +WebSite https://wordpress.com/stats/day/godsprize.wordpress.com
+@habit 01. +health weight loss track in SparkPeople
+@habit 03. charge phone daily
+@habit 04. clean at end of day; shower; clothes out +gtd
+@habit 06. j commit your todo often and alwas at end of day
+@habit 06. +health weight loss track in SparkPeople
+@habit 09. personal email clean daily +gtd
++home closit shelves
+@habit 02. cast cares on God daily put yout.
+@habit 05. FIT (apropriate 30 min a day)
+@habit 02. 30 min purpose walking daily
+@habit 05. DO gtd every day +gtd
+@habit 07. personal email clean daily +gtd
+@habit 09. The implanted word every day.
+@habit 03. pri a pick trail to walk
+@habit 10. pick trail to walk
+@habit 11. +skills practice cad 20 min free cad t:2018-09-01
+@habit 12, @GodsPrize +WebSite https://wordpress.com/stats/day/godsprize.wordpress.com
+@habit 11. +skills practice cad 20 min free cad 
+x 2018-09-18 19:19 +chess wiki "https://github.com/LeelaChessZero/lc0/wiki/"
++chess try leela august 27 in aquarium
