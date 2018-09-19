@@ -251,3 +251,4 @@ x 2018-09-09 17:13 fit tracker. note:N9b.md
 >>>>>>> origin/master
 =======
 >>>>>>> origin/master
+x 2018-09-18 19:19 +chess wiki "https://github.com/LeelaChessZero/lc0/wiki/"
