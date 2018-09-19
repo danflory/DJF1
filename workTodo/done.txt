@@ -112,3 +112,57 @@ x break walk around building 10:50 while the computer restarted Required Softwar
 x check email 11am
 x read GTD by Allen while computer is down OccurancesToday:xxx
 x reboot after software required update
+x 2018-09-07 15:54 +Jhatoday +CSWP +News +NewsArchive [dan's implementation("https://jackhenry.sharepoint.com/:o:/r/sites/esdm3pdevs/Daniel/_layouts/15/WopiFrame.aspx?sourcedoc=%7BA8793407-5549-4F56-9522-A9BDC9B5EF90%7D&file=SharePoint%20Search.one&action=default")
+x 2018-09-07 15:54 +Jhatoday +CSWP +News.Archive copy the web parts local
+x 2018-09-07 15:06 +corp listen to all hands
+x 2018-09-07 15:17 +Jhatoday +CSWP +News.Archive.Item format code 'Item_OneLIneForNewsArchive.html'
+x 2018-09-07 15:08 clean out download folder I had 1900 items in it! 4 GB in my recycle bin are clean too!
+x 2018-09-07 15:16 clean out download folder
+x 2018-09-10 07:46 t:2018-09-08 @habit 1 check Cherwell
+x 2018-09-10 07:47 t:2018-09-08 @habit 2 check the skype status
+x 2018-09-10 07:48 t:2018-09-08 @habit 5 regular breaks
+x 2018-09-10 07:48 t:2018-09-08 @habit 6 Review my done file once a day and add notes as needed
+x 2018-09-10 07:51 t:2018-09-08 @habit 7 start msTeam
+x 2018-09-10 07:50 t:2018-09-08 @habit 8 start that phone
+x 2018-09-10 07:52 t:2018-09-08 @habit 9 use todo.sh archive every day
+x 2018-09-10 07:50 t:2018-09-08 @habit 10 appointments first in morning
+x 2018-09-10 07:50 t:2018-09-08 @habit 11 close at end of day Clean ending
+x 2018-09-10 10:27 +Jhatoday +CSWP +News.Archive check in all my templates as I move them.
+x 2018-09-10 16:17 +Jhatoday +CSWP +News.Archive +Q how many items should be on the new archive lists +A 49 that is the max
+x 2018-09-10 10:27 +Jhatoday +CSWP +News.Archive copy the templates local
+x 2018-09-10 10:31 +Jhatoday +CSWP +jhatoday move news to online
+x 2018-09-10 14:06 t:2018-09-08 @habit 3 early to meetings 60%
+x 2018-09-10 14:08 t:2018-09-08 @habit 4 notes on every meeting
+x 2018-09-10 14:06 @habit 2 check the skype status
+x 2018-09-11 07:08 t:2018-09-13 +initiate: my vacation project +PTO
+x 2018-09-11 07:35 t:2018-09-12 +initiate: my vacation project +PTO
+x 2018-09-11 10:33 +info +news +jhatoday jhaArticle.left.aspx is the page layout. This is found 1. library contents, observe the column page layout it says "JHA Article Page w/Categories" click the link and look inthe browser address bar. that will tell the file name
+x 2018-09-11 10:42 +info how to set the default content type..... It is on the List settings! advance types change new button order and default content type"
+x 2018-09-11 11:08 -info how to find the fields used in a page note:IBD.md
+x 2018-09-12 10:46 +case 23299 network links on for a new item on blue icon page... and resulting case I created 233645 +reportable time 7am to 11am
+x 2018-09-13 08:38 @habit 01 check Cherwell
+x 2018-09-13 08:39 @habit 02 check the skype status
+x 2018-09-13 08:39 @habit 03 early to meetings 60%
+x 2018-09-13 08:39 @habit 04 notes on every meeting
+x 2018-09-13 08:39 @habit 06 Review my done file once a day and add notes as needed
+x 2018-09-13 08:40 @habit 07 start msTeam
+x 2018-09-13 08:45 @habit 08 start that phone
+x 2018-09-13 08:45 @habit 09 use todo.sh archive every day
+x 2018-09-13 08:45 @habit 10 appointments first in morning
+x 2018-09-13 08:46 @habit 11 close at end of day Clean ending
+x 2018-09-13 08:46 @habit 13 weekly status notes
+x 2018-09-13 08:46 @meeting migration status standup  note:IzX.md
+x 2018-09-13 08:47 +Jhatoday +CSWP +News +ceate_test_content catagories
+x 2018-09-17 07:25 @habit 01 check Cherwell
+x 2018-09-17 07:25 @habit 02 check the skype status
+x 2018-09-17 07:25 @habit 03 early to meetings 60%
+x 2018-09-17 07:34 @habit 04 notes on every meeting
+x 2018-09-17 07:34 @habit 05 regular breaks
+x 2018-09-13 08:58 +study sp-chrome this was an hour study and email to chad the plug in will help me
+x 2018-09-14 09:59 work with +kyle in QA set start date start date I sent email to kyle
+x 2018-09-14 10:02 work with +MS +Tracey Sadler-lasiter about phone. I forwarded Tracey MS email and responded to MS email
+x 2018-09-17 07:23 work with +kyle in QA start date
+x 2018-09-17 13:52 +try using alarms for appointments set them at start of day +result it workedx 2018-09-17 07:51 +Jhatoday +CSWP +News Ultimate diagnostic isn't working. this appears to fail if: there is a query error, or no results of query.
+x 2018-09-17 07:39 check out +gtd +nav function for one note notes this will work well for meeting notes and other notes I just link to in GTD
+x 2018-09-17 07:47 discover that the combined query +jhatodayMigration for not expired and start after today failed because start wasnt set
+x 2018-09-17 07:58 t:2018-09-12 +repeating passwordSafe login weekly

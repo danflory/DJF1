@@ -53,16 +53,15 @@
 @z_triggerList prayer
 @z_triggerList the tickler list
 @z_triggerList wood
-<<<<<<< HEAD
-<<<<<<< HEAD
+(A) +todo.txt +install step 1 clone github repo to place it will be called
 +Decision will my tags have capitial leters or not, when will they have capital letters
 +Q where do the notes go on archive? +A they seem to stay in place
 +todo.txt +install step 1 clone github repo to place it will be called
 (A) +todo.txt +install step 1 clone github repo to place it will be called
 initiate project for deciding and exploring the note action
 powergrep install on home lap
-pray scripture for the unsaved - project initiation
-project initiate some little shell shell that do things, like reverse my temp chess analysis
++initiate pray scripture for the unsaved - project 
++initiate some little shell shell that do things, like reverse my temp chess analysis
 +remember a simicolon on bash line isn't nice
 +remember to use add complete you must type all word add not just a
 +remember when using rm it only takes one, I will call that a feature - workarround is to edit file in vsCode
