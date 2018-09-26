@@ -1,21 +1,26 @@
-x 2018-09-18 10:09 add +Jhatoday RefinableDate17 as sort AND query for
-x 2018-09-18 13:18 News +subsite query on            company News name, query, sort, appearance, template ....
-x 2018-09-18 13:20 News +subsite query on        Executive Update TAKE CARE TO DOUBLE CHECK RefinableDate17 not Int or a line off
-x 2018-09-18 13:22 News +subsite query on   Jack Henry Brand News
-x 2018-09-18 13:24 News +subsite query on      Symitar Brand News
-x 2018-09-18 13:59 fix internal heading by removing WP Title the solution is chrome none to make white bkground+subsite            company News
-x 2018-09-18 13:59 fix internal heading by removing WP Title the solution is chrome none to make white bkground+subsite        Executive Update
-x 2018-09-18 14:00 fix internal heading by removing WP Title the solution is chrome none to make white bkground+subsite   Jack Henry Brand News
-x 2018-09-18 14:01 fix internal heading by removing WP Title the solution is chrome none to make white bkground+subsite      Symitar Brand News
-x 2018-09-18 14:29 set 17 in query on            company News both sort and in query
-x 2018-09-18 14:30 set 17 in query on        Executive Update
-x 2018-09-18 14:33 set 17 in query on   Jack Henry Brand News
-x 2018-09-18 14:34 set 17 in query on      Symitar Brand News
-x 2018-09-18 14:49 peopleSoft sorting
-x 2018-09-18 15:09 peopleSoft location
-x 2018-09-18 15:09 PeopleSoft templates
-x 2018-09-18 15:47 +case 230377 communications site questions, need comment. I spent an hour looking for articles describing the different types of sites, and created a couple at https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/TestDiscussionBoard/AllItems.aspx
-x answer mindy about my computer not being able to edit work flows. I just use a VM now.
-x Export +Home News CSWP to import on each
-x News subsite query on +Profit Stars Brand News
-x set 17 in query on Profit Stars Brand News
+<?xml version="1.0" encoding="utf-8"?>
+<feed xml:base="https://jackhenry.sharepoint.com/sites/jxchange/IDGFeedback/_api/"
+    xmlns="http://www.w3.org/2005/Atom"
+    xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices"
+    xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata"
+    xmlns:georss="http://www.georss.org/georss"
+    xmlns:gml="http://www.opengis.net/gml">
+    <id>0a038a72-bec9-40f3-97be-62cc822afa48</id>
+    <title />
+    <updated>2018-09-19T19:48:28Z</updated>
+    <entry>
+        <id>https://jackhenry.sharepoint.com/sites/jxchange/IDGFeedback/_api/Web/SiteGroups/GetById(676)</id>
+        <category term="SP.Group" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/SiteGroups/GetById(676)" />
+        <title />
+        <updated>2018-09-19T19:48:28Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:Title>IDGFeedback-Admin</d:Title>
+            </m:properties>
+        </content>
+    </entry>
+</feed>
