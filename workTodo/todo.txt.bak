@@ -63,10 +63,6 @@
 @habit 30 early to meetings 60%
 @habit 40 notes on every meeting
 @habit 45 a daily read of David Allen
-@habit 50 Review my done file once a day and add notes as needed
-@habit 60 start msTeam
-@habit 70 start that phone
-@habit 80 use todo.sh archive every day
 @habit 90 appointments first in morning
 @habit 99 close at end of day Clean ending
 @habit a waffle a day http://mml.co.uk/waffle.php
@@ -106,3 +102,7 @@ zt: Power User @z_triggerList
 zt: r-repeating @z_definePriorities
 zt: Safari Books @z_triggerList
 zt: SP feedback from chad @z_triggerList
+@habit 50 Review my done file once a day and add notes as needed
+@habit 60 start msTeam
+@habit 70 start that phone
+@habit 80 use todo.sh archive every day+report +case resolve 241252 news needed start lt or eq today

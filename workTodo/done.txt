@@ -267,11 +267,14 @@ x 2018-09-25 08:14 test idea that security may already work. FAILED
 x 2018-09-25 15:53 +Jhatoday +CSWP +News  +Archive Profit Stars Brand Newsfix the 'New' formatting it didn't work on a couple
 x 2018-09-25 15:56 +Jhatoday +CSWP +News +Archive +issue position of paging buttons +fix center them decide to leave it on the right but not need when leaving CSWP
 x 2018-09-25 15:29 fix the greater than today in all parts +report
-x 2018-09-26 07:11 2018-09-25 07:08 @habit 10 check Cherwell
-x 2018-09-26 07:12 2018-09-25 07:09 @habit 20 check the skype status
-x 2018-09-26 07:12 2018-09-25 07:09 @habit 30 early to meetings 60%
-x 2018-09-26 07:14 2018-09-25 07:09 @habit 40 notes on every meeting
+x 2018-09-26 07:11 @habit 10 check Cherwell
+x 2018-09-26 07:12 @habit 20 check the skype status
+x 2018-09-26 07:12 @habit 30 early to meetings 60%
+x 2018-09-26 07:14 @habit 40 notes on every meeting
 x 2018-09-26 07:23 @habit 90 appointments first in morning
-x 2018-09-26 07:15 2018-09-25 07:16 @habit 90 appointments first in morning
-x 2018-09-26 07:16 2018-09-25 07:16 @habit 99 close at end of day Clean ending
+x 2018-09-26 07:16 @habit 99 close at end of day Clean ending
 x 2018-09-26 07:20 @habit a waffle a day http://mml.co.uk/waffle.php
+x 2018-09-26 07:37 @habit 50 Review my done file once a day and add notes as needed
+x 2018-09-26 07:39 @habit 60 start msTeam
+x 2018-09-26 07:39 @habit 70 start that phone
+x 2018-09-26 07:40 @habit 80 use todo.sh archive every day
