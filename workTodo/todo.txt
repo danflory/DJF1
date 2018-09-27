@@ -1,16 +1,24 @@
-(A) +case +report 211442 relocate a site with same design word doc attached to case.
+!habit 10 check Cherwell
+!habit 11 start msTeam
+!habit 12 start that phone
+!habit 13 use todo.sh archive every day+report +case resolve 241252 news needed start lt or eq today
+!habit 20 check the skype status
+!habit 32 close at end of day Clean ending
+!habit 45 a daily read of David Allen
+!habit 50 Review my done file once a day and add notes as needed
+!habit 80 early to meetings 60%
+!habit 85 notes on every meeting
+!habit 90 appointments first in morning
+!habit 94 review entire list weekly
+!habit 99 weekly status notes on Wednesday
+!habit a waffle a day http://mml.co.uk/waffle.php
 (A) +case +report 222878 hide that quick launch on modern
 (A) +case +report 223581 a set up office on my divice to work  for Tracey Sadler-Lassiter note:yRb.md
-(A) +case +report 230377 communications site questions, need comment. I spent an hour looking for articles describing the different types of sites, and created a couple at https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/TestDiscussionBoard/AllItems.aspx
-(A) +case +report 233870 Brian Dickey round robin ticket assignments
-(A) +case +report 235789 Tracy Tate "create Web parts on home page"
-(A) +case +report Cathy Jones Education needs workflow adjustment.
 (A) +initiate work on mobile problem +Cherwell 223581
 (A) +Jhatoday +CSWP +News  +Archive            company News must set query start <= today
 (A) +Jhatoday +CSWP +News  +Archive            export the first one then reimport 4 times to right
 (A) +Jhatoday +CSWP +News  +Archive        Executive Update dup and add company
 (A) +Jhatoday +CSWP +News  +Archive      Symitar Brand News
-(A) +Jhatoday +CSWP +News  +Archive   Jack Henry Brand News
 (A) +Jhatoday +CSWP +News  +Archive +issue the styling is lost.
 (A) +Jhatoday +CSWP +News +Archive debug start date on archive
 (A) +Jhatoday +CSWP +News +ceate_test_content dates
@@ -22,7 +30,7 @@
 (A) add news test with audience record that
 (A) double check that the Jack Henry Brand News lt eq
 (B) +decide: do I want to have my tag: as first thing or @ as first or +tag as first when and why +A the + highlights if VS Code use it
-(B) +decide: is @repeating the same as @habit or not?
+(B) +decide: is @repeating the same as !habit or not?
 (B) +decide: just add +href to the end to keep a link without priority it will stay off todo
 (B) +followUp request my home docking station.
 (B) +gtd check error about the preview service when I preview a MD document note:sCo.md
@@ -35,6 +43,7 @@
 (B) +issue: track down the markdoc server error I get when working .md is this the same thing? https://www.mkdocs.org/
 (B) +issue: when repeat bumps the date it doesn't recognize date with the "t:" that I added
 (B) +Q how do I suppress the git warnings about LF?
+(B) in october novemberish add a tracker of morning start up time.
 (B) t:2018-09-12 CleanUpOneNoteReference needs to be a daily habit until the 100 or so items are in place
 (C) +consider adding more aliases to bash for other todo lists that have a different config. Like I have for work and home, I can have a list for case work and use alias tC when working on cases.
 (C) +consider moving the permanent stuff to a different list folder - but it shouldnt be and activity that repeats I use the action \repeat' for that
@@ -56,21 +65,22 @@
 (D) +program create +gtd action to initiatie a new project in my repoForSubs
 (D) +program create +gtd action to look for 'code c:' on the line and run that to open directory
 (D) +program create script to center and hold the appointment alerts so I don't miss them.... or just do an alarm
-@habit 10 check Cherwell
-@habit 13 weekly status notes on Wednesday
-@habit 14 review entire list weekly
-@habit 20 check the skype status
-@habit 30 early to meetings 60%
-@habit 40 notes on every meeting
-@habit 45 a daily read of David Allen
-@habit 90 appointments first in morning
-@habit 99 close at end of day Clean ending
-@habit a waffle a day http://mml.co.uk/waffle.php
+& b/f +sort alphabetical symbols
+# c/b +sort alphabetical symbols
+# d/c +sort alphabetical symbols
+% e +sort alphabetical symbols
++case +report 211442 relocate a site with same design word doc attached to case.
++case +report 233870 Brian Dickey round robin ticket assignments notes in OneNote case number +report I met with Brian and sent Mindy email, I think Flow is the way
++case +report 235789 Tracy Tate "create Web parts on home page"
++case +report Cathy Jones Education needs workflow adjustment.
 +decide add +status to items for weekly status
 +fix snagit shortcuts none of them seem to work
++gtd use ! for habits so they sort to top
 +home friendly tires for alignment
++info ! a +sort alphabetical symbols
 +initate research for +case 222878 Kimberly Matheny hide Quick Launch the quick launh project has its own vsCode shorcut in shortcut folder
 +Jhatoday +CSWP +jhatoday move news to online
++laptop change password for forclients
 +news1 add web part to page and choose the correct view
 +news1 filter on Company News; Article Date > [tocay]; JHA Expired Date < [Today]
 +news1 Sort on Article Date
@@ -89,10 +99,17 @@
 +remember use VS Code "format section" for html inside of aspx
 +remember vsCode does a nice job sorting the todo.txt
 +study https://github.com/todotxt/todo.txt-cli/wiki totxtWiki
+$ f/d +sort alphabetical symbols
+alphabetic order of ascii t alphabetic coder of symbols space,!"#$%&'()*+ fowardtick ./
+find in ascii chart what will precede ( so that I can put habits at top. http://www.asciitable.com/
+make new case for Carol about column format pannel
+t add !zFollowUp: order docking station for home. incident 242304
 t:2018-09-17  +repeat: refresh my git repo of jhatody production catalog
 t:2018-09-24 +repeat: refresh my git repo of jhatody production catalog
 t:2018-10-02 +repeating passwordSafe login weekly
+t:2018-10-03 +Jhatoday +CSWP +News  +Archive   Jack Henry Brand News
 t:2018-9-26 add PTO time https://www.jhaeap.com/psc/HR92PRD/EMPLOYEE/HRMS/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL?
+test
 zt: after work studies @z_triggerList
 zt: chad @z_triggerList
 zt: Cherwell @z_triggerList
@@ -102,8 +119,3 @@ zt: Power User @z_triggerList
 zt: r-repeating @z_definePriorities
 zt: Safari Books @z_triggerList
 zt: SP feedback from chad @z_triggerList
-@habit 50 Review my done file once a day and add notes as needed
-@habit 60 start msTeam
-@habit 70 start that phone
-@habit 80 use todo.sh archive every day+report +case resolve 241252 news needed start lt or eq today
-@habit 80 use todo.sh archive every day+report +case resolve 241252 news needed start lt or eq today

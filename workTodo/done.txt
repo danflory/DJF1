@@ -278,3 +278,29 @@ x 2018-09-26 07:37 @habit 50 Review my done file once a day and add notes as nee
 x 2018-09-26 07:39 @habit 60 start msTeam
 x 2018-09-26 07:39 @habit 70 start that phone
 x 2018-09-26 07:40 @habit 80 use todo.sh archive every day
+x 2018-09-26 10:21 +case +report Cathy Jones Education needs workflow adjustment. when the workflow changed the document name or updated the title the document t
+x 2018-09-27 07:03 +Jhatoday +CSWP +News  +Archive   Jack Henry Brand News
+x 2018-09-27 07:43 +case +report 211442 I sent email in cherwell
+x 2018-09-27 07:56 see oneNote notes for 230377 https://jackhenry-my.sharepoint.com/personal/dflory_jhacorp_com/_layouts/OneNote.aspx?id=%2Fpersonal%2Fdflory_jhacorp_com%2FDocuments%2FNotebooks%2FDaniel%20Flory%20Main&wd=target%28SharePoint%2Fpast%20cases.one%7C39AD8B5F-6B2B-4C15-AFF8-AFE4FFAC3783%2FRebekah%20Cooper%20230377%7C06E69AD2-78CD-44D7-8365-8B39F1838479%2F%29 onenote:https://jackhenry-my.sharepoint.com/personal/dflory_jhacorp_com/Documents/Notebooks/Daniel%20Flory%20Main/SharePoint/past%20cases.one#Rebekah%20Cooper%20230377&section-id={39AD8B5F-6B2B-4C15-AFF8-AFE4FFAC3783}&page-id={06E69AD2-78CD-44D7-8365-8B39F1838479}&end
+x 2018-09-27 07:57 +case +report 230377 Rebekah Cooper add comments notes in OneNote uder 230377 communications site questions, need comment. I spent an hour looking for articles describing the different types of sites, and created a couple at https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/TestDiscussionBoard/AllItems.aspx
+x 2018-09-27 07:57 +case +report 233870 Brian Dickey round robin ticket assignments +report I met with Brian and sent Mindy email, I think Flow is the way
+x 2018-09-27 08:00 +case +report 233870 Brian Dickey round robin ticket assignments notes in OneNote case number +report I met with Brian and sent Mindy email, I think Flow is the way
+x 2018-09-27 08:11 +case +report 235789 Tracy Tate "create Web parts on home page" I made teams meeting for monday 1:00pm
+x 2018-09-27 09:51 meet with chad note in OneNote
+x 2018-09-27 10:14 !habit 10 check Cherwell
+x 2018-09-27 10:06 !habit 14 review entire list weekly
+x 2018-09-27 10:15 !habit 20 check the skype status
+x 2018-09-27 10:06 !habit 30 early to meetings 60% OnTime for Chad
+x 2018-09-27 10:06 !habit 40 notes on every meeting meet with Carol Not very good notes on cases
+x 2018-09-27 10:18 !habit 45 a daily read of David Allen
+x 2018-09-27 10:18 !habit 50 Review my done file once a day and add notes as needed
+x 2018-09-27 10:08 !habit 60 start msTeam
+x 2018-09-27 10:08 !habit 70 start that phone
+x 2018-09-27 10:08 !habit 80 use todo.sh archive every day+report
+x 2018-09-27 10:11 +case resolve 241252 news needed start lt or eq today
+x 2018-09-27 10:09 !habit 90 appointments first in morning
+x 2018-09-27 10:10 !habit 99 close at end of day Clean ending
+x 2018-09-27 10:19 !habit a waffle a day http://mml.co.uk/waffle.php
+x 2018-09-27 10:03 !habit 10 check Cherwell
+x 2018-09-27 10:03 !habit 10 check Cherwell
+x 2018-09-27 10:35 'https://joannecklein.com/2018/08/31/10-reasons-the-sharepoint-modern-library-experience-is-better/'
