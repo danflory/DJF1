@@ -304,3 +304,18 @@ x 2018-09-27 10:19 !habit a waffle a day http://mml.co.uk/waffle.php
 x 2018-09-27 10:03 !habit 10 check Cherwell
 x 2018-09-27 10:03 !habit 10 check Cherwell
 x 2018-09-27 10:35 'https://joannecklein.com/2018/08/31/10-reasons-the-sharepoint-modern-library-experience-is-better/'
+x 2018-09-28 08:03 !habit 11 start msTeam
+x 2018-09-28 08:03 !habit 12 start that phone
+x 2018-09-28 08:04 !habit 13 use todo.sh archive every day+report +case resolve 241252 news needed start lt or eq today
+x 2018-09-28 08:11 !habit 20 check the skype status
+x 2018-09-28 08:04 !habit 32 close at end of day Clean ending
+x 2018-09-28 08:25 !habit 45 a daily read of David Allen
+x 2018-09-28 08:08 !habit 80 early to meetings 60%
+x 2018-09-28 08:26 !habit 85 notes on every meeting
+x 2018-09-28 08:28 !habit 90 appointments first in morning
+x 2018-09-28 07:55 +remember +gtd if you forget to escape a quote use ctrl-c then the up arrow retrievs the first line.
+x 2018-09-28 07:59 +remember +gtd repeat can do then extend due date by using + normal is re-entr days from now
+x 2018-09-28 08:02 +remember vsCode does a nice job sorting the todo.txt
+x 2018-09-27 10:45 find in ascii chart what will precede ( so that I can put habits at top. http://www.asciitable.com/
+x 2018-09-27 10:44 FollowUp: order docking station for home. incident 242304
+x 2018-09-28 07:57 +MSTicket 11573296 column widthhttps://jackhenry-my.sharepoint.com/personal/dflory_jhacorp_com/_layouts/OneNote.aspx?id=%2Fpersonal%2Fdflory_jhacorp_com%2FDocuments%2FNotebooks%2FGTD&wd=target%28IN-NEXT.one%7C0A8EEDF6-CB63-48B3-969E-5E4BC61BA682%2F%5BTicket%20%23%3A11573296%5D%7C35841576-E980-41E1-93B5-E520F83D6D96%2F%29 onenote:https://jackhenry-my.sharepoint.com/personal/dflory_jhacorp_com/Documents/Notebooks/GTD/IN-NEXT.one#%5bTicket%2011573296]&section-id={0A8EEDF6-CB63-48B3-969E-5E4BC61BA682}&page-id={35841576-E980-41E1-93B5-E520F83D6D96}&end

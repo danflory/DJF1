@@ -1,17 +1,19 @@
-!habit 10 check Cherwell
+!followUp request my home docking station.
 !habit 11 start msTeam
-!habit 12 start that phone
-!habit 13 use todo.sh archive every day+report +case resolve 241252 news needed start lt or eq today
+!habit 12 start that phone (vpn needed)
 !habit 20 check the skype status
 !habit 32 close at end of day Clean ending
 !habit 45 a daily read of David Allen
-!habit 50 Review my done file once a day and add notes as needed
 !habit 80 early to meetings 60%
-!habit 85 notes on every meeting
+!habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N
+!habit 86 Review my done file once a day and add notes as needed
+!habit 88 check Cherwell
 !habit 90 appointments first in morning
 !habit 94 review entire list weekly
+!habit 97  weekly refresh my git repo of jhatody production catalog
+!habit 98 passwordSafe login weekly
 !habit 99 weekly status notes on Wednesday
-!habit a waffle a day http://mml.co.uk/waffle.php
+!habit a David Allen or Wafel quote a day.
 (A) +case +report 222878 hide that quick launch on modern
 (A) +case +report 223581 a set up office on my divice to work  for Tracey Sadler-Lassiter note:yRb.md
 (A) +initiate work on mobile problem +Cherwell 223581
@@ -32,7 +34,6 @@
 (B) +decide: do I want to have my tag: as first thing or @ as first or +tag as first when and why +A the + highlights if VS Code use it
 (B) +decide: is @repeating the same as !habit or not?
 (B) +decide: just add +href to the end to keep a link without priority it will stay off todo
-(B) +followUp request my home docking station.
 (B) +gtd check error about the preview service when I preview a MD document note:sCo.md
 (B) +gtd get outline up and running
 (B) +gtd how do I duplicate an entry?
@@ -74,6 +75,7 @@
 +case +report 235789 Tracy Tate "create Web parts on home page"
 +case +report Cathy Jones Education needs workflow adjustment.
 +decide add +status to items for weekly status
++decide Novemeber track success of meeting notes habit
 +fix snagit shortcuts none of them seem to work
 +gtd use ! for habits so they sort to top
 +home friendly tires for alignment
@@ -85,30 +87,23 @@
 +news1 filter on Company News; Article Date > [tocay]; JHA Expired Date < [Today]
 +news1 Sort on Article Date
 +news1 view name CompanyNewsHome
-+remember add an extra space to a new entry if you want it to sort to the top
-+remember addr expects one blank line end and uses previous
-+remember if you forget to escape a quote ctrl-c then the up arrow retrievs the first line.
++remember +gtd add an extra space to a new entry if you want it to sort to the top
++remember +gtd addr expects one blank line end and uses previous
++remember +gtd the pattern for the repeat action is ITEM daysForward
++remember +gtd the search item can find a tag just use the excape/backslash '(A'
++remember +OneNote +gtd you can click OneNote in an email to move the note to a your set directory.
++remember +OneNote use the onenote back button top left
++remember +programming use this url for decoding html entity https://mothereff.in/html-entities
++remember +programming use VS Code "format section" for html inside of aspx
++remember +sharepoint page info button helps
++remember alphabetic order of ascii t alphabetic coder of symbols space,!"#$%&'()*+ fowardtick ./
 +remember OneNote link to local page weekly @repeating
-+remember repeat can do then extend due date by using + normal is re-entr days from now
-+remember the info button helps
-+remember the pattern for the repeat action is ITEM daysForward
-+remember the search item can find a tag just use the excape '(A'
-+remember use browser history more
-+remember use the onenote back button top left
-+remember use this url for decoding html entity https://mothereff.in/html-entities
-+remember use VS Code "format section" for html inside of aspx
-+remember vsCode does a nice job sorting the todo.txt
++remember use browser history more, and favorites to get into keypirana
 +study https://github.com/todotxt/todo.txt-cli/wiki totxtWiki
 $ f/d +sort alphabetical symbols
-alphabetic order of ascii t alphabetic coder of symbols space,!"#$%&'()*+ fowardtick ./
-find in ascii chart what will precede ( so that I can put habits at top. http://www.asciitable.com/
+ask microsoft why the modern panel wouldn't show up.
 make new case for Carol about column format pannel
-t add !zFollowUp: order docking station for home. incident 242304
-t:2018-09-17  +repeat: refresh my git repo of jhatody production catalog
-t:2018-09-24 +repeat: refresh my git repo of jhatody production catalog
-t:2018-10-02 +repeating passwordSafe login weekly
-t:2018-10-03 +Jhatoday +CSWP +News  +Archive   Jack Henry Brand News
-t:2018-9-26 add PTO time https://www.jhaeap.com/psc/HR92PRD/EMPLOYEE/HRMS/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL?
+t:2018-9-26 add PTO time after thanksgiving vacation https://www.jhaeap.com/psc/HR92PRD/EMPLOYEE/HRMS/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL?
 test
 zt: after work studies @z_triggerList
 zt: chad @z_triggerList
