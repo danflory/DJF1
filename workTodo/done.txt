@@ -318,4 +318,9 @@ x 2018-09-28 07:59 +remember +gtd repeat can do then extend due date by using + 
 x 2018-09-28 08:02 +remember vsCode does a nice job sorting the todo.txt
 x 2018-09-27 10:45 find in ascii chart what will precede ( so that I can put habits at top. http://www.asciitable.com/
 x 2018-09-27 10:44 FollowUp: order docking station for home. incident 242304
-x 2018-09-28 07:57 +MSTicket 11573296 column widthhttps://jackhenry-my.sharepoint.com/personal/dflory_jhacorp_com/_layouts/OneNote.aspx?id=%2Fpersonal%2Fdflory_jhacorp_com%2FDocuments%2FNotebooks%2FGTD&wd=target%28IN-NEXT.one%7C0A8EEDF6-CB63-48B3-969E-5E4BC61BA682%2F%5BTicket%20%23%3A11573296%5D%7C35841576-E980-41E1-93B5-E520F83D6D96%2F%29 onenote:https://jackhenry-my.sharepoint.com/personal/dflory_jhacorp_com/Documents/Notebooks/GTD/IN-NEXT.one#%5bTicket%2011573296]&section-id={0A8EEDF6-CB63-48B3-969E-5E4BC61BA682}&page-id={35841576-E980-41E1-93B5-E520F83D6D96}&end
+x 2018-09-28 07:57 +MSTicket 11573296 column width "https://jackhenry-my.sharepoint.com/personal/dflory_jhacorp_com/_layouts/OneNote.aspx?id=%2Fpersonal%2Fdflory_jhacorp_com%2FDocuments%2FNotebooks%2FGTD&wd=target%28IN-NEXT.one%7C0A8EEDF6-CB63-48B3-969E-5E4BC61BA682%2F%5BTicket%20%23%3A11573296%5D%7C35841576-E980-41E1-93B5-E520F83D6D96%2F%29 onenote:https://jackhenry-my.sharepoint.com/personal/dflory_jhacorp_com/Documents/Notebooks/GTD/IN-NEXT.one#%5bTicket%2011573296]&section-id={0A8EEDF6-CB63-48B3-969E-5E4BC61BA682}&page-id={35841576-E980-41E1-93B5-E520F83D6D96}&end"
+x 2018-09-28 10:14 +case +report 233870 Brian Dickey round robin ticket assignments notes in OneNote case number +report I met with Brian and sent Mindy email, I think Flow is the way
+x 2018-09-28 08:38 !habit 86 Review my done file once a day and add notes as needed
+x 2018-09-28 09:01 +case +report 235789 Tracy Tate "create Web parts on home page"
+x 2018-09-28 09:01 +case +report Cathy Jones Education needs workflow adjustment.
+x 2018-10-01 07:07 snagget updat

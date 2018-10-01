@@ -4,18 +4,20 @@
 !habit 20 check the skype status
 !habit 32 close at end of day Clean ending
 !habit 45 a daily read of David Allen
+!habit 47 a David Allen or Wafel quote a day.
+!habit 50 appointments first in morning
 !habit 80 early to meetings 60%
 !habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N
 !habit 86 Review my done file once a day and add notes as needed
 !habit 88 check Cherwell
-!habit 90 appointments first in morning
 !habit 94 review entire list weekly
-!habit 97  weekly refresh my git repo of jhatody production catalog
+!habit 97 weekly refresh my git repo of jhatody production catalog
 !habit 98 passwordSafe login weekly
 !habit 99 weekly status notes on Wednesday
-!habit a David Allen or Wafel quote a day.
+(A) +case +report 211442 relocate a site with same design word doc attached to case.
 (A) +case +report 222878 hide that quick launch on modern
 (A) +case +report 223581 a set up office on my divice to work  for Tracey Sadler-Lassiter note:yRb.md
+(A) +initate research for +case 222878 Kimberly Matheny hide Quick Launch the quick launh project has its own vsCode shorcut in shortcut folder
 (A) +initiate work on mobile problem +Cherwell 223581
 (A) +Jhatoday +CSWP +News  +Archive            company News must set query start <= today
 (A) +Jhatoday +CSWP +News  +Archive            export the first one then reimport 4 times to right
@@ -28,6 +30,11 @@
 (A) +Jhatoday +CSWP +News +test expires
 (A) +Jhatoday +CSWP +News +test expires
 (A) +laptop change password for forclients
+(A) +laptop change password for forclients
+(A) +news1 add web part to page and choose the correct view
+(A) +news1 filter on Company News; Article Date > [tocay]; JHA Expired Date < [Today]
+(A) +news1 Sort on Article Date
+(A) +news1 view name CompanyNewsHome
 (A) +training harassment training
 (A) add news test with audience record that
 (A) double check that the Jack Henry Brand News lt eq
@@ -70,23 +77,12 @@
 # c/b +sort alphabetical symbols
 # d/c +sort alphabetical symbols
 % e +sort alphabetical symbols
-+case +report 211442 relocate a site with same design word doc attached to case.
-+case +report 233870 Brian Dickey round robin ticket assignments notes in OneNote case number +report I met with Brian and sent Mindy email, I think Flow is the way
-+case +report 235789 Tracy Tate "create Web parts on home page"
-+case +report Cathy Jones Education needs workflow adjustment.
 +decide add +status to items for weekly status
 +decide Novemeber track success of meeting notes habit
 +fix snagit shortcuts none of them seem to work
 +gtd use ! for habits so they sort to top
 +home friendly tires for alignment
 +info ! a +sort alphabetical symbols
-+initate research for +case 222878 Kimberly Matheny hide Quick Launch the quick launh project has its own vsCode shorcut in shortcut folder
-+Jhatoday +CSWP +jhatoday move news to online
-+laptop change password for forclients
-+news1 add web part to page and choose the correct view
-+news1 filter on Company News; Article Date > [tocay]; JHA Expired Date < [Today]
-+news1 Sort on Article Date
-+news1 view name CompanyNewsHome
 +remember +gtd add an extra space to a new entry if you want it to sort to the top
 +remember +gtd addr expects one blank line end and uses previous
 +remember +gtd the pattern for the repeat action is ITEM daysForward
@@ -114,3 +110,7 @@ zt: Power User @z_triggerList
 zt: r-repeating @z_definePriorities
 zt: Safari Books @z_triggerList
 zt: SP feedback from chad @z_triggerList
+(A) next years calendar https://jackhenry.sharepoint.com/sites/jhatoday/News/Pages/2019-Holiday-File-and-Julian-Day-of-Year-Instructions-Available.aspx
+(B) +study azure equivelent to Flow whatever they are called.
++case +report 233870 Brian Dickey round robin ticket assignments notes in OneNote case number +report I met with Brian and sent Mindy email, I think Flow is the way
+(A) +case 235789 Tracy Tate create Web parts on home page
