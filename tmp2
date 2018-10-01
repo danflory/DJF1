@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xml:base="https://jackhenry.sharepoint.com/sites/jxchange/IDGFeedback/_api/"
+    xmlns="http://www.w3.org/2005/Atom"
+    xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices"
+    xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata"
+    xmlns:georss="http://www.georss.org/georss"
+    xmlns:gml="http://www.opengis.net/gml">
+    <id>0a038a72-bec9-40f3-97be-62cc822afa48</id>
+    <title />
+    <updated>2018-09-19T19:48:28Z</updated>
+    <entry>
+        <id>https://jackhenry.sharepoint.com/sites/jxchange/IDGFeedback/_api/Web/SiteGroups/GetById(676)</id>
+        <category term="SP.Group" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/SiteGroups/GetById(676)" />
+        <title />
+        <updated>2018-09-19T19:48:28Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:Title>IDGFeedback-Admin</d:Title>
+            </m:properties>
+        </content>
+    </entry>
+</feed>
