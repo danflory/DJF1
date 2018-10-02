@@ -111,3 +111,4 @@ remember: when using rm it only takes one, I will call that a feature - workarro
 @habit 12, @GodsPrize +WebSite https://wordpress.com/stats/day/godsprize.wordpress.com
 @habit 11. +skills practice cad 20 min free cad 
 +chess try leela august 27 in aquarium
+(B) http://cs231n.stanford.edu/
