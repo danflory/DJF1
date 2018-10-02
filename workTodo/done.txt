@@ -1,4 +1,4 @@
-t x 2018-09-04  +gtc +installTodoTxt step2 change the default shell in vscode
+x 2018-09-04  +gtc +installTodoTxt step2 change the default shell in vscode
 x 2018-09-04  +gtd +installTodoTxt step1 clone github repo
 x 2018-09-04  +gtd +installTodoTxt step3 copy the todo.cfg to a newFile (workTodo.cfg) change the TODO_DIR
 x 2018-09-04  setup work todo.txt at work
@@ -323,4 +323,58 @@ x 2018-09-28 10:14 +case +report 233870 Brian Dickey round robin ticket assignme
 x 2018-09-28 08:38 !habit 86 Review my done file once a day and add notes as needed
 x 2018-09-28 09:01 +case +report 235789 Tracy Tate "create Web parts on home page"
 x 2018-09-28 09:01 +case +report Cathy Jones Education needs workflow adjustment.
-x 2018-10-01 07:07 snagget updat
+x 2018-10-01 07:07 snagget update then restart computer
+x 2018-10-01 07:17 !habit 11 start msTeam
+x 2018-10-01 07:17 !habit 12 start that phone (vpn needed)
+x 2018-10-01 07:17 !habit 20 check the skype status
+x 2018-10-01 07:17 !habit 32 close at end of day Clean ending WOOPS restart monday morning
+x 2018-10-01 07:25 !habit 47 a David Allen or Wafel quote a day.
+x 2018-10-01 07:26 !habit 50 appointments first in morning
+x 2018-10-01 07:27 !habit 80 early to meetings 60% NO MEETINGS fRIDAY
+x 2018-10-01 07:27 !habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N NO MEETING FRIDAY
+x 2018-10-01 09:42 !habit 86 Review my done file once a day and add notes as needed
+x 2018-10-01 09:42 !habit 88 check Cherwell
+x 2018-10-01 09:51 +Jhatoday +CSWP +News  +Archive            company News must set query start <= today
+x 2018-10-01 09:51 +Jhatoday +CSWP +News  +Archive            export the first one then reimport 4 times to right
+x 2018-10-01 09:51 +Jhatoday +CSWP +News  +Archive        Executive Update dup and add company
+x 2018-10-01 09:52 +Jhatoday +CSWP +News  +Archive      Symitar Brand News
+x 2018-10-01 09:52 +Jhatoday +CSWP +News  +Archive +issue the styling is lost.
+x 2018-10-01 09:52 +Jhatoday +CSWP +News +Archive debug start date on archive
+x 2018-10-01 09:52 +Jhatoday +CSWP +News +ceate_test_content dates
+x 2018-10-01 09:52 +Jhatoday +CSWP +News +test +template_format paging
+x 2018-10-01 09:52 +Jhatoday +CSWP +News +test expires
+x 2018-10-01 09:52 +Jhatoday +CSWP +News +test expires
+x 2018-10-01 09:52 +news1 add web part to page and choose the correct view
+x 2018-10-01 09:52 +news1 filter on Company News; Article Date > [tocay]; JHA Expired Date < [Today]
+x 2018-10-01 09:52 +news1 Sort on Article Date
+x 2018-10-01 09:53 +news1 view name CompanyNewsHome
+x 2018-10-01 09:51 +training harassment training DONE
+x 2018-10-01 09:53 add news test with audience record that
+x 2018-10-01 09:53 +decide: do I want to have my tag: as first thing or @ as first or +tag as first when and why +A the + highlights if VS Code use it +DECIDED: use VsCode sort and not dates
+x 2018-10-01 09:54 +decide: is @repeating the same as !habit or not? +DECIDED YES use \!habit
+x 2018-10-01 09:57 +decide +issue: when repeat bumps the date it doesn't recognize date with the "t:" that I added +DECIDED: Just use undated repeat, I use Pri not dates for sort
+x 2018-10-01 10:03 +gtd use ! for habits so they sort to top WELL PRACTICED HABITS
+x 2018-10-01 10:06 +remember +gtd add an extra space to a new entry if you want it to sort to the top. +DECIDED: I USE ! AND OTHER SYMBOLS ALPHABETIZED
+x 2018-10-01 10:13 +study https://github.com/todotxt/todo.txt-cli/wiki totxtWiki DONE
+x 2018-10-01 10:15 +case make new case for Carol about column format pannel
+x 2018-10-01 07:32 +gtd uninstall todo.txt extension from vsCode because Done became unreadable
+x 2018-10-01 09:03 +quickEmail to Mindy asking about the Round Robin Assignment.
+x 2018-10-01 09:02 +corporate check JHA edu for courses I'm enroled in
+x 2018-10-01 09:02 +corporate complete open policy and harassment check. +report
+x 2018-10-01 10:12 +quickTrain converse with Cindy in IM about permissions. the conversation captured in OneNote "News Audience and permissions"
+x 2018-10-02 07:21 !habit 11 start msTeam
+x 2018-10-02 07:21 !habit 12 start that phone (vpn needed)
+x 2018-10-02 07:21 !habit 20 check the skype status
+x 2018-10-02 07:22 !habit 32 close at end of day Clean ending
+x 2018-10-02 07:22 !habit 47 a David Allen or Wafel quote a day.
+x 2018-10-02 07:23 !habit 50 appointments first in morning
+x 2018-10-02 07:25 !habit 80 early to meetings 60% YES
+x 2018-10-02 07:25  !habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N
+x 2018-10-02 07:40 !habit 86 Review my done file once a day and add notes as needed
+x 2018-10-02 08:50 !habit 88 check Cherwell (needs VPN)
+x 2018-10-02 07:52 !habit 97 weekly refresh my git repository of jhaToday production catalog Tuesday +FAILED - I can't use either OneDrive or map drive today. the pain continues
+x 2018-10-01 10:16 !habit 94 review entire list weekly
+x 2018-10-01 10:31 working on Tracy Tate 235789
+x 2018-10-02 10:31 required Laptop update
+x 2018-10-02 14:26 turn task bar on multiple displays off so I can always find groups for off screen
+x 2018-10-02 15:12 +case 235789 +learn how to copy a template "https://docs.microsoft.com/en-us/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template"
