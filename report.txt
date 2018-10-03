@@ -1,0 +1,1 @@
+x 2018-10-02 15:12 +case 235789 +learn how to copy a template "https://docs.microsoft.com/en-us/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template"

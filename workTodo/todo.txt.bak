@@ -1,18 +1,35 @@
+!habit 11 start msTeam
+!habit 12 start that phone (vpn needed)
+!habit 20 check the skype status David Allen
+!habit 32 close at end of day Clean ending
+!habit 50 appointments first in morning
+!habit 80 early to meetings 60%
+!habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N
+!habit 86 Review my done file once a day and add notes as needed
+!habit 88 check Cherwell (needs VPN)
+!habit 88 study 20 minutes every day on https://github.com/alecjmaly/SharePoint-JSON-Helper
+!habit 97 weekly refresh my git repository of jhaToday production catalog Tuesday
 !habit 98 passwordSafe login weekly on Wednesday
 !habit 99 weekly status notes on Wednesday
 (A) +case +report 211442 relocate a site with same design word doc attached to case.
 (A) +case +report 222878 hide that quick launch on modern
-(A) +case +report 241713 Help Jonathan Morris create a hide that quick launch on modern
 (A) +case +report 223581 a set up office on my device to work  for Tracey Sadler-Lassiter note:yRb.md
 (A) +case +report 233870 Brian Dickey round robin ticket assignments notes in OneNote case number +report I met with Brian and sent Mindy email, I think Flow is the way
+(A) +case +report 241713 Help Jonathan Morris create a hide that quick launch on modern
+(A) +case 235789 +reminder check versioning on all lists in the template, turn them on.
+(A) +case 235789 schedule with Cindy with Tracy Tate +
+(A) +case 235789 schedule with Cindy with Tracy Tate. I'm thinking to do most of this with Email
 (A) +case 235789 Tracy Tate create Web parts on modern home page
+(A) +case 235789 write email about fields
 (A) +home search for kvm switch note:IWA.md
 (A) +info complete of process change for education on Chad's list
 (A) +initiate research for +case 222878 Kimberly Matheny hide Quick Launch the quick launch project has its own vsCode shortcut in shortcut folder
 (A) +initiate work on mobile problem +Cherwell 223581
 (A) +laptop change password for forClients
-(A) next years calendar https://jackhenry.sharepoint.com/sites/jhatoday/News/Pages/2019-Holiday-File-and-Julian-Day-of-Year-Instructions-Available.aspx
-(B) +fix Snagit shortcuts none of them seem to work
+x 2018-10-03 09:24 +meeting all hands at 11 CANCELED
+(A) +news rivisit archive and subpage
+x 2018-10-03 09:31 next years calendar https://jackhenry.sharepoint.com/sites/jhatoday/News/Pages/2019-Holiday-File-and-Julian-Day-of-Year-Instructions-Available.aspx
+(B) +consider 'basic project' page layout as a general idea to start Tracy Tate.
 (B) +gtd check error about the preview service when I preview a MD document note:sCo.md
 (B) +gtd get outline up and running
 (B) +gtd how do I duplicate an entry?
@@ -38,6 +55,8 @@
 (C) +program do the bash macros in VsCode macros
 (C) +program fix todo.txt extension
 (C) +program imitate the theme of MS VsCode setting editor,  a practice for good program design
+(C) +study azure logic apps https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-workflow-definition-language
+(C) +study flow Resources for Flow 'https://blog.getbizzy.io/your-guide-to-excellent-user-resources-for-microsoft-flow-f3613882d0c6'
 (D) +consider instead of the remember: prefix consider using Anki when you can commit to it for a while this would need to be a new habit
 (D) +fix  +gtd the commit so it just always adds all added as well as modified like it does now.
 (D) +program +gtd make the todo.sh ls command use regex
@@ -49,8 +68,13 @@
 % e +sort alphabetical symbols
 +decide add +report to items for weekly status DECIDED use REPORT not status
 +decide November track success of meeting notes habit
++fix Snagit shortcuts none of them seem to work
 +home friendly tires for alignment
 +info ! a +sort alphabetical symbols
++learn how to display list from other collection. 1. search WP for classic 2. Highlighted Content web part for Modern 3. copy the list and update with flow see oneNote 'view list in another site collection'
++learn how to exclude habit from done 'grep -v habit ./workTodo/done.txt'
++learn how to sort with grep sort -d todo.txt NOTE the order is different than vscode order.
++remember +decide I want to use +learn how to as storage for documnet links I follow. see +learn how to copy a templat in done
 +remember +gtd addr expects one blank line end and uses previous
 +remember +gtd the pattern for the repeat action is ITEM daysForward
 +remember +gtd the search item can find a tag just use the escape/backslash '(A'
@@ -61,10 +85,24 @@
 +remember +SharePoint page info button helps
 +remember alphabetic order of ascii t alphabetic coder of symbols space,!"#$%&'()*+ forward tick ./
 +remember OneNote link to local page weekly @repeating
++remember the keyword +quickTrain for the things Cindy says
 +remember use browser history more, and favorites to get into keypirinha
 +repeat use +quickEmail when it just takes a short time
++report follow up email about column width on modern just drag a column wider
 $ f/d +sort alphabetical symbols
 t:2018-9-26 add PTO time after thanksgiving vacation https://www.jhaeap.com/psc/HR92PRD/EMPLOYEE/HRMS/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL?
+x 2018-10-02 15:37 +learn how to modernize sharepoint pages "https://docs.microsoft.com/en-us/sharepoint/dev/transform/modernize-classic-sites"
+x 2018-10-03 07:20 !habit 88 study 20 minutes every day on https://github.com/alecjmaly/SharePoint-JSON-Helper
+x 2018-10-03 07:21 !habit 11 start msTeam
+x 2018-10-03 07:21 !habit 12 start that phone (vpn needed)
+x 2018-10-03 07:23 !habit 20 check the skype status
+x 2018-10-03 07:24 +fix Snagit shortcuts none of them seem to work
+x 2018-10-03 08:09 !habit 32 close at end of day Clean ending
+x 2018-10-03 08:13 think throgh Angelfish view of hits/day.
+x 2018-10-03 08:14 +nonProducing regex for Derik. 30 minutes
+x 2018-10-03 08:26 +report ignite for an hour yesterday
+x 2018-10-03 08:28 !habit 50 appointments first in morning
+x 2018-10-03 08:28 !habit 80 early to meetings 60% YES
 zt: after work studies @z_triggerList
 zt: chad @z_triggerList
 zt: Cherwell @z_triggerList
@@ -74,21 +112,15 @@ zt: Power User @z_triggerList
 zt: r-repeating @z_definePriorities
 zt: Safari Books @z_triggerList
 zt: SP feedback from chad @z_triggerList
-(B) +consider 'basic project' page layout as a general idea to start Tracy Tate.
-!habit 11 start msTeam
-!habit 12 start that phone (vpn needed)
-!habit 20 check the skype status
-!habit 32 close at end of day Clean ending
-!habit 47 a David Allen or Wafel quote a day.
-!habit 50 appointments first in morning
-(A) +case 235789 schedule with Cindy with Tracy Tate +
-(A) +case 235789 write email about fields
-(A) +case 235789 +reminder check versioning on all lists in the template, turn them on.
-(A) +case 235789 schedule with Cindy with Tracy Tate. I'm thinking to do most of this with Email
-!habit 80 early to meetings 60%
- !habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N
-!habit 86 Review my done file once a day and add notes as needed
-!habit 97 weekly refresh my git repository of jhaToday production catalog Tuesday
-!habit 88 check Cherwell (needs VPN)
-!habit 88 study 20 minutes every day on https://github.com/alecjmaly/SharePoint-JSON-Helper
-+remember +decide I want to use +learn how to as storage for documnet links I follow. see +learn how to copy a templat in done
+x 2018-10-03 10:15 +report fix jhatoday what appeared to be a check box in the middle of news items. it turned out to be a wierd relocation of Event Item allow item selection.
+x 2018-10-03 11:52 +permLink the open CQWP You can find the list of the CQWP and TOC web parts that I found on jhaToday at https://jackhenry.sharepoint.com/teams/esdm3p/Lists/jhaTodayCQWP/AllItems.aspx.
++remember +decide +permLink use this tag
++remember how to list report lines
++learn how to list report lines
+x 2018-10-03 13:44 Case 242392 There was an open issue about changing width of column on a modern list and how to switch to modern. After an unhelpful case with MS I discovered that you can just drag the column to the width you need and it will stick for that user.
+(A) +learn ignite keynotes and specific sessions about sharepoint
+x 2018-10-03 13:59 +info what is the Jack Henry CCS department - Consume& Commercial Solutions. on departments home try a chrome search.
+!habit 13 +remember use win tab when looking for a window
+x 2018-10-03 15:09 long +trainWithCindy about value of content types for use in core project registry
+(A) +jhatoday +issue fix the space on the news under items with a comment snagit has clip
+x 2018-10-03 16:01 +report fix a +jhatoday issue where events put check box in center of news - we turned off individal item selection in the current item of the Event web part
