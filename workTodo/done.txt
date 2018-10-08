@@ -393,8 +393,23 @@ x 2018-10-03 08:26 +report ignite for an hour yesterday
 x 2018-10-03 08:28 !habit 50 appointments first in morning
 x 2018-10-03 08:28 !habit 80 early to meetings 60% YES
 x 2018-10-03 10:15 +report fix jhatoday what appeared to be a check box in the middle of news items. it turned out to be a wierd relocation of Event Item allow item selection.
-x 2018-10-03 11:52 +permLink the open CQWP You can find the list of the CQWP and TOC web parts that I found on jhaToday at https://jackhenry.sharepoint.com/teams/esdm3p/Lists/jhaTodayCQWP/AllItems.aspx.
+x 2018-10-03 11:52 +permLink the open CQWP You can find the list of the +CQWP and TOC web parts that I found on jhaToday at https://jackhenry.sharepoint.com/teams/esdm3p/Lists/jhaTodayCQWP/AllItems.aspx.
 x 2018-10-03 13:44 Case 242392 There was an open issue about changing width of column on a modern list and how to switch to modern. After an unhelpful case with MS I discovered that you can just drag the column to the width you need and it will stick for that user.
-x 2018-10-03 13:59 +info what is the Jack Henry CCS department - Consume& Commercial Solutions. on departments home try a chrome search.
-x 2018-10-03 15:09 long +trainWithCindy about value of content types for use in core project registry
+x 2018-10-03 13:59 +info what is the Jack Henry CCS department - Consumer & Commercial Solutions. Find this on departments home. Try a chrome search.
+x 2018-10-03 15:09 long +trainWithCindy about value of content types for use in core project registry results of training are in the opspmo coreProjectsRegistry
 x 2018-10-03 16:01 +report fix a +jhatoday issue where events put check box in center of news - we turned off individal item selection in the current item of the Event web part
+x 2018-10-04 07:32 !habit 11 start msTeam
+x 2018-10-04 07:32 !habit 12 start that phone (vpn needed)
+x 2018-10-04 07:32 !habit 20 check the skype status David Allen
+x 2018-10-04 07:33 !habit 32 close at end of day Clean ending
+x 2018-10-04 07:33 !habit 50 appointments first in morning
+x 2018-10-04 07:34 !habit 80 early to meetings 60% status notes on time!
+x 2018-10-04 07:35 !habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N : BIG WIN I am adding notes for Cindy's training me
+x 2018-10-04 08:04 !habit 86 Review my done file once a day and add notes as needed
+x 2018-10-04 08:05 !habit 88 check Cherwell (needs VPN)
+x 2018-10-04 08:05 !habit 97 weekly refresh my git repository of jhaToday production catalog Tuesday NOTE: a huge first time in SPO 
+x 2018-10-04 09:05 !habit 98 passwordSafe login weekly on Wednesday
+x 2018-10-04 09:05 !habit 99 weekly status notes on Wednesday
+x 2018-10-04 07:25 +report David Allen identify what isnt the way it should be and write it down. my move into work is that thing and my gtd is the action Im taking to resolve it.
+x 2018-10-04 07:48 +case 241713 email Jonathan Morris - documents to review notification.
+x 2018-10-04 09:16 !habit 88 study 20 minutes every day on https://github.com/alecjmaly/SharePoint-JSON-Helper NOTE today is first day of this, I found a web pomodoro timer, nothing to install - simple. I hope it works.
