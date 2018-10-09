@@ -4,32 +4,21 @@
 !habit 20 check the skype status David Allen
 !habit 32 close at end of day. Have a clean ending and start!
 !habit 50 appointments first in morning
-!habit 80 early to meetings 60%
 !habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N
-!habit 86 Review my done file once a day and add notes as needed
-!habit 88 check Cherwell (needs VPN)
+!habit 88 study 20 minutes every day on https://github.com/alecjmaly/SharePoint-JSON-Helper
+!habit 88 study 20 minutes every day on https://github.com/alecjmaly/SharePoint-JSON-Helper NOTE today is first day of this, I found a web pomodoro timer, nothing to install - simple. I hope it works.
 !habit 97 weekly refresh my git repository of jhaToday production catalog Tuesday
 !habit 98 passwordSafe login weekly on Wednesday
 !habit 99 weekly status notes on Wednesday
 (A) +case +report 211442 relocate a site with same design word doc attached to case.
 (A) +case +report 222878 hide that quick launch on modern
 (A) +case +report 223581 a set up office on my device to work  for Tracey Sadler-Lassiter note:yRb.md
-(A) +case +report 233870 Brian Dickey round robin ticket assignments notes in OneNote case number +report I met with Brian and sent Mindy email, I think Flow is the way
-(A) +case +report 241713 Help Jonathan Morris create a hide that quick launch on modern
-(A) +case 235789 +reminder check versioning on all lists in the template, turn them on.
-(A) +case 235789 schedule with Cindy with Tracy Tate +
-(A) +case 235789 schedule with Cindy with Tracy Tate. I'm thinking to do most of this with Email
-(A) +case 235789 Tracy Tate create Web parts on modern home page
-(A) +case 235789 write email about fields
-(A) +home search for kvm switch note:IWA.md
 (A) +info complete of process change for education on Chad's list
 (A) +initiate research for +case 222878 Kimberly Matheny hide Quick Launch the quick launch project has its own vsCode shortcut in shortcut folder
 (A) +initiate work on mobile problem +Cherwell 223581
 (A) +jhatoday +issue fix the space on the news under items with a comment snagit has clip
-(A) +laptop change password for forClients
-(A) +learn ignite keynotes and specific sessions about sharepoint
-(A) +news rivisit archive and subpage
-(A) set up a pomodoro timer to track the 20 minutes of JSON Helper.
+(A) +learn ignite keynotes and specific sessions about SharePoint
+(A) +news revisit archive and subpage
 (B) +consider 'basic project' page layout as a general idea to start Tracy Tate.
 (B) +gtd check error about the preview service when I preview a MD document note:sCo.md
 (B) +gtd get outline up and running
@@ -68,15 +57,20 @@
 & b/f +sort alphabetical symbols
 # c/b +sort alphabetical symbols
 % e +sort alphabetical symbols
++case 235789 write email about fields
 +decide add +report to items for weekly status DECIDED use REPORT not status
 +decide November track success of meeting notes habit
 +fix Snagit shortcuts none of them seem to work
 +home friendly tires for alignment
 +info ! a +sort alphabetical symbols
++jsonHelper 1. read the readme.md NOTE: the readme is for Create React App!
++laptop change password for forClients
 +learn how to display list from other collection. 1. search WP for classic 2. Highlighted Content web part for Modern 3. copy the list and update with flow see oneNote 'view list in another site collection'
 +learn how to exclude habit from done 'grep -v habit ./workTodo/done.txt'
 +learn how to list report lines
 +learn how to sort with grep sort -d todo.txt NOTE the order is different than vscode order.
++permLink https://tomato-timer.com/#
++permLink improved Processes https://jackhenry.sharepoint.com/teams/esdm3p/TeamAccess/Lists/ImprovedProcesses/AllItems.aspx
 +remember +decide +permLink use this tag
 +remember +decide I want to use +learn how to as storage for documnet links I follow. see +learn how to copy a templat in done
 +remember +gtd addr expects one blank line end and uses previous
@@ -89,10 +83,12 @@
 +remember +SharePoint page info button helps
 +remember alphabetic order of ascii t alphabetic coder of symbols space,!"#$%&'()*+ forward tick ./
 +remember how to list report lines
++remember my meds are also below the sink
 +remember OneNote link to local page weekly @repeating
 +remember the +permlink tag
 +remember the keyword +quickTrain for the things Cindy says
 +remember use browser history more, and favorites to get into keypirinha
++remember use my pone for pomodor timer.
 +repeat use +quickEmail when it just takes a short time
 +report follow up email about column width on modern just drag a column wider
 $ f/d +sort alphabetical symbols
@@ -107,6 +103,3 @@ zt: Power User @z_triggerList
 zt: r-repeating @z_definePriorities
 zt: Safari Books @z_triggerList
 zt: SP feedback from chad @z_triggerList
-+permLink improved Processes https://jackhenry.sharepoint.com/teams/esdm3p/TeamAccess/Lists/ImprovedProcesses/AllItems.aspx
-+permLink https://tomato-timer.com/#
-!habit 88 study 20 minutes every day on https://github.com/alecjmaly/SharePoint-JSON-Helper

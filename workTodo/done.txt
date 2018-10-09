@@ -413,3 +413,24 @@ x 2018-10-04 09:05 !habit 99 weekly status notes on Wednesday
 x 2018-10-04 07:25 +report David Allen identify what isnt the way it should be and write it down. my move into work is that thing and my gtd is the action Im taking to resolve it.
 x 2018-10-04 07:48 +case 241713 email Jonathan Morris - documents to review notification.
 x 2018-10-04 09:16 !habit 88 study 20 minutes every day on https://github.com/alecjmaly/SharePoint-JSON-Helper NOTE today is first day of this, I found a web pomodoro timer, nothing to install - simple. I hope it works.
+x 2018-10-08 08:40 !habit 11 start msTeam
+x 2018-10-08 08:42 !habit 12 start that phone (vpn needed)
+x 2018-10-08 08:48 !habit 13 +remember use win tab when looking for a window
+x 2018-10-08 08:48 !habit 20 check the skype status David Allen
+x 2018-10-08 08:48 !habit 32 close at end of day. Have a clean ending and start! NO AND COST OF ABOUR 1/2 hour
+x 2018-10-08 08:52 !habit 50 appointments first in morning
+x 2018-10-08 09:01 !habit 88 study 20 minutes every day on https://github.com/alecjmaly/SharePoint-JSON-Helper +decide 1. use my phone for timer! 2. make repo at C:\d\gitHub 3. make shortcut to folder 4.
+x 2018-10-08 08:53 !habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N NO meetings thursday
+x 2018-10-08 11:33 !habit 86 Review my done file once a day and add notes as needed
+x 2018-10-08 11:33 !habit 88 check Cherwell (needs VPN)
+x 2018-10-08 11:19 +case +report 233870 Brian Dickey round robin ticket assignments notes in OneNote case number +report I met with Brian and sent Mindy email, I think Flow is the way
+x 2018-10-08 11:19 +case +report 241713 Help Jonathan Morris create a hide that quick launch on modern
+x 2018-10-08 14:01 +case 235789 +reminder check versioning on all lists in the template, turn them on.
+x 2018-10-08 13:59 +case 235789 schedule with Cindy with Tracy Tate +
+x 2018-10-08 14:01 +case 235789 schedule with Cindy with Tracy Tate. I'm thinking to do most of this with Email
+x 2018-10-08 14:00 +case 235789 Tracy Tate create Web parts on modern home page
+x 2018-10-08 11:20 +case 235789 review notes
+x 2018-10-08 11:20 +home search for kvm switch note:IWA.md I'm just going to satisfice for now the one monitor is not hard to move.
+x 2018-10-08 11:32 set up a pomodoro timer to track the 20 minutes of JSON Helper. I will use my phone!
+x 2018-10-08 11:18 +gtd work on the daily program startup
+x 2018-10-08 11:19 close cases where no user response
