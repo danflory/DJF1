@@ -1,3 +1,4 @@
+x +info  how to set up oneDrive, inIE Open in Explorer! NOT it opens in webdav
 x 2018-09-04  +gtc +installTodoTxt step2 change the default shell in vscode
 x 2018-09-04  +gtd +installTodoTxt step1 clone github repo
 x 2018-09-04  +gtd +installTodoTxt step3 copy the todo.cfg to a newFile (workTodo.cfg) change the TODO_DIR
@@ -108,32 +109,28 @@ x 2018-09-07 10:51 +case 230363 how to set folder permissions ... not the list. 
 x 2018-09-07 13:34 test sync process note:p4L.md
 x 2018-09-07 13:36 +meeting migration status standup  note:IzX.md
 x 2018-09-07 13:52 +try using alarms for appointments set them at start of day +result it worked
-x break walk around building 10:50 while the computer restarted Required Software .... that failed
-x check email 11am
-x read GTD by Allen while computer is down OccurancesToday:xxx
-x reboot after software required update
-x 2018-09-07 15:54 +Jhatoday +CSWP +News +NewsArchive [dan's implementation("https://jackhenry.sharepoint.com/:o:/r/sites/esdm3pdevs/Daniel/_layouts/15/WopiFrame.aspx?sourcedoc=%7BA8793407-5549-4F56-9522-A9BDC9B5EF90%7D&file=SharePoint%20Search.one&action=default")
-x 2018-09-07 15:54 +Jhatoday +CSWP +News.Archive copy the web parts local
 x 2018-09-07 15:06 +corp listen to all hands
-x 2018-09-07 15:17 +Jhatoday +CSWP +News.Archive.Item format code 'Item_OneLIneForNewsArchive.html'
 x 2018-09-07 15:08 clean out download folder I had 1900 items in it! 4 GB in my recycle bin are clean too!
 x 2018-09-07 15:16 clean out download folder
+x 2018-09-07 15:17 +Jhatoday +CSWP +News.Archive.Item format code 'Item_OneLIneForNewsArchive.html'
+x 2018-09-07 15:54 +Jhatoday +CSWP +News +NewsArchive [dan's implementation("https://jackhenry.sharepoint.com/:o:/r/sites/esdm3pdevs/Daniel/_layouts/15/WopiFrame.aspx?sourcedoc=%7BA8793407-5549-4F56-9522-A9BDC9B5EF90%7D&file=SharePoint%20Search.one&action=default")
+x 2018-09-07 15:54 +Jhatoday +CSWP +News.Archive copy the web parts local
 x 2018-09-10 07:46 t:2018-09-08 +habit 1 check Cherwell
 x 2018-09-10 07:47 t:2018-09-08 +habit 2 check the skype status
 x 2018-09-10 07:48 t:2018-09-08 +habit 5 regular breaks
 x 2018-09-10 07:48 t:2018-09-08 +habit 6 Review my done file once a day and add notes as needed
-x 2018-09-10 07:51 t:2018-09-08 +habit 7 start msTeam
-x 2018-09-10 07:50 t:2018-09-08 +habit 8 start that phone
-x 2018-09-10 07:52 t:2018-09-08 +habit 9 use todo.sh archive every day
 x 2018-09-10 07:50 t:2018-09-08 +habit 10 appointments first in morning
 x 2018-09-10 07:50 t:2018-09-08 +habit 11 close at end of day Clean ending
+x 2018-09-10 07:50 t:2018-09-08 +habit 8 start that phone
+x 2018-09-10 07:51 t:2018-09-08 +habit 7 start msTeam
+x 2018-09-10 07:52 t:2018-09-08 +habit 9 use todo.sh archive every day
 x 2018-09-10 10:27 +Jhatoday +CSWP +News.Archive check in all my templates as I move them.
-x 2018-09-10 16:17 +Jhatoday +CSWP +News.Archive +Q how many items should be on the new archive lists +A 49 that is the max
 x 2018-09-10 10:27 +Jhatoday +CSWP +News.Archive copy the templates local
 x 2018-09-10 10:31 +Jhatoday +CSWP +jhatoday move news to online
+x 2018-09-10 14:06 +habit 2 check the skype status
 x 2018-09-10 14:06 t:2018-09-08 +habit 3 early to meetings 60%
 x 2018-09-10 14:08 t:2018-09-08 +habit 4 notes on every meeting
-x 2018-09-10 14:06 +habit 2 check the skype status
+x 2018-09-10 16:17 +Jhatoday +CSWP +News.Archive +Q how many items should be on the new archive lists +A 49 that is the max
 x 2018-09-11 07:08 t:2018-09-13 +initiate: my vacation project +PTO
 x 2018-09-11 07:35 t:2018-09-12 +initiate: my vacation project +PTO
 x 2018-09-11 10:33 +info +news +jhatoday jhaArticle.left.aspx is the page layout. This is found 1. library contents, observe the column page layout it says "JHA Article Page w/Categories" click the link and look inthe browser address bar. that will tell the file name
@@ -153,23 +150,18 @@ x 2018-09-13 08:46 +habit 11 close at end of day Clean ending
 x 2018-09-13 08:46 +habit 13 weekly status notes
 x 2018-09-13 08:46 +meeting migration status standup  note:IzX.md
 x 2018-09-13 08:47 +Jhatoday +CSWP +News +ceate_test_content catagories
+x 2018-09-13 08:58 +study sp-chrome this was an hour study and email to chad the plug in will help me
+x 2018-09-14 09:59 +News work with +kyle in QA set start date start date I sent email to kyle
+x 2018-09-14 10:02 +case +report work with +MS +Tracey Sadler-lasiter about phone. I forwarded Tracey MS email and responded to MS email
+x 2018-09-17 07:23 +News work with +kyle in QA start date
 x 2018-09-17 07:25 +habit 01 check Cherwell
 x 2018-09-17 07:25 +habit 02 check the skype status
 x 2018-09-17 07:25 +habit 03 early to meetings 60%
 x 2018-09-17 07:34 +habit 04 notes on every meeting
 x 2018-09-17 07:34 +habit 05 regular breaks
-x 2018-09-13 08:58 +study sp-chrome this was an hour study and email to chad the plug in will help me
-x 2018-09-14 09:59 +News work with +kyle in QA set start date start date I sent email to kyle
-x 2018-09-14 10:02 +case +report work with +MS +Tracey Sadler-lasiter about phone. I forwarded Tracey MS email and responded to MS email
-x 2018-09-17 07:23 +News work with +kyle in QA start date
-x 2018-09-17 13:52 +habit +try using alarms for appointments set them at start of day +result it workedx 2018-09-17 07:51 +Jhatoday +CSWP +News Ultimate diagnostic isn't working. this appears to fail if: there is a query error, or no results of query.
 x 2018-09-17 07:39 check out +gtd +nav function for one note notes this will work well for meeting notes and other notes I just link to in GTD
 x 2018-09-17 07:47 discover that the combined query +jhatodayMigration for not expired and start after today failed because start wasnt set
 x 2018-09-17 07:58 t:2018-09-12 +repeating passwordSafe login weekly
-x 2018-09-17 10:55 +Jhatoday +CSWP +News create content type in type hub FAILED because of inheritance
-x 2018-09-17 10:55 +report +Jhatoday +CSWP +News debug why the ultimate debugger fails
-x 2018-09-17 10:56 +Jhatoday +CSWP +News +Archive Spin up SPO jhatoday oneDrive +blocked it seems I can only use mapped drive not oneDrive FAIL for _catalog
-x 2018-09-17 10:57 +news fix home news template. remove extra line
 x 2018-09-17 08:05 +habit 06 Review my done file once a day and add notes as needed
 x 2018-09-17 08:06 +habit 07 start msTeam
 x 2018-09-17 08:06 +habit 08 start that phone
@@ -178,6 +170,12 @@ x 2018-09-17 08:06 +habit 10 appointments first in morning
 x 2018-09-17 08:07 +habit 11 close at end of day Clean ending
 x 2018-09-17 08:07 +habit 12 process quick note from OneNote
 x 2018-09-17 10:53 +news +report all ask kyle for 'ArticleStartDate' to be mapped to RefinableDate18 Chad had to get this to work by deleting collection level
+x 2018-09-17 10:55 +Jhatoday +CSWP +News create content type in type hub FAILED because of inheritance
+x 2018-09-17 10:55 +report +Jhatoday +CSWP +News debug why the ultimate debugger fails
+x 2018-09-17 10:56 +Jhatoday +CSWP +News +Archive Spin up SPO jhatoday oneDrive +blocked it seems I can only use mapped drive not oneDrive FAIL for _catalog
+x 2018-09-17 10:57 +news fix home news template. remove extra line
+x 2018-09-17 13:52 +habit +try using alarms for appointments set them at start of day +result it workedx 2018-09-17 07:51 +Jhatoday +CSWP +News Ultimate diagnostic isn't working. this appears to fail if: there is a query error, or no results of query.
+x 2018-09-18  13:24 +News +subsite query on +Profit Stars Brand News
 x 2018-09-18 07:49 +habit 01 check Cherwell
 x 2018-09-18 07:49 +habit 02 check the skype status
 x 2018-09-18 07:49 +habit 03 early to meetings 60%
@@ -189,27 +187,26 @@ x 2018-09-18 07:52 +habit 08 start that phone
 x 2018-09-18 07:52 +habit 09 use todo.sh archive every day
 x 2018-09-18 07:52 +habit 10 appointments first in morning
 x 2018-09-18 07:52 +habit 11 close at end of day Clean ending
-x 2018-09-18 15:47 +report +case 230377 communications site questions, need comment. I spent an hour looking for articles describing the different types of sites, and created a couple at https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/TestDiscussionBoard/AllItems.aspx
 x 2018-09-18 10:09 add +Jhatoday RefinableDate17 as sort AND query for
-x 2018-09-18 14:29 +report set 17 in query on            company News both sort and in query for all 5
-x 2018-09-18 14:30 set 17 in query on        Executive Update
-x 2018-09-18 14:33 set 17 in query on   Jack Henry Brand News
-x 2018-09-18 14:34 set 17 in query on      Symitar Brand News
-x 2018-09-18 14:34 set 17 in query on Profit Stars Brand News
-x 2018-09-18 14:34 Export +Home News CSWP to import on each
 x 2018-09-18 13:18 News +subsite + report done query on            company News name, query, sort, appearance, template ....
 x 2018-09-18 13:20 News +subsite query on        Executive Update TAKE CARE TO DOUBLE CHECK RefinableDate17 not Int or a line off
 x 2018-09-18 13:22 News +subsite query on   Jack Henry Brand News
 x 2018-09-18 13:24 News +subsite query on      Symitar Brand News
-x 2018-09-18  13:24 +News +subsite query on +Profit Stars Brand News
 x 2018-09-18 13:59 +News +subsite +report fix internal heading by removing WP Title the solution is chrome none to make white bkground+subsite            company News
 x 2018-09-18 13:59 fix internal heading by removing WP Title the solution is chrome none to make white bkground+subsite        Executive Update
 x 2018-09-18 14:00 fix internal heading by removing WP Title the solution is chrome none to make white bkground+subsite   Jack Henry Brand News
 x 2018-09-18 14:01 fix internal heading by removing WP Title the solution is chrome none to make white bkground+subsite      Symitar Brand News
+x 2018-09-18 14:29 +report set 17 in query on            company News both sort and in query for all 5
+x 2018-09-18 14:30 set 17 in query on        Executive Update
+x 2018-09-18 14:33 set 17 in query on   Jack Henry Brand News
+x 2018-09-18 14:34 Export +Home News CSWP to import on each
+x 2018-09-18 14:34 set 17 in query on      Symitar Brand News
+x 2018-09-18 14:34 set 17 in query on Profit Stars Brand News
 x 2018-09-18 14:49 peopleSoft sorting
+x 2018-09-18 15:09 answer mindy about my computer not being able to edit work flows. I just use a VM now.
 x 2018-09-18 15:09 peopleSoft location
 x 2018-09-18 15:09 PeopleSoft templates
-x 2018-09-18 15:09 answer mindy about my computer not being able to edit work flows. I just use a VM now.
+x 2018-09-18 15:47 +report +case 230377 communications site questions, need comment. I spent an hour looking for articles describing the different types of sites, and created a couple at https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/TestDiscussionBoard/AllItems.aspx
 x 2018-09-19 07:17 +habit 01 check Cherwell
 x 2018-09-19 07:18 +habit 02 check the skype status
 x 2018-09-19 07:18 +habit 03 early to meetings 60% NO Meetings yesterday
@@ -221,24 +218,19 @@ x 2018-09-19 07:19 +habit 09 use todo.sh archive every day
 x 2018-09-19 07:19 +habit 10 appointments first in morning
 x 2018-09-19 07:20 +habit 11 close at end of day Clean ending
 x 2018-09-19 07:42 +Jhatoday +CSWP +News fix internal heading by removing WP Title +subsite Profit Stars Brand News
+x 2018-09-19 07:49 +habit 14 review entire list weekly
 x 2018-09-19 07:50 meeting notes IDG All Hands Monthly note:56x.md
 x 2018-09-19 07:53 show GTD progress for chad every two weeks
-x 2018-09-19 07:49 +habit 14 review entire list weekly
 x 2018-09-19 08:06 +case +report 237379 permission for IIycc Anne Santos, I emailed Ryan Mgr. "https://jackhenry.sharepoint.com/sites/jhacomms/firewall/3px%20%20Episys%20Ports/Forms/AllItems.aspx"
 x 2018-09-19 08:07 +Jhatoday _CSWP +News which field is start refinable 17 or refinable 18? it is RefinableDate17
-x 2018-09-25 07:33 +Jhatoday +CSWP +News +test +query correct category
-x 2018-09-25 07:33 +Jhatoday +CSWP +News +test +query correct number of returns
-x 2018-09-25 07:33 +Jhatoday +CSWP +News +test +query only newspages the URL works set all to use URL
-x 2018-09-25 07:33 +Jhatoday +CSWP +News +test +template_format main page each catagory
-x 2018-09-25 07:33 +Jhatoday +CSWP +News +test +template_format news archive page each catagory
-x 2018-09-25 07:33 +Jhatoday +CSWP +News +test +template_format news page
-x 2018-09-25 07:34 +Jhatoday +CSWP +News 1. fix the New style remaining need to test this new
-x 2018-09-25 07:34 +Jhatoday +CSWP +News check start date lt eq
 x 2018-09-19 08:08 +Jhatoday +CSWP +News Home page template has incorect links as title.
-x 2018-09-25 07:35 +Jhatoday +CSWP +News should more than 49 active items be paged on home page? YES I'm using list view
 x 2018-09-19 08:09 +Jhatoday +CSWP +News try to set the date myself. Decisions over and over. NO!
-x 2018-09-25 07:35 +Jhatoday +CSWP peoplesoft list content FAILED ON DEPLOY
-x 2018-09-25 07:37 +followUp research kql. So far the results seem mostly random. https://docs.microsoft.com/en-us/sharepoint/dev/general-development/keyword-query-language-kql-syntax-reference note:gRM.md --- I AM CALLING THIS DONE I UNDERSTAND ENOUGH
+x 2018-09-19 08:37 +news sub insturctions on top
+x 2018-09-19 09:40 +issue could not import web part from SPO to QA
+x 2018-09-19 09:41 +issue on import of web part to Daniel clasicTest NewsGrouped.js has error
+x 2018-09-19 13:33 all morning debugging my failing control templates then at 1:15PM it started working again without changing anything.
+x 2018-09-19 14:24 make a test page --- the page has a book mark search 'test'
+x 2018-09-21 09:22 fix techKnow +report
 x 2018-09-25 07:08 +habit 01 check Cherwell
 x 2018-09-25 07:09 +habit 02 check the skype status
 x 2018-09-25 07:09 +habit 03 early to meetings 60% Missed one early yesterday.
@@ -251,29 +243,31 @@ x 2018-09-25 07:16 +habit 10 appointments first in morning
 x 2018-09-25 07:16 +habit 11 close at end of day Clean ending
 x 2018-09-25 07:17 +habit 12 process quick note from OneNote STOP THIS AS A HABIT I'M NOT USING ONE NOTE QUICK NOTES MUCH SINCE i HAVE GTD BASH OPEN
 x 2018-09-25 07:18 +meeting +jhaMigration "https://jackhenry-my.sharepoint.com/personal/dflory_jhacorp_com/_layouts/OneNote.aspx?id=%2Fpersonal%2Fdflory_jhacorp_com%2FDocuments%2FNotebooks%2FGTD&wd=target%28meeting%20notes.one%7C601328E8-6E7A-4F47-9466-A020DE840770%2FJhaToday%20Migration%209%5C%2F17%5C%2F2018%7CFD84BEEF-BFBF-44BE-954D-8F146B1D882E%2F%29 onenote:https://jackhenry-my.sharepoint.com/personal/dflory_jhacorp_com/Documents/Notebooks/GTD/meeting%20notes.one#JhaToday%20Migration%209/17/2018%20&section-id={601328E8-6E7A-4F47-9466-A020DE840770}&page-id={FD84BEEF-BFBF-44BE-954D-8F146B1D882E}&end"
-x 2018-09-19 08:37 +news sub insturctions on top
-x do news template test in qa FAIL
-x move the current templates back to QA FAIL
-x +info  how to set up oneDrive, inIE Open in Explorer! NOT it opens in webdav
-x 2018-09-19 09:40 +issue could not import web part from SPO to QA
-x 2018-09-19 09:41 +issue on import of web part to Daniel clasicTest NewsGrouped.js has error
-x 2018-09-19 13:33 all morning debugging my failing control templates then at 1:15PM it started working again without changing anything.
-x 2018-09-19 14:24 make a test page --- the page has a book mark search 'test'
-x 2018-09-21 09:22 fix techKnow +report
+x 2018-09-25 07:33 +Jhatoday +CSWP +News +test +query correct category
+x 2018-09-25 07:33 +Jhatoday +CSWP +News +test +query correct number of returns
+x 2018-09-25 07:33 +Jhatoday +CSWP +News +test +query only newspages the URL works set all to use URL
+x 2018-09-25 07:33 +Jhatoday +CSWP +News +test +template_format main page each catagory
+x 2018-09-25 07:33 +Jhatoday +CSWP +News +test +template_format news archive page each catagory
+x 2018-09-25 07:33 +Jhatoday +CSWP +News +test +template_format news page
+x 2018-09-25 07:34 +Jhatoday +CSWP +News 1. fix the New style remaining need to test this new
+x 2018-09-25 07:34 +Jhatoday +CSWP +News check start date lt eq
+x 2018-09-25 07:35 +Jhatoday +CSWP +News should more than 49 active items be paged on home page? YES I'm using list view
+x 2018-09-25 07:35 +Jhatoday +CSWP peoplesoft list content FAILED ON DEPLOY
+x 2018-09-25 07:37 +followUp research kql. So far the results seem mostly random. https://docs.microsoft.com/en-us/sharepoint/dev/general-development/keyword-query-language-kql-syntax-reference note:gRM.md --- I AM CALLING THIS DONE I UNDERSTAND ENOUGH
 x 2018-09-25 08:11 Breath! Chad and Cindy are confident we are in line.
-x 2018-09-25 08:15 study existing get groups "C:d/reposForSubs/IdgtodayIDGToday - Site Assets" Does not get security groups
 x 2018-09-25 08:13 t:2018-09-24 +repeating passwordSafe login weekly
 x 2018-09-25 08:14 test idea that security may already work. FAILED
+x 2018-09-25 08:15 study existing get groups "C:d/reposForSubs/IdgtodayIDGToday - Site Assets" Does not get security groups
+x 2018-09-25 15:29 fix the greater than today in all parts +report
 x 2018-09-25 15:53 +Jhatoday +CSWP +News  +Archive Profit Stars Brand Newsfix the 'New' formatting it didn't work on a couple
 x 2018-09-25 15:56 +Jhatoday +CSWP +News +Archive +issue position of paging buttons +fix center them decide to leave it on the right but not need when leaving CSWP
-x 2018-09-25 15:29 fix the greater than today in all parts +report
 x 2018-09-26 07:11 +habit 10 check Cherwell
 x 2018-09-26 07:12 +habit 20 check the skype status
 x 2018-09-26 07:12 +habit 30 early to meetings 60%
 x 2018-09-26 07:14 +habit 40 notes on every meeting
-x 2018-09-26 07:23 +habit 90 appointments first in morning
 x 2018-09-26 07:16 +habit 99 close at end of day Clean ending
 x 2018-09-26 07:20 +habit a waffle a day http://mml.co.uk/waffle.php
+x 2018-09-26 07:23 +habit 90 appointments first in morning
 x 2018-09-26 07:37 +habit 50 Review my done file once a day and add notes as needed
 x 2018-09-26 07:39 +habit 60 start msTeam
 x 2018-09-26 07:39 +habit 70 start that phone
@@ -287,42 +281,42 @@ x 2018-09-27 07:57 +case +report 233870 Brian Dickey round robin ticket assignme
 x 2018-09-27 08:00 +case +report 233870 Brian Dickey round robin ticket assignments notes in OneNote case number +report I met with Brian and sent Mindy email, I think Flow is the way
 x 2018-09-27 08:11 +case +report 235789 Tracy Tate "create Web parts on home page" I made teams meeting for monday 1:00pm
 x 2018-09-27 09:51 meet with chad note in OneNote
-x 2018-09-27 10:14 !habit 10 check Cherwell
+x 2018-09-27 10:03 !habit 10 check Cherwell
+x 2018-09-27 10:03 !habit 10 check Cherwell
 x 2018-09-27 10:06 !habit 14 review entire list weekly
-x 2018-09-27 10:15 !habit 20 check the skype status
 x 2018-09-27 10:06 !habit 30 early to meetings 60% OnTime for Chad
 x 2018-09-27 10:06 !habit 40 notes on every meeting meet with Carol Not very good notes on cases
-x 2018-09-27 10:18 !habit 45 a daily read of David Allen
-x 2018-09-27 10:18 !habit 50 Review my done file once a day and add notes as needed
 x 2018-09-27 10:08 !habit 60 start msTeam~
 x 2018-09-27 10:08 !habit 70 start that phone
 x 2018-09-27 10:08 !habit 80 use todo.sh archive every day+report
-x 2018-09-27 10:11 +case resolve 241252 news needed start lt or eq today
 x 2018-09-27 10:09 !habit 90 appointments first in morning
 x 2018-09-27 10:10 !habit 99 close at end of day Clean ending
+x 2018-09-27 10:11 +case resolve 241252 news needed start lt or eq today
+x 2018-09-27 10:14 !habit 10 check Cherwell
+x 2018-09-27 10:15 !habit 20 check the skype status
+x 2018-09-27 10:18 !habit 45 a daily read of David Allen
+x 2018-09-27 10:18 !habit 50 Review my done file once a day and add notes as needed
 x 2018-09-27 10:19 !habit a waffle a day http://mml.co.uk/waffle.php
-x 2018-09-27 10:03 !habit 10 check Cherwell
-x 2018-09-27 10:03 !habit 10 check Cherwell
 x 2018-09-27 10:35 'https://joannecklein.com/2018/08/31/10-reasons-the-sharepoint-modern-library-experience-is-better/'
+x 2018-09-27 10:44 FollowUp: order docking station for home. incident 242304
+x 2018-09-27 10:45 find in ascii chart what will precede ( so that I can put habits at top. http://www.asciitable.com/
+x 2018-09-28 07:55 +remember +gtd if you forget to escape a quote use ctrl-c then the up arrow retrievs the first line.
+x 2018-09-28 07:57 +MSTicket 11573296 column width "https://jackhenry-my.sharepoint.com/personal/dflory_jhacorp_com/_layouts/OneNote.aspx?id=%2Fpersonal%2Fdflory_jhacorp_com%2FDocuments%2FNotebooks%2FGTD&wd=target%28IN-NEXT.one%7C0A8EEDF6-CB63-48B3-969E-5E4BC61BA682%2F%5BTicket%20%23%3A11573296%5D%7C35841576-E980-41E1-93B5-E520F83D6D96%2F%29 onenote:https://jackhenry-my.sharepoint.com/personal/dflory_jhacorp_com/Documents/Notebooks/GTD/IN-NEXT.one#%5bTicket%2011573296]&section-id={0A8EEDF6-CB63-48B3-969E-5E4BC61BA682}&page-id={35841576-E980-41E1-93B5-E520F83D6D96}&end"
+x 2018-09-28 07:59 +remember +gtd repeat can do then extend due date by using + normal is re-entr days from now
+x 2018-09-28 08:02 +remember vsCode does a nice job sorting the todo.txt
 x 2018-09-28 08:03 !habit 11 start msTeam
 x 2018-09-28 08:03 !habit 12 start that phone
 x 2018-09-28 08:04 !habit 13 use todo.sh archive every day+report +case resolve 241252 news needed start lt or eq today
-x 2018-09-28 08:11 !habit 20 check the skype status
 x 2018-09-28 08:04 !habit 32 close at end of day Clean ending
-x 2018-09-28 08:25 !habit 45 a daily read of David Allen
 x 2018-09-28 08:08 !habit 80 early to meetings 60%
+x 2018-09-28 08:11 !habit 20 check the skype status
+x 2018-09-28 08:25 !habit 45 a daily read of David Allen
 x 2018-09-28 08:26 !habit 85 notes on every meeting
 x 2018-09-28 08:28 !habit 90 appointments first in morning
-x 2018-09-28 07:55 +remember +gtd if you forget to escape a quote use ctrl-c then the up arrow retrievs the first line.
-x 2018-09-28 07:59 +remember +gtd repeat can do then extend due date by using + normal is re-entr days from now
-x 2018-09-28 08:02 +remember vsCode does a nice job sorting the todo.txt
-x 2018-09-27 10:45 find in ascii chart what will precede ( so that I can put habits at top. http://www.asciitable.com/
-x 2018-09-27 10:44 FollowUp: order docking station for home. incident 242304
-x 2018-09-28 07:57 +MSTicket 11573296 column width "https://jackhenry-my.sharepoint.com/personal/dflory_jhacorp_com/_layouts/OneNote.aspx?id=%2Fpersonal%2Fdflory_jhacorp_com%2FDocuments%2FNotebooks%2FGTD&wd=target%28IN-NEXT.one%7C0A8EEDF6-CB63-48B3-969E-5E4BC61BA682%2F%5BTicket%20%23%3A11573296%5D%7C35841576-E980-41E1-93B5-E520F83D6D96%2F%29 onenote:https://jackhenry-my.sharepoint.com/personal/dflory_jhacorp_com/Documents/Notebooks/GTD/IN-NEXT.one#%5bTicket%2011573296]&section-id={0A8EEDF6-CB63-48B3-969E-5E4BC61BA682}&page-id={35841576-E980-41E1-93B5-E520F83D6D96}&end"
-x 2018-09-28 10:14 +case +report 233870 Brian Dickey round robin ticket assignments notes in OneNote case number +report I met with Brian and sent Mindy email, I think Flow is the way
 x 2018-09-28 08:38 !habit 86 Review my done file once a day and add notes as needed
 x 2018-09-28 09:01 +case +report 235789 Tracy Tate "create Web parts on home page"
 x 2018-09-28 09:01 +case +report Cathy Jones Education needs workflow adjustment.
+x 2018-09-28 10:14 +case +report 233870 Brian Dickey round robin ticket assignments notes in OneNote case number +report I met with Brian and sent Mindy email, I think Flow is the way
 x 2018-10-01 07:07 snagget update then restart computer
 x 2018-10-01 07:17 !habit 11 start msTeam
 x 2018-10-01 07:17 !habit 12 start that phone (vpn needed)
@@ -332,11 +326,16 @@ x 2018-10-01 07:25 !habit 47 a David Allen or Wafel quote a day.
 x 2018-10-01 07:26 !habit 50 appointments first in morning
 x 2018-10-01 07:27 !habit 80 early to meetings 60% NO MEETINGS fRIDAY
 x 2018-10-01 07:27 !habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N NO MEETING FRIDAY
+x 2018-10-01 07:32 +gtd uninstall todo.txt extension from vsCode because Done became unreadable
+x 2018-10-01 09:02 +corporate check JHA edu for courses I'm enroled in
+x 2018-10-01 09:02 +corporate complete open policy and harassment check. +report
+x 2018-10-01 09:03 +quickEmail to Mindy asking about the Round Robin Assignment. FAIL Mindy didn't respond
 x 2018-10-01 09:42 !habit 86 Review my done file once a day and add notes as needed
 x 2018-10-01 09:42 !habit 88 check Cherwell
 x 2018-10-01 09:51 +Jhatoday +CSWP +News  +Archive            company News must set query start <= today
 x 2018-10-01 09:51 +Jhatoday +CSWP +News  +Archive            export the first one then reimport 4 times to right
 x 2018-10-01 09:51 +Jhatoday +CSWP +News  +Archive        Executive Update dup and add company
+x 2018-10-01 09:51 +training harassment training DONE
 x 2018-10-01 09:52 +Jhatoday +CSWP +News  +Archive      Symitar Brand News
 x 2018-10-01 09:52 +Jhatoday +CSWP +News  +Archive +issue the styling is lost.
 x 2018-10-01 09:52 +Jhatoday +CSWP +News +Archive debug start date on archive
@@ -347,21 +346,18 @@ x 2018-10-01 09:52 +Jhatoday +CSWP +News +test expires
 x 2018-10-01 09:52 +news1 add web part to page and choose the correct view
 x 2018-10-01 09:52 +news1 filter on Company News; Article Date > [tocay]; JHA Expired Date < [Today]
 x 2018-10-01 09:52 +news1 Sort on Article Date
-x 2018-10-01 09:53 +news1 view name CompanyNewsHome
-x 2018-10-01 09:51 +training harassment training DONE
-x 2018-10-01 09:53 add news test with audience record that
 x 2018-10-01 09:53 +decide: do I want to have my tag: as first thing or @ as first or +tag as first when and why +A the + highlights if VS Code use it +DECIDED: use VsCode sort and not dates
+x 2018-10-01 09:53 +news1 view name CompanyNewsHome
+x 2018-10-01 09:53 add news test with audience record that
 x 2018-10-01 09:54 +decide: is @repeating the same as !habit or not? +DECIDED YES use \!habit
 x 2018-10-01 09:57 +decide +issue: when repeat bumps the date it doesn't recognize date with the "t:" that I added +DECIDED: Just use undated repeat, I use Pri not dates for sort
 x 2018-10-01 10:03 +gtd use ! for habits so they sort to top WELL PRACTICED HABITS
 x 2018-10-01 10:06 +remember +gtd add an extra space to a new entry if you want it to sort to the top. +DECIDED: I USE ! AND OTHER SYMBOLS ALPHABETIZED
+x 2018-10-01 10:12 +quickTrain converse with Cindy in IM about permissions. the conversation captured in OneNote "News Audience and permissions"
 x 2018-10-01 10:13 +study https://github.com/todotxt/todo.txt-cli/wiki totxtWiki DONE
 x 2018-10-01 10:15 +case make new case for Carol about column format pannel 10-02 I just solved it click and drag. can also use item formatting
-x 2018-10-01 07:32 +gtd uninstall todo.txt extension from vsCode because Done became unreadable
-x 2018-10-01 09:03 +quickEmail to Mindy asking about the Round Robin Assignment. FAIL Mindy didn't respond
-x 2018-10-01 09:02 +corporate check JHA edu for courses I'm enroled in
-x 2018-10-01 09:02 +corporate complete open policy and harassment check. +report
-x 2018-10-01 10:12 +quickTrain converse with Cindy in IM about permissions. the conversation captured in OneNote "News Audience and permissions"
+x 2018-10-01 10:16 !habit 94 review entire list weekly
+x 2018-10-01 10:31 working on Tracy Tate +case 235789
 x 2018-10-02 07:21 !habit 11 start msTeam
 x 2018-10-02 07:21 !habit 12 start that phone (vpn needed)
 x 2018-10-02 07:21 !habit 20 check the skype status
@@ -371,15 +367,11 @@ x 2018-10-02 07:23 !habit 50 appointments first in morning
 x 2018-10-02 07:25 !habit 80 early to meetings 60% YES
 x 2018-10-02 07:25 !habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N
 x 2018-10-02 07:40 !habit 86 Review my done file once a day and add notes as needed
-x 2018-10-02 08:50 !habit 88 check Cherwell (needs VPN)
 x 2018-10-02 07:52 !habit 97 weekly refresh my git repository of jhaToday production catalog Tuesday +FAILED - I can't use either OneDrive or map drive today. the pain continues
-x 2018-10-01 10:16 !habit 94 review entire list weekly
-x 2018-10-01 10:31 working on Tracy Tate +case 235789
+x 2018-10-02 08:50 !habit 88 check Cherwell (needs VPN)
 x 2018-10-02 10:31 required +Laptop update
 x 2018-10-02 14:26 +laptop turn task bar on multiple displays off so I can always find groups for off screen
 x 2018-10-02 15:12 +case 235789 +learn how to copy a template "https://docs.microsoft.com/en-us/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template"
-x 2018-10-03 09:24 +meeting all hands at 11 CANCELED
-x 2018-10-03 09:31 next years calendar https://jackhenry.sharepoint.com/sites/jhatoday/News/Pages/2019-Holiday-File-and-Julian-Day-of-Year-Instructions-Available.aspx
 x 2018-10-02 15:37 +learn how to modernize sharepoint pages "https://docs.microsoft.com/en-us/sharepoint/dev/transform/modernize-classic-sites"
 x 2018-10-03 07:20 !habit 88 study 20 minutes every day on https://github.com/alecjmaly/SharePoint-JSON-Helper
 x 2018-10-03 07:21 !habit 11 start msTeam
@@ -392,12 +384,15 @@ x 2018-10-03 08:14 +nonProducing regex for Derik. 30 minutes
 x 2018-10-03 08:26 +report ignite for an hour yesterday
 x 2018-10-03 08:28 !habit 50 appointments first in morning
 x 2018-10-03 08:28 !habit 80 early to meetings 60% YES
+x 2018-10-03 09:24 +meeting all hands at 11 CANCELED
+x 2018-10-03 09:31 next years calendar https://jackhenry.sharepoint.com/sites/jhatoday/News/Pages/2019-Holiday-File-and-Julian-Day-of-Year-Instructions-Available.aspx
 x 2018-10-03 10:15 +report fix jhatoday what appeared to be a check box in the middle of news items. it turned out to be a wierd relocation of Event Item allow item selection.
 x 2018-10-03 11:52 +permLink the open CQWP You can find the list of the +CQWP and TOC web parts that I found on jhaToday at https://jackhenry.sharepoint.com/teams/esdm3p/Lists/jhaTodayCQWP/AllItems.aspx.
 x 2018-10-03 13:44 Case 242392 There was an open issue about changing width of column on a modern list and how to switch to modern. After an unhelpful case with MS I discovered that you can just drag the column to the width you need and it will stick for that user.
 x 2018-10-03 13:59 +info what is the Jack Henry CCS department - Consumer & Commercial Solutions. Find this on departments home. Try a chrome search.
 x 2018-10-03 15:09 long +trainWithCindy about value of content types for use in core project registry results of training are in the opspmo coreProjectsRegistry
 x 2018-10-03 16:01 +report fix a +jhatoday issue where events put check box in center of news - we turned off individal item selection in the current item of the Event web part
+x 2018-10-04 07:25 +report David Allen identify what isnt the way it should be and write it down. my move into work is that thing and my gtd is the action Im taking to resolve it.
 x 2018-10-04 07:32 !habit 11 start msTeam
 x 2018-10-04 07:32 !habit 12 start that phone (vpn needed)
 x 2018-10-04 07:32 !habit 20 check the skype status David Allen
@@ -405,13 +400,12 @@ x 2018-10-04 07:33 !habit 32 close at end of day Clean ending
 x 2018-10-04 07:33 !habit 50 appointments first in morning
 x 2018-10-04 07:34 !habit 80 early to meetings 60% status notes on time!
 x 2018-10-04 07:35 !habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N : BIG WIN I am adding notes for Cindy's training me
+x 2018-10-04 07:48 +case 241713 email Jonathan Morris - documents to review notification.
 x 2018-10-04 08:04 !habit 86 Review my done file once a day and add notes as needed
 x 2018-10-04 08:05 !habit 88 check Cherwell (needs VPN)
 x 2018-10-04 08:05 !habit 97 weekly refresh my git repository of jhaToday production catalog Tuesday NOTE: a huge first time in SPO
 x 2018-10-04 09:05 !habit 98 passwordSafe login weekly on Wednesday
 x 2018-10-04 09:05 !habit 99 weekly status notes on Wednesday
-x 2018-10-04 07:25 +report David Allen identify what isnt the way it should be and write it down. my move into work is that thing and my gtd is the action Im taking to resolve it.
-x 2018-10-04 07:48 +case 241713 email Jonathan Morris - documents to review notification.
 x 2018-10-04 09:16 !habit 88 study 20 minutes every day on https://github.com/alecjmaly/SharePoint-JSON-Helper NOTE today is first day of this, I found a web pomodoro timer, nothing to install - simple. I hope it works.
 x 2018-10-08 08:40 !habit 11 start msTeam
 x 2018-10-08 08:42 !habit 12 start that phone (vpn needed)
@@ -419,21 +413,21 @@ x 2018-10-08 08:48 !habit 13 +remember use win tab when looking for a window
 x 2018-10-08 08:48 !habit 20 check the skype status David Allen
 x 2018-10-08 08:48 !habit 32 close at end of day. Have a clean ending and start! NO AND TIME WAISTED WAS ABOUT 1/2 hour
 x 2018-10-08 08:52 !habit 50 appointments first in morning
-x 2018-10-08 09:01 !habit 88 study 20 minutes every day on https://github.com/alecjmaly/SharePoint-JSON-Helper +decide 1. use my phone for timer! 2. make repo at C:\d\gitHub 3. make shortcut to folder 4.
 x 2018-10-08 08:53 !habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N NO meetings thursday
-x 2018-10-08 11:33 !habit 86 Review my done file once a day and add notes as needed
-x 2018-10-08 11:33 !habit 88 check Cherwell (needs VPN)
+x 2018-10-08 09:01 !habit 88 study 20 minutes every day on https://github.com/alecjmaly/SharePoint-JSON-Helper +decide 1. use my phone for timer! 2. make repo at C:\d\gitHub 3. make shortcut to folder 4.
+x 2018-10-08 11:18 +gtd work on the daily program startup I followed my impulse and did this for a couple of  hours.... not good
 x 2018-10-08 11:19 +case +report 233870 Brian Dickey round robin ticket assignments notes in OneNote case number +report I met with Brian and sent Mindy email, I think Flow is the way
 x 2018-10-08 11:19 +case +report 241713 Help Jonathan Morris create a hide that quick launch on modern
-x 2018-10-08 14:01 +case 235789 +reminder check versioning on all lists in the template, turn them on.
-x 2018-10-08 13:59 +case 235789 schedule with Cindy with Tracy Tate +
-x 2018-10-08 14:01 +case 235789 schedule with Cindy with Tracy Tate. I'm thinking to do most of this with Email
-x 2018-10-08 14:00 +case 235789 Tracy Tate create Web parts on modern home page
+x 2018-10-08 11:19 close cases where no user response. closed Brian dick 233870 and 241713 Jonathan Morris.
 x 2018-10-08 11:20 +case 235789 review notes. Sophia
 x 2018-10-08 11:20 +home search for kvm switch note:IWA.md I'm just going to satisfice for now the one monitor is not hard to move.
 x 2018-10-08 11:32 set up a pomodoro timer to track the 20 minutes of JSON Helper. I will use my phone!
-x 2018-10-08 11:18 +gtd work on the daily program startup I followed my impulse and did this for a couple of  hours.... not good
-x 2018-10-08 11:19 close cases where no user response. closed Brian dick 233870 and 241713 Jonathan Morris.
+x 2018-10-08 11:33 !habit 86 Review my done file once a day and add notes as needed
+x 2018-10-08 11:33 !habit 88 check Cherwell (needs VPN)
+x 2018-10-08 13:59 +case 235789 schedule with Cindy with Tracy Tate +
+x 2018-10-08 14:00 +case 235789 Tracy Tate create Web parts on modern home page
+x 2018-10-08 14:01 +case 235789 +reminder check versioning on all lists in the template, turn them on.
+x 2018-10-08 14:01 +case 235789 schedule with Cindy with Tracy Tate. I'm thinking to do most of this with Email
 x 2018-10-09 08:33 !habit 11 start msTeam
 x 2018-10-09 08:33 !habit 12 start that phone (vpn needed)
 x 2018-10-09 08:34 !habit 13 +remember use win tab when looking for a window
@@ -449,15 +443,6 @@ x 2018-10-10 07:23 !habit 20 check the skype status David Allen
 x 2018-10-10 07:23 !habit 9 close at end of day.
 x 2018-10-10 07:24 !habit 50 appointments first in morning
 x 2018-10-10 07:27 !habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N -- move things from quick notes
-x 2018-10-12 07:19 !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
-x 2018-10-12 07:20 !habit 12 start that phone (vpn needed) -- listen for dial tone.
-x 2018-10-12 07:21 !habit 13 +remember use win tab when looking for a window - practice!!!
-x 2018-10-12 07:31 !habit 20 check the skype status David Allen
-x 2018-10-12 07:33 !habit 50 appointments first in morning
-x 2018-10-12 07:35 !habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N -- move things from quick notes -- this will need to be a daily habit empty the quick Note unfiled into the correct place. That is GTD organize.
-x 2018-10-12 07:45 !habit 9 close at end of day.
-x 2018-10-12 07:49 !habit 98 passwordSafe login weekly on Wednesday
-x 2018-10-12 07:58 +Cindy says.... watch ignite session. https://youtu.be/FKCWFpxLXcs  AND https://www.sharepointnutsandbolts.com/2017/06/SPFx-Application-Customizer-Global-JS-Page-Header.html
 x 2018-10-11 07:37 !habit 91 weekly refresh my git repository of jhaToday production catalog Tuesday
 x 2018-10-11 07:37 !habit 94 passwordSafe login weekly on Wednesday
 x 2018-10-11 07:37 !habit 96 weekly status notes on Wednesday
@@ -471,21 +456,37 @@ x 2018-10-11 10:12 !habit 50 appointments first in morning
 x 2018-10-11 10:16 +columnFormat get the github repository sp-dev-list-formatting this is a new repository location since my last download and the sharepoint parent has 35! repositories.+report I spen two hours looking at changes in these repos and exercise in git as well as SP.
 x 2018-10-11 10:17 +report GTD observation, starting the day prior to finishing my startup delays some things that should have been done. Today I missed a Teams message by missing my habit start msTeams.
 x 2018-10-11 10:18 !habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N -- move things from quick notes -- this will need to be a daily habit empty the quick Note unfiled into the correct place. That is GTD organize.
+x 2018-10-12 07:19 !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
+x 2018-10-12 07:20 !habit 12 start that phone (vpn needed) -- listen for dial tone.
+x 2018-10-12 07:21 !habit 13 +remember use win tab when looking for a window - practice!!!
+x 2018-10-12 07:31 !habit 20 check the skype status David Allen
+x 2018-10-12 07:33 !habit 50 appointments first in morning
+x 2018-10-12 07:35 !habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N -- move things from quick notes -- this will need to be a daily habit empty the quick Note unfiled into the correct place. That is GTD organize.
+x 2018-10-12 07:45 !habit 9 close at end of day.
+x 2018-10-12 07:49 !habit 98 passwordSafe login weekly on Wednesday
+x 2018-10-12 07:58 +Cindy says.... watch ignite session. https://youtu.be/FKCWFpxLXcs  AND https://www.sharepointnutsandbolts.com/2017/06/SPFx-Application-Customizer-Global-JS-Page-Header.html
 x 2018-10-12 08:38 +remember put siteSettings in quickNav during dev
 x 2018-10-12 08:39 +Extenstions change the pageUrl in config
 x 2018-10-12 08:41 +Extenstions reinstall nvm and node and spfx
 x 2018-10-12 08:50 check if my glasses are ready
 x 2018-10-12 09:00 install typescript@latest --save-dev I don't know why I have to put everthing in save-dev cindy thinks that is a big deal
+x 2018-10-15 07:22 !habit 88 study 20 minutes every day on SharePoint-JSON-Helper shortcut search json NEXT find out about install https://www.google.com/search?safe=active&rlz=1C1GGRV_enUS790US790&ei=S8C8W-G1DYOYsQWG6r-YCw&q=%22sharepoint+json+formatter%22&oq=%22sharepoint+json+formatter%22&gs_l=psy-ab.3..35i39j0i30j0i8i30.52569.53841..54977...0.0..0.104.190.1j1......0....1..gws-wiz.......0i71j0i22i30.GYaXsPuxr2Y
+x 2018-10-15 07:22 !habit 97 weekly refresh my git repository of jhaToday production catalog Tuesday
+x 2018-10-15 07:23 +case +report 211442 relocate a site with same design word doc attached to case.
 x 2018-10-15 07:35 !habit 14 use task bar shortcuts win number win shift num to open
 x 2018-10-15 07:37 !habit 16 review yesterdays done
 x 2018-10-15 07:44 !habit 20  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
 x 2018-10-15 07:45 !habit 50 appointments first in morning
 x 2018-10-15 07:46 !habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N -- move things from quick notes -- this will need to be a daily habit empty the quick Note unfiled into the correct place. That is GTD organize.
 x 2018-10-15 07:46 !habit 88 study 20 minutes every day on SharePoint-JSON-Helper my study is now about extentions and deployment
-x 2018-10-15 07:47 !habit 9 close at end of day. FAIL and bad start
-x 2018-10-15 08:09 !habit 90 weekly refresh my git repository of jhaToday production catalog Tuesday
-x 2018-10-15 07:22 !habit 88 study 20 minutes every day on SharePoint-JSON-Helper shortcut search json NEXT find out about install https://www.google.com/search?safe=active&rlz=1C1GGRV_enUS790US790&ei=S8C8W-G1DYOYsQWG6r-YCw&q=%22sharepoint+json+formatter%22&oq=%22sharepoint+json+formatter%22&gs_l=psy-ab.3..35i39j0i30j0i8i30.52569.53841..54977...0.0..0.104.190.1j1......0....1..gws-wiz.......0i71j0i22i30.GYaXsPuxr2Y
-x 2018-10-15 07:22 !habit 97 weekly refresh my git repository of jhaToday production catalog Tuesday
-x 2018-10-15 07:23 +case +report 211442 relocate a site with same design word doc attached to case.
 x 2018-10-15 07:46 !habit 88 study 20 minutes every day on SharePoint-JSON-Helper my study is now about extentions and deployment
+x 2018-10-15 07:47 !habit 9 close at end of day. FAIL and bad start
 x 2018-10-15 08:08 +pomodoro read about phone battery to know proper use of my external charger. +decide plug backup into wall when using phone at desk. plug phone into backup for recharging.... In my quick experment the phone stayed charged longer.
+x 2018-10-15 08:09 !habit 90 weekly refresh my git repository of jhaToday production catalog Tuesday
+x break walk around building 10:50 while the computer restarted Required Software .... that failed
+x check email 11am
+x do news template test in qa FAIL
+x move the current templates back to QA FAIL
+x read GTD by Allen while computer is down OccurancesToday:xxx
+x reboot after software required update
+x 2018-10-15 13:15 +program fix todo.txt extension
