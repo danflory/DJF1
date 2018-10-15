@@ -1,8 +1,20 @@
-!habit 88 study 20 minutes every day on SharePoint-JSON-Helper shortcut search json NEXT find out about install https://www.google.com/search?safe=active&rlz=1C1GGRV_enUS790US790&ei=S8C8W-G1DYOYsQWG6r-YCw&q=%22sharepoint+json+formatter%22&oq=%22sharepoint+json+formatter%22&gs_l=psy-ab.3..35i39j0i30j0i8i30.52569.53841..54977...0.0..0.104.190.1j1......0....1..gws-wiz.......0i71j0i22i30.GYaXsPuxr2Y
-!habit 97 weekly refresh my git repository of jhaToday production catalog Tuesday
-(A) +case +report 211442 relocate a site with same design word doc attached to case.
+!habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
+!habit 12 start that phone (vpn needed) -- listen for dial tone.xx
+!habit 13 +remember use win tab when looking for a window - practice!!!
+x 2018-10-15 07:35 !habit 14 use task bar shortcuts win number win shift num to open
+x 2018-10-15 07:37 !habit 16 review yesterdays done
+x 2018-10-15 07:44 !habit 20  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
+x 2018-10-15 07:45 !habit 50 appointments first in morning
+x 2018-10-15 07:46 !habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N -- move things from quick notes -- this will need to be a daily habit empty the quick Note unfiled into the correct place. That is GTD organize.
+x 2018-10-15 07:46 !habit 88 study 20 minutes every day on SharePoint-JSON-Helper my study is now about extentions and deployment
+x 2018-10-15 07:47 !habit 9 close at end of day. FAIL and bad start
+x 2018-10-15 08:09 !habit 90 weekly refresh my git repository of jhaToday production catalog Tuesday
+!habit 92 passwordSafe login weekly on Wednesday
+!habit 96 Thursday use your phone battery.
+!habit 94 weekly status notes on Wednesday
 (A) +case +report 222878 hide that quick launch on modern
 (A) +case +report 223581 a set up office on my device to work  for Tracey Sadler-Lassiter note:yRb.md
+(A) +consider would a one note startup check list be as good as my habit dev list. here I'm typeing repeat for just check offs
 (A) +info complete of process change for education on Chad's list
 (A) +initiate research for +case 222878 Kimberly Matheny hide Quick Launch the quick launch project has its own vsCode shortcut in shortcut folder
 (A) +initiate work on mobile problem +Cherwell 223581
@@ -13,6 +25,7 @@
 (A) how do I add catalog to onedrive
 (A) make a list to keep my quotes
 (A) move cisEducation to my sandbox
+(A) work on my quote list
 (B) +consider 'basic project' page layout as a general idea to start Tracy Tate.
 (B) +consider how to use microsoft's 70 2016 site templates. https://absolute-sharepoint.com/2017/03/sharepoint-2016-site-template-id-list-for-powershell.html
 (B) +consider initiate a monthly pushed newletter from our SP team to site owners.
@@ -22,6 +35,7 @@
 (B) +gtd understand the commit and sync process being used
 (B) +issue: track down the markDoc server error I get when working .md is this the same thing? https://www.mkdocs.org/
 (B) +Q how do I suppress the git warnings about LF?
+(B) +quandry what does it mean to lock the taskbar?
 (B) +study azure equivalent to Flow whatever they are called.
 (B) +study read the git book I need to know what push and sync are doing
 (B) ask microsoft why the modern panel wouldn't show up. In IE
@@ -32,6 +46,7 @@
 (B) in october November-ish add a tracker of morning start up time.
 (B) make a more public way to show my David Alen quotes
 (B) t:2018-09-12 CleanUpOneNoteReference needs to be a daily habit until the 100 or so items are in place
+(B) what is a powerApp
 (C) +consider adding more aliases to bash for other todo lists that have a different config. Like I have for work and home, I can have a list for case work and use alias tC when working on cases.
 (C) +consider moving the permanent stuff to a different list folder - but it shouldnt be and activity that repeats I use the action \repeat' for that
 (C) +consider why have a quick notes and a gtd ... wouldn't quick notes work?
@@ -58,11 +73,11 @@
 & b/f +sort alphabetical symbols
 # c/b +sort alphabetical symbols
 % e +sort alphabetical symbols
++case +report 211442 relocate a site with same design word doc attached to case.
 +case 235789 write email about fields
 +decide add +report to items for weekly status DECIDED use REPORT not status
 +decide November track success of meeting notes habit
 +fix Snagit shortcuts none of them seem to work
-!habit 98 Thursday use your phone battery.
 +home friendly tires for alignment
 +info ! a +sort alphabetical symbols
 +jsonHelper 1. read the readme.md NOTE: the readme is for Create React App!
@@ -88,10 +103,12 @@
 +remember alphabetic order of ascii t alphabetic coder of symbols space,!"#$%&'()*+ forward tick ./
 +remember how to list report lines
 +remember how to remove stubborn windows quick access links .... select another one that does allow remove under the shift right click
++remember location of windows shortcuts https://support.microsoft.com/en-us/help/12445/windows-keyboard-shortcuts
 +remember my meds are also below the sink
 +remember OneNote link to local page weekly @repeating
 +remember the +permlink tag
 +remember the keyword +quickTrain for the things Cindy says
++remember the order of taskbar 1.phone 2.cherwell 3.outlook 4.skype 5.Teams 6.OneNote 7.Chrome 8.ie 9.VsCode
 +remember use browser history more, and favorites to get into keypirinha
 +remember use my pone for pomodoro timer.
 +repeat use +quickEmail when it just takes a short time
@@ -102,6 +119,9 @@ $ f/d +sort alphabetical symbols
 repeat 8
 t:2018-9-26 add PTO time after thanksgiving vacation https://www.jhaeap.com/psc/HR92PRD/EMPLOYEE/HRMS/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL?
 test the allerts against security
+x 2018-10-15 07:22 !habit 88 study 20 minutes every day on SharePoint-JSON-Helper shortcut search json NEXT find out about install https://www.google.com/search?safe=active&rlz=1C1GGRV_enUS790US790&ei=S8C8W-G1DYOYsQWG6r-YCw&q=%22sharepoint+json+formatter%22&oq=%22sharepoint+json+formatter%22&gs_l=psy-ab.3..35i39j0i30j0i8i30.52569.53841..54977...0.0..0.104.190.1j1......0....1..gws-wiz.......0i71j0i22i30.GYaXsPuxr2Y
+x 2018-10-15 07:22 !habit 97 weekly refresh my git repository of jhaToday production catalog Tuesday
+x 2018-10-15 07:23 +case +report 211442 relocate a site with same design word doc attached to case.
 zt: after work studies @z_triggerList
 zt: chad @z_triggerList
 zt: Cherwell @z_triggerList
@@ -111,20 +131,15 @@ zt: Power User @z_triggerList
 zt: r-repeating @z_definePriorities
 zt: Safari Books @z_triggerList
 zt: SP feedback from chad @z_triggerList
-!habit 99 weekly status notes on Wednesday
-!habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
-!habit 12 start that phone (vpn needed) -- listen for dial tone.
-!habit 13 +remember use win tab when looking for a window - practice!!!
-(A) work on my quote list
-!habit 20 check the skype status David Allen
-!habit 50 appointments first in morning
-(A) +consider would a one note startup check list be as good as my habit dev list. here I'm typeing repeat for just check offs
-!habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N -- move things from quick notes -- this will need to be a daily habit empty the quick Note unfiled into the correct place. That is GTD organize.
 !habit 14 use task bar shortcuts win number win shift num to open
-!habit 9 close at end of day.
-+remember the order of taskbar 1.phone 2.cherwell 3.outlook 4.skype 5.Teams 6.OneNote 7.Chrome 8.ie 9.VsCode
-(B) +quandry what does it mean to lock the taskbar?
-!habit 98 passwordSafe login weekly on Wednesday
-+remember location of windows shortcuts https://support.microsoft.com/en-us/help/12445/windows-keyboard-shortcuts
-(B) what is a powerApp
 !habit 16 review yesterdays done
+!habit 20  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
+!habit 50 appointments first in morning
+!habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N -- move things from quick notes -- this will need to be a daily habit empty the quick Note unfiled into the correct place. That is GTD organize.
+!habit 88 study 20 minutes every day on SharePoint-JSON-Helper shortcut search json NEXT find out about install https://www.google.com/search?safe=active&rlz=1C1GGRV_enUS790US790&ei=S8C8W-G1DYOYsQWG6r-YCw&q=%22sharepoint+json+formatter%22&oq=%22sharepoint+json+formatter%22&gs_l=psy-ab.3..35i39j0i30j0i8i30.52569.53841..54977...0.0..0.104.190.1j1......0....1..gws-wiz.......0i71j0i22i30.GYaXsPuxr2Y
+x 2018-10-15 07:46 !habit 88 study 20 minutes every day on SharePoint-JSON-Helper my study is now about extentions and deployment
+!habit 9 close at end of day.
+x 2018-10-15 08:08 +pomodoro read about phone battery to know proper use of my external charger. +decide plug backup into wall when using phone at desk. plug phone into backup for recharging.... In my quick experment the phone stayed charged longer.
+!habit 90 weekly refresh my git repository of jhaToday production catalog Tuesday
+!habit 15 use pomodoro times
+set auto save feature in vs code for gtd Workspace only

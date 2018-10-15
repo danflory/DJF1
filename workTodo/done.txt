@@ -476,3 +476,16 @@ x 2018-10-12 08:39 +Extenstions change the pageUrl in config
 x 2018-10-12 08:41 +Extenstions reinstall nvm and node and spfx
 x 2018-10-12 08:50 check if my glasses are ready
 x 2018-10-12 09:00 install typescript@latest --save-dev I don't know why I have to put everthing in save-dev cindy thinks that is a big deal
+x 2018-10-15 07:35 !habit 14 use task bar shortcuts win number win shift num to open
+x 2018-10-15 07:37 !habit 16 review yesterdays done
+x 2018-10-15 07:44 !habit 20  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
+x 2018-10-15 07:45 !habit 50 appointments first in morning
+x 2018-10-15 07:46 !habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N -- move things from quick notes -- this will need to be a daily habit empty the quick Note unfiled into the correct place. That is GTD organize.
+x 2018-10-15 07:46 !habit 88 study 20 minutes every day on SharePoint-JSON-Helper my study is now about extentions and deployment
+x 2018-10-15 07:47 !habit 9 close at end of day. FAIL and bad start
+x 2018-10-15 08:09 !habit 90 weekly refresh my git repository of jhaToday production catalog Tuesday
+x 2018-10-15 07:22 !habit 88 study 20 minutes every day on SharePoint-JSON-Helper shortcut search json NEXT find out about install https://www.google.com/search?safe=active&rlz=1C1GGRV_enUS790US790&ei=S8C8W-G1DYOYsQWG6r-YCw&q=%22sharepoint+json+formatter%22&oq=%22sharepoint+json+formatter%22&gs_l=psy-ab.3..35i39j0i30j0i8i30.52569.53841..54977...0.0..0.104.190.1j1......0....1..gws-wiz.......0i71j0i22i30.GYaXsPuxr2Y
+x 2018-10-15 07:22 !habit 97 weekly refresh my git repository of jhaToday production catalog Tuesday
+x 2018-10-15 07:23 +case +report 211442 relocate a site with same design word doc attached to case.
+x 2018-10-15 07:46 !habit 88 study 20 minutes every day on SharePoint-JSON-Helper my study is now about extentions and deployment
+x 2018-10-15 08:08 +pomodoro read about phone battery to know proper use of my external charger. +decide plug backup into wall when using phone at desk. plug phone into backup for recharging.... In my quick experment the phone stayed charged longer.
