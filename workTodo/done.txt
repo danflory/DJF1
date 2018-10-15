@@ -449,3 +449,30 @@ x 2018-10-10 07:23 !habit 20 check the skype status David Allen
 x 2018-10-10 07:23 !habit 9 close at end of day.
 x 2018-10-10 07:24 !habit 50 appointments first in morning
 x 2018-10-10 07:27 !habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N -- move things from quick notes
+x 2018-10-12 07:19 !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
+x 2018-10-12 07:20 !habit 12 start that phone (vpn needed) -- listen for dial tone.
+x 2018-10-12 07:21 !habit 13 +remember use win tab when looking for a window - practice!!!
+x 2018-10-12 07:31 !habit 20 check the skype status David Allen
+x 2018-10-12 07:33 !habit 50 appointments first in morning
+x 2018-10-12 07:35 !habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N -- move things from quick notes -- this will need to be a daily habit empty the quick Note unfiled into the correct place. That is GTD organize.
+x 2018-10-12 07:45 !habit 9 close at end of day.
+x 2018-10-12 07:49 !habit 98 passwordSafe login weekly on Wednesday
+x 2018-10-12 07:58 +Cindy says.... watch ignite session. https://youtu.be/FKCWFpxLXcs  AND https://www.sharepointnutsandbolts.com/2017/06/SPFx-Application-Customizer-Global-JS-Page-Header.html
+x 2018-10-11 07:37 !habit 91 weekly refresh my git repository of jhaToday production catalog Tuesday
+x 2018-10-11 07:37 !habit 94 passwordSafe login weekly on Wednesday
+x 2018-10-11 07:37 !habit 96 weekly status notes on Wednesday
+x 2018-10-11 07:38 !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
+x 2018-10-11 07:38 !habit 12 start that phone (vpn needed) -- listen for dial tone.
+x 2018-10-11 07:38 !habit 90 close at end of day.
+x 2018-10-11 08:02 !habit 13 +remember use win tab when looking for a window - practice!!!
+x 2018-10-11 08:10 !habit 20 check the skype status David Allen
+x 2018-10-11 10:08 !habit 88 study 20 minutes every day on SharePoint-JSON-Helper shortcut search json NEXT in sharepoint github is a better column formatting helper!
+x 2018-10-11 10:12 !habit 50 appointments first in morning
+x 2018-10-11 10:16 +columnFormat get the github repository sp-dev-list-formatting this is a new repository location since my last download and the sharepoint parent has 35! repositories.+report I spen two hours looking at changes in these repos and exercise in git as well as SP.
+x 2018-10-11 10:17 +report GTD observation, starting the day prior to finishing my startup delays some things that should have been done. Today I missed a Teams message by missing my habit start msTeams.
+x 2018-10-11 10:18 !habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N -- move things from quick notes -- this will need to be a daily habit empty the quick Note unfiled into the correct place. That is GTD organize.
+x 2018-10-12 08:38 +remember put siteSettings in quickNav during dev
+x 2018-10-12 08:39 +Extenstions change the pageUrl in config
+x 2018-10-12 08:41 +Extenstions reinstall nvm and node and spfx
+x 2018-10-12 08:50 check if my glasses are ready
+x 2018-10-12 09:00 install typescript@latest --save-dev I don't know why I have to put everthing in save-dev cindy thinks that is a big deal
