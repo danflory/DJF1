@@ -502,9 +502,21 @@ x 2018-10-16 07:56 !habit 85 notes on every meeting FAIL I missed notes during E
 x 2018-10-16 07:59 !habit 88 study 20 minutes every day on SharePoint-JSON-. NOTE: this is accomplished by working on any spfx project - now on cisEducation
 x 2018-10-16 08:00 !habit 90 close at end of day.
 x 2018-10-16 09:13 !habit 90 Tuesday weekly refresh my git repository of jhaToday production catalog Tuesday https://jackhenry.sharepoint.com/sites/jhatoday/_catalogs/
-x 2018-10-16 07:58 +remember +decide +permLink use this tag I just use grep for lines with http
+x 2018-10-16 07:58 +remember +decide +permLink DECIDE don't use +permLink it doesn't matter use this tag I just use grep for lines with http
 x 2018-10-16 07:29 +gtd adjustments to order of habits
 x 2018-10-16 07:41 +pomodoro daily gtd
 x 2018-10-16 09:09 +decide +report should I try using react for my selectorsto page areas or just do it the old way using jquery. I finaly defined this nagging question and with Cindy decided use what I know. Take my time learning new.
 x 2018-10-16 09:26 +case 250947 +report Carol Livingston single user issue with IE - work arround is to use Chrome or Edge. It might be an issue with the view we don't know.
 x 2018-10-16 09:28 finish +report set up test user account tstdanielf01
+x 2018-10-17 07:24 !habit 30 appointments first in morning
+x 2018-10-17 07:37 !habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
+x 2018-10-17 07:37 !habit 85 notes on every meeting
+x 2018-10-17 07:38 !habit 88 study 20 minutes every day on SharePoint-JSON-Helper now directly writing the JSON template
+x 2018-10-17 07:58 !habit 92 Wednesday passwordSafe login weekly on Wednesday
+x 2018-10-17 07:09 !habit 10 use pomodoro times - AND  charge phone
+x 2018-10-17 07:09 !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
+x 2018-10-17 07:10 !habit 13 +remember use win tab when looking for a window - practice!!!
+x 2018-10-17 07:15 !habit 16 review yesterdays done
+x 2018-10-17 07:15 !habit 18 use task bar shortcuts win number win shift num to open COMBINE WITH WIN-SHIFT-TAB PRACTICE
+x 2018-10-17 08:00 +pomodoro it took to for start up 1hr on clock
+x 2018-10-17 10:42 +remember +extensions +issue jquery on dev tools isn't workingANSWER: because jquere is in extention not page. put a break in the extension.
