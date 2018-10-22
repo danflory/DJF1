@@ -1,9 +1,11 @@
+ +practice show all ediditors ^k^p
+ +practice switching edit window ^tab
+!habit    practice adding a space to sort an item
 !habit 10 use pomodoro times - AND  charge phone
 !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
 !habit 13 +remember use win tab when looking for a window - practice!!!
 !habit 16 review yesterdays done
 !habit 18 use task bar shortcuts win number win shift num to open COMBINE WITH WIN-SHIFT-TAB PRACTICE
-!habit 20 practice adding a space to sort an item
 !habit 30 appointments first in morning
 !habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
 !habit 85 notes on every meeting
@@ -14,23 +16,24 @@
 !habit 92 Wednesday weekly status notes
 !habit 96 Thursday use your phone battery.
 !habit 97 Friday carefully work through entire todo.txt
-(A) ! jam in a visual example of header then learn a little react to put it in with color.
-(A) ! learn how react id's work so I can modify a style.
+(A) ! health form
+(A) +case +report 211442 relocate a site with same design word doc attached to case.
 (A) +case +report 222878 hide that quick launch on modern
 (A) +case +report 223581 a set up office on my device to work  for Tracey Sadler-Lassiter note:yRb.md
-(A) +consider would a one note startup check list be as good as my habit dev list. here I'm typeing repeat for just check offs
+(A) +case 235789 write email about fields
+(A) +home friendly tires for alignment
 (A) +info complete of process change for education on Chad's list
 (A) +initiate research for +case 222878 Kimberly Matheny hide Quick Launch the quick launch project has its own vsCode shortcut in shortcut folder
 (A) +initiate work on mobile problem +Cherwell 223581
 (A) +jhatoday +issue fix the space on the news under items with a comment snagit has clip
+(A) +jsonHelper 1. read the readme.md NOTE: the readme is for Create React App!
+(A) +laptop change password for forClients
 (A) +learn ignite keynotes and specific sessions about SharePoint
 (A) +news revisit archive and subpage
-(A) health form
-(A) how do I add catalog to onedrive
-(A) make a list to keep my quotes
-(A) move cisEducation to my sandbox
-(A) work on my quote list
-(B) +consider 'basic project' page layout as a general idea to start Tracy Tate.
+(A) +remember +decide I want to use +learn how to as storage for documnet links I follow. see +learn how to copy a templat in done
+(A) fix the Ultimate_Diagnostic content Web Part
+(A) get phone messages in outlook.
+(A) how do I add catalog to onedrive - so far the only way I know is to use ie explorer in ie +YUCK
 (B) +consider how to use microsoft's 70 2016 site templates. https://absolute-sharepoint.com/2017/03/sharepoint-2016-site-template-id-list-for-powershell.html
 (B) +consider initiate a monthly pushed newletter from our SP team to site owners.
 (B) +gtd check error about the preview service when I preview a MD document note:sCo.md
@@ -39,22 +42,18 @@
 (B) +gtd understand the commit and sync process being used
 (B) +issue: track down the markDoc server error I get when working .md is this the same thing? https://www.mkdocs.org/
 (B) +Q how do I suppress the git warnings about LF?
-(B) +quandry what does it mean to lock the taskbar?
+(B) +react  jam in a visual example of header then learn a little react to put it in with color.
+(B) +react learn how react id's work so I can modify a style.
 (B) +study azure equivalent to Flow whatever they are called.
 (B) +study read the git book I need to know what push and sync are doing
-(B) ask microsoft why the modern panel wouldn't show up. In IE
+(B) ask microsoft why the modern panel wouldn't show up. In IE +WILL-NOT-DO
 (B) do a round robin ticket deployment project
 (B) do the periodic reminder to review flow.
-(B) fix the Ultimate_Diagnostic content Web Part
-(B) get phone messages in outlook.
-(B) in october November-ish add a tracker of morning start up time.
-(B) make a more public way to show my David Alen quotes
+(B) Get anki and move learn and remember to it start anki habit
 (B) t:2018-09-12 CleanUpOneNoteReference needs to be a daily habit until the 100 or so items are in place
 (B) what is a powerApp
 (B) work through example listdrivenplaceholders
 (C) +consider adding more aliases to bash for other todo lists that have a different config. Like I have for work and home, I can have a list for case work and use alias tC when working on cases.
-(C) +consider moving the permanent stuff to a different list folder - but it shouldnt be and activity that repeats I use the action \repeat' for that
-(C) +consider why have a quick notes and a gtd ... wouldn't quick notes work?
 (C) +initiate project to have document site like MS docs - chad says teams allow MD
 (C) +initiate: +Voitano project
 (C) +initiate: learning plan for workflow
@@ -77,53 +76,34 @@
 & b/f +sort alphabetical symbols
 # c/b +sort alphabetical symbols
 % e +sort alphabetical symbols
-+case +report 211442 relocate a site with same design word doc attached to case.
-+case 235789 write email about fields
-+decide add +report to items for weekly status DECIDED use REPORT not status
-+decide November track success of meeting notes habit
-+fix Snagit shortcuts none of them seem to work
-+home friendly tires for alignment
-+info ! a +sort alphabetical symbols
-+jsonHelper 1. read the readme.md NOTE: the readme is for Create React App!
-+laptop change password for forClients
-+learn how to display list from other collection. 1. search WP for classic 2. Highlighted Content web part for Modern 3. copy the list and update with flow see oneNote 'view list in another site collection'
-+learn how to exclude habit from done 'grep -v habit ./workTodo/done.txt'
++learn how to display list sharepoint from other collection. 1. search WP for classic 2. Highlighted Content web part for Modern 3. copy the list and update with flow see oneNote 'view list in another site collection'
++learn how to exclude habit from done +gtd +grep'grep -v habit ./workTodo/done.txt'
 +learn how to list report lines
-+learn how to sort with grep sort -d todo.txt NOTE the order is different than vscode order.
-+permLink https://tomato-timer.com/#
++learn how to sort with +gtd +grep sort -d todo.txt NOTE the order is different than vscode order.
++permLink +cindy wants me to consider design of https://jackhenry.sharepoint.com/sites/Managing-at-JHA
++permLink https://tomato-timer.com/# -WILL-NOT-DO my phone timer works
 +permLink improved Processes https://jackhenry.sharepoint.com/teams/esdm3p/TeamAccess/Lists/ImprovedProcesses/AllItems.aspx
-+remember +cindy wants me to consider design of https://jackhenry.sharepoint.com/sites/Managing-at-JHA
-+remember +decide I want to use +learn how to as storage for documnet links I follow. see +learn how to copy a templat in done
 +remember +decide make shorcuts well named to code folders then from the folder open with code. No ahk shortcuts needed.
 +remember +gtd addr expects one blank line end and uses previous
-+remember +gtd the pattern for the repeat action is ITEM daysForward
-+remember +gtd the search item can find a tag just use the escape/backslash '(A'
 +remember +OneNote +gtd you can click OneNote in an email to move the note to a your set directory.
 +remember +OneNote use the OneNote back button top left
 +remember +programming use this url for decoding html entity https://mothereff.in/html-entities
 +remember +programming use VS Code "format section" for html inside of aspx
 +remember +SharePoint page info button helps
-+remember alphabetic order of ascii t alphabetic coder of symbols space,!"#$%&'()*+ forward tick ./
-+remember how to list report lines
-+remember how to remove stubborn windows quick access links .... select another one that does allow remove under the shift right click
++remember +YUCK tag for unacceptable answers.
++remember how to list report lines +gtd +report grep +report ./workTodo/done.txt
++remember how to remove stubborn windows 10 explorer quick access links .... select another one that does allow remove under the shift right click
 +remember location of windows shortcuts https://support.microsoft.com/en-us/help/12445/windows-keyboard-shortcuts
 +remember my meds are also below the sink
-+remember OneNote link to local page weekly @repeating
 +remember the +permlink tag
 +remember the keyword +quickTrain for the things Cindy says
 +remember the order of taskbar 1.phone 2.cherwell 3.outlook 4.skype 5.Teams 6.OneNote 7.Chrome 8.ie 9.VsCode
 +remember use browser history more, and favorites to get into keypirinha
 +remember use my pone for pomodoro timer.
 +repeat use +quickEmail when it just takes a short time
-+report follow up email about column width on modern just drag a column wider
-+report work on the emergency exercise for an hour. phone battery, extra power cord for laptop, outlook mobile. .... I also have a case needing SP mobile.
-+spfxGeneral pri a deploy to page train again
++repeat use +WILL-NOT-DO
 $ f/d +sort alphabetical symbols
-repeat 8
-rm 11
-set auto save feature in vs code for gtd Workspace only
 t:2018-9-26 add PTO time after thanksgiving vacation https://www.jhaeap.com/psc/HR92PRD/EMPLOYEE/HRMS/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL?
-test the allerts against security
 zt: after work studies @z_triggerList
 zt: chad @z_triggerList
 zt: Cherwell @z_triggerList
