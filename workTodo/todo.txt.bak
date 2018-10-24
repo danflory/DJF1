@@ -1,6 +1,5 @@
  +practice show all ediditors ^k^p
  +practice switching edit window ^tab
-!habit    practice adding a space to sort an item
 !habit 10 use pomodoro times - AND  charge phone
 !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
 !habit 13 +remember use win tab when looking for a window - practice!!!
@@ -30,7 +29,7 @@
 (A) +laptop change password for forClients
 (A) +learn ignite keynotes and specific sessions about SharePoint
 (A) +news revisit archive and subpage
-(A) +remember +decide I want to use +learn how to as storage for documnet links I follow. see +learn how to copy a templat in done
+(A) +remember +decide I want to use +learn how to as storage for documnet links I follow. see +learn how to copy a template in done
 (A) fix the Ultimate_Diagnostic content Web Part
 (A) get phone messages in outlook.
 (A) how do I add catalog to onedrive - so far the only way I know is to use ie explorer in ie +YUCK
@@ -60,7 +59,6 @@
 (C) +learn Andrew Connell course
 (C) +learn More React
 (C) +learn more TypeScript
-(C) +Persuade-Chad sp-chrome chad wasn't comfortable come back to it.
 (C) +program +gtd fix addr it only gets one word and it moves lists and tags to back
 (C) +program +gtd make some shortcuts. like show A, .... or get 'view' to work. and yes I want to edit single line hmm.
 (C) +program do the bash macros in VsCode macros
@@ -76,6 +74,7 @@
 & b/f +sort alphabetical symbols
 # c/b +sort alphabetical symbols
 % e +sort alphabetical symbols
++deploy draft of CisEducation attempt this repetition exercise is taking a long time
 +learn how to display list sharepoint from other collection. 1. search WP for classic 2. Highlighted Content web part for Modern 3. copy the list and update with flow see oneNote 'view list in another site collection'
 +learn how to exclude habit from done +gtd +grep'grep -v habit ./workTodo/done.txt'
 +learn how to list report lines
@@ -103,6 +102,7 @@
 +repeat use +quickEmail when it just takes a short time
 +repeat use +WILL-NOT-DO
 $ f/d +sort alphabetical symbols
+ponder global as a place for state maintenance.
 t:2018-9-26 add PTO time after thanksgiving vacation https://www.jhaeap.com/psc/HR92PRD/EMPLOYEE/HRMS/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL?
 zt: after work studies @z_triggerList
 zt: chad @z_triggerList
