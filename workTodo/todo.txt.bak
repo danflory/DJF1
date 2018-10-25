@@ -1,3 +1,4 @@
+ +practice bash history ^r and history pipe grep gulp
  +practice show all ediditors ^k^p
  +practice switching edit window ^tab
 !habit 10 use pomodoro times - AND  charge phone
@@ -20,7 +21,6 @@
 (A) +case +report 222878 hide that quick launch on modern
 (A) +case +report 223581 a set up office on my device to work  for Tracey Sadler-Lassiter note:yRb.md
 (A) +case 235789 write email about fields
-(A) +home friendly tires for alignment
 (A) +info complete of process change for education on Chad's list
 (A) +initiate research for +case 222878 Kimberly Matheny hide Quick Launch the quick launch project has its own vsCode shortcut in shortcut folder
 (A) +initiate work on mobile problem +Cherwell 223581
@@ -30,15 +30,19 @@
 (A) +learn ignite keynotes and specific sessions about SharePoint
 (A) +news revisit archive and subpage
 (A) +remember +decide I want to use +learn how to as storage for documnet links I follow. see +learn how to copy a template in done
+(A) case about monitor
+(A) do status notes
 (A) fix the Ultimate_Diagnostic content Web Part
 (A) get phone messages in outlook.
 (A) how do I add catalog to onedrive - so far the only way I know is to use ie explorer in ie +YUCK
+(A) make note on meeting with cis-ed
 (B) +consider how to use microsoft's 70 2016 site templates. https://absolute-sharepoint.com/2017/03/sharepoint-2016-site-template-id-list-for-powershell.html
 (B) +consider initiate a monthly pushed newletter from our SP team to site owners.
 (B) +gtd check error about the preview service when I preview a MD document note:sCo.md
 (B) +gtd get outline up and running
 (B) +gtd how do I duplicate an entry?
 (B) +gtd understand the commit and sync process being used
+(B) +home friendly tires for alignment
 (B) +issue: track down the markDoc server error I get when working .md is this the same thing? https://www.mkdocs.org/
 (B) +Q how do I suppress the git warnings about LF?
 (B) +react  jam in a visual example of header then learn a little react to put it in with color.
@@ -88,6 +92,7 @@
 +remember +OneNote use the OneNote back button top left
 +remember +programming use this url for decoding html entity https://mothereff.in/html-entities
 +remember +programming use VS Code "format section" for html inside of aspx
++remember +SharePoint page info button helps
 +remember +SharePoint page info button helps
 +remember +YUCK tag for unacceptable answers.
 +remember how to list report lines +gtd +report grep +report ./workTodo/done.txt

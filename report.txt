@@ -1,1 +1,11 @@
-x 2018-10-02 15:12 +case 235789 +learn how to copy a template "https://docs.microsoft.com/en-us/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template"
+
+x 2018-10-22 08:17 !habit 97 Friday carefully work through entire todo.txt +report A BIG DEAL
+x 2018-10-22 07:58 +decide add +report to items for weekly status DECIDED use REPORT not status
+x 2018-10-22 07:36 +report follow up email about column width on modern just drag a column wider
+x 2018-10-22 07:36 +report request and get working my tstdanielf01@jhacorp.com I set the password to same as my main domain
+x 2018-10-22 07:36 +report style cisedu using jquery in mutationObserver all day yesterday.
+x 2018-10-22 07:36 +report work on the emergency exercise for an hour. phone battery, extra power cord for laptop, outlook mobile. .... I also have a case needing SP mobile.
+x 2018-10-22 09:09 +report performance test Jhatoday notes in ESDM3P General chat
+x 2018-10-22 07:26 +deploy draft of CisEducation +report
+x 2018-10-17 07:31 +report use MutationObserver to customize +cisEducation list
+x 2018-10-18 07:33 +report use list formatter json to show quotes my example https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx

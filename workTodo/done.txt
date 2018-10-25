@@ -591,3 +591,28 @@ x 2018-10-23 07:27 +deploy draft of CisEducation attempt this repetition exercis
 x 2018-10-22 07:30 +cisEducation format by using specificity at page top. class .cisED
 x 2018-10-17 07:31 +report use MutationObserver to customize +cisEducation list
 x 2018-10-18 07:33 +report use list formatter json to show quotes my example https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
+x 2018-10-24 07:37 !habit 10 use pomodoro times - AND  charge phone
+x 2018-10-24 07:37 !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
+x 2018-10-24 07:37 !habit 13 +remember use win tab when looking for a window - practice!!!
+x 2018-10-24 07:38 !habit 16 review yesterdays done
+x 2018-10-24 07:40 !habit 18 use task bar shortcuts win number win shift num to open COMBINE WITH WIN-SHIFT-TAB PRACTICE
+x 2018-10-24 07:40 !habit 30 appointments first in morning
+x 2018-10-24 07:46 !habit 85 notes on every meeting
+x 2018-10-24 07:49 !habit 92 Wednesday lab login weekly on Wednesday FAIL not working
+x 2018-10-24 07:49 !habit 92 Wednesday passwordSafe login weekly on Wednesday
+x 2018-10-24 10:12 +report Cathy Jones education process would like a way to change department.
+x 2018-10-24 10:18 test email of alert I made a change in daniel documents.
+x 2018-10-24 10:18 test out a case chad asked about Cindy had already fixed it.
+x 2018-10-25 07:16 !habit 10 use pomodoro times - AND  charge phone
+x 2018-10-25 07:16 !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
+x 2018-10-25 07:16 !habit 13 +remember use win tab when looking for a window - practice!!!
+x 2018-10-25 07:16 !habit 16 review yesterdays done
+x 2018-10-25 07:21 !habit 18 use task bar shortcuts win number win shift num to open COMBINE WITH WIN-SHIFT-TAB PRACTICE
+x 2018-10-25 07:23 !habit 30 appointments first in morning
+x 2018-10-25 07:29 !habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
+x 2018-10-25 07:36 !habit 85 notes on every meeting
+x 2018-10-25 08:19 !habit 92 Wednesday lab login weekly on Wednesday FAIL NOT AVAILABLE
+x 2018-10-25 08:19 !habit 92 Wednesday passwordSafe login weekly on Wednesday
+x 2018-10-25 08:19 !habit 92 Wednesday passwordSafe login weekly on Wednesday
+x 2018-10-25 08:21 !habit 92 Wednesday weekly status notes
+x 2018-10-25 08:21 !habit 96 Thursday use your phone battery.
