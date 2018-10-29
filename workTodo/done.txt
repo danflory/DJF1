@@ -616,3 +616,46 @@ x 2018-10-25 08:19 !habit 92 Wednesday passwordSafe login weekly on Wednesday
 x 2018-10-25 08:19 !habit 92 Wednesday passwordSafe login weekly on Wednesday
 x 2018-10-25 08:21 !habit 92 Wednesday weekly status notes
 x 2018-10-25 08:21 !habit 96 Thursday use your phone battery.
+x 2018-10-25 08:33 make note on meeting with cis-ed
+x 2018-10-25 10:22 create resove issue of chrome in my VM not knowing who tstdanielf01 is when logging into SPO
+x 2018-10-25 10:23 do a second test of allerts by making change to document as tstdanielf01
+x 2018-10-25 10:25 the reason that the topNav isn't centered is because the right menu is part of it. move that out
+x 2018-10-25 10:26 find the reason that the height of topNav container is not staying open
+x 2018-10-26 07:28 +quickTrain  do what Cindy told me to do with nivigation formatting. hid original, scrape data and the combine it with the newformat using my own styles.
+x 2018-10-26 07:36 !habit 10 use pomodoro times - AND  charge phone
+x 2018-10-26 07:36 !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
+x 2018-10-26 07:37 !habit 13 +remember use win tab when looking for a window - practice!!!
+x 2018-10-26 07:37 !habit 16 review yesterdays done
+x 2018-10-26 07:38 !habit 18 use task bar shortcuts win number win shift num to open COMBINE WITH WIN-SHIFT-TAB PRACTICE
+x 2018-10-26 07:38 !habit 30 appointments first in morning
+x 2018-10-26 07:58 !habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
+x 2018-10-26 07:58 !habit 85 notes on every meeting - Cindy's teaching all need a note!
+x 2018-10-26 08:00  case about monitor
+x 2018-10-26 08:00  do status notes
+x 2018-10-26 08:02 +info complete of process change for education on Chad's list
+x 2018-10-26 08:02 +initiate research for +case 222878 Kimberly Matheny hide Quick Launch the quick launch project has its own vsCode shortcut in shortcut folder
+x 2018-10-26 08:10 +gtd how do I duplicate an entry? +A: use the editor
+x 2018-10-26 08:11 +gtd understand the commit and sync process being used NOTE this is a double entry the real issue is to read the git book again
+x 2018-10-26 08:13 +Q how do I suppress the git warnings about LF? Look in the git book!
+x 2018-10-26 08:13 ask microsoft why the modern panel wouldn't show up. In IE +WILL-NOT-DO
+x 2018-10-26 08:31 +deploy draft of CisEducation attempt this repetition exercise is taking a long time
+x 2018-10-26 08:41 +remember +gtd addr expects one blank line end and uses previous
+x 2018-10-26 08:42 +remember +SharePoint page info button helps
+x 2018-10-26 08:46 +remember use my pone for pomodoro timer.
+x 2018-10-26 08:48 ponder global as a place for state maintenance email to derek.
+x 2018-10-26 10:06   +remember +YUCK tag for unacceptable answers. +addedToAnki
+x 2018-10-26 10:06  +practice @ set +addedToAnki
+x 2018-10-26 10:06  +practice bash history ^r and history pipe grep gulp +addedToAnki
+x 2018-10-26 10:06  +practice show all ediditors ^k^p +addedToAnki
+x 2018-10-26 10:06  +practice switching edit window ^tab +addedToAnki
+x 2018-10-26 10:06  +remember the order of taskbar 1.phone 2.cherwell 3.outlook 4.skype 5.Teams 6.OneNote 7.Chrome 8.ie 9.VsCode +addedToAnki
+x 2018-10-26 10:06  +remember use +quickEmail when it just takes a short time
+x 2018-10-26 10:27 first day of Anki habit two hours
+x 2018-10-29 07:34  practice adding with a space at start by using escape space
+x 2018-10-29 07:48  use Anki daily
+x 2018-10-29 07:35 !habit 10 use pomodoro times - AND  charge phone
+x 2018-10-29 07:49 !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
+x 2018-10-29 07:50 !habit 13 +remember use win tab when looking for a window - practice!!! ANKI
+x 2018-10-29 07:56 !habit 18 use task bar shortcuts win number win shift num to open COMBINE WITH WIN-SHIFT-TAB PRACTICE: ANKI
+x 2018-10-29 07:58 !habit 30 appointments first in morning
+x 2018-10-29 08:05 !habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx

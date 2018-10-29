@@ -1,13 +1,15 @@
- +practice bash history ^r and history pipe grep gulp
- +practice show all ediditors ^k^p
- +practice switching edit window ^tab
-!habit 10 use pomodoro times - AND  charge phone
-!habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
-!habit 13 +remember use win tab when looking for a window - practice!!!
+  budget time
+ +remember use +WILL-NOT-DO
+  "C:\Program Files (x86)\Anki\anki.exe"
+x 2018-10-29 07:34  practice adding with a space at start by using escape space
+x 2018-10-29 07:48  use Anki daily
+x 2018-10-29 07:35 !habit 10 use pomodoro times - AND  charge phone
+x 2018-10-29 07:49 !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
+x 2018-10-29 07:50 !habit 13 +remember use win tab when looking for a window - practice!!! ANKI
 !habit 16 review yesterdays done
-!habit 18 use task bar shortcuts win number win shift num to open COMBINE WITH WIN-SHIFT-TAB PRACTICE
-!habit 30 appointments first in morning
-!habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
+x 2018-10-29 07:56 !habit 18 use task bar shortcuts win number win shift num to open COMBINE WITH WIN-SHIFT-TAB PRACTICE: ANKI
+x 2018-10-29 07:58 !habit 30 appointments first in morning
+x 2018-10-29 08:05 !habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
 !habit 85 notes on every meeting
 !habit 88 study 20 minutes every day on SharePoint-JSON-Helper shortcut search json NEXT find out about install https://www.google.com/search?safe=active&rlz=1C1GGRV_enUS790US790&ei=S8C8W-G1DYOYsQWG6r-YCw&q=%22sharepoint+json+formatter%22&oq=%22sharepoint+json+formatter%22&gs_l=psy-ab.3..35i39j0i30j0i8i30.52569.53841..54977...0.0..0.104.190.1j1......0....1..gws-wiz.......0i71j0i22i30.GYaXsPuxr2Y
 !habit 90 Tuesday weekly refresh my git repository of jhaToday production catalog Tuesday https://jackhenry.sharepoint.com/sites/jhatoday/_catalogs/
@@ -16,105 +18,129 @@
 !habit 92 Wednesday weekly status notes
 !habit 96 Thursday use your phone battery.
 !habit 97 Friday carefully work through entire todo.txt
+' sort order of \'
+" sort order of \"
 (A) ! health form
 (A) +case +report 211442 relocate a site with same design word doc attached to case.
 (A) +case +report 222878 hide that quick launch on modern
 (A) +case +report 223581 a set up office on my device to work  for Tracey Sadler-Lassiter note:yRb.md
 (A) +case 235789 write email about fields
-(A) +info complete of process change for education on Chad's list
-(A) +initiate research for +case 222878 Kimberly Matheny hide Quick Launch the quick launch project has its own vsCode shortcut in shortcut folder
+(A) +consider how to use microsoft's 70 2016 site templates. https://absolute-sharepoint.com/2017/03/sharepoint-2016-site-template-id-list-for-powershell.html
 (A) +initiate work on mobile problem +Cherwell 223581
 (A) +jhatoday +issue fix the space on the news under items with a comment snagit has clip
 (A) +jsonHelper 1. read the readme.md NOTE: the readme is for Create React App!
 (A) +laptop change password for forClients
-(A) +learn ignite keynotes and specific sessions about SharePoint
-(A) +news revisit archive and subpage
-(A) +remember +decide I want to use +learn how to as storage for documnet links I follow. see +learn how to copy a template in done
-(A) case about monitor
-(A) do status notes
+(A) add a note to anki about multiple recycle bin
 (A) fix the Ultimate_Diagnostic content Web Part
-(A) get phone messages in outlook.
-(A) how do I add catalog to onedrive - so far the only way I know is to use ie explorer in ie +YUCK
-(A) make note on meeting with cis-ed
-(B) +consider how to use microsoft's 70 2016 site templates. https://absolute-sharepoint.com/2017/03/sharepoint-2016-site-template-id-list-for-powershell.html
-(B) +consider initiate a monthly pushed newletter from our SP team to site owners.
-(B) +gtd check error about the preview service when I preview a MD document note:sCo.md
+(A) Get anki and move learn and remember to it start anki habit : it is first priority as a way to clean several items from this list
 (B) +gtd get outline up and running
-(B) +gtd how do I duplicate an entry?
-(B) +gtd understand the commit and sync process being used
 (B) +home friendly tires for alignment
 (B) +issue: track down the markDoc server error I get when working .md is this the same thing? https://www.mkdocs.org/
-(B) +Q how do I suppress the git warnings about LF?
+(B) +learn crome dev tools https://developers.google.com/web/tools/chrome-devtools/console/get-started
+(B) +news revisit archive and subpage
 (B) +react  jam in a visual example of header then learn a little react to put it in with color.
 (B) +react learn how react id's work so I can modify a style.
 (B) +study azure equivalent to Flow whatever they are called.
 (B) +study read the git book I need to know what push and sync are doing
-(B) ask microsoft why the modern panel wouldn't show up. In IE +WILL-NOT-DO
 (B) do a round robin ticket deployment project
 (B) do the periodic reminder to review flow.
-(B) Get anki and move learn and remember to it start anki habit
-(B) t:2018-09-12 CleanUpOneNoteReference needs to be a daily habit until the 100 or so items are in place
-(B) what is a powerApp
-(B) work through example listdrivenplaceholders
+(B) get phone messages in outlook.
 (C) +consider adding more aliases to bash for other todo lists that have a different config. Like I have for work and home, I can have a list for case work and use alias tC when working on cases.
-(C) +initiate project to have document site like MS docs - chad says teams allow MD
-(C) +initiate: +Voitano project
-(C) +initiate: learning plan for workflow
-(C) +learn Andrew Connell course
-(C) +learn More React
-(C) +learn more TypeScript
-(C) +program +gtd fix addr it only gets one word and it moves lists and tags to back
-(C) +program +gtd make some shortcuts. like show A, .... or get 'view' to work. and yes I want to edit single line hmm.
-(C) +program do the bash macros in VsCode macros
-(C) +program imitate the theme of MS VsCode setting editor,  a practice for good program design
-(C) +study azure logic apps https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-workflow-definition-language
-(C) +study flow Resources for Flow 'https://blog.getbizzy.io/your-guide-to-excellent-user-resources-for-microsoft-flow-f3613882d0c6'
-(D) +consider instead of the remember: prefix consider using Anki when you can commit to it for a while this would need to be a new habit
-(D) +fix  +gtd the commit so it just always adds all added as well as modified like it does now.
-(D) +program +gtd make the todo.sh ls command use regex
-(D) +program create +gtd action to initiate a new project in my repoForSubs
-(D) +program create +gtd action to look for 'code c:' on the line and run that to open directory
-(D) +program create script to center and hold the appointment alerts so I don't miss them.... or just do an alarm
-& b/f +sort alphabetical symbols
-# c/b +sort alphabetical symbols
-% e +sort alphabetical symbols
-+deploy draft of CisEducation attempt this repetition exercise is taking a long time
+(D) +consider initiate a monthly pushed newletter from our SP team to site owners.
++consider instead of the remember: prefix consider using Anki when you can commit to it for a while this would need to be a new habit
++consider what are some 15 minute programming katas... 30 min is too long.
++gtd t:2018-09-12 CleanUpOneNoteReference needs to be a daily habit until the 100 or so items are in place
++initiate project to have document site like MS docs - chad says teams allow MD
++initiate: +Voitano project
++initiate: learning plan for Flow
++issue  +gtd the commit so it just always adds all added as well as modified like it does now.
++issue how do I add catalog to onedrive - so far the only way I know is to use ie explorer in ie +YUCK
++learn +extentions work through example list driven placeholders
++learn Andrew Connell course
++learn azure logic apps https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-workflow-definition-language
++learn flow Resources for Flow 'https://blog.getbizzy.io/your-guide-to-excellent-user-resources-for-microsoft-flow-f3613882d0c6'
 +learn how to display list sharepoint from other collection. 1. search WP for classic 2. Highlighted Content web part for Modern 3. copy the list and update with flow see oneNote 'view list in another site collection'
 +learn how to exclude habit from done +gtd +grep'grep -v habit ./workTodo/done.txt'
 +learn how to list report lines
 +learn how to sort with +gtd +grep sort -d todo.txt NOTE the order is different than vscode order.
-+permLink +cindy wants me to consider design of https://jackhenry.sharepoint.com/sites/Managing-at-JHA
++learn ignite keynotes and specific sessions about SharePoint
++learn More React
++learn more TypeScript
++learn what is a powerApp
++permLink +cindy +quickTrain  wants me to consider design of https://jackhenry.sharepoint.com/sites/Managing-at-JHA
 +permLink https://tomato-timer.com/# -WILL-NOT-DO my phone timer works
 +permLink improved Processes https://jackhenry.sharepoint.com/teams/esdm3p/TeamAccess/Lists/ImprovedProcesses/AllItems.aspx
++program +gtd fix addr it only gets one word and it moves lists and tags to back
++program +gtd make some shortcuts. like show A, .... or get 'view' to work. and yes I want to edit single line hmm.
++program +gtd make the todo.sh ls command use regex
++program create +gtd action to initiate a new project in my repoForSubs
++program create +gtd action to look for 'code c:' on the line and run that to open directory
++program create script to center and hold the appointment alerts so I don't miss them.... or just do an alarm
++program do the bash macros in VsCode macros
++program imitate the theme of MS VsCode setting editor,  a practice for good program design
++remember +decide I want to use +learn how to as storage for documnet links I follow. see +learn how to copy a template in done
 +remember +decide make shorcuts well named to code folders then from the folder open with code. No ahk shortcuts needed.
-+remember +gtd addr expects one blank line end and uses previous
 +remember +OneNote +gtd you can click OneNote in an email to move the note to a your set directory.
 +remember +OneNote use the OneNote back button top left
++remember +permlink location of windows shortcuts https://support.microsoft.com/en-us/help/12445/windows-keyboard-shortcuts
 +remember +programming use this url for decoding html entity https://mothereff.in/html-entities
 +remember +programming use VS Code "format section" for html inside of aspx
 +remember +SharePoint page info button helps
-+remember +SharePoint page info button helps
-+remember +YUCK tag for unacceptable answers.
 +remember how to list report lines +gtd +report grep +report ./workTodo/done.txt
 +remember how to remove stubborn windows 10 explorer quick access links .... select another one that does allow remove under the shift right click
-+remember location of windows shortcuts https://support.microsoft.com/en-us/help/12445/windows-keyboard-shortcuts
 +remember my meds are also below the sink
 +remember the +permlink tag
 +remember the keyword +quickTrain for the things Cindy says
-+remember the order of taskbar 1.phone 2.cherwell 3.outlook 4.skype 5.Teams 6.OneNote 7.Chrome 8.ie 9.VsCode
-+remember use browser history more, and favorites to get into keypirinha
-+remember use my pone for pomodoro timer.
-+repeat use +quickEmail when it just takes a short time
-+repeat use +WILL-NOT-DO
-$ f/d +sort alphabetical symbols
-ponder global as a place for state maintenance.
++remember use browser history more, and favorites so that  keypirinha can find them
 t:2018-9-26 add PTO time after thanksgiving vacation https://www.jhaeap.com/psc/HR92PRD/EMPLOYEE/HRMS/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL?
+z$  sort order *the space alphabetical symbols
+z$ _sort order   underscore alphabetical symbols
+z$ -sort order  alphabetical symbols
+z$ ,sort order  alphabetical symbols
+z$ ;sort order  alphabetical symbols
+z$ :sort order  back tic alphabetical symbols
+z$ !sort order  alphabetical symbols
+z$ ?sort order  alphabetical symbols
+z$ .sort order  period alphabetical symbols
+z$ 'sort order  alphabetical symbols
+z$ "sort order  alphabetical symbols
+z$ (sort order  back tic alphabetical symbols
+z$ )sort order  back tic alphabetical symbols
+z$ [sort order  alphabetical symbols
+z$ ]sort order  alphabetical symbols
+z$ {sort order  alphabetical symbols
+z$ }sort order  alphabetical symbols
+z$ @sort order  back tic alphabetical symbols
+z$ *sort order  back tic alphabetical symbols
+z$ /sort order  alphabetical symbols
+z$ \sort order  alphabetical symbols
+z$ &sort order  alphabetical symbols
+z$ #sort order  alphabetical symbols
+z$ #sort order  back tic alphabetical symbols
+z$ %sort order  alphabetical symbols
+z$ `sort order  back tic alphabetical symbols
+z$ ^sort order  back tic alphabetical symbols
+z$ <sort order  alphabetical symbols
+z$ =sort order  alphabetical symbols
+z$ >sort order  alphabetical symbols
+z$ |sort order  pipe alphabetical symbols
+z$ ~sort order  alphabetical symbols
+z$ $sort order  back tic alphabetical symbols
+z$ asort order  back tic alphabetical symbols
+z$ Asort order  back tic alphabetical symbols
+z$ f/d +sort alphabetical symbols
 zt: after work studies @z_triggerList
 zt: chad @z_triggerList
 zt: Cherwell @z_triggerList
 zt: GTD @z_triggerList
 zt: PluralSight @z_triggerList
 zt: Power User @z_triggerList
-zt: r-repeating @z_definePriorities
 zt: Safari Books @z_triggerList
 zt: SP feedback from chad @z_triggerList
+ decision use TRASH instead of WILL-NOT-DO
+!habit 10 use pomodoro times - AND  charge phone
+ +remember command statments can have a space to sort
+ use Anki daily
+!habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
+!habit 30 appointments first in morning
+!habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
