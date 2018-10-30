@@ -1,7 +1,11 @@
   budget time
- +remember use +WILL-NOT-DO
-  "C:\Program Files (x86)\Anki\anki.exe"
+ +remember command statements can have a space to sort
+ +remember use +Trash
+ decision use +Trash instead of
+!habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
 !habit 16 review yesterdays done
+!habit 30 appointments first in morning
+!habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
 !habit 85 notes on every meeting
 !habit 88 study 20 minutes every day on SharePoint-JSON-Helper shortcut search json NEXT find out about install https://www.google.com/search?safe=active&rlz=1C1GGRV_enUS790US790&ei=S8C8W-G1DYOYsQWG6r-YCw&q=%22sharepoint+json+formatter%22&oq=%22sharepoint+json+formatter%22&gs_l=psy-ab.3..35i39j0i30j0i8i30.52569.53841..54977...0.0..0.104.190.1j1......0....1..gws-wiz.......0i71j0i22i30.GYaXsPuxr2Y
 !habit 90 Tuesday weekly refresh my git repository of jhaToday production catalog Tuesday https://jackhenry.sharepoint.com/sites/jhatoday/_catalogs/
@@ -20,7 +24,7 @@
 (A) +consider how to use microsoft's 70 2016 site templates. https://absolute-sharepoint.com/2017/03/sharepoint-2016-site-template-id-list-for-powershell.html
 (A) +initiate work on mobile problem +Cherwell 223581
 (A) +jhatoday +issue fix the space on the news under items with a comment snagit has clip
-(A) +jsonHelper 1. read the readme.md NOTE: the readme is for Create React App!
+(A) +jsonHelper 1. read the readme.md NOTE: the readme is for Creates React App!
 (A) +laptop change password for forClients
 (A) add a note to anki about multiple recycle bin
 (A) fix the Ultimate_Diagnostic content Web Part
@@ -118,8 +122,8 @@ z$ >sort order  alphabetical symbols
 z$ |sort order  pipe alphabetical symbols
 z$ ~sort order  alphabetical symbols
 z$ $sort order  back tic alphabetical symbols
-z$ asort order  back tic alphabetical symbols
 z$ Asort order  back tic alphabetical symbols
+z$ asort order  back tic alphabetical symbols
 z$ f/d +sort alphabetical symbols
 zt: after work studies @z_triggerList
 zt: chad @z_triggerList
@@ -129,10 +133,5 @@ zt: PluralSight @z_triggerList
 zt: Power User @z_triggerList
 zt: Safari Books @z_triggerList
 zt: SP feedback from chad @z_triggerList
- decision use TRASH instead of WILL-NOT-DO
 !habit 10 use pomodoro times - AND  charge phone
- +remember command statments can have a space to sort
  use Anki daily
-!habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
-!habit 30 appointments first in morning
-!habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
