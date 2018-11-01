@@ -664,3 +664,16 @@ x 2018-10-30 07:16   sh -c "C:\Program Files (x86)\Anki\anki.exe" +YUCK my bash 
 x 2018-10-30 07:16 !habit 10 use pomodoro times - AND  charge phone
 x 2018-10-29 08:26 +reference add run a program in bash. https://unix.stackexchange.com/questions/152310/how-to-correctly-start-an-application-from-a-shell
 x 2018-10-30 07:16   sh -c "C:\Program Files (x86)\Anki\anki.exe" +YUCK my bash doesn't work as documented.
+x 2018-10-31 08:19  +remember use +Trash +ANKI
+x 2018-10-31 08:19  decision use +Trash instead of +ANKI
+x 2018-10-31 08:19 !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
+x 2018-10-31 08:19 !habit 16 review yesterdays done
+x 2018-10-31 08:05 !habit 30 appointments first in morning
+x 2018-10-31 08:19 !habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
+x 2018-10-31 08:30 !habit 85 notes on every meeting
+x 2018-10-30 07:53 lost credit card
+x 2018-10-30 07:54 required windows update.
+x 2018-10-31 07:22 watch techSmith Snagit 2019 video.
+x 2018-10-31 07:24 +report beta release of +CisEducation
+x 2018-10-31 07:25 move +cisEdu cis out of main .ts file start of next release.
+x 2018-10-31 07:27 attend Macs organization meeting
