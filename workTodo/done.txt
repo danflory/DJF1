@@ -677,3 +677,23 @@ x 2018-10-31 07:22 watch techSmith Snagit 2019 video.
 x 2018-10-31 07:24 +report beta release of +CisEducation
 x 2018-10-31 07:25 move +cisEdu cis out of main .ts file start of next release.
 x 2018-10-31 07:27 attend Macs organization meeting
+tx 2018-11-01 10:08 ! health form
+x 2018-11-01 07:14 !habit 10 use pomodoro times - AND  charge phone
+x 2018-11-01 07:15 !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
+x 2018-11-01 07:17 syle issues +cisEd
+x 2018-11-01 07:17 work on managed nav issues +cisEd
+x 2018-11-01 07:18 configure Anki better keep adding new cards
+x 2018-11-01 07:22 !habit 16 review yesterdays done
+x 2018-11-01 07:22 !habit 30 appointments first in morning
+x 2018-11-01 07:37 clean up my outlook rulesand the folders it was filling up!
+x 2018-11-01 07:39 !habit 85 notes on every meeting
+x 2018-11-01 07:39 !habit 92 Wednesday passwordSafe login weekly on Wednesday
+x 2018-11-01 07:53 !habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
+x 2018-11-01 08:05 !p01a +gtd set a way to work with projects
+x 2018-11-01 08:41 !p07 become a VScodeExpert set a personal cord key
+x 2018-11-01 08:41 !p07 become a VScodeExpert set a shortcut for sorting file
+x 2018-11-01 08:42 !p07 !!! +VScodeExpert
+x 2018-11-01 08:45 !p07 +VScodeExpert anki of ^t^s
+x 2018-11-01 08:45 !p07 +VScodeExpert anki of move to terminal +!^ backtick
+x 2018-11-01 09:05 !p02 +cisEd project think
+x 2018-11-01 09:20 review new organizational chart

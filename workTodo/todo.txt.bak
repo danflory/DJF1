@@ -1,25 +1,69 @@
   budget time
  +remember command statements can have a space to sort
-!habit 88 study 20 minutes every day on SharePoint-JSON-Helper shortcut search json NEXT find out about install https://www.google.com/search?safe=active&rlz=1C1GGRV_enUS790US790&ei=S8C8W-G1DYOYsQWG6r-YCw&q=%22sharepoint+json+formatter%22&oq=%22sharepoint+json+formatter%22&gs_l=psy-ab.3..35i39j0i30j0i8i30.52569.53841..54977...0.0..0.104.190.1j1......0....1..gws-wiz.......0i71j0i22i30.GYaXsPuxr2Y
+ Trash Reference SomeDay                                                Projects ... Next ,        delegate, defer
+ use Anki daily
+!habit 10 use pomodoro times - AND  charge phone
+!habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
+!habit 16 review yesterdays done
+!habit 30 appointments first in morning
+!habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
+!habit 85 notes on every meeting
 !habit 90 Tuesday weekly refresh my git repository of jhaToday production catalog Tuesday https://jackhenry.sharepoint.com/sites/jhatoday/_catalogs/
 !habit 92 Wednesday lab login weekly on Wednesday
 !habit 92 Wednesday passwordSafe login weekly on Wednesday
 !habit 92 Wednesday weekly status notes
 !habit 96 Thursday use your phone battery.
 !habit 97 Friday carefully work through entire todo.txt
+!p 01 +gtd
+!p 09 +SharePoint-JSON-Helper shortcut search json NEXT find out about install https://www.google.com/search?safe=active&rlz=1C1GGRV_enUS790US790&ei=S8C8W-G1DYOYsQWG6r-YCw&q=%22sharepoint+json+formatter%22&oq=%22sharepoint+json+formatter%22&gs_l=psy-ab.3..35i39j0i30j0i8i30.52569.53841..54977...0.0..0.104.190.1j1......0....1..gws-wiz.......0i71j0i22i30.GYaXsPuxr2Y
+!p09  !!!!!!!! +SharePoint-JSON-Helper shortcut search json NEXT find out about install https://www.google.com/search?safe=active&rlz=1C1GGRV_enUS790US790&ei=S8C8W-G1DYOYsQWG6r-YCw&q=%22sharepoint+json+formatter%22&oq=%22sharepoint+json+formatter%22&gs_l=psy-ab.3..35i39j0i30j0i8i30.52569.53841..54977...0.0..0.104.190.1j1......0....1..gws-wiz.......0i71j0i22i30.GYaXsPuxr2Y
+!p 02 +cisEd
+!p 02a +cisEd +consider and ask about changing to a group of web parts
+!p 03 +gtdProjects 1 How To organize projects
+!p 07 become a VScodeExpert
+!p 08 +PTO
+!p 08 +OpenEnrollment
+!p08 +OpenEnrollment evaluate my stock purchase.
+!p08  !!!!!!!! +OpenEnrollment
+!p is for project then a number +decided
+!p02  !!!!!!! +cisEd
+!p02  !!!!!!! +cisEd +report 211442 relocate a site with same design word doc attached to case.
+!p02 +cisEd
+!p02 +cisEd
+!p02a  !!!!!!! +cisEd +consider and ask about changing to a group of web parts
+!p02a +cisEd +consider and ask about changing to a group of web parts
+!p02a a button anchor ..... for email
+!p02a custom image style
+!p02a custom navigation style
+!p02a custom page fonts and headers
+!p02a customize style of specific part
+!p02a remove the toolbar and allItems on a specific list on this page.
+!p02a section background - ms is supposed to get this active
+!p02a take out the left nave on this page
+!p03 ! +gtdProjects 1 +consider for reporting planning could I just repeat the first line !!!!! or do I need +plan
+!p03  !!!!!!!! +gtdProjects 1 How To organize projects
+!p03 +gtdProjects 1 How To organize projects use of !!!!
+!p03 +gtdProjects 1 NEXT is a 'n'  after the number no space
+!p03 +gtdProjects 1 the project list itself is just an extra space before the number
+!p03 +gtdProjects 1the items under a project don't have a space
+!p03 +gtdProjects to make a header add the !!! it will appear first in the steps list
+!p05 +case +report 222878 hide that quick launch on modern
+!p06 +case +report 223581 a set up office on my device to work  for Tracey Sadler-Lassiter note:yRb.md
+!p07  !!!!!!! +VScodeExpert
+!p07 +VScodeExpert +Anki ^k^q
+!p07 +VScodeExpert create a macro that will do select then sort and return to current line.
+!p08  !!!!!!!! +PTO
+!p08 +PTO ask linda about the second week with Beth
+!p08 +PTO remember to add hcm for thanksgiving
 ' sort order of \'
 " sort order of \"
-(A) ! health form
-(A) +case +report 211442 relocate a site with same design word doc attached to case.
-(A) +case +report 222878 hide that quick launch on modern
-(A) +case +report 223581 a set up office on my device to work  for Tracey Sadler-Lassiter note:yRb.md
-(A) +case 235789 write email about fields
 (A) +consider how to use microsoft's 70 2016 site templates. https://absolute-sharepoint.com/2017/03/sharepoint-2016-site-template-id-list-for-powershell.html
 (A) +initiate work on mobile problem +Cherwell 223581
 (A) +jhatoday +issue fix the space on the news under items with a comment snagit has clip
 (A) +jsonHelper 1. read the readme.md NOTE: the readme is for Creates React App!
 (A) +laptop change password for forClients
 (A) add a note to anki about multiple recycle bin
+(A) credit card lost
 (A) fix the Ultimate_Diagnostic content Web Part
 (A) Get anki and move learn and remember to it start anki habit : it is first priority as a way to clean several items from this list
 (B) +gtd get outline up and running
@@ -38,6 +82,7 @@
 (D) +consider initiate a monthly pushed newletter from our SP team to site owners.
 +consider instead of the remember: prefix consider using Anki when you can commit to it for a while this would need to be a new habit
 +consider what are some 15 minute programming katas... 30 min is too long.
++consider where an how to place my Next action.
 +gtd t:2018-09-12 CleanUpOneNoteReference needs to be a daily habit until the 100 or so items are in place
 +initiate project to have document site like MS docs - chad says teams allow MD
 +initiate: +Voitano project
@@ -76,11 +121,15 @@
 +remember +programming use VS Code "format section" for html inside of aspx
 +remember +SharePoint page info button helps
 +remember how to list report lines +gtd +report grep +report ./workTodo/done.txt
++remember how to list report lines +gtd +report grep +report ./workTodo/done.txt
 +remember how to remove stubborn windows 10 explorer quick access links .... select another one that does allow remove under the shift right click
 +remember my meds are also below the sink
 +remember the +permlink tag
 +remember the keyword +quickTrain for the things Cindy says
 +remember use browser history more, and favorites so that  keypirinha can find them
++tickle ask cindy about potential lab
+attempt to change dans home page
+cokmand statments can have a space to ANKI
 t:2018-9-26 add PTO time after thanksgiving vacation https://www.jhaeap.com/psc/HR92PRD/EMPLOYEE/HRMS/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL?
 z$  sort order *the space alphabetical symbols
 z$ _sort order   underscore alphabetical symbols
@@ -115,8 +164,8 @@ z$ >sort order  alphabetical symbols
 z$ |sort order  pipe alphabetical symbols
 z$ ~sort order  alphabetical symbols
 z$ $sort order  back tic alphabetical symbols
-z$ Asort order  back tic alphabetical symbols
 z$ asort order  back tic alphabetical symbols
+z$ Asort order  back tic alphabetical symbols
 z$ f/d +sort alphabetical symbols
 zt: after work studies @z_triggerList
 zt: chad @z_triggerList
@@ -125,15 +174,4 @@ zt: GTD @z_triggerList
 zt: PluralSight @z_triggerList
 zt: Power User @z_triggerList
 zt: Safari Books @z_triggerList
-zt: SP feedback from chad @z_triggerList
-!habit 10 use pomodoro times - AND  charge phone
- use Anki daily
-+consider where an how to place my Next action.
-attempt to change dans home page
-+remember how to list report lines +gtd +report grep +report ./workTodo/done.txt
-!habit 30 appointments first in morning
-cokmand statments can have a space to ANKI
-!habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
-!habit 16 review yesterdays done
-!habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
-!habit 85 notes on every meeting
+zt: SP feedback from chad @z_triggerList!p02 +cisEd project think
