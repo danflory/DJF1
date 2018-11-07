@@ -697,3 +697,53 @@ x 2018-11-01 08:45 !p07 +VScodeExpert anki of ^t^s
 x 2018-11-01 08:45 !p07 +VScodeExpert anki of move to terminal +!^ backtick
 x 2018-11-01 09:05 !p02 +cisEd project think
 x 2018-11-01 09:20 review new organizational chart
+x 2018-11-02 08:11 !p02 +cisEd +report fix the style of hover navigation items
+x 2018-11-02 08:12 give demo of CisEd to our team
+x 2018-11-02 16:04 !habit 10 use pomodoro times - AND  charge phone
+x 2018-11-02 16:04 !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
+x 2018-11-02 16:04 !habit 16 review yesterdays done
+x 2018-11-02 16:04 !habit 30 appointments first in morning
+x 2018-11-02 16:04 !habit 85 notes on every meeting
+x 2018-11-02 16:05 !p02  +cisEd move pages to PRD.
+x 2018-11-02 16:05 !p02  +cisEd move pages to PRD. the new quote list needed sharegate doesn't copy the column formatting
+x 2018-11-02 16:06 !p02  +cisEd move pages to PRD. the new quote It really needs to be filtered for use with only pages inside of ... CISEducation/Pages
+x 2018-11-02 16:06 !p02  +cisEd give demo of page to Jose' Big need is improvement of NewPage
+x 2018-11-05 07:56 !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
+x 2018-11-05 08:01 !habit 16 review yesterdays done
+x 2018-11-05 08:02 !habit 30 appointments first in morning
+x 2018-11-05 09:23 !p 02a +cisEd fix recognition of Whose Line Is It .... the name changed on move
+x 2018-11-05 09:23 !p 02a +cisEd fix scroll bar of whoose line is it
+x 2018-11-05 09:23 !p 02a +cisEd show name when in edit mode.
+x 2018-11-06 07:38 !p 07 become a VScodeExpert
+x 2018-11-05 09:40 !p02 +cisEd add Name back when edit
+x 2018-11-05 13:12 !p02 +cisEd check order the nav items ... QRG
+x 2018-11-06 07:38 !p02 +cisEd change title to ISA
+x 2018-11-05 07:36 !p02 +cisEd move pages to PRD.
+x 2018-11-05 07:42 +permLink https://tomato-timer.com/# +YUCK my phone timer works
+x 2018-11-05 07:40 +program +gtd fix addr it only gets one word and it moves lists and tags to back +YUCK
+x 2018-11-05 07:44 +remember +decide make shorcuts well named to code folders then from the folder open with code. No ahk shortcuts needed.
+x 2018-11-05 07:51 +remember +OneNote +gtd you can click OneNote in an email to move the note to a your set directory. +ANKI
+x 2018-11-05 07:51 +remember +OneNote use the OneNote back button top left +ANKI
+x 2018-11-05 07:52 +remember +permlink location of windows shortcuts https://support.microsoft.com/en-us/help/12445/windows-keyboard-shortcuts +ANKI
+x 2018-11-05 07:53 +remember +programming use this url for decoding html entity https://mothereff.in/html-entities +ANKI
+x 2018-11-05 07:55 +remember +programming use VS Code "format section" for html inside of aspx +ANKI
+x 2018-11-05 07:55 +remember +SharePoint page info button helps +ANKI
+x 2018-11-05 07:40 cokmand statments can have a space to ANKI +FAIL my bash doesn't do commands like the bash docs say it should
+x 2018-11-06 07:44 !habit 10 use pomodoro times - AND  charge phone
+x 2018-11-06 07:44 !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
+x 2018-11-06 07:48 !habit 16 review yesterdays done
+x 2018-11-06 07:52 !habit 30 appointments first in mornx 2018-11-07 08:41 !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
+x 2018-11-07 08:47 !habit 16 review yesterdays done
+x 2018-11-07 08:47 !habit 30 appointments first in morning
+x 2018-11-07 08:50 !habit 92 Wednesday passwordSafe login weekly on Wednesday
+x 2018-11-07 07:27 !p02  !!!!!!! +cisEd
+x 2018-11-07 07:28 !p02 +cisEd work on the sub menu
+x 2018-11-07 07:28 !p02 +cisEd change the site name to ISA
+x 2018-11-07 08:29 !p02 +cisEd email Jose +quickEmail.
+x 2018-11-07 08:29 !p02 +publish  extention
+x 2018-11-07 07:27 !p03  !!!!!!!! +gtdProjects 1 How To organize projects
+x 2018-11-07 07:25 !p03 +gtdProjects 1 How To organize projects use of !!!!
+x 2018-11-07 07:26 !p03 +gtdProjects 1 the project list itself is just an extra space character before the number
+x 2018-11-07 07:26 !p03 +gtdProjects 1the items under a project don't have a space
+x 2018-11-07 07:26 !p03 +gtdProjects to make a header add the !!! it will appear first in the steps list
+x 2018-10-07 08:42 +learn watch power our about managed navigation.

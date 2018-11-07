@@ -2,34 +2,36 @@
  +remember command statements can have a space to sort
  Trash Reference SomeDay                                                Projects ... Next ,        delegate, defer
  use Anki daily
+! p10 +product360 4 CSWP with paging like I did for News
 !habit 10 use pomodoro times - AND  charge phone
-!habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
-!habit 16 review yesterdays done
-!habit 30 appointments first in morning
+x 2018-11-07 08:41 !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
+x 2018-11-07 08:47 !habit 16 review yesterdays done
+x 2018-11-07 08:47 !habit 30 appointments first in morning
 !habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
 !habit 85 notes on every meeting
 !habit 90 Tuesday weekly refresh my git repository of jhaToday production catalog Tuesday https://jackhenry.sharepoint.com/sites/jhatoday/_catalogs/
 !habit 92 Wednesday lab login weekly on Wednesday
-!habit 92 Wednesday passwordSafe login weekly on Wednesday
+x 2018-11-07 08:50 !habit 92 Wednesday passwordSafe login weekly on Wednesday
 !habit 92 Wednesday weekly status notes
 !habit 96 Thursday use your phone battery.
 !habit 97 Friday carefully work through entire todo.txt
-!p 01 +gtd
-!p 09 +SharePoint-JSON-Helper shortcut search json NEXT find out about install https://www.google.com/search?safe=active&rlz=1C1GGRV_enUS790US790&ei=S8C8W-G1DYOYsQWG6r-YCw&q=%22sharepoint+json+formatter%22&oq=%22sharepoint+json+formatter%22&gs_l=psy-ab.3..35i39j0i30j0i8i30.52569.53841..54977...0.0..0.104.190.1j1......0....1..gws-wiz.......0i71j0i22i30.GYaXsPuxr2Y
-!p09  !!!!!!!! +SharePoint-JSON-Helper shortcut search json NEXT find out about install https://www.google.com/search?safe=active&rlz=1C1GGRV_enUS790US790&ei=S8C8W-G1DYOYsQWG6r-YCw&q=%22sharepoint+json+formatter%22&oq=%22sharepoint+json+formatter%22&gs_l=psy-ab.3..35i39j0i30j0i8i30.52569.53841..54977...0.0..0.104.190.1j1......0....1..gws-wiz.......0i71j0i22i30.GYaXsPuxr2Y
+!habit 98 review my shortcuts files
 !p 02 +cisEd
 !p 02a +cisEd +consider and ask about changing to a group of web parts
 !p 03 +gtdProjects 1 How To organize projects
 !p 07 become a VScodeExpert
-!p 08 +PTO
 !p 08 +OpenEnrollment
-!p08 +OpenEnrollment evaluate my stock purchase.
-!p08  !!!!!!!! +OpenEnrollment
+!p 09 +PTO
+!p 10 +SharePoint-JSON-Helper shortcut search json NEXT find out about install https://www.google.com/search?safe=active&rlz=1C1GGRV_enUS790US790&ei=S8C8W-G1DYOYsQWG6r-YCw&q=%22sharepoint+json+formatter%22&oq=%22sharepoint+json+formatter%22&gs_l=psy-ab.3..35i39j0i30j0i8i30.52569.53841..54977...0.0..0.104.190.1j1......0....1..gws-wiz.......0i71j0i22i30.GYaXsPuxr2Y
+!p 11 reference organization
+!p 12 health tracking
 !p is for project then a number +decided
-!p02  !!!!!!! +cisEd
-!p02  !!!!!!! +cisEd +report 211442 relocate a site with same design word doc attached to case.
-!p02 +cisEd
-!p02 +cisEd
+x 2018-11-07 07:27 !p02  !!!!!!! +cisEd
+x 2018-11-07 07:28 !p02 +cisEd work on the sub menu
+x 2018-11-07 07:28 !p02 +cisEd change the site name to ISA
+!p02 +cisEd check font of quotes
+x 2018-11-07 08:29 !p02 +cisEd email Jose +quickEmail.
+x 2018-11-07 08:29 !p02 +publish  extention
 !p02a  !!!!!!! +cisEd +consider and ask about changing to a group of web parts
 !p02a +cisEd +consider and ask about changing to a group of web parts
 !p02a a button anchor ..... for email
@@ -40,21 +42,31 @@
 !p02a remove the toolbar and allItems on a specific list on this page.
 !p02a section background - ms is supposed to get this active
 !p02a take out the left nave on this page
-!p03 ! +gtdProjects 1 +consider for reporting planning could I just repeat the first line !!!!! or do I need +plan
-!p03  !!!!!!!! +gtdProjects 1 How To organize projects
-!p03 +gtdProjects 1 How To organize projects use of !!!!
+x 2018-11-07 07:27 !p03  !!!!!!!! +gtdProjects 1 How To organize projects
+!p03 ! +gtdProjects 1 +consider for reporting planning could I just repeat the first line !!!!! or do I need +plan +decided +plan is an option for initiation
+!p03 +gtdProjects 1 are there project to +plan?
+x 2018-11-07 07:25 !p03 +gtdProjects 1 How To organize projects use of !!!!
 !p03 +gtdProjects 1 NEXT is a 'n'  after the number no space
-!p03 +gtdProjects 1 the project list itself is just an extra space before the number
-!p03 +gtdProjects 1the items under a project don't have a space
-!p03 +gtdProjects to make a header add the !!! it will appear first in the steps list
+x 2018-11-07 07:26 !p03 +gtdProjects 1 the project list itself is just an extra space character before the number
+x 2018-11-07 07:26 !p03 +gtdProjects 1the items under a project don't have a space
+x 2018-11-07 07:26 !p03 +gtdProjects to make a header add the !!! it will appear first in the steps list
 !p05 +case +report 222878 hide that quick launch on modern
 !p06 +case +report 223581 a set up office on my device to work  for Tracey Sadler-Lassiter note:yRb.md
 !p07  !!!!!!! +VScodeExpert
 !p07 +VScodeExpert +Anki ^k^q
 !p07 +VScodeExpert create a macro that will do select then sort and return to current line.
+!p08  !!!!!!!! +OpenEnrollment
 !p08  !!!!!!!! +PTO
+!p08 +OpenEnrollment evaluate my stock purchase.
 !p08 +PTO ask linda about the second week with Beth
 !p08 +PTO remember to add hcm for thanksgiving
+!p09  !!!!!!!! +SharePoint-JSON-Helper shortcut search json NEXT find out about install https://www.google.com/search?safe=active&rlz=1C1GGRV_enUS790US790&ei=S8C8W-G1DYOYsQWG6r-YCw&q=%22sharepoint+json+formatter%22&oq=%22sharepoint+json+formatter%22&gs_l=psy-ab.3..35i39j0i30j0i8i30.52569.53841..54977...0.0..0.104.190.1j1......0....1..gws-wiz.......0i71j0i22i30.GYaXsPuxr2Y
+!p10 !!!!!!!! +product360
+!p11 !!!!!!!! +reference organization
+!p11 +reference organization my shortcuts folder
+!p11 reference organization one note quick notes
+!p11 reference organization questions I research -- my issue tracker.
+!p11 reference organization study notes for subjects
 ' sort order of \'
 " sort order of \"
 (A) +consider how to use microsoft's 70 2016 site templates. https://absolute-sharepoint.com/2017/03/sharepoint-2016-site-template-id-list-for-powershell.html
@@ -89,6 +101,7 @@
 +initiate: learning plan for Flow
 +issue  +gtd the commit so it just always adds all added as well as modified like it does now.
 +issue how do I add catalog to onedrive - so far the only way I know is to use ie explorer in ie +YUCK
++laptopMaintainence trouble with both monitor and mouse not being recognized on start up
 +learn +extentions work through example list driven placeholders
 +learn Andrew Connell course
 +learn azure logic apps https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-workflow-definition-language
@@ -102,9 +115,7 @@
 +learn more TypeScript
 +learn what is a powerApp
 +permLink +cindy +quickTrain  wants me to consider design of https://jackhenry.sharepoint.com/sites/Managing-at-JHA
-+permLink https://tomato-timer.com/# -WILL-NOT-DO my phone timer works
 +permLink improved Processes https://jackhenry.sharepoint.com/teams/esdm3p/TeamAccess/Lists/ImprovedProcesses/AllItems.aspx
-+program +gtd fix addr it only gets one word and it moves lists and tags to back
 +program +gtd make some shortcuts. like show A, .... or get 'view' to work. and yes I want to edit single line hmm.
 +program +gtd make the todo.sh ls command use regex
 +program create +gtd action to initiate a new project in my repoForSubs
@@ -112,15 +123,6 @@
 +program create script to center and hold the appointment alerts so I don't miss them.... or just do an alarm
 +program do the bash macros in VsCode macros
 +program imitate the theme of MS VsCode setting editor,  a practice for good program design
-+remember +decide I want to use +learn how to as storage for documnet links I follow. see +learn how to copy a template in done
-+remember +decide make shorcuts well named to code folders then from the folder open with code. No ahk shortcuts needed.
-+remember +OneNote +gtd you can click OneNote in an email to move the note to a your set directory.
-+remember +OneNote use the OneNote back button top left
-+remember +permlink location of windows shortcuts https://support.microsoft.com/en-us/help/12445/windows-keyboard-shortcuts
-+remember +programming use this url for decoding html entity https://mothereff.in/html-entities
-+remember +programming use VS Code "format section" for html inside of aspx
-+remember +SharePoint page info button helps
-+remember how to list report lines +gtd +report grep +report ./workTodo/done.txt
 +remember how to list report lines +gtd +report grep +report ./workTodo/done.txt
 +remember how to remove stubborn windows 10 explorer quick access links .... select another one that does allow remove under the shift right click
 +remember my meds are also below the sink
@@ -128,8 +130,7 @@
 +remember the keyword +quickTrain for the things Cindy says
 +remember use browser history more, and favorites so that  keypirinha can find them
 +tickle ask cindy about potential lab
-attempt to change dans home page
-cokmand statments can have a space to ANKI
+p15 prg outline:prg15
 t:2018-9-26 add PTO time after thanksgiving vacation https://www.jhaeap.com/psc/HR92PRD/EMPLOYEE/HRMS/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL?
 z$  sort order *the space alphabetical symbols
 z$ _sort order   underscore alphabetical symbols
@@ -175,3 +176,12 @@ zt: PluralSight @z_triggerList
 zt: Power User @z_triggerList
 zt: Safari Books @z_triggerList
 zt: SP feedback from chad @z_triggerList!p02 +cisEd project think
+!p03  !!!!!!!! +gtdProjects 1 How To organize projects
+!p02  !!!!!!! +cisEd
+!p02 +cisEd work on the sub menu
+!p02 +cisEd change the site name to ISA
+!habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
+x 2018-10-07 08:42 +learn watch power our about managed navigation.
+!habit 16 review yesterdays done
+!habit 30 appointments first in morning
+(A) get my repos into corporate
