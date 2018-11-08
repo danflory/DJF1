@@ -747,3 +747,10 @@ x 2018-11-07 07:26 !p03 +gtdProjects 1 the project list itself is just an extra 
 x 2018-11-07 07:26 !p03 +gtdProjects 1the items under a project don't have a space
 x 2018-11-07 07:26 !p03 +gtdProjects to make a header add the !!! it will appear first in the steps list
 x 2018-10-07 08:42 +learn watch power our about managed navigation.
+x 2018-11-07 09:37 !p20 case 223581  email to MS and Tracey to resolve this. these email were sent monday and tuesday
+x 2018-11-08 07:50 !p13 build paging CSWP for news archive and photo gallery. +report
+x 2018-11-07 09:32 !p05 +case +report 222878 hide that quick launch on modern NOTE: case was close a couple of weeks ago
+x 2018-11-08 07:44 +jhatoday +issue fix the space on the news under items with a comment snagit has clip
+x 2018-11-08 07:41 +news revisit archive and subpage
+x 2018-11-07 08:59 +tickle ask cindy about potential lab It will be 2019
+x 2018-11-07 09:27 +gtd add note to +anki about sorting. alphabet is last
