@@ -1,45 +1,33 @@
-  budget time
+ 7  budget time
  +remember command statements can have a space to sort
  Trash Reference SomeDay                                                Projects ... Next ,        delegate, defer
  use Anki daily
-! p10 +product360 4 CSWP with paging like I did for News
 !habit 10 use pomodoro times - AND  charge phone
 !habit 11 check EAS team messages
-!habit 16 review yesterdays done
-!habit 30 appointments first in morning
-!habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
-!habit 85 notes on every meeting
+x 2018-11-09 10:21 !habit 16 review yesterdays done
+x 2018-11-09 10:21 !habit 30 appointments first in morning
+x 2018-11-09 10:21 !habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
+x 2018-11-09 10:21 !habit 85 notes on every meeting
 !habit 90 Tuesday weekly refresh my git repository of jhaToday production catalog Tuesday https://jackhenry.sharepoint.com/sites/jhatoday/_catalogs/
 !habit 92 Wednesday lab login weekly on Wednesday
 !habit 92 Wednesday weekly status notes
 !habit 96 Thursday use your phone battery.
-!habit 97 Friday carefully work through entire todo.txt
-!habit 98 review my shortcuts files
+x 2018-11-09 11:17 !habit 97 Friday carefully work through entire todo.txt
+!habit 98 Thursday review my shortcuts files
 !p 02 +cisEd case 211442
 !p 02a +cisEd +consider and ask about changing to a group of web parts
 !p 03 +gtdProjects 1 How To organize projects
 !p 07 become a VScodeExpert
 !p 08 +OpenEnrollment
 !p 09 +PTO
+!p 10 +product360 4 CSWP with paging like I did for News
 !p 10 +SharePoint-JSON-Helper shortcut search json NEXT find out about install https://www.google.com/search?safe=active&rlz=1C1GGRV_enUS790US790&ei=S8C8W-G1DYOYsQWG6r-YCw&q=%22sharepoint+json+formatter%22&oq=%22sharepoint+json+formatter%22&gs_l=psy-ab.3..35i39j0i30j0i8i30.52569.53841..54977...0.0..0.104.190.1j1......0....1..gws-wiz.......0i71j0i22i30.GYaXsPuxr2Y
 !p 11 reference organization
 !p 12 health tracking
 !p 13 jhaToday
 !p 13a jhaToday +news
-!p 13a jhaToday +product365 to CSWP
+!p 13a jhaToday +product365 to CSWP https://jackhenry.sharepoint.com/teams/esdm3p/Lists/jhaTodayCQWP/Pending.aspx
 !p 20 cases
-!p20 !!!!!! cases
-!p20 !!!!!! case 223581  set up office on my device to work  for Tracey Sadler-Lassiter
-x 2018-11-07 09:37 !p20 case 223581  email to MS and Tracey to resolve this. these email were sent monday and tuesday
-!p20 !!!!!! case 256849  Cathy Jones Editing department field.
-!p20 !!!!!! case 256849  Jonathan Morris - FLOW learning
-!p20  case 256849  Jonathan Morris - +quickEmail in cherwell
-!p13a !!!!!!!! jhaToday +news
-!p13a jhaToday +news make a test page
-x 2018-11-08 07:50 !p13 build paging CSWP for news archive and photo gallery. +report
-!p13a jhaToday +news fix the ultimate debugger
-!p13a !!!!!!!! jhaToday +product365 to CSWP
-!p13a jhaToday +o365
 !p is for project then a number +decided
 !p02  !!!!!!! +cisEd
 !p02 +cisEd change the site name to ISA
@@ -59,7 +47,6 @@ x 2018-11-08 07:50 !p13 build paging CSWP for news archive and photo gallery. +r
 !p03 ! +gtdProjects 1 +consider for reporting planning could I just repeat the first line !!!!! or do I need +plan +decided +plan is an option for initiation
 !p03 +gtdProjects 1 are there project to +plan?
 !p03 +gtdProjects 1 NEXT is a 'n'  after the number no space
-x 2018-11-07 09:32 !p05 +case +report 222878 hide that quick launch on modern NOTE: case was close a couple of weeks ago
 !p07  !!!!!!! +VScodeExpert
 !p07 +VScodeExpert +Anki ^k^q
 !p07 +VScodeExpert create a macro that will do select then sort and return to current line.
@@ -75,22 +62,28 @@ x 2018-11-07 09:32 !p05 +case +report 222878 hide that quick launch on modern NO
 !p11 reference organization one note quick notes
 !p11 reference organization questions I research -- my issue tracker.
 !p11 reference organization study notes for subjects
-' sort order of \'
-" sort order of \"
+!p13a !!!!!!!! jhaToday +news
+!p13b !!!!!!!! jhaToday +product365 to CSWP https://jackhenry.sharepoint.com/teams/esdm3p/Lists/jhaTodayCQWP/Pending.aspx
+x 2018-11-09 10:19 !p13b  +product365 to CSWP  make paging first just one column +report
+!p13b  +product365 to CSWP  make paging change to two column
+!p13a !!!!!!!! jhaToday webdav to paste in explorer \\jackhenry.sharepoint.com@SSL\DavWWWRoot\sites\jhatoday\_catalogs\masterpage\Display Templates
+!p13a jhaToday +news fix the ultimate debugger
+!p13a jhaToday +news make a test page
+!p13a jhaToday +product365 https://jackhenry.sharepoint.com/sites/jhatoday/CorporateInfo/Product-360/Pages/test-the-product360-CSWP.aspx?ControlMode=Edit&DisplayMode=Design
+!p20  !!!!!! cases
+!p20 !!!!!!!! case 223581  set up office on my device to work  for Tracey Sadler-Lassiter
+!p20 !!!!!!!! case 256849  Jonathan Morris - +quickEmail in cherwell
+' sort order
+" sort order
 (A) +consider how to use microsoft's 70 2016 site templates. https://absolute-sharepoint.com/2017/03/sharepoint-2016-site-template-id-list-for-powershell.html
 (A) +initiate work on mobile problem +Cherwell 223581
-x 2018-11-08 07:44 +jhatoday +issue fix the space on the news under items with a comment snagit has clip
 (A) +laptop change password for forClients
-(A) add a note to anki about multiple recycle bin
-(A) credit card lost
 (A) fix the Ultimate_Diagnostic content Web Part
-(A) Get anki and move learn and remember to it start anki habit : it is first priority as a way to clean several items from this list
-(A) get my repos into corporate
+(A) get my reposForSubs into corporate department repo
 (B) +gtd get outline up and running
 (B) +home friendly tires for alignment
-(B) +issue: track down the markDoc server error I get when working .md is this the same thing? https://www.mkdocs.org/
+x 2018-11-09 10:25 +issue: track down the markDoc server error I get when working .md is this the same thing? https://www.mkdocs.org/: Solution uninstall those plug in
 (B) +learn crome dev tools https://developers.google.com/web/tools/chrome-devtools/console/get-started
-x 2018-11-08 07:41 +news revisit archive and subpage
 (B) +react  jam in a visual example of header then learn a little react to put it in with color.
 (B) +react learn how react id's work so I can modify a style.
 (B) +study azure equivalent to Flow whatever they are called.
@@ -98,8 +91,6 @@ x 2018-11-08 07:41 +news revisit archive and subpage
 (B) do a round robin ticket deployment project
 (B) do the periodic reminder to review flow.
 (B) get phone messages in outlook.
-(C) +consider adding more aliases to bash for other todo lists that have a different config. Like I have for work and home, I can have a list for case work and use alias tC when working on cases.
-(D) +consider initiate a monthly pushed newletter from our SP team to site owners.
 +consider instead of the remember: prefix consider using Anki when you can commit to it for a while this would need to be a new habit
 +consider what are some 15 minute programming katas... 30 min is too long.
 +consider where an how to place my Next action.
@@ -110,27 +101,6 @@ x 2018-11-08 07:41 +news revisit archive and subpage
 +issue  +gtd the commit so it just always adds all added as well as modified like it does now.
 +issue how do I add catalog to onedrive - so far the only way I know is to use ie explorer in ie +YUCK
 +laptopMaintainence trouble with both monitor and mouse not being recognized on start up
-+learn +extentions work through example list driven placeholders
-+learn Andrew Connell course
-+learn azure logic apps https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-workflow-definition-language
-+learn flow Resources for Flow 'https://blog.getbizzy.io/your-guide-to-excellent-user-resources-for-microsoft-flow-f3613882d0c6'
-+learn how to display list sharepoint from other collection. 1. search WP for classic 2. Highlighted Content web part for Modern 3. copy the list and update with flow see oneNote 'view list in another site collection'
-+learn how to exclude habit from done +gtd +grep'grep -v habit ./workTodo/done.txt'
-+learn how to list report lines
-+learn how to sort with +gtd +grep sort -d todo.txt NOTE the order is different than vscode order.
-+learn ignite keynotes and specific sessions about SharePoint
-+learn More React
-+learn more TypeScript
-+learn what is a powerApp
-+permLink +cindy +quickTrain  wants me to consider design of https://jackhenry.sharepoint.com/sites/Managing-at-JHA
-+permLink improved Processes https://jackhenry.sharepoint.com/teams/esdm3p/TeamAccess/Lists/ImprovedProcesses/AllItems.aspx
-+program +gtd make some shortcuts. like show A, .... or get 'view' to work. and yes I want to edit single line hmm.
-+program +gtd make the todo.sh ls command use regex
-+program create +gtd action to initiate a new project in my repoForSubs
-+program create +gtd action to look for 'code c:' on the line and run that to open directory
-+program create script to center and hold the appointment alerts so I don't miss them.... or just do an alarm
-+program do the bash macros in VsCode macros
-+program imitate the theme of MS VsCode setting editor,  a practice for good program design
 +remember how to list report lines +gtd +report grep +report ./workTodo/done.txt
 +remember how to remove stubborn windows 10 explorer quick access links .... select another one that does allow remove under the shift right click
 +remember my meds are also below the sink
@@ -138,5 +108,18 @@ x 2018-11-08 07:41 +news revisit archive and subpage
 +remember the keyword +quickTrain for the things Cindy says
 +remember use browser history more, and favorites so that  keypirinha can find them
 t:2018-9-26 add PTO time after thanksgiving vacation https://www.jhaeap.com/psc/HR92PRD/EMPLOYEE/HRMS/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL?
-x 2018-11-07 08:59 +tickle ask cindy about potential lab It will be 2019
-x 2018-11-07 09:27 +gtd add note to +anki about sorting. alphabet is last
+x 2018-11-09 10:20 +quickEmail to carlos about the location of templates
+!habit 16 review yesterdays done
+!habit 30 appointments first in morning
+!habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
+!habit 85 notes on every meeting
+x 2018-11-09 10:27 +gtd create a somedayMaby.txt and check that list
+x 2018-11-09 10:28 +gtd create a learn.txt
+x 2018-11-09 10:29 +gtd create links.txt instead of +permLink
+!habit 98 Friday check littleProgramming did I do any?
+!habit 98 Friday check learn.txt  what did I do this week?
+x 2018-11-09 11:11 Make new signature
+x 2018-11-09 11:12 research templates for 10 minutes for Carlos case
+!habit 97 Friday carefully work through entire todo.txt
+x 2018-11-09 11:17 +quickEmail to Jose and Sofia asking if OK
+x 2018-11-09 13:32 laptop - round two with vpn and mobilePass. Now I'm in

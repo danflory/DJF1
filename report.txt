@@ -1,4 +1,37 @@
-
+x 2018-09-12 10:46 +case 23299 network links on for a new item on blue icon page... and resulting case I created 233645 +reportable time 7am to 11am
+x 2018-09-14 10:02 +case +report work with +MS +Tracey Sadler-lasiter about phone. I forwarded Tracey MS email and responded to MS email
+x 2018-09-17 10:53 +news +report all ask kyle for 'ArticleStartDate' to be mapped to RefinableDate18 Chad had to get this to work by deleting collection level
+x 2018-09-17 10:55 +report +Jhatoday +CSWP +News debug why the ultimate debugger fails
+x 2018-09-18 13:59 +News +subsite +report fix internal heading by removing WP Title the solution is chrome none to make white bkground+subsite            company News
+x 2018-09-18 14:29 +report set 17 in query on            company News both sort and in query for all 5
+x 2018-09-18 15:47 +report +case 230377 communications site questions, need comment. I spent an hour looking for articles describing the different types of sites, and created a couple at https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/TestDiscussionBoard/AllItems.aspx
+x 2018-09-19 08:06 +case +report 237379 permission for IIycc Anne Santos, I emailed Ryan Mgr. "https://jackhenry.sharepoint.com/sites/jhacomms/firewall/3px%20%20Episys%20Ports/Forms/AllItems.aspx"
+x 2018-09-21 09:22 fix techKnow +report
+x 2018-09-25 15:29 fix the greater than today in all parts +report
+x 2018-09-26 10:21 +case +report Cathy Jones Education needs workflow adjustment. when the workflow changed the document name or updated the title the document t
+x 2018-09-27 07:43 +case +report 211442 I sent email in cherwell
+x 2018-09-27 07:57 +case +report 230377 Rebekah Cooper add comments notes in OneNote uder 230377 communications site questions, need comment. I spent an hour looking for articles describing the different types of sites, and created a couple at https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/TestDiscussionBoard/AllItems.aspx
+x 2018-09-27 07:57 +case +report 233870 Brian Dickey round robin ticket assignments +report I met with Brian and sent Mindy email, I think Flow is the way
+x 2018-09-27 08:00 +case +report 233870 Brian Dickey round robin ticket assignments notes in OneNote case number +report I met with Brian and sent Mindy email, I think Flow is the way
+x 2018-09-27 08:11 +case +report 235789 Tracy Tate "create Web parts on home page" I made teams meeting for monday 1:00pm
+x 2018-09-27 10:08 !habit 80 use todo.sh archive every day+report
+x 2018-09-28 08:04 !habit 13 use todo.sh archive every day+report +case resolve 241252 news needed start lt or eq today
+x 2018-09-28 09:01 +case +report 235789 Tracy Tate "create Web parts on home page"
+x 2018-09-28 09:01 +case +report Cathy Jones Education needs workflow adjustment.
+x 2018-09-28 10:14 +case +report 233870 Brian Dickey round robin ticket assignments notes in OneNote case number +report I met with Brian and sent Mindy email, I think Flow is the way
+x 2018-10-01 09:02 +corporate complete open policy and harassment check. +report
+x 2018-10-03 08:26 +report ignite for an hour yesterday
+x 2018-10-03 10:15 +report fix jhatoday what appeared to be a check box in the middle of news items. it turned out to be a wierd relocation of Event Item allow item selection.
+x 2018-10-03 16:01 +report fix a +jhatoday issue where events put check box in center of news - we turned off individal item selection in the current item of the Event web part
+x 2018-10-04 07:25 +report David Allen identify what isnt the way it should be and write it down. my move into work is that thing and my gtd is the action Im taking to resolve it.
+x 2018-10-08 11:19 +case +report 233870 Brian Dickey round robin ticket assignments notes in OneNote case number +report I met with Brian and sent Mindy email, I think Flow is the way
+x 2018-10-08 11:19 +case +report 241713 Help Jonathan Morris create a hide that quick launch on modern
+x 2018-10-11 10:16 +columnFormat get the github repository sp-dev-list-formatting this is a new repository location since my last download and the sharepoint parent has 35! repositories.+report I spen two hours looking at changes in these repos and exercise in git as well as SP.
+x 2018-10-11 10:17 +report GTD observation, starting the day prior to finishing my startup delays some things that should have been done. Today I missed a Teams message by missing my habit start msTeams.
+x 2018-10-15 07:23 +case +report 211442 relocate a site with same design word doc attached to case.
+x 2018-10-16 09:09 +decide +report should I try using react for my selectorsto page areas or just do it the old way using jquery. I finaly defined this nagging question and with Cindy decided use what I know. Take my time learning new.
+x 2018-10-16 09:26 +case 250947 +report Carol Livingston single user issue with IE - work arround is to use Chrome or Edge. It might be an issue with the view we don't know.
+x 2018-10-16 09:28 finish +report set up test user account tstdanielf01
 x 2018-10-22 08:17 !habit 97 Friday carefully work through entire todo.txt +report A BIG DEAL
 x 2018-10-22 07:58 +decide add +report to items for weekly status DECIDED use REPORT not status
 x 2018-10-22 07:36 +report follow up email about column width on modern just drag a column wider
@@ -9,3 +42,10 @@ x 2018-10-22 09:09 +report performance test Jhatoday notes in ESDM3P General cha
 x 2018-10-22 07:26 +deploy draft of CisEducation +report
 x 2018-10-17 07:31 +report use MutationObserver to customize +cisEducation list
 x 2018-10-18 07:33 +report use list formatter json to show quotes my example https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
+x 2018-10-24 10:12 +report Cathy Jones education process would like a way to change department.
+x 2018-10-31 07:24 +report beta release of +CisEducation
+x 2018-11-02 08:11 !p02 +cisEd +report fix the style of hover navigation items
+x 2018-11-02 16:05 !p02  +cisEd move pages to PRD. +report
+x 2018-11-05 13:12 !p02 +report video on managed navigation
+x 2018-11-08 07:50 !p13 build paging CSWP for news archive and photo gallery. +report
+x 2018-11-07 09:32 !p05 +case +report 222878 hide that quick launch on modern NOTE: case was close a couple of weeks ago

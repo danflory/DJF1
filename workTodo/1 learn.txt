@@ -1,0 +1,12 @@
++learn +extentions work through example list driven placeholders
++learn Andrew Connell course
++learn azure logic apps https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-workflow-definition-language
++learn flow Resources for Flow 'https://blog.getbizzy.io/your-guide-to-excellent-user-resources-for-microsoft-flow-f3613882d0c6'
++learn how to display list sharepoint from other collection. 1. search WP for classic 2. Highlighted Content web part for Modern 3. copy the list and update with flow see oneNote 'view list in another site collection'
++learn how to exclude habit from done +gtd +grep'grep -v habit ./workTodo/done.txt'
++learn how to list report lines
++learn how to sort with +gtd +grep sort -d todo.txt NOTE the order is different than vscode order.
++learn ignite keynotes and specific sessions about SharePoint
++learn More React
++learn more TypeScript
++learn what is a powerApp

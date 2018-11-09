@@ -704,7 +704,7 @@ x 2018-11-02 16:04 !habit 11 start msTeam for some reason I still have to click 
 x 2018-11-02 16:04 !habit 16 review yesterdays done
 x 2018-11-02 16:04 !habit 30 appointments first in morning
 x 2018-11-02 16:04 !habit 85 notes on every meeting
-x 2018-11-02 16:05 !p02  +cisEd move pages to PRD.
+x 2018-11-02 16:05 !p02  +cisEd move pages to PRD. +report
 x 2018-11-02 16:05 !p02  +cisEd move pages to PRD. the new quote list needed sharegate doesn't copy the column formatting
 x 2018-11-02 16:06 !p02  +cisEd move pages to PRD. the new quote It really needs to be filtered for use with only pages inside of ... CISEducation/Pages
 x 2018-11-02 16:06 !p02  +cisEd give demo of page to Jose' Big need is improvement of NewPage
@@ -728,7 +728,7 @@ x 2018-11-05 07:52 +remember +permlink location of windows shortcuts https://sup
 x 2018-11-05 07:53 +remember +programming use this url for decoding html entity https://mothereff.in/html-entities +ANKI
 x 2018-11-05 07:55 +remember +programming use VS Code "format section" for html inside of aspx +ANKI
 x 2018-11-05 07:55 +remember +SharePoint page info button helps +ANKI
-x 2018-11-05 07:40 cokmand statments can have a space to ANKI +FAIL my bash doesn't do commands like the bash docs say it should
+x 2018-11-05 07:40 command statments can have a space to ANKI +FAIL my bash doesn't do commands like the bash docs say it should
 x 2018-11-06 07:44 !habit 10 use pomodoro times - AND  charge phone
 x 2018-11-06 07:44 !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
 x 2018-11-06 07:48 !habit 16 review yesterdays done
@@ -751,6 +751,29 @@ x 2018-11-07 09:37 !p20 case 223581  email to MS and Tracey to resolve this. the
 x 2018-11-08 07:50 !p13 build paging CSWP for news archive and photo gallery. +report
 x 2018-11-07 09:32 !p05 +case +report 222878 hide that quick launch on modern NOTE: case was close a couple of weeks ago
 x 2018-11-08 07:44 +jhatoday +issue fix the space on the news under items with a comment snagit has clip
-x 2018-11-08 07:41 +news revisit archive and subpage
+x 2018-11-08 07:41 +news revisit archive and subpage  build paging +report
 x 2018-11-07 08:59 +tickle ask cindy about potential lab It will be 2019
 x 2018-11-07 09:27 +gtd add note to +anki about sorting. alphabet is last
+x 2018-11-09 10:13 !habit 11 check EAS team messages
+x 2018-11-09 09:24 !p13a !!!!!!!! jhaToday webdav to paste in explorer \\jackhenry.sharepoint.com@SSL\DavWWWRoot\sites\jhatoday\_catalogs\masterpage\Display Templates
+x 2018-11-08 15:25 !p13a jhaToday +product365 create a test page
+x 2018-11-08 14:46 !p20 !!!!!! case 256849  Cathy Jones Editing department field.
+x 2018-11-09 09:52 add a note to anki about multiple recycle bin
+x 2018-11-09 09:52 credit card lost email, think, reorder
+x 2018-11-09 09:52 Get anki and move learn and remember to it start anki habit : it is first priority as a way to clean several items from this list
+x 2018-11-09 09:51 +laptopMaintain mobilePass reinstall after a laptop crash about two hours to get working vpn
+x 2018-11-09 10:21 !habit 16 review yesterdays done
+x 2018-11-09 10:21 !habit 30 appointments first in morning
+x 2018-11-09 10:21 !habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
+x 2018-11-09 10:21 !habit 85 notes on every meeting
+x 2018-11-09 11:17 !habit 97 Friday carefully work through entire todo.txt
+x 2018-11-09 10:19 !p13b  +product365 to CSWP  make paging first just one column +report
+x 2018-11-09 10:25 +issue: track down the markDoc server error I get when working .md is this the same thing? https://www.mkdocs.org/: Solution uninstall those plug in
+x 2018-11-09 10:20 +quickEmail to carlos about the location of templates
+x 2018-11-09 10:27 +gtd create a somedayMaby.txt and check that list
+x 2018-11-09 10:28 +gtd create a learn.txt
+x 2018-11-09 10:29 +gtd create links.txt instead of +permLink
+x 2018-11-09 11:11 Make new signature
+x 2018-11-09 11:12 research templates for 10 minutes for Carlos case
+x 2018-11-09 11:17 +quickEmail to Jose and Sofia asking if OK
+x 2018-11-09 13:32 laptop - round two with vpn and mobilePass. Now I'm in

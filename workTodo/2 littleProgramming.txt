@@ -1,0 +1,8 @@
+
++program +gtd make some shortcuts. like show A, .... or get 'view' to work. and yes I want to edit single line hmm.
++program +gtd make the todo.sh ls command use regex
++program create +gtd action to initiate a new project in my repoForSubs
++program create +gtd action to look for 'code c:' on the line and run that to open directory
++program create script to center and hold the appointment alerts so I don't miss them.... or just do an alarm
++program do the bash macros in VsCode macros
++program imitate the theme of MS VsCode setting editor,  a practice for good program design

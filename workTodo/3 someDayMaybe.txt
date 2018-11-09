@@ -1,0 +1,3 @@
+(c) +somedayMaybe figure out MS docs openDocs
+(C) +consider adding more aliases to bash for other todo lists that have a different config. Like I have for work and home, I can have a list for case work and use alias tC when working on cases.
+(D) +consider initiate a monthly pushed newletter from our SP team to site owners.
