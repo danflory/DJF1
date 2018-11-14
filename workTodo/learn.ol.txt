@@ -3,3 +3,5 @@ A parent group I don't expect to ever finish
 (B) +study azure equivalent to Flow whatever they are called.
 (B) +study read the git book I need to know what push and sync are doing
 +initiate: learning plan for Flow
+YOUR Done next do item will delete project .ol. file
+last line
