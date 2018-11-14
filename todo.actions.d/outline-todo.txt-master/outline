@@ -534,7 +534,7 @@ case "$1" in
 			shift
 			[[ "$1" =~ ^[0-9]+$ ]] && $TODO_FULL_SH mv $1 $outline_file
 			$EDITOR $TODO_DIR/$outline_file
-			[[ $OL_AUTO_IMPORT == "1" ]] && $TODO_FULL_SH outline import
+			#[[ $OL_AUTO_IMPORT == "1" ]] && $TODO_FULL_SH outline import
 		else
 			echo "Unable to create $outline_file"
 		fi

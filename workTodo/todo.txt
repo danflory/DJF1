@@ -1,110 +1,35 @@
- 7  budget time
- +remember command statements can have a space to sort
- Trash Reference SomeDay                                                Projects ... Next ,        delegate, defer
- use Anki daily
-!habit 10 use pomodoro times - AND  charge phone
-!habit 11 check EAS team messages
-!habit 90 Tuesday weekly refresh my git repository of jhaToday production catalog Tuesday https://jackhenry.sharepoint.com/sites/jhatoday/_catalogs/
-!habit 92 Wednesday lab login weekly on Wednesday
-!habit 92 Wednesday weekly status notes
-!habit 96 Thursday use your phone battery.
-!habit 98 Thursday review my shortcuts files
-!p 02 +cisEd case 211442
-!p 02a +cisEd +consider and ask about changing to a group of web parts
-!p 03 +gtdProjects 1 How To organize projects
-!p 07 become a VScodeExpert
-!p 08 +OpenEnrollment
-!p 09 +PTO
-!p 10 +product360 4 CSWP with paging like I did for News
-!p 10 +SharePoint-JSON-Helper shortcut search json NEXT find out about install https://www.google.com/search?safe=active&rlz=1C1GGRV_enUS790US790&ei=S8C8W-G1DYOYsQWG6r-YCw&q=%22sharepoint+json+formatter%22&oq=%22sharepoint+json+formatter%22&gs_l=psy-ab.3..35i39j0i30j0i8i30.52569.53841..54977...0.0..0.104.190.1j1......0....1..gws-wiz.......0i71j0i22i30.GYaXsPuxr2Y
-!p 11 reference organization
-!p 12 health tracking
-!p 13 jhaToday
-!p 13a jhaToday +news
-!p 13a jhaToday +product365 to CSWP https://jackhenry.sharepoint.com/teams/esdm3p/Lists/jhaTodayCQWP/Pending.aspx
-!p 20 cases
-!p is for project then a number +decided
-!p02  !!!!!!! +cisEd
-!p02 +cisEd change the site name to ISA
-!p02 +cisEd check font of quotes
-!p02 +cisEd work on the sub menu
-!p02a  !!!!!!! +cisEd +consider and ask about changing to a group of web parts
-!p02a +cisEd +consider and ask about changing to a group of web parts
-!p02a a button anchor ..... for email
-!p02a custom image style
-!p02a custom navigation style
-!p02a custom page fonts and headers
-!p02a customize style of specific part
-!p02a remove the toolbar and allItems on a specific list on this page.
-!p02a section background - ms is supposed to get this active
-!p02a take out the left nave on this page
-!p03  !!!!!!!! +gtdProjects 1 How To organize projects
-!p03 ! +gtdProjects 1 +consider for reporting planning could I just repeat the first line !!!!! or do I need +plan +decided +plan is an option for initiation
-!p03 +gtdProjects 1 are there project to +plan?
-!p03 +gtdProjects 1 NEXT is a 'n'  after the number no space
-!p07  !!!!!!! +VScodeExpert
-!p07 +VScodeExpert +Anki ^k^q
-!p07 +VScodeExpert create a macro that will do select then sort and return to current line.
-!p08  !!!!!!!! +OpenEnrollment
-!p08  !!!!!!!! +PTO
-!p08 +OpenEnrollment evaluate my stock purchase.
-!p08 +PTO ask linda about the second week with Beth
-!p08 +PTO remember to add hcm for thanksgiving
-!p09  !!!!!!!! +SharePoint-JSON-Helper shortcut search json NEXT find out about install https://www.google.com/search?safe=active&rlz=1C1GGRV_enUS790US790&ei=S8C8W-G1DYOYsQWG6r-YCw&q=%22sharepoint+json+formatter%22&oq=%22sharepoint+json+formatter%22&gs_l=psy-ab.3..35i39j0i30j0i8i30.52569.53841..54977...0.0..0.104.190.1j1......0....1..gws-wiz.......0i71j0i22i30.GYaXsPuxr2Y
-!p10 !!!!!!!! +product360
-!p11 !!!!!!!! +reference organization
-!p11 +reference organization my shortcuts folder
-!p11 reference organization one note quick notes
-!p11 reference organization questions I research -- my issue tracker.
-!p11 reference organization study notes for subjects
-!p13a !!!!!!!! jhaToday +news
-!p13b !!!!!!!! jhaToday +product365 to CSWP https://jackhenry.sharepoint.com/teams/esdm3p/Lists/jhaTodayCQWP/Pending.aspx
-!p13b  +product365 to CSWP  make paging change to two column
-!p13a !!!!!!!! jhaToday webdav to paste in explorer \\jackhenry.sharepoint.com@SSL\DavWWWRoot\sites\jhatoday\_catalogs\masterpage\Display Templates
-!p13a jhaToday +news fix the ultimate debugger
-!p13a jhaToday +news make a test page
-!p13a jhaToday +product365 https://jackhenry.sharepoint.com/sites/jhatoday/CorporateInfo/Product-360/Pages/test-the-product360-CSWP.aspx?ControlMode=Edit&DisplayMode=Design
-!p20  !!!!!! cases
-!p20 !!!!!!!! case 223581  set up office on my device to work  for Tracey Sadler-Lassiter
-!p20 !!!!!!!! case 256849  Jonathan Morris - +quickEmail in cherwell
-' sort order
-" sort order
-(A) +consider how to use microsoft's 70 2016 site templates. https://absolute-sharepoint.com/2017/03/sharepoint-2016-site-template-id-list-for-powershell.html
-(A) +initiate work on mobile problem +Cherwell 223581
+ cat 0dailyStart.txt >> todo.txt
 (A) +laptop change password for forClients
-(A) fix the Ultimate_Diagnostic content Web Part
-(A) get my reposForSubs into corporate department repo
-(B) +gtd get outline up and running
-(B) +home friendly tires for alignment
-(B) +learn crome dev tools https://developers.google.com/web/tools/chrome-devtools/console/get-started
-(B) +react  jam in a visual example of header then learn a little react to put it in with color.
-(B) +react learn how react id's work so I can modify a style.
-(B) +study azure equivalent to Flow whatever they are called.
-(B) +study read the git book I need to know what push and sync are doing
-(B) do a round robin ticket deployment project
-(B) do the periodic reminder to review flow.
-(B) get phone messages in outlook.
-+consider instead of the remember: prefix consider using Anki when you can commit to it for a while this would need to be a new habit
-+consider what are some 15 minute programming katas... 30 min is too long.
-+consider where an how to place my Next action.
-+gtd t:2018-09-12 CleanUpOneNoteReference needs to be a daily habit until the 100 or so items are in place
-+initiate project to have document site like MS docs - chad says teams allow MD
-+initiate: +Voitano project
-+initiate: learning plan for Flow
-+issue  +gtd the commit so it just always adds all added as well as modified like it does now.
-+issue how do I add catalog to onedrive - so far the only way I know is to use ie explorer in ie +YUCK
-+laptopMaintainence trouble with both monitor and mouse not being recognized on start up
-+remember how to list report lines +gtd +report grep +report ./workTodo/done.txt
-+remember how to remove stubborn windows 10 explorer quick access links .... select another one that does allow remove under the shift right click
-+remember my meds are also below the sink
-+remember the +permlink tag
-+remember the keyword +quickTrain for the things Cindy says
-+remember use browser history more, and favorites so that  keypirinha can find them
-t:2018-9-26 add PTO time after thanksgiving vacation https://www.jhaeap.com/psc/HR92PRD/EMPLOYEE/HRMS/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL?
-!habit 16 review yesterdays done
-!habit 30 appointments first in morning
-!habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
-!habit 85 notes on every meeting
-!habit 98 Friday check littleProgramming did I do any?
-!habit 98 Friday check learn.txt  what did I do this week?
-!habit 97 Friday carefully work through entire todo.txt
++department send my repos to corp outline:department
++home use keyboard with phone outline:home
++learn +VScodeExpert outline:learn.VScode
++gtd reference organization one note quick notes outline:prj-gtd.CreatePersonalReferencePlaces
++policy https://tools1.jackhenry.com/PolicyCenter
++product365 to CSWP  make paging change to two column outline:news
+03 practice personal chrome menu outline:prj-ListDailyStart
+case 256849  Jonathan Morris - +quickEmail in cherwell outline:Cases.JonathanMorris
+change the site name to ISA outline:Cases.cisEd
+evaluate my stock purchase outline:Prj-CorporateProjects.openEnrolement
+Get my test site working to edit outline:MsDocs
+jhaToday webdav to paste in explorer \\jackhenry.sharepoint.com@SSL\DavWWWRoot\sites\jhatoday\_catalogs\masterpage\Display Templates outline:Prj-news
+move project cisEd to an outline project
+open Enrolement outline:Prj-CorporateProjects
+remove news to jackhenry in shortcut file
+review my stocks outline:CorporateProjects
+style Navigation outline:prj-LittleWebParts
+t:2018-11-13 contact Johntan  Morland about his FLOW
+t:2018-11-29 add PTO time after thanksgiving vacation https://www.jhaeap.com/psc/HR92PRD/EMPLOYEE/HRMS/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL?
+t2.1 +wdtag2 outline:prg15
+z placeholder@learn +consider how to use microsoft's 70 2016 site templates. https://absolute-sharepoint.com/2017/03/sharepoint-2016-site-template-id-list-for-powershell.html outline:learn.sharepoint
+z_place outline:JhaTodayPerformance
+z_placeholder outline:Cases.SPmobile
+zPlace outline:Prj-CorporateProjects.PTOplan
+(B) +learn keyboard shortcuts outline:learn.Chrome
+(B) +react  jam in a visual example of header then learn a little react to put it in with color. outline:learn.react
+(B) +consider what are some 15 minute programming katas... 30 min is too long. outline:consider
+(A) !p 10 +product360 4 CSWP with paging like I did for News outline:product350CSWP
+(C) create a health tracking file and put it in habits outline:PersonalHealth
+every project should end with two lines YOUR Done next 'do item' will delete file outline:addToAnki
+how do I add a Teams group to a Outlook group outline:issues
+reread code outline:learn.JsonHelper
+(A) +gtd append ending lines to every outline https://stackoverflow.com/questions/10865947/append-a-text-to-the-end-of-multiple-files-in-linux

@@ -1,0 +1,15 @@
+Trash Reference SomeDay     Projects ... Next ,      delegate, defer
+     !habit 01  budget time
+     !habit 02 use 0dailStart.txt by cat 0dailyStart.txt >> todo.txt
+     !habit 03 use Anki daily
+     !habit 04 review done.txt
+     !habit 05 practice personal chrome menu
+     !habit 10 use pomodoro times - AND  charge phone
+     !habit 20 Calendar Items and tickled items
+     !habit 11 check EAS team messages
+     !habit 12 review projects by finding "outline" in vsCode
+     !habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
+     !habit 90 Tuesday weekly refresh my git repository of jhaToday production catalog Tuesday https://jackhenry.sharepoint.com/sites/jhatoday/_catalogs/
+     !habit 92 Wednesday lab login weekly on Wednesday
+     !habit 92 Wednesday weekly status notes
+     !habit 96 Thursday use your phone batter

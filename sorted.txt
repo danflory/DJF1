@@ -1,2 +1,0 @@
-97 +learn how to sort with grep sort -d todo.txt NOTE the order is different than vscode order.
-TODO: 97 added.

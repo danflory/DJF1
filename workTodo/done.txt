@@ -287,22 +287,22 @@ x 2018-09-27 07:57 +case +report 233870 Brian Dickey round robin ticket assignme
 x 2018-09-27 08:00 +case +report 233870 Brian Dickey round robin ticket assignments notes in OneNote case number +report I met with Brian and sent Mindy email, I think Flow is the way
 x 2018-09-27 08:11 +case +report 235789 Tracy Tate "create Web parts on home page" I made teams meeting for monday 1:00pm
 x 2018-09-27 09:51 meet with chad note in OneNote
-x 2018-09-27 10:03 !habit 10 check Cherwell
-x 2018-09-27 10:03 !habit 10 check Cherwell
-x 2018-09-27 10:06 !habit 14 review entire list weekly
-x 2018-09-27 10:06 !habit 30 early to meetings 60% OnTime for Chad
-x 2018-09-27 10:06 !habit 40 notes on every meeting meet with Carol Not very good notes on cases
-x 2018-09-27 10:08 !habit 60 start msTeam~
-x 2018-09-27 10:08 !habit 70 start that phone
-x 2018-09-27 10:08 !habit 80 use todo.sh archive every day+report
-x 2018-09-27 10:09 !habit 90 appointments first in morning
-x 2018-09-27 10:10 !habit 99 close at end of day Clean ending
+x 2018-09-27 10:03     !habit 10 check Cherwell
+x 2018-09-27 10:03     !habit 10 check Cherwell
+x 2018-09-27 10:06     !habit 14 review entire list weekly
+x 2018-09-27 10:06     !habit 30 early to meetings 60% OnTime for Chad
+x 2018-09-27 10:06     !habit 40 notes on every meeting meet with Carol Not very good notes on cases
+x 2018-09-27 10:08     !habit 60 start msTeam~
+x 2018-09-27 10:08     !habit 70 start that phone
+x 2018-09-27 10:08     !habit 80 use todo.sh archive every day+report
+x 2018-09-27 10:09     !habit 90 appointments first in morning
+x 2018-09-27 10:10     !habit 99 close at end of day Clean ending
 x 2018-09-27 10:11 +case resolve 241252 news needed start lt or eq today
-x 2018-09-27 10:14 !habit 10 check Cherwell
-x 2018-09-27 10:15 !habit 20 check the skype status
-x 2018-09-27 10:18 !habit 45 a daily read of David Allen
-x 2018-09-27 10:18 !habit 50 Review my done file once a day and add notes as needed
-x 2018-09-27 10:19 !habit a waffle a day http://mml.co.uk/waffle.php
+x 2018-09-27 10:14     !habit 10 check Cherwell
+x 2018-09-27 10:15     !habit 20 check the skype status
+x 2018-09-27 10:18     !habit 45 a daily read of David Allen
+x 2018-09-27 10:18     !habit 50 Review my done file once a day and add notes as needed
+x 2018-09-27 10:19     !habit a waffle a day http://mml.co.uk/waffle.php
 x 2018-09-27 10:35 'https://joannecklein.com/2018/08/31/10-reasons-the-sharepoint-modern-library-experience-is-better/'
 x 2018-09-27 10:44 FollowUp: order docking station for home. incident 242304
 x 2018-09-27 10:45 find in ascii chart what will precede ( so that I can put habits at top. http://www.asciitable.com/
@@ -310,34 +310,34 @@ x 2018-09-28 07:55 +remember +gtd if you forget to escape a quote use ctrl-c the
 x 2018-09-28 07:57 +MSTicket 11573296 column width "https://jackhenry-my.sharepoint.com/personal/dflory_jhacorp_com/_layouts/OneNote.aspx?id=%2Fpersonal%2Fdflory_jhacorp_com%2FDocuments%2FNotebooks%2FGTD&wd=target%28IN-NEXT.one%7C0A8EEDF6-CB63-48B3-969E-5E4BC61BA682%2F%5BTicket%20%23%3A11573296%5D%7C35841576-E980-41E1-93B5-E520F83D6D96%2F%29 onenote:https://jackhenry-my.sharepoint.com/personal/dflory_jhacorp_com/Documents/Notebooks/GTD/IN-NEXT.one#%5bTicket%2011573296]&section-id={0A8EEDF6-CB63-48B3-969E-5E4BC61BA682}&page-id={35841576-E980-41E1-93B5-E520F83D6D96}&end"
 x 2018-09-28 07:59 +remember +gtd repeat can do then extend due date by using + normal is re-entr days from now
 x 2018-09-28 08:02 +remember vsCode does a nice job sorting the todo.txt
-x 2018-09-28 08:03 !habit 11 start msTeam
-x 2018-09-28 08:03 !habit 12 start that phone
-x 2018-09-28 08:04 !habit 13 use todo.sh archive every day+report +case resolve 241252 news needed start lt or eq today
-x 2018-09-28 08:04 !habit 32 close at end of day Clean ending
-x 2018-09-28 08:08 !habit 80 early to meetings 60%
-x 2018-09-28 08:11 !habit 20 check the skype status
-x 2018-09-28 08:25 !habit 45 a daily read of David Allen
-x 2018-09-28 08:26 !habit 85 notes on every meeting
-x 2018-09-28 08:28 !habit 90 appointments first in morning
-x 2018-09-28 08:38 !habit 86 Review my done file once a day and add notes as needed
+x 2018-09-28 08:03     !habit 11 start msTeam
+x 2018-09-28 08:03     !habit 12 start that phone
+x 2018-09-28 08:04     !habit 13 use todo.sh archive every day+report +case resolve 241252 news needed start lt or eq today
+x 2018-09-28 08:04     !habit 32 close at end of day Clean ending
+x 2018-09-28 08:08     !habit 80 early to meetings 60%
+x 2018-09-28 08:11     !habit 20 check the skype status
+x 2018-09-28 08:25     !habit 45 a daily read of David Allen
+x 2018-09-28 08:26     !habit 85 notes on every meeting
+x 2018-09-28 08:28     !habit 90 appointments first in morning
+x 2018-09-28 08:38     !habit 86 Review my done file once a day and add notes as needed
 x 2018-09-28 09:01 +case +report 235789 Tracy Tate "create Web parts on home page"
 x 2018-09-28 09:01 +case +report Cathy Jones Education needs workflow adjustment.
 x 2018-09-28 10:14 +case +report 233870 Brian Dickey round robin ticket assignments notes in OneNote case number +report I met with Brian and sent Mindy email, I think Flow is the way
 x 2018-10-01 07:07 snagget update then restart computer
-x 2018-10-01 07:17 !habit 11 start msTeam
-x 2018-10-01 07:17 !habit 12 start that phone (vpn needed)
-x 2018-10-01 07:17 !habit 20 check the skype status
-x 2018-10-01 07:17 !habit 32 close at end of day Clean ending WOOPS restart monday morning
-x 2018-10-01 07:25 !habit 47 a David Allen or Wafel quote a day.
-x 2018-10-01 07:26 !habit 50 appointments first in morning
-x 2018-10-01 07:27 !habit 80 early to meetings 60% NO MEETINGS fRIDAY
-x 2018-10-01 07:27 !habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N NO MEETING FRIDAY
+x 2018-10-01 07:17     !habit 11 start msTeam
+x 2018-10-01 07:17     !habit 12 start that phone (vpn needed)
+x 2018-10-01 07:17     !habit 20 check the skype status
+x 2018-10-01 07:17     !habit 32 close at end of day Clean ending WOOPS restart monday morning
+x 2018-10-01 07:25     !habit 47 a David Allen or Wafel quote a day.
+x 2018-10-01 07:26     !habit 50 appointments first in morning
+x 2018-10-01 07:27     !habit 80 early to meetings 60% NO MEETINGS fRIDAY
+x 2018-10-01 07:27     !habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N NO MEETING FRIDAY
 x 2018-10-01 07:32 +gtd uninstall todo.txt extension from vsCode because Done became unreadable
 x 2018-10-01 09:02 +corporate check JHA edu for courses I'm enroled in
 x 2018-10-01 09:02 +corporate complete open policy and harassment check. +report
 x 2018-10-01 09:03 +quickEmail to Mindy asking about the Round Robin Assignment. FAIL Mindy didn't respond
-x 2018-10-01 09:42 !habit 86 Review my done file once a day and add notes as needed
-x 2018-10-01 09:42 !habit 88 check Cherwell
+x 2018-10-01 09:42     !habit 86 Review my done file once a day and add notes as needed
+x 2018-10-01 09:42     !habit 88 check Cherwell
 x 2018-10-01 09:51 +Jhatoday +CSWP +News  +Archive            company News must set query start <= today
 x 2018-10-01 09:51 +Jhatoday +CSWP +News  +Archive            export the first one then reimport 4 times to right
 x 2018-10-01 09:51 +Jhatoday +CSWP +News  +Archive        Executive Update dup and add company
@@ -355,41 +355,41 @@ x 2018-10-01 09:52 +news1 Sort on Article Date
 x 2018-10-01 09:53 +decide: do I want to have my tag: as first thing or @ as first or +tag as first when and why +A the + highlights if VS Code use it +DECIDED: use VsCode sort and not dates
 x 2018-10-01 09:53 +news1 view name CompanyNewsHome
 x 2018-10-01 09:53 add news test with audience record that
-x 2018-10-01 09:54 +decide: is @repeating the same as !habit or not? +DECIDED YES use \!habit
+x 2018-10-01 09:54 +decide: is @repeating the same as     !habit or not? +DECIDED YES use \    !habit
 x 2018-10-01 09:57 +decide +issue: when repeat bumps the date it doesn't recognize date with the "t:" that I added +DECIDED: Just use undated repeat, I use Pri not dates for sort
 x 2018-10-01 10:03 +gtd use ! for habits so they sort to top WELL PRACTICED HABITS
 x 2018-10-01 10:06 +remember +gtd add an extra space to a new entry if you want it to sort to the top. +DECIDED: I USE ! AND OTHER SYMBOLS ALPHABETIZED
 x 2018-10-01 10:12 +quickTrain converse with Cindy in IM about permissions. the conversation captured in OneNote "News Audience and permissions"
 x 2018-10-01 10:13 +study https://github.com/todotxt/todo.txt-cli/wiki totxtWiki DONE
 x 2018-10-01 10:15 +case make new case for Carol about column format pannel 10-02 I just solved it click and drag. can also use item formatting
-x 2018-10-01 10:16 !habit 94 review entire list weekly
+x 2018-10-01 10:16     !habit 94 review entire list weekly
 x 2018-10-01 10:31 working on Tracy Tate +case 235789
-x 2018-10-02 07:21 !habit 11 start msTeam
-x 2018-10-02 07:21 !habit 12 start that phone (vpn needed)
-x 2018-10-02 07:21 !habit 20 check the skype status
-x 2018-10-02 07:22 !habit 32 close at end of day Clean ending
-x 2018-10-02 07:22 !habit 47 a David Allen or Wafel quote a day.
-x 2018-10-02 07:23 !habit 50 appointments first in morning
-x 2018-10-02 07:25 !habit 80 early to meetings 60% YES
-x 2018-10-02 07:25 !habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N
-x 2018-10-02 07:40 !habit 86 Review my done file once a day and add notes as needed
-x 2018-10-02 07:52 !habit 97 weekly refresh my git repository of jhaToday production catalog Tuesday +FAILED - I can't use either OneDrive or map drive today. the pain continues
-x 2018-10-02 08:50 !habit 88 check Cherwell (needs VPN)
+x 2018-10-02 07:21     !habit 11 start msTeam
+x 2018-10-02 07:21     !habit 12 start that phone (vpn needed)
+x 2018-10-02 07:21     !habit 20 check the skype status
+x 2018-10-02 07:22     !habit 32 close at end of day Clean ending
+x 2018-10-02 07:22     !habit 47 a David Allen or Wafel quote a day.
+x 2018-10-02 07:23     !habit 50 appointments first in morning
+x 2018-10-02 07:25     !habit 80 early to meetings 60% YES
+x 2018-10-02 07:25     !habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N
+x 2018-10-02 07:40     !habit 86 Review my done file once a day and add notes as needed
+x 2018-10-02 07:52     !habit 97 weekly refresh my git repository of jhaToday production catalog Tuesday +FAILED - I can't use either OneDrive or map drive today. the pain continues
+x 2018-10-02 08:50     !habit 88 check Cherwell (needs VPN)
 x 2018-10-02 10:31 required +Laptop update
 x 2018-10-02 14:26 +laptop turn task bar on multiple displays off so I can always find groups for off screen
 x 2018-10-02 15:12 +case 235789 +learn how to copy a template "https://docs.microsoft.com/en-us/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template"
 x 2018-10-02 15:37 +learn how to modernize sharepoint pages "https://docs.microsoft.com/en-us/sharepoint/dev/transform/modernize-classic-sites"
-x 2018-10-03 07:20 !habit 88 study 20 minutes every day on https://github.com/alecjmaly/SharePoint-JSON-Helper
-x 2018-10-03 07:21 !habit 11 start msTeam
-x 2018-10-03 07:21 !habit 12 start that phone (vpn needed)
-x 2018-10-03 07:23 !habit 20 check the skype status
+x 2018-10-03 07:20     !habit 88 study 20 minutes every day on https://github.com/alecjmaly/SharePoint-JSON-Helper
+x 2018-10-03 07:21     !habit 11 start msTeam
+x 2018-10-03 07:21     !habit 12 start that phone (vpn needed)
+x 2018-10-03 07:23     !habit 20 check the skype status
 x 2018-10-03 07:24 +fix Snagit shortcuts none of them seem to work
-x 2018-10-03 08:09 !habit 32 close at end of day Clean ending
+x 2018-10-03 08:09     !habit 32 close at end of day Clean ending
 x 2018-10-03 08:13 think throgh Angelfish view of hits/day.
 x 2018-10-03 08:14 +nonProducing regex for Derik. 30 minutes
 x 2018-10-03 08:26 +report ignite for an hour yesterday
-x 2018-10-03 08:28 !habit 50 appointments first in morning
-x 2018-10-03 08:28 !habit 80 early to meetings 60% YES
+x 2018-10-03 08:28     !habit 50 appointments first in morning
+x 2018-10-03 08:28     !habit 80 early to meetings 60% YES
 x 2018-10-03 09:24 +meeting all hands at 11 CANCELED
 x 2018-10-03 09:31 next years calendar https://jackhenry.sharepoint.com/sites/jhatoday/News/Pages/2019-Holiday-File-and-Julian-Day-of-Year-Instructions-Available.aspx
 x 2018-10-03 10:15 +report fix jhatoday what appeared to be a check box in the middle of news items. it turned out to be a wierd relocation of Event Item allow item selection.
@@ -399,28 +399,28 @@ x 2018-10-03 13:59 +info what is the Jack Henry CCS department - Consumer & Comm
 x 2018-10-03 15:09 long +trainWithCindy about value of content types for use in core project registry results of training are in the opspmo coreProjectsRegistry
 x 2018-10-03 16:01 +report fix a +jhatoday issue where events put check box in center of news - we turned off individal item selection in the current item of the Event web part
 x 2018-10-04 07:25 +report David Allen identify what isnt the way it should be and write it down. my move into work is that thing and my gtd is the action Im taking to resolve it.
-x 2018-10-04 07:32 !habit 11 start msTeam
-x 2018-10-04 07:32 !habit 12 start that phone (vpn needed)
-x 2018-10-04 07:32 !habit 20 check the skype status David Allen
-x 2018-10-04 07:33 !habit 32 close at end of day Clean ending
-x 2018-10-04 07:33 !habit 50 appointments first in morning
-x 2018-10-04 07:34 !habit 80 early to meetings 60% status notes on time!
-x 2018-10-04 07:35 !habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N : BIG WIN I am adding notes for Cindy's training me
+x 2018-10-04 07:32     !habit 11 start msTeam
+x 2018-10-04 07:32     !habit 12 start that phone (vpn needed)
+x 2018-10-04 07:32     !habit 20 check the skype status David Allen
+x 2018-10-04 07:33     !habit 32 close at end of day Clean ending
+x 2018-10-04 07:33     !habit 50 appointments first in morning
+x 2018-10-04 07:34     !habit 80 early to meetings 60% status notes on time!
+x 2018-10-04 07:35     !habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N : BIG WIN I am adding notes for Cindy's training me
 x 2018-10-04 07:48 +case 241713 email Jonathan Morris - documents to review notification.
-x 2018-10-04 08:04 !habit 86 Review my done file once a day and add notes as needed
-x 2018-10-04 08:05 !habit 88 check Cherwell (needs VPN)
-x 2018-10-04 08:05 !habit 97 weekly refresh my git repository of jhaToday production catalog Tuesday NOTE: a huge first time in SPO
-x 2018-10-04 09:05 !habit 98 passwordSafe login weekly on Wednesday
-x 2018-10-04 09:05 !habit 99 weekly status notes on Wednesday
-x 2018-10-04 09:16 !habit 88 study 20 minutes every day on https://github.com/alecjmaly/SharePoint-JSON-Helper NOTE today is first day of this, I found a web pomodoro timer, nothing to install - simple. I hope it works.
-x 2018-10-08 08:40 !habit 11 start msTeam
-x 2018-10-08 08:42 !habit 12 start that phone (vpn needed)
-x 2018-10-08 08:48 !habit 13 +remember use win tab when looking for a window
-x 2018-10-08 08:48 !habit 20 check the skype status David Allen
-x 2018-10-08 08:48 !habit 32 close at end of day. Have a clean ending and start! NO AND TIME WAISTED WAS ABOUT 1/2 hour
-x 2018-10-08 08:52 !habit 50 appointments first in morning
-x 2018-10-08 08:53 !habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N NO meetings thursday
-x 2018-10-08 09:01 !habit 88 study 20 minutes every day on https://github.com/alecjmaly/SharePoint-JSON-Helper +decide 1. use my phone for timer! 2. make repo at C:\d\gitHub 3. make shortcut to folder 4.
+x 2018-10-04 08:04     !habit 86 Review my done file once a day and add notes as needed
+x 2018-10-04 08:05     !habit 88 check Cherwell (needs VPN)
+x 2018-10-04 08:05     !habit 97 weekly refresh my git repository of jhaToday production catalog Tuesday NOTE: a huge first time in SPO
+x 2018-10-04 09:05     !habit 98 passwordSafe login weekly on Wednesday
+x 2018-10-04 09:05     !habit 99 weekly status notes on Wednesday
+x 2018-10-04 09:16     !habit 88 study 20 minutes every day on https://github.com/alecjmaly/SharePoint-JSON-Helper NOTE today is first day of this, I found a web pomodoro timer, nothing to install - simple. I hope it works.
+x 2018-10-08 08:40     !habit 11 start msTeam
+x 2018-10-08 08:42     !habit 12 start that phone (vpn needed)
+x 2018-10-08 08:48     !habit 13 +remember use win tab when looking for a window
+x 2018-10-08 08:48     !habit 20 check the skype status David Allen
+x 2018-10-08 08:48     !habit 32 close at end of day. Have a clean ending and start! NO AND TIME WAISTED WAS ABOUT 1/2 hour
+x 2018-10-08 08:52     !habit 50 appointments first in morning
+x 2018-10-08 08:53     !habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N NO meetings thursday
+x 2018-10-08 09:01     !habit 88 study 20 minutes every day on https://github.com/alecjmaly/SharePoint-JSON-Helper +decide 1. use my phone for timer! 2. make repo at C:\d\gitHub 3. make shortcut to folder 4.
 x 2018-10-08 11:18 +gtd work on the daily program startup I followed my impulse and did this for a couple of  hours.... not good
 x 2018-10-08 11:19 +case +report 233870 Brian Dickey round robin ticket assignments notes in OneNote case number +report I met with Brian and sent Mindy email, I think Flow is the way
 x 2018-10-08 11:19 +case +report 241713 Help Jonathan Morris create a hide that quick launch on modern
@@ -428,119 +428,119 @@ x 2018-10-08 11:19 close cases where no user response. closed Brian dick 233870 
 x 2018-10-08 11:20 +case 235789 review notes. Sophia
 x 2018-10-08 11:20 +home search for kvm switch note:IWA.md I'm just going to satisfice for now the one monitor is not hard to move.
 x 2018-10-08 11:32 set up a pomodoro timer to track the 20 minutes of JSON Helper. I will use my phone!
-x 2018-10-08 11:33 !habit 86 Review my done file once a day and add notes as needed
-x 2018-10-08 11:33 !habit 88 check Cherwell (needs VPN)
+x 2018-10-08 11:33     !habit 86 Review my done file once a day and add notes as needed
+x 2018-10-08 11:33     !habit 88 check Cherwell (needs VPN)
 x 2018-10-08 13:59 +case 235789 schedule with Cindy with Tracy Tate +
 x 2018-10-08 14:00 +case 235789 Tracy Tate create Web parts on modern home page
 x 2018-10-08 14:01 +case 235789 +reminder check versioning on all lists in the template, turn them on.
 x 2018-10-08 14:01 +case 235789 schedule with Cindy with Tracy Tate. I'm thinking to do most of this with Email
-x 2018-10-09 08:33 !habit 11 start msTeam
-x 2018-10-09 08:33 !habit 12 start that phone (vpn needed)
-x 2018-10-09 08:34 !habit 13 +remember use win tab when looking for a window
-x 2018-10-09 08:38 !habit 20 check the skype status David Allen
-x 2018-10-09 08:40 !habit 32 close at end of day.  MISSED AGAIN WHEN WORKING AT HOME. It does make a difference
-x 2018-10-09 08:40 !habit 50 appointments first in morning CHAD MISSED THE 1 ON ONE I sent Im 8 min after
-x 2018-10-09 09:07 !habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N
-x 2018-10-09 09:15 watch tutorial https://www.youtube.com/watch?v=6vT4oGr2ZKU  !habit 88 study 20 minutes every day on SharePoint-JSON-Helper shortcut search json
-x 2018-10-10 07:10 !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
-x 2018-10-10 07:10 !habit 12 start that phone (vpn needed) -- listen for dial tone.
-x 2018-10-10 07:10 !habit 13 +remember use win tab when looking for a window - practice!!!
-x 2018-10-10 07:23 !habit 20 check the skype status David Allen
-x 2018-10-10 07:23 !habit 9 close at end of day.
-x 2018-10-10 07:24 !habit 50 appointments first in morning
-x 2018-10-10 07:27 !habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N -- move things from quick notes
-x 2018-10-11 07:37 !habit 91 weekly refresh my git repository of jhaToday production catalog Tuesday
-x 2018-10-11 07:37 !habit 94 passwordSafe login weekly on Wednesday
-x 2018-10-11 07:37 !habit 96 weekly status notes on Wednesday
-x 2018-10-11 07:38 !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
-x 2018-10-11 07:38 !habit 12 start that phone (vpn needed) -- listen for dial tone.
-x 2018-10-11 07:38 !habit 90 close at end of day.
-x 2018-10-11 08:02 !habit 13 +remember use win tab when looking for a window - practice!!!
-x 2018-10-11 08:10 !habit 20 check the skype status David Allen
-x 2018-10-11 10:08 !habit 88 study 20 minutes every day on SharePoint-JSON-Helper shortcut search json NEXT in sharepoint github is a better column formatting helper!
-x 2018-10-11 10:12 !habit 50 appointments first in morning
+x 2018-10-09 08:33     !habit 11 start msTeam
+x 2018-10-09 08:33     !habit 12 start that phone (vpn needed)
+x 2018-10-09 08:34     !habit 13 +remember use win tab when looking for a window
+x 2018-10-09 08:38     !habit 20 check the skype status David Allen
+x 2018-10-09 08:40     !habit 32 close at end of day.  MISSED AGAIN WHEN WORKING AT HOME. It does make a difference
+x 2018-10-09 08:40     !habit 50 appointments first in morning CHAD MISSED THE 1 ON ONE I sent Im 8 min after
+x 2018-10-09 09:07     !habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N
+x 2018-10-09 09:15 watch tutorial https://www.youtube.com/watch?v=6vT4oGr2ZKU      !habit 88 study 20 minutes every day on SharePoint-JSON-Helper shortcut search json
+x 2018-10-10 07:10     !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
+x 2018-10-10 07:10     !habit 12 start that phone (vpn needed) -- listen for dial tone.
+x 2018-10-10 07:10     !habit 13 +remember use win tab when looking for a window - practice!!!
+x 2018-10-10 07:23     !habit 20 check the skype status David Allen
+x 2018-10-10 07:23     !habit 9 close at end of day.
+x 2018-10-10 07:24     !habit 50 appointments first in morning
+x 2018-10-10 07:27     !habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N -- move things from quick notes
+x 2018-10-11 07:37     !habit 91 weekly refresh my git repository of jhaToday production catalog Tuesday
+x 2018-10-11 07:37     !habit 94 passwordSafe login weekly on Wednesday
+x 2018-10-11 07:37     !habit 96 weekly status notes on Wednesday
+x 2018-10-11 07:38     !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
+x 2018-10-11 07:38     !habit 12 start that phone (vpn needed) -- listen for dial tone.
+x 2018-10-11 07:38     !habit 90 close at end of day.
+x 2018-10-11 08:02     !habit 13 +remember use win tab when looking for a window - practice!!!
+x 2018-10-11 08:10     !habit 20 check the skype status David Allen
+x 2018-10-11 10:08     !habit 88 study 20 minutes every day on SharePoint-JSON-Helper shortcut search json NEXT in sharepoint github is a better column formatting helper!
+x 2018-10-11 10:12     !habit 50 appointments first in morning
 x 2018-10-11 10:16 +columnFormat get the github repository sp-dev-list-formatting this is a new repository location since my last download and the sharepoint parent has 35! repositories.+report I spen two hours looking at changes in these repos and exercise in git as well as SP.
 x 2018-10-11 10:17 +report GTD observation, starting the day prior to finishing my startup delays some things that should have been done. Today I missed a Teams message by missing my habit start msTeams.
-x 2018-10-11 10:18 !habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N -- move things from quick notes -- this will need to be a daily habit empty the quick Note unfiled into the correct place. That is GTD organize.
-x 2018-10-12 07:19 !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
-x 2018-10-12 07:20 !habit 12 start that phone (vpn needed) -- listen for dial tone.
-x 2018-10-12 07:21 !habit 13 +remember use win tab when looking for a window - practice!!!
-x 2018-10-12 07:31 !habit 20 check the skype status David Allen
-x 2018-10-12 07:33 !habit 50 appointments first in morning
-x 2018-10-12 07:35 !habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N -- move things from quick notes -- this will need to be a daily habit empty the quick Note unfiled into the correct place. That is GTD organize.
-x 2018-10-12 07:45 !habit 9 close at end of day.
-x 2018-10-12 07:49 !habit 98 passwordSafe login weekly on Wednesday
+x 2018-10-11 10:18     !habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N -- move things from quick notes -- this will need to be a daily habit empty the quick Note unfiled into the correct place. That is GTD organize.
+x 2018-10-12 07:19     !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
+x 2018-10-12 07:20     !habit 12 start that phone (vpn needed) -- listen for dial tone.
+x 2018-10-12 07:21     !habit 13 +remember use win tab when looking for a window - practice!!!
+x 2018-10-12 07:31     !habit 20 check the skype status David Allen
+x 2018-10-12 07:33     !habit 50 appointments first in morning
+x 2018-10-12 07:35     !habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N -- move things from quick notes -- this will need to be a daily habit empty the quick Note unfiled into the correct place. That is GTD organize.
+x 2018-10-12 07:45     !habit 9 close at end of day.
+x 2018-10-12 07:49     !habit 98 passwordSafe login weekly on Wednesday
 x 2018-10-12 07:58 +Cindy says.... watch ignite session. https://youtu.be/FKCWFpxLXcs  AND https://www.sharepointnutsandbolts.com/2017/06/SPFx-Application-Customizer-Global-JS-Page-Header.html
 x 2018-10-12 08:38 +remember put siteSettings in quickNav during dev
 x 2018-10-12 08:39 +Extenstions change the pageUrl in config
 x 2018-10-12 08:41 +Extenstions reinstall nvm and node and spfx
 x 2018-10-12 08:50 check if my glasses are ready
 x 2018-10-12 09:00 install typescript@latest --save-dev I don't know why I have to put everthing in save-dev cindy thinks that is a big deal
-x 2018-10-15 07:22 !habit 88 study 20 minutes every day on SharePoint-JSON-Helper shortcut search json NEXT find out about install https://www.google.com/search?safe=active&rlz=1C1GGRV_enUS790US790&ei=S8C8W-G1DYOYsQWG6r-YCw&q=%22sharepoint+json+formatter%22&oq=%22sharepoint+json+formatter%22&gs_l=psy-ab.3..35i39j0i30j0i8i30.52569.53841..54977...0.0..0.104.190.1j1......0....1..gws-wiz.......0i71j0i22i30.GYaXsPuxr2Y
-x 2018-10-15 07:22 !habit 97 weekly refresh my git repository of jhaToday production catalog Tuesday
+x 2018-10-15 07:22     !habit 88 study 20 minutes every day on SharePoint-JSON-Helper shortcut search json NEXT find out about install https://www.google.com/search?safe=active&rlz=1C1GGRV_enUS790US790&ei=S8C8W-G1DYOYsQWG6r-YCw&q=%22sharepoint+json+formatter%22&oq=%22sharepoint+json+formatter%22&gs_l=psy-ab.3..35i39j0i30j0i8i30.52569.53841..54977...0.0..0.104.190.1j1......0....1..gws-wiz.......0i71j0i22i30.GYaXsPuxr2Y
+x 2018-10-15 07:22     !habit 97 weekly refresh my git repository of jhaToday production catalog Tuesday
 x 2018-10-15 07:23 +case +report 211442 relocate a site with same design word doc attached to case.
-x 2018-10-15 07:35 !habit 14 use task bar shortcuts win number win shift num to open
-x 2018-10-15 07:37 !habit 16 review yesterdays done
-x 2018-10-15 07:44 !habit 20  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
-x 2018-10-15 07:45 !habit 50 appointments first in morning
-x 2018-10-15 07:46 !habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N -- move things from quick notes -- this will need to be a daily habit empty the quick Note unfiled into the correct place. That is GTD organize.
-x 2018-10-15 07:46 !habit 88 study 20 minutes every day on SharePoint-JSON-Helper my study is now about extentions and deployment
-x 2018-10-15 07:46 !habit 88 study 20 minutes every day on SharePoint-JSON-Helper my study is now about extentions and deployment
-x 2018-10-15 07:47 !habit 9 close at end of day. FAIL and bad start
+x 2018-10-15 07:35     !habit 14 use task bar shortcuts win number win shift num to open
+x 2018-10-15 07:37     !habit 16 review yesterdays done
+x 2018-10-15 07:44     !habit 20  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
+x 2018-10-15 07:45     !habit 50 appointments first in morning
+x 2018-10-15 07:46     !habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N -- move things from quick notes -- this will need to be a daily habit empty the quick Note unfiled into the correct place. That is GTD organize.
+x 2018-10-15 07:46     !habit 88 study 20 minutes every day on SharePoint-JSON-Helper my study is now about extentions and deployment
+x 2018-10-15 07:46     !habit 88 study 20 minutes every day on SharePoint-JSON-Helper my study is now about extentions and deployment
+x 2018-10-15 07:47     !habit 9 close at end of day. FAIL and bad start
 x 2018-10-15 08:08 +pomodoro read about phone battery to know proper use of my external charger. +decide plug backup into wall when using phone at desk. plug phone into backup for recharging.... In my quick experment the phone stayed charged longer.
-x 2018-10-15 08:09 !habit 90 weekly refresh my git repository of jhaToday production catalog Tuesday
+x 2018-10-15 08:09     !habit 90 weekly refresh my git repository of jhaToday production catalog Tuesday
 x 2018-10-15 13:15 +program fix todo.txt extension
-x 2018-10-16 07:16 !habit 12 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
-x 2018-10-16 07:17 !habit 14 start that phone (vpn needed) -- listen for dial tone.xx . RM today auto start works.
-x 2018-10-16 07:22 !habit 16 +remember use win tab when looking for a window - and win SHIFT NUM  practice!!!
-x 2018-10-16 08:17 !habit 18 use task bar shortcuts win number win shift num to open COMBINE WITH WIN-SHIFT-TAB PRACTICE
-x 2018-10-16 07:28 !habit 10 use pomodoro times - AND  charge phone
-x 2018-10-16 07:43 !habit 16 review yesterdays done
-x 2018-10-16 07:50 !habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
-x 2018-10-16 07:50 !habit 30 appointments first in morning
-x 2018-10-16 07:56 !habit 85 notes on every meeting FAIL I missed notes during ESD meeting.
-x 2018-10-16 07:59 !habit 88 study 20 minutes every day on SharePoint-JSON-. NOTE: this is accomplished by working on any spfx project - now on cisEducation
-x 2018-10-16 08:00 !habit 90 close at end of day.
-x 2018-10-16 09:13 !habit 90 Tuesday weekly refresh my git repository of jhaToday production catalog Tuesday https://jackhenry.sharepoint.com/sites/jhatoday/_catalogs/
+x 2018-10-16 07:16     !habit 12 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
+x 2018-10-16 07:17     !habit 14 start that phone (vpn needed) -- listen for dial tone.xx . RM today auto start works.
+x 2018-10-16 07:22     !habit 16 +remember use win tab when looking for a window - and win SHIFT NUM  practice!!!
+x 2018-10-16 08:17     !habit 18 use task bar shortcuts win number win shift num to open COMBINE WITH WIN-SHIFT-TAB PRACTICE
+x 2018-10-16 07:28     !habit 10 use pomodoro times - AND  charge phone
+x 2018-10-16 07:43     !habit 16 review yesterdays done
+x 2018-10-16 07:50     !habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
+x 2018-10-16 07:50     !habit 30 appointments first in morning
+x 2018-10-16 07:56     !habit 85 notes on every meeting FAIL I missed notes during ESD meeting.
+x 2018-10-16 07:59     !habit 88 study 20 minutes every day on SharePoint-JSON-. NOTE: this is accomplished by working on any spfx project - now on cisEducation
+x 2018-10-16 08:00     !habit 90 close at end of day.
+x 2018-10-16 09:13     !habit 90 Tuesday weekly refresh my git repository of jhaToday production catalog Tuesday https://jackhenry.sharepoint.com/sites/jhatoday/_catalogs/
 x 2018-10-16 07:58 +remember +decide +permLink DECIDE don't use +permLink it doesn't matter use this tag I just use grep for lines with http
 x 2018-10-16 07:29 +gtd adjustments to order of habits
 x 2018-10-16 07:41 +pomodoro daily gtd
 x 2018-10-16 09:09 +decide +report should I try using react for my selectorsto page areas or just do it the old way using jquery. I finaly defined this nagging question and with Cindy decided use what I know. Take my time learning new.
 x 2018-10-16 09:26 +case 250947 +report Carol Livingston single user issue with IE - work arround is to use Chrome or Edge. It might be an issue with the view we don't know.
 x 2018-10-16 09:28 finish +report set up test user account tstdanielf01
-x 2018-10-17 07:24 !habit 30 appointments first in morning
-x 2018-10-17 07:37 !habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
-x 2018-10-17 07:37 !habit 85 notes on every meeting
-x 2018-10-17 07:38 !habit 88 study 20 minutes every day on SharePoint-JSON-Helper now directly writing the JSON template
-x 2018-10-17 07:58 !habit 92 Wednesday passwordSafe login weekly on Wednesday
-x 2018-10-17 07:09 !habit 10 use pomodoro times - AND  charge phone
-x 2018-10-17 07:09 !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
-x 2018-10-17 07:10 !habit 13 +remember use win tab when looking for a window - practice!!!
-x 2018-10-17 07:15 !habit 16 review yesterdays done
-x 2018-10-17 07:15 !habit 18 use task bar shortcuts win number win shift num to open COMBINE WITH WIN-SHIFT-TAB PRACTICE
+x 2018-10-17 07:24     !habit 30 appointments first in morning
+x 2018-10-17 07:37     !habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
+x 2018-10-17 07:37     !habit 85 notes on every meeting
+x 2018-10-17 07:38     !habit 88 study 20 minutes every day on SharePoint-JSON-Helper now directly writing the JSON template
+x 2018-10-17 07:58     !habit 92 Wednesday passwordSafe login weekly on Wednesday
+x 2018-10-17 07:09     !habit 10 use pomodoro times - AND  charge phone
+x 2018-10-17 07:09     !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
+x 2018-10-17 07:10     !habit 13 +remember use win tab when looking for a window - practice!!!
+x 2018-10-17 07:15     !habit 16 review yesterdays done
+x 2018-10-17 07:15     !habit 18 use task bar shortcuts win number win shift num to open COMBINE WITH WIN-SHIFT-TAB PRACTICE
 x 2018-10-17 08:00 +pomodoro it took to for start up 1hr on clock
 x 2018-10-17 10:42 +remember +extensions +issue jquery on dev tools isn't workingANSWER: because jquere is in extention not page. put a break in the extension.
-x 2018-10-18 07:27 !habit 20 practice adding a space to sort an item
-x 2018-10-18 07:55 !habit 30 appointments first in morning
-x 2018-10-18 07:55 !habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
-x 2018-10-18 07:55 !habit 88 study 20 minutes every day on SharePoint-JSON-I'm doing it for CIS education
-x 2018-10-18 08:13 !habit 96 Thursday use your phone battery.
-x 2018-10-18 07:24 !habit 10 use pomodoro times - AND  charge phone
-x 2018-10-18 07:25 !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
-x 2018-10-18 07:25 !habit 13 +remember use win tab when looking for a window - practice!!!
-x 2018-10-18 07:25 !habit 16 review yesterdays done
-x 2018-10-18 07:25 !habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
-x 2018-10-18 07:26 !habit 18 use task bar shortcuts win number win shift num to open COMBINE WITH WIN-SHIFT-TAB PRACTICE
-x 2018-10-22 07:33 !habit    practice adding a space to sort an item
-x 2018-10-22 07:33 !habit 10 use pomodoro times - AND  charge phone
-x 2018-10-22 07:33 !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
-x 2018-10-22 07:33 !habit 13 +remember use win tab when looking for a window - practice!!!
-x 2018-10-22 08:22 !habit 16 review yesterdays done
-x 2018-10-22 08:22 !habit 18 use task bar shortcuts win number win shift num to open COMBINE WITH WIN-SHIFT-TAB PRACTICE
-x 2018-10-22 08:25 !habit 30 appointments first in morning
-x 2018-10-22 09:13 !habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
-x 2018-10-22 09:14 !habit 88 study 20 minutes every day on SharePoint-JSON-Helper shortcut search json NEXT find out about install https://www.google.com/search?safe=active&rlz=1C1GGRV_enUS790US790&ei=S8C8W-G1DYOYsQWG6r-YCw&q=%22sharepoint+json+formatter%22&oq=%22sharepoint+json+formatter%22&gs_l=psy-ab.3..35i39j0i30j0i8i30.52569.53841..54977...0.0..0.104.190.1j1......0....1..gws-wiz.......0i71j0i22i30.GYaXsPuxr2Y
-x 2018-10-22 08:17 !habit 97 Friday carefully work through entire todo.txt +report A BIG DEAL
+x 2018-10-18 07:27     !habit 20 practice adding a space to sort an item
+x 2018-10-18 07:55     !habit 30 appointments first in morning
+x 2018-10-18 07:55     !habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
+x 2018-10-18 07:55     !habit 88 study 20 minutes every day on SharePoint-JSON-I'm doing it for CIS education
+x 2018-10-18 08:13     !habit 96 Thursday use your phone battery.
+x 2018-10-18 07:24     !habit 10 use pomodoro times - AND  charge phone
+x 2018-10-18 07:25     !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
+x 2018-10-18 07:25     !habit 13 +remember use win tab when looking for a window - practice!!!
+x 2018-10-18 07:25     !habit 16 review yesterdays done
+x 2018-10-18 07:25     !habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
+x 2018-10-18 07:26     !habit 18 use task bar shortcuts win number win shift num to open COMBINE WITH WIN-SHIFT-TAB PRACTICE
+x 2018-10-22 07:33     !habit    practice adding a space to sort an item
+x 2018-10-22 07:33     !habit 10 use pomodoro times - AND  charge phone
+x 2018-10-22 07:33     !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
+x 2018-10-22 07:33     !habit 13 +remember use win tab when looking for a window - practice!!!
+x 2018-10-22 08:22     !habit 16 review yesterdays done
+x 2018-10-22 08:22     !habit 18 use task bar shortcuts win number win shift num to open COMBINE WITH WIN-SHIFT-TAB PRACTICE
+x 2018-10-22 08:25     !habit 30 appointments first in morning
+x 2018-10-22 09:13     !habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
+x 2018-10-22 09:14     !habit 88 study 20 minutes every day on SharePoint-JSON-Helper shortcut search json NEXT find out about install https://www.google.com/search?safe=active&rlz=1C1GGRV_enUS790US790&ei=S8C8W-G1DYOYsQWG6r-YCw&q=%22sharepoint+json+formatter%22&oq=%22sharepoint+json+formatter%22&gs_l=psy-ab.3..35i39j0i30j0i8i30.52569.53841..54977...0.0..0.104.190.1j1......0....1..gws-wiz.......0i71j0i22i30.GYaXsPuxr2Y
+x 2018-10-22 08:17     !habit 97 Friday carefully work through entire todo.txt +report A BIG DEAL
 x 2018-10-22 07:41 +consider would a one note startup check list be as good as my habit dev list. here I'm typeing repeat for just check offs DECISION: no I like this
 x 2018-10-22 07:43 make a list to keep my quotes
 x 2018-10-22 07:44 move cisEducation to my sandbox
@@ -567,23 +567,23 @@ x 2018-10-22 07:36 +spfxGeneral pri a deploy to page train again
 x 2018-10-22 07:36 email about cisEducation
 x 2018-10-22 07:37 set auto save feature in vs code for gtd Workspace only
 x 2018-10-22 07:37 test the allerts against security
-x 2018-10-19 08:42 !habit 10 use pomodoro times - AND  charge phone
-x 2018-10-19 08:43 !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
-x 2018-10-19 08:44 !habit 13 +remember use win tab when looking for a window - practice!!!
-x 2018-10-19 08:44 !habit 13 +remember use win tab when looking for a window - practice!!!
-x 2018-10-19 08:44 !habit 16 review yesterdays done
-x 2018-10-19 08:45 !habit 18 use task bar shortcuts win number win shift num to open COMBINE WITH WIN-SHIFT-TAB PRACTICE
-x 2018-10-19 08:48 !habit 30 appointments first in morning
+x 2018-10-19 08:42     !habit 10 use pomodoro times - AND  charge phone
+x 2018-10-19 08:43     !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
+x 2018-10-19 08:44     !habit 13 +remember use win tab when looking for a window - practice!!!
+x 2018-10-19 08:44     !habit 13 +remember use win tab when looking for a window - practice!!!
+x 2018-10-19 08:44     !habit 16 review yesterdays done
+x 2018-10-19 08:45     !habit 18 use task bar shortcuts win number win shift num to open COMBINE WITH WIN-SHIFT-TAB PRACTICE
+x 2018-10-19 08:48     !habit 30 appointments first in morning
 x 2018-10-22 09:09 +report performance test Jhatoday notes in ESDM3P General chat
-x 2018-10-23 07:59 !habit    practice adding a space to sort an item
-x 2018-10-23 07:59 !habit 10 use pomodoro times - AND  charge phone FAIL ? anyway the pomodoro was broken by my rabit trail of abstractly tinking When should globals be use.
-x 2018-10-23 08:01 !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
-x 2018-10-23 08:01 !habit 13 +remember use win tab when looking for a window - practice!!!
-x 2018-10-23 08:03 !habit 16 review yesterdays done
-x 2018-10-23 08:12 !habit 18 use task bar shortcuts win number win shift num to open COMBINE WITH WIN-SHIFT-TAB PRACTICE
-x 2018-10-23 08:12 !habit 30 appointments first in morning
-x 2018-10-23 08:13 !habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
-x 2018-10-23 08:14 !habit 85 notes on every meeting
+x 2018-10-23 07:59     !habit    practice adding a space to sort an item
+x 2018-10-23 07:59     !habit 10 use pomodoro times - AND  charge phone FAIL ? anyway the pomodoro was broken by my rabit trail of abstractly tinking When should globals be use.
+x 2018-10-23 08:01     !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
+x 2018-10-23 08:01     !habit 13 +remember use win tab when looking for a window - practice!!!
+x 2018-10-23 08:03     !habit 16 review yesterdays done
+x 2018-10-23 08:12     !habit 18 use task bar shortcuts win number win shift num to open COMBINE WITH WIN-SHIFT-TAB PRACTICE
+x 2018-10-23 08:12     !habit 30 appointments first in morning
+x 2018-10-23 08:13     !habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
+x 2018-10-23 08:14     !habit 85 notes on every meeting
 x 2018-10-23 15:07 +Persuade-Chad sp-chrome chad wasn't comfortable come back to it. +WILL-NOT-DO
 x 2018-10-24 07:23 enter meeting attendance tracker
 x 2018-10-22 07:26 +deploy draft of CisEducation +report
@@ -591,45 +591,45 @@ x 2018-10-23 07:27 +deploy draft of CisEducation attempt this repetition exercis
 x 2018-10-22 07:30 +cisEducation format by using specificity at page top. class .cisED
 x 2018-10-17 07:31 +report use MutationObserver to customize +cisEducation list
 x 2018-10-18 07:33 +report use list formatter json to show quotes my example https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
-x 2018-10-24 07:37 !habit 10 use pomodoro times - AND  charge phone
-x 2018-10-24 07:37 !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
-x 2018-10-24 07:37 !habit 13 +remember use win tab when looking for a window - practice!!!
-x 2018-10-24 07:38 !habit 16 review yesterdays done
-x 2018-10-24 07:40 !habit 18 use task bar shortcuts win number win shift num to open COMBINE WITH WIN-SHIFT-TAB PRACTICE
-x 2018-10-24 07:40 !habit 30 appointments first in morning
-x 2018-10-24 07:46 !habit 85 notes on every meeting
-x 2018-10-24 07:49 !habit 92 Wednesday lab login weekly on Wednesday FAIL not working
-x 2018-10-24 07:49 !habit 92 Wednesday passwordSafe login weekly on Wednesday
+x 2018-10-24 07:37     !habit 10 use pomodoro times - AND  charge phone
+x 2018-10-24 07:37     !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
+x 2018-10-24 07:37     !habit 13 +remember use win tab when looking for a window - practice!!!
+x 2018-10-24 07:38     !habit 16 review yesterdays done
+x 2018-10-24 07:40     !habit 18 use task bar shortcuts win number win shift num to open COMBINE WITH WIN-SHIFT-TAB PRACTICE
+x 2018-10-24 07:40     !habit 30 appointments first in morning
+x 2018-10-24 07:46     !habit 85 notes on every meeting
+x 2018-10-24 07:49     !habit 92 Wednesday lab login weekly on Wednesday FAIL not working
+x 2018-10-24 07:49     !habit 92 Wednesday passwordSafe login weekly on Wednesday
 x 2018-10-24 10:12 +report Cathy Jones education process would like a way to change department.
 x 2018-10-24 10:18 test email of alert I made a change in daniel documents.
 x 2018-10-24 10:18 test out a case chad asked about Cindy had already fixed it.
-x 2018-10-25 07:16 !habit 10 use pomodoro times - AND  charge phone
-x 2018-10-25 07:16 !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
-x 2018-10-25 07:16 !habit 13 +remember use win tab when looking for a window - practice!!!
-x 2018-10-25 07:16 !habit 16 review yesterdays done
-x 2018-10-25 07:21 !habit 18 use task bar shortcuts win number win shift num to open COMBINE WITH WIN-SHIFT-TAB PRACTICE
-x 2018-10-25 07:23 !habit 30 appointments first in morning
-x 2018-10-25 07:29 !habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
-x 2018-10-25 07:36 !habit 85 notes on every meeting
-x 2018-10-25 08:19 !habit 92 Wednesday lab login weekly on Wednesday FAIL NOT AVAILABLE
-x 2018-10-25 08:19 !habit 92 Wednesday passwordSafe login weekly on Wednesday
-x 2018-10-25 08:19 !habit 92 Wednesday passwordSafe login weekly on Wednesday
-x 2018-10-25 08:21 !habit 92 Wednesday weekly status notes
-x 2018-10-25 08:21 !habit 96 Thursday use your phone battery.
+x 2018-10-25 07:16     !habit 10 use pomodoro times - AND  charge phone
+x 2018-10-25 07:16     !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
+x 2018-10-25 07:16     !habit 13 +remember use win tab when looking for a window - practice!!!
+x 2018-10-25 07:16     !habit 16 review yesterdays done
+x 2018-10-25 07:21     !habit 18 use task bar shortcuts win number win shift num to open COMBINE WITH WIN-SHIFT-TAB PRACTICE
+x 2018-10-25 07:23     !habit 30 appointments first in morning
+x 2018-10-25 07:29     !habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
+x 2018-10-25 07:36     !habit 85 notes on every meeting
+x 2018-10-25 08:19     !habit 92 Wednesday lab login weekly on Wednesday FAIL NOT AVAILABLE
+x 2018-10-25 08:19     !habit 92 Wednesday passwordSafe login weekly on Wednesday
+x 2018-10-25 08:19     !habit 92 Wednesday passwordSafe login weekly on Wednesday
+x 2018-10-25 08:21     !habit 92 Wednesday weekly status notes
+x 2018-10-25 08:21     !habit 96 Thursday use your phone battery.
 x 2018-10-25 08:33 make note on meeting with cis-ed
 x 2018-10-25 10:22 create resove issue of chrome in my VM not knowing who tstdanielf01 is when logging into SPO
 x 2018-10-25 10:23 do a second test of allerts by making change to document as tstdanielf01
 x 2018-10-25 10:25 the reason that the topNav isn't centered is because the right menu is part of it. move that out
 x 2018-10-25 10:26 find the reason that the height of topNav container is not staying open
 x 2018-10-26 07:28 +quickTrain  do what Cindy told me to do with nivigation formatting. hid original, scrape data and the combine it with the newformat using my own styles.
-x 2018-10-26 07:36 !habit 10 use pomodoro times - AND  charge phone
-x 2018-10-26 07:36 !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
-x 2018-10-26 07:37 !habit 13 +remember use win tab when looking for a window - practice!!!
-x 2018-10-26 07:37 !habit 16 review yesterdays done
-x 2018-10-26 07:38 !habit 18 use task bar shortcuts win number win shift num to open COMBINE WITH WIN-SHIFT-TAB PRACTICE
-x 2018-10-26 07:38 !habit 30 appointments first in morning
-x 2018-10-26 07:58 !habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
-x 2018-10-26 07:58 !habit 85 notes on every meeting - Cindy's teaching all need a note!
+x 2018-10-26 07:36     !habit 10 use pomodoro times - AND  charge phone
+x 2018-10-26 07:36     !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
+x 2018-10-26 07:37     !habit 13 +remember use win tab when looking for a window - practice!!!
+x 2018-10-26 07:37     !habit 16 review yesterdays done
+x 2018-10-26 07:38     !habit 18 use task bar shortcuts win number win shift num to open COMBINE WITH WIN-SHIFT-TAB PRACTICE
+x 2018-10-26 07:38     !habit 30 appointments first in morning
+x 2018-10-26 07:58     !habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
+x 2018-10-26 07:58     !habit 85 notes on every meeting - Cindy's teaching all need a note!
 x 2018-10-26 08:00  case about monitor
 x 2018-10-26 08:00  do status notes
 x 2018-10-26 08:02 +info complete of process change for education on Chad's list
@@ -653,24 +653,24 @@ x 2018-10-26 10:06  +remember use +quickEmail when it just takes a short time
 x 2018-10-26 10:27 first day of Anki habit two hours
 x 2018-10-29 07:34  practice adding with a space at start by using escape space
 x 2018-10-29 07:48  use Anki daily
-x 2018-10-29 07:35 !habit 10 use pomodoro times - AND  charge phone
-x 2018-10-29 07:49 !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
-x 2018-10-29 07:50 !habit 13 +remember use win tab when looking for a window - practice!!! ANKI
-x 2018-10-29 07:56 !habit 18 use task bar shortcuts win number win shift num to open COMBINE WITH WIN-SHIFT-TAB PRACTICE: ANKI
-x 2018-10-29 07:58 !habit 30 appointments first in morning
-x 2018-10-29 08:05 !habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
+x 2018-10-29 07:35     !habit 10 use pomodoro times - AND  charge phone
+x 2018-10-29 07:49     !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
+x 2018-10-29 07:50     !habit 13 +remember use win tab when looking for a window - practice!!! ANKI
+x 2018-10-29 07:56     !habit 18 use task bar shortcuts win number win shift num to open COMBINE WITH WIN-SHIFT-TAB PRACTICE: ANKI
+x 2018-10-29 07:58     !habit 30 appointments first in morning
+x 2018-10-29 08:05     !habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
 x 2018-10-30 07:32  use Anki daily
 x 2018-10-30 07:16   sh -c "C:\Program Files (x86)\Anki\anki.exe" +YUCK my bash doesn't work as documented.
-x 2018-10-30 07:16 !habit 10 use pomodoro times - AND  charge phone
+x 2018-10-30 07:16     !habit 10 use pomodoro times - AND  charge phone
 x 2018-10-29 08:26 +reference add run a program in bash. https://unix.stackexchange.com/questions/152310/how-to-correctly-start-an-application-from-a-shell
 x 2018-10-30 07:16   sh -c "C:\Program Files (x86)\Anki\anki.exe" +YUCK my bash doesn't work as documented.
 x 2018-10-31 08:19  +remember use +Trash +ANKI
 x 2018-10-31 08:19  decision use +Trash instead of +ANKI
-x 2018-10-31 08:19 !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
-x 2018-10-31 08:19 !habit 16 review yesterdays done
-x 2018-10-31 08:05 !habit 30 appointments first in morning
-x 2018-10-31 08:19 !habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
-x 2018-10-31 08:30 !habit 85 notes on every meeting
+x 2018-10-31 08:19     !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
+x 2018-10-31 08:19     !habit 16 review yesterdays done
+x 2018-10-31 08:05     !habit 30 appointments first in morning
+x 2018-10-31 08:19     !habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
+x 2018-10-31 08:30     !habit 85 notes on every meeting
 x 2018-10-30 07:53 lost credit card
 x 2018-10-30 07:54 required windows update.
 x 2018-10-31 07:22 watch techSmith Snagit 2019 video.
@@ -678,17 +678,17 @@ x 2018-10-31 07:24 +report beta release of +CisEducation
 x 2018-10-31 07:25 move +cisEdu cis out of main .ts file start of next release.
 x 2018-10-31 07:27 attend Macs organization meeting
 tx 2018-11-01 10:08 ! health form
-x 2018-11-01 07:14 !habit 10 use pomodoro times - AND  charge phone
-x 2018-11-01 07:15 !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
+x 2018-11-01 07:14     !habit 10 use pomodoro times - AND  charge phone
+x 2018-11-01 07:15     !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
 x 2018-11-01 07:17 syle issues +cisEd
 x 2018-11-01 07:17 work on managed nav issues +cisEd
 x 2018-11-01 07:18 configure Anki better keep adding new cards
-x 2018-11-01 07:22 !habit 16 review yesterdays done
-x 2018-11-01 07:22 !habit 30 appointments first in morning
+x 2018-11-01 07:22     !habit 16 review yesterdays done
+x 2018-11-01 07:22     !habit 30 appointments first in morning
 x 2018-11-01 07:37 clean up my outlook rulesand the folders it was filling up!
-x 2018-11-01 07:39 !habit 85 notes on every meeting
-x 2018-11-01 07:39 !habit 92 Wednesday passwordSafe login weekly on Wednesday
-x 2018-11-01 07:53 !habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
+x 2018-11-01 07:39     !habit 85 notes on every meeting
+x 2018-11-01 07:39     !habit 92 Wednesday passwordSafe login weekly on Wednesday
+x 2018-11-01 07:53     !habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
 x 2018-11-01 08:05 !p01a +gtd set a way to work with projects
 x 2018-11-01 08:41 !p07 become a VScodeExpert set a personal cord key
 x 2018-11-01 08:41 !p07 become a VScodeExpert set a shortcut for sorting file
@@ -699,18 +699,18 @@ x 2018-11-01 09:05 !p02 +cisEd project think
 x 2018-11-01 09:20 review new organizational chart
 x 2018-11-02 08:11 !p02 +cisEd +report fix the style of hover navigation items
 x 2018-11-02 08:12 give demo of CisEd to our team
-x 2018-11-02 16:04 !habit 10 use pomodoro times - AND  charge phone
-x 2018-11-02 16:04 !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
-x 2018-11-02 16:04 !habit 16 review yesterdays done
-x 2018-11-02 16:04 !habit 30 appointments first in morning
-x 2018-11-02 16:04 !habit 85 notes on every meeting
+x 2018-11-02 16:04     !habit 10 use pomodoro times - AND  charge phone
+x 2018-11-02 16:04     !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
+x 2018-11-02 16:04     !habit 16 review yesterdays done
+x 2018-11-02 16:04     !habit 30 appointments first in morning
+x 2018-11-02 16:04     !habit 85 notes on every meeting
 x 2018-11-02 16:05 !p02  +cisEd move pages to PRD. +report
 x 2018-11-02 16:05 !p02  +cisEd move pages to PRD. the new quote list needed sharegate doesn't copy the column formatting
 x 2018-11-02 16:06 !p02  +cisEd move pages to PRD. the new quote It really needs to be filtered for use with only pages inside of ... CISEducation/Pages
 x 2018-11-02 16:06 !p02  +cisEd give demo of page to Jose' Big need is improvement of NewPage
-x 2018-11-05 07:56 !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
-x 2018-11-05 08:01 !habit 16 review yesterdays done
-x 2018-11-05 08:02 !habit 30 appointments first in morning
+x 2018-11-05 07:56     !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
+x 2018-11-05 08:01     !habit 16 review yesterdays done
+x 2018-11-05 08:02     !habit 30 appointments first in morning
 x 2018-11-05 09:23 !p 02a +cisEd fix recognition of Whose Line Is It .... the name changed on move
 x 2018-11-05 09:23 !p 02a +cisEd fix scroll bar of whoose line is it
 x 2018-11-05 09:23 !p 02a +cisEd show name when in edit mode.
@@ -729,13 +729,13 @@ x 2018-11-05 07:53 +remember +programming use this url for decoding html entity 
 x 2018-11-05 07:55 +remember +programming use VS Code "format section" for html inside of aspx +ANKI
 x 2018-11-05 07:55 +remember +SharePoint page info button helps +ANKI
 x 2018-11-05 07:40 command statments can have a space to ANKI +FAIL my bash doesn't do commands like the bash docs say it should
-x 2018-11-06 07:44 !habit 10 use pomodoro times - AND  charge phone
-x 2018-11-06 07:44 !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
-x 2018-11-06 07:48 !habit 16 review yesterdays done
-x 2018-11-06 07:52 !habit 30 appointments first in mornx 2018-11-07 08:41 !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
-x 2018-11-07 08:47 !habit 16 review yesterdays done
-x 2018-11-07 08:47 !habit 30 appointments first in morning
-x 2018-11-07 08:50 !habit 92 Wednesday passwordSafe login weekly on Wednesday
+x 2018-11-06 07:44     !habit 10 use pomodoro times - AND  charge phone
+x 2018-11-06 07:44     !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
+x 2018-11-06 07:48     !habit 16 review yesterdays done
+x 2018-11-06 07:52     !habit 30 appointments first in mornx 2018-11-07 08:41     !habit 11 start msTeam for some reason I still have to click on this one, my 'run ' in dd doesn't work it only loads the service.
+x 2018-11-07 08:47     !habit 16 review yesterdays done
+x 2018-11-07 08:47     !habit 30 appointments first in morning
+x 2018-11-07 08:50     !habit 92 Wednesday passwordSafe login weekly on Wednesday
 x 2018-11-07 07:27 !p02  !!!!!!! +cisEd
 x 2018-11-07 07:28 !p02 +cisEd work on the sub menu
 x 2018-11-07 07:28 !p02 +cisEd change the site name to ISA
@@ -754,7 +754,7 @@ x 2018-11-08 07:44 +jhatoday +issue fix the space on the news under items with a
 x 2018-11-08 07:41 +news revisit archive and subpage  build paging +report
 x 2018-11-07 08:59 +tickle ask cindy about potential lab It will be 2019
 x 2018-11-07 09:27 +gtd add note to +anki about sorting. alphabet is last
-x 2018-11-09 10:13 !habit 11 check EAS team messages
+x 2018-11-09 10:13     !habit 11 check EAS team messages
 x 2018-11-09 09:24 !p13a !!!!!!!! jhaToday webdav to paste in explorer \\jackhenry.sharepoint.com@SSL\DavWWWRoot\sites\jhatoday\_catalogs\masterpage\Display Templates
 x 2018-11-08 15:25 !p13a jhaToday +product365 create a test page
 x 2018-11-08 14:46 !p20 !!!!!! case 256849  Cathy Jones Editing department field.
@@ -762,11 +762,11 @@ x 2018-11-09 09:52 add a note to anki about multiple recycle bin
 x 2018-11-09 09:52 credit card lost email, think, reorder
 x 2018-11-09 09:52 Get anki and move learn and remember to it start anki habit : it is first priority as a way to clean several items from this list
 x 2018-11-09 09:51 +laptopMaintain mobilePass reinstall after a laptop crash about two hours to get working vpn
-x 2018-11-09 10:21 !habit 16 review yesterdays done
-x 2018-11-09 10:21 !habit 30 appointments first in morning
-x 2018-11-09 10:21 !habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
-x 2018-11-09 10:21 !habit 85 notes on every meeting
-x 2018-11-09 11:17 !habit 97 Friday carefully work through entire todo.txt
+x 2018-11-09 10:21     !habit 16 review yesterdays done
+x 2018-11-09 10:21     !habit 30 appointments first in morning
+x 2018-11-09 10:21     !habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
+x 2018-11-09 10:21     !habit 85 notes on every meeting
+x 2018-11-09 11:17     !habit 97 Friday carefully work through entire todo.txt
 x 2018-11-09 10:19 !p13b  +product365 to CSWP  make paging first just one column +report
 x 2018-11-09 10:25 +issue: track down the markDoc server error I get when working .md is this the same thing? https://www.mkdocs.org/: Solution uninstall those plug in
 x 2018-11-09 10:20 +quickEmail to carlos about the location of templates
@@ -777,3 +777,63 @@ x 2018-11-09 11:11 Make new signature
 x 2018-11-09 11:12 research templates for 10 minutes for Carlos case
 x 2018-11-09 11:17 +quickEmail to Jose and Sofia asking if OK
 x 2018-11-09 13:32 laptop - round two with vpn and mobilePass. Now I'm in
+x 2018-11-09 10:21     !habit 16 review yesterdays done
+x 2018-11-09 10:21     !habit 30 appointments first in morning
+x 2018-11-09 10:21     !habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
+x 2018-11-09 10:21     !habit 85 notes on every meeting
+x 2018-11-09 11:17     !habit 97 Friday carefully work through entire todo.txt
+x 2018-11-09 10:19 !p13b  +product365 to CSWP  make paging first just one column +report
+x 2018-11-09 10:25 +issue: track down the markDoc server error I get when working .md is this the same thing? https://www.mkdocs.org/: Solution uninstall those plug in
+x 2018-11-09 10:20 +quickEmail to carlos about the location of templates
+x 2018-11-09 10:27 +gtd create a somedayMaby.txt and check that list
+x 2018-11-09 10:28 +gtd create a learn.txt
+x 2018-11-09 10:29 +gtd create links.txt instead of +permLink
+x 2018-11-09 11:11 Make new signature
+x 2018-11-09 11:12 research templates for 10 minutes for Carlos case
+x 2018-11-09 11:17 +quickEmail to Jose and Sofia asking if OK
+x 2018-11-09 13:32 laptop - round two with vpn and mobilePass. Now I'm in
+x 2018-11-09 16:37 I set up sharepoint on my phone!
+x 2018-11-12 08:29 +remember how to list report lines +gtd +report grep +report ./workTodo/done.txt Moved to +ANKI
+x 2018-11-12 08:31 +remember how to remove stubborn windows 10 explorer quick access links .... select another one that does allow remove under the shift right click +ANKI
+x 2018-11-12 08:32 +remember my meds are also below the sink
+x 2018-11-12 08:33 +remember the +permlink tag +YUCK these are kept in the Z_permLinks file +ANKI
+x 2018-11-12 08:35 +remember the keyword +quickTrain for the things Cindy says: +ANKI
+x 2018-11-12 08:36 +remember use browser history more, and favorites so that  keypirinha can find them
+x 2018-11-12 08:37 +learn +gtd outline usage
+x 2018-11-12 08:38 +gtd move the remember to anki
+x 2018-11-12 09:01    t4 outline:prj16
+x 2018-11-13 07:28 +learn to zome in vs code ctrl and equals key.
+x 2018-11-13 07:31 +pcMaintenance update vmware clinet
+x 2018-11-13 07:36 +PcMaintain add outlook folder to favorites
+x 2018-11-13 07:54 +learn grep inverse -v option is grep -v     !habit
+x 2018-11-13 08:32     !habit 02 use coAnki daily
+x 2018-11-13 08:35     !habit 03 practice personal chrome menu
+x 2018-11-13 08:36     !habit 10 use pomodoro times - AND  charge phone
+x 2018-11-13 08:37     !habit 11 check EAS team messages
+x 2018-11-13 08:37     !habit 12 review projects
+x 2018-11-13 08:45     !habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
+x 2018-11-13 09:30 !p 03 +gtdProjects 1 How To organize projects
+x 2018-11-13 09:00 +gtd practice using projects on veterns day 3 hrs
+x 2018-11-13 09:20 +gtd change to autoArchive by modifying workTodo.cfg and improve notes in it.
+x 2018-11-13 09:20 +gtd add link to todo.txt_cli help
+x 2018-11-13 14:15 x+gtd add gh alias to bash
+x 2018-11-13 14:33 add cd./workTodo to workTodo.cfg
+x 2018-11-13 14:42 !p 09 +PTO
+x 2018-11-13 14:58 Cindy added Powershell for permission check in dev site
+x 2018-11-13 15:26 read Office 365 weekly digest
+x 2018-11-13 16:49 +gtd all day on cleaning todo.txt with project outline extention
+x 2018-11-13 16:51 +gtd get outline up and running
+x 2018-11-14 07:19   cat 0dailyStart.txt >> todo.txt
+x 2018-11-14 07:23      !habit 02 use 0dailStart.txt by cat 0dailyStart.txt >> todo.txt
+x 2018-11-14 07:43 add +outlook add outlook rule for yellow alerts
+x 2018-11-14 07:46      !habit 02 use Anki daily
+x 2018-11-14 07:46      !habit 03 review done.txt
+x 2018-11-14 07:46      !habit 11 check EAS team messages
+x 2018-11-14 07:46      !habit 02 practice chrome personal menu
+x 2018-11-14 07:49      !habit 10 use pomodoro times - AND  charge phone
+x 2018-11-14 07:54 +consider how to organize projects outline:gtd
+x 2018-11-14 07:55 +consider instead of the remember: prefix consider using Anki when you can commit to it for a while this would need to be a new habit outline:consider
+x 2018-11-14 08:05 +laptopMaintainence trouble with both monitor and mouse not being recognized on start up over a week ago. SOLUTION in monitor settings the monitor was dissabled
+x 2018-11-14 08:11      !habit 12 review projects
+x 2018-11-14 08:15 how to be faithful with non urgent priorty like this: I moved this item to issues for later... put it in daily habits outline:learn.JsonHelper
+x 2018-11-14 08:41 how to make file executable answer: chmod +x filename.sh

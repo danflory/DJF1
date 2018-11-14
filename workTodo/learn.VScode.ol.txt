@@ -1,0 +1,9 @@
+set anki for editor switch
+set anki for switch to terminal
+sort ascending keyboard assignment
+switch to terminal keyboard assignment
+anki last edit location
+anki format just selection
+zoom ctrl + =
+25
+!p07 +VScodeExpert create a macro that will do select then sort and return to current line.
