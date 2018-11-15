@@ -1,6 +1,5 @@
-jhaToday +news fix the ultimate debugger
-jhaToday +news make a test page
 jhaToday +product365 https://jackhenry.sharepoint.com/sites/jhatoday/CorporateInfo/Product-360/Pages/test-the-product360-CSWP.aspx?ControlMode=Edit&DisplayMode=Design
 jhaToday +news
 YOUR Done next do item will delete project .ol. file
+last line
 last line

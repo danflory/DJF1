@@ -1,0 +1,4 @@
+t:2018-11-13 contact Johntan  Morland about his FLOW
+t:2018-11-29 add PTO time after thanksgiving vacation https://www.jhaeap.com/psc/HR92PRD/EMPLOYEE/HRMS/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL?
+t:2018-12-14 clean out chrome bookmarks
+t:2018-12-18 create a health.txt and a habit to use it for health tracking

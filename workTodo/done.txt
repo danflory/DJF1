@@ -837,3 +837,42 @@ x 2018-11-14 08:05 +laptopMaintainence trouble with both monitor and mouse not b
 x 2018-11-14 08:11      !habit 12 review projects
 x 2018-11-14 08:15 how to be faithful with non urgent priorty like this: I moved this item to issues for later... put it in daily habits outline:learn.JsonHelper
 x 2018-11-14 08:41 how to make file executable answer: chmod +x filename.sh
+x 2018-11-14 08:52 prioritze projects
+x 2018-11-14 08:59 +product365 to CSWP  make paging change to two column outline:news
+x 2018-11-14 09:02 change the site name to ISA outline:Cases.cisEd
+x 2018-11-14 09:07 move project cisEd to an outline project : NOTE I moved them ALL and ceaned up my todo.txt
+x 2018-11-14 09:14 remove news to jackhenry in shortcut file
+x 2018-11-14 09:24 add monthly habit to clean out chrome bookmarks
+x 2018-11-14 09:27 create tickle.txt and add to habit
+x 2018-11-14 09:49 +gtd +bash search case insensitive so I can find projects
+x 2018-11-15 07:21 review vsCode release Notes 1.29.0
+x 2018-11-15 08:05      !habit 03 use Anki daily
+x 2018-11-15 08:26 promote MS teams to Derek I added a note to oneNote with my sales paragraph.
+x 2018-11-15 08:26 Open Enrolement in process, I worked out an error with Tammy Halton's help. Talk to Linda and press submit
+x 2018-11-15 08:29 enter meeting into OneNote
+x 2018-11-15 08:32 clean up of my chrome shortcuts yesterday
+x 2018-11-15 08:34 Meet with Carlos about new site design yesterday
+x 2018-11-15 08:34      !habit 04 review done.txt
+x 2018-11-15 08:34      !habit 05 practice personal chrome menu
+x 2018-11-15 08:35      !habit 10 use pomodoro times - AND  charge phone
+x 2018-11-15 08:36      !habit 30 check tickle.txt
+x 2018-11-15 08:37      !habit 20 Calendar Items
+x 2018-11-15 08:37      !habit 11 check EAS team messages
+x 2018-11-15 08:43 +quickNote to Cindy since she took off today.
+x 2018-11-15 09:47 t+gtd rename files to start with lower case
+x 2018-11-15 10:31      !habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes
+x 2018-11-15 10:43 +gtd append ending lines to every outline https://stackoverflow.com/questions/10865947/append-a-text-to-the-end-of-multiple-files-in-linux
+x 2018-11-15 10:45 +policy https://tools1.jackhenry.com/PolicyCenter
+x 2018-11-15 10:50 -quickEmail to Mindy bugging her about the security change to News
+x 2018-11-15 11:21 evaluate my stock purchase outline:prj-CorporateProjects.openEnrolement
+x 2018-11-15 11:22 jhaToday +news fix the ultimate debugger outline:prj-news
+x 2018-11-15 11:23 check if it is working for them outline:cases.cisEd
+x 2018-11-15 11:24 open Enrolement outline:prj-CorporateProjects
+x 2018-11-15 11:26 +gtd reference organization one note quick notes outline:prj-gtd.CreatePersonalReferencePlaces !YUCK just dump em and search +decisioin
+x 2018-11-15 11:27 review my stocks outline:prj-CorporateProjects
+x 2018-11-15 11:30 test her list on my phone outline:cases.SPmobile
+x 2018-11-15 11:33 +consider what are some 15 minute programming katas... 30 min is too long. outline:consider 
+x 2018-11-15 11:44 how do I add a Teams group to a Outlook group outline:issues : Answer from online research is it probably isn't helpful +YUCK
+x 2018-11-15 11:50 create a health tracking file and put it in habits outline:PersonalHealth move this to tickle in one month remove outline Personal health
+x 2018-11-15 12:00      !habit 12 review projects by finding "outline" in vsCode
+x 2018-11-15 12:00      !habit 12 review projects by finding "outline" in vsCode

@@ -1,36 +1,27 @@
- cat 0dailyStart.txt >> todo.txt
-(A) +laptop change password for forClients
-+department send my repos to corp outline:department
-+home use keyboard with phone outline:home
-+learn +VScodeExpert outline:learn.VScode
-+gtd reference organization one note quick notes outline:prj-gtd.CreatePersonalReferencePlaces
-+policy https://tools1.jackhenry.com/PolicyCenter
-+product365 to CSWP  make paging change to two column outline:news
-03 practice personal chrome menu outline:prj-ListDailyStart
-case 256849  Jonathan Morris - +quickEmail in cherwell outline:Cases.JonathanMorris
-change the site name to ISA outline:Cases.cisEd
-evaluate my stock purchase outline:Prj-CorporateProjects.openEnrolement
-Get my test site working to edit outline:MsDocs
-jhaToday webdav to paste in explorer \\jackhenry.sharepoint.com@SSL\DavWWWRoot\sites\jhatoday\_catalogs\masterpage\Display Templates outline:Prj-news
-move project cisEd to an outline project
-open Enrolement outline:Prj-CorporateProjects
-remove news to jackhenry in shortcut file
-review my stocks outline:CorporateProjects
-style Navigation outline:prj-LittleWebParts
-t:2018-11-13 contact Johntan  Morland about his FLOW
-t:2018-11-29 add PTO time after thanksgiving vacation https://www.jhaeap.com/psc/HR92PRD/EMPLOYEE/HRMS/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL?
-t2.1 +wdtag2 outline:prg15
-z placeholder@learn +consider how to use microsoft's 70 2016 site templates. https://absolute-sharepoint.com/2017/03/sharepoint-2016-site-template-id-list-for-powershell.html outline:learn.sharepoint
-z_place outline:JhaTodayPerformance
-z_placeholder outline:Cases.SPmobile
-zPlace outline:Prj-CorporateProjects.PTOplan
-(B) +learn keyboard shortcuts outline:learn.Chrome
-(B) +react  jam in a visual example of header then learn a little react to put it in with color. outline:learn.react
-(B) +consider what are some 15 minute programming katas... 30 min is too long. outline:consider
+x 2018-11-15 12:00      !habit 12 review projects by finding "outline" in vsCode
+ cd ./workTodo ; cat 0dailyStart.txt >> todo.txt
 (A) !p 10 +product360 4 CSWP with paging like I did for News outline:product350CSWP
-(C) create a health tracking file and put it in habits outline:PersonalHealth
-every project should end with two lines YOUR Done next 'do item' will delete file outline:addToAnki
-how do I add a Teams group to a Outlook group outline:issues
-reread code outline:learn.JsonHelper
-(A) +gtd append ending lines to every outline https://stackoverflow.com/questions/10865947/append-a-text-to-the-end-of-multiple-files-in-linux
-x 2018-11-14 08:41 how to make file executable answer: chmod +x filename.sh
+(A) +department send my repos to corp outline:department
+(A) +initiate work on mobile problem +Cherwell 223581 outline:cases.SPmobile
+(B) +laptop change password for forClients
+(B) +react  jam in a visual example of header then learn a little react to put it in with color. outline:learn.react
+(B) reread code outline:learn.JsonHelper
+(C) +home use keyboard with phone outline:home :Answer the small usb extender does it! I added this to anki
+(C) style Navigation outline:prj-LittleWebParts
+(D) Get my test site working to edit outline:MsDocs
++learn +consider how to use microsoft's 70 2016 site templates. https://absolute-sharepoint.com/2017/03/sharepoint-2016-site-template-id-list-for-powershell.html outline:learn.sharepoint
++learn +VScodeExpert outline:learn.VScode
++learn keyboard shortcuts outline:learn.Chrome
+hold to after thanksgiving outline:cases.cisEd
+How can we have a documentation site like MS docs? outline:msDocs
+how to be faithful with non urgent priorty like thisYOUR Done next do item will delete project .ol. file outline:issues
+I have two paging dswp
+jhaToday +news make a test page outline:Prj-news
+Make a scheduling system for learning x minutes a day outline:consider
+sort the product360 queries
+step one find the site outline:prj-CorporateProjects.openEnrolement
+Trash Reference SomeDay     Projects ... Next ,      delegate, defer
+YOUR Done next do item will delete project .ol. file outline:addToAnki
+YOUR Done next do item will delete project .ol. file outline:prj-incubate
+z_place outline a parent group not to finish:JhaTodayPerformance
+zPlace outline:prj-CorporateProjects.PTOplan

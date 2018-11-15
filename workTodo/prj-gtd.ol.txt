@@ -9,3 +9,6 @@ YOUR Done next do item will delete project .ol. file
 last line
 YOUR Done next do item will delete project .ol. file
 last line
+add a habit for scheduled learning time
+last line
+compress the bash history removing duplicates

@@ -4,3 +4,4 @@
 (B) do a round robin ticket deployment project
 (B) do the periodic reminder to review flow.
 (B) get phone messages in outlook.
+change the outline extension so it uses a folder for all projects
