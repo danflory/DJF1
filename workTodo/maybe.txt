@@ -5,3 +5,4 @@
 (B) do the periodic reminder to review flow.
 (B) get phone messages in outlook.
 change the outline extension so it uses a folder for all projects
+How can we have a documentation site like MS docs? outline:msDocs \+YUCK move to maybe

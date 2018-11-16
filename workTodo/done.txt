@@ -852,6 +852,10 @@ x 2018-11-15 08:26 Open Enrolement in process, I worked out an error with Tammy 
 x 2018-11-15 08:29 enter meeting into OneNote
 x 2018-11-15 08:32 clean up of my chrome shortcuts yesterday
 x 2018-11-15 08:34 Meet with Carlos about new site design yesterday
+x 2018-11-15 08:34 Meet with Chad about use of Git
+x 2018-11-15 08:34 +quickEmail Kyle about index
+x 2018-11-15 08:34 +quickEmail Mindy about permissions for news
+x 2018-11-15 08:34 +quickEmail Carlos about index case work
 x 2018-11-15 08:34      !habit 04 review done.txt
 x 2018-11-15 08:34      !habit 05 practice personal chrome menu
 x 2018-11-15 08:35      !habit 10 use pomodoro times - AND  charge phone
@@ -871,8 +875,33 @@ x 2018-11-15 11:24 open Enrolement outline:prj-CorporateProjects
 x 2018-11-15 11:26 +gtd reference organization one note quick notes outline:prj-gtd.CreatePersonalReferencePlaces !YUCK just dump em and search +decisioin
 x 2018-11-15 11:27 review my stocks outline:prj-CorporateProjects
 x 2018-11-15 11:30 test her list on my phone outline:cases.SPmobile
-x 2018-11-15 11:33 +consider what are some 15 minute programming katas... 30 min is too long. outline:consider 
+x 2018-11-15 11:33 +consider what are some 15 minute programming katas... 30 min is too long. outline:consider
 x 2018-11-15 11:44 how do I add a Teams group to a Outlook group outline:issues : Answer from online research is it probably isn't helpful +YUCK
 x 2018-11-15 11:50 create a health tracking file and put it in habits outline:PersonalHealth move this to tickle in one month remove outline Personal health
 x 2018-11-15 12:00      !habit 12 review projects by finding "outline" in vsCode
 x 2018-11-15 12:00      !habit 12 review projects by finding "outline" in vsCode
+x 2018-11-15 12:26 How can we have a documentation site like MS docs? outline:msDocs !YUCK move to maybe also delet outline
+x 2018-11-16 07:35      !habit 02 use 0dailStart.txt by cat 0dailyStart.txt >> todo.txt
+x 2018-11-16 07:35      !habit 03 use Anki daily
+x 2018-11-16 07:39      !habit 04 review done.txt
+x 2018-11-16 07:42      !habit 10 use pomodoro times - AND  charge phone
+x 2018-11-16 07:58 +gtd modify the 0dailyStart.txt file without numbers. It isn't sorted anymore and I want to put bash commands in it
+x 2018-11-16 08:01      !habit 20 Calendar Items
+x 2018-11-16 08:03      !habit 30 check tickle.txt
+x 2018-11-16 08:04      !habit 12 review projects by finding "outline" in vsCode
+x 2018-11-16 08:04      !habit 11 check EAS team messages
+x 2018-11-16 08:42      !habit 40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes?viewpath=%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes
+x 2018-11-16 09:34 update password to the .com s and practice log in authoring as well as for clients. my name is dflor@jhacorp.com. link to oneNote is in permlinks file
+x 2018-11-16 10:49 step one find the site outline:prj-CorporateProjects.openEnrolement
+x 2018-11-16 10:51 practice using ol outline:prj-CorporateProjects.openEnrolement
+x 2018-11-16 10:51 t:2018-12-14 clean out chrome bookmarks
+x 2018-11-16 10:56 zPlace outline:prj-CorporateProjects.PTOplan
+x 2018-11-16 10:57 !p08 +PTO ask linda about the second week with Beth : Nov 30 outline:prj-CorporateProjects.PTOplan
+x 2018-11-16 10:57 +home use keyboard with phone outline:home :Answer the small usb extender does it! I added this to anki
+x 2018-11-16 11:37 keyboard on phone is with the small usb retangle I bought outline:addToAnki
+x 2018-11-16 11:49 !p08 +PTO remember to add hcm for thanksgiving outline:prj-CorporateProjects.PTOplan
+x 2018-11-16 11:52 +department send my repos to corp outline:department
+x 2018-11-16 12:22 -gtd add learning to habit One Pomodo learning
+x 2018-11-16 12:33 jhaToday +product360 https://jackhenry.sharepoint.com/sites/jhatoday/CorporateInfo/Product-360/Pages/test-the-product360-CSWP.aspx?ControlMode=Edit&DisplayMode=Design outline:cases.news
+x 2018-11-16 12:35 +consider for reporting planning could I just repeat the first line !!!!! or do I need +plan +decided +plan is an option for initiation +Trash I switched to use extension ol outline:gtd
+x 2018-11-16 12:46 +consider where an how to place my Next action.  resolved by implementing outline extention in gtd outline:consider
