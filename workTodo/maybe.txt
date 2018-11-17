@@ -1,0 +1,8 @@
+(c) +somedayMaybe figure out MS docs openDocs
+(C) +consider adding more aliases to bash for other todo lists that have a different config. Like I have for work and home, I can have a list for case work and use alias tC when working on cases.
+(D) +consider initiate a monthly pushed newletter from our SP team to site owners.
+(B) do a round robin ticket deployment project
+(B) do the periodic reminder to review flow.
+(B) get phone messages in outlook.
+change the outline extension so it uses a folder for all projects
+How can we have a documentation site like MS docs? outline:msDocs \+YUCK move to maybe

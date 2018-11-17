@@ -1,0 +1,25 @@
++learn +extentions work through example list driven placeholders
++learn Andrew Connell course
++learn azure logic apps https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-workflow-definition-language
++learn flow Resources for Flow 'https://blog.getbizzy.io/your-guide-to-excellent-user-resources-for-microsoft-flow-f3613882d0c6'
++learn how to display list sharepoint from other collection. 1. search WP for classic 2. Highlighted Content web part for Modern 3. copy the list and update with flow see oneNote 'view list in another site collection'
++learn how to exclude habit from done +gtd +grep'grep -v habit ./workTodo/done.txt'
++learn how to list report lines
++learn how to sort with +gtd +grep sort -d todo.txt NOTE the order is different than vscode order.
++learn ignite keynotes and specific sessions about SharePoint
++learn More React
++learn more TypeScript
++learn what is a powerApp
+ Trash Reference SomeDay     Projects ... Next ,      delegate, defer
+01  budget time
+02 use Anki daily
+03 practice personal chrome menu
+10 use pomodoro times - AND  charge phone
+11 check EAS team messages
+12 review projects
+40  David Allen quotes https://jackhenry.sharepoint.com/sites/esdm3pdevs/Daniel/Lists/Quotes/AllItems.aspx?viewpath=%%2Fsites%2Fesdm3pdevs%2FDaniel%2FLists%2FQuotes%2FAllItems.aspx
+90 Tuesday weekly refresh my git repository of jhaToday production catalog Tuesday https://jackhenry.sharepoint.com/sites/jhatoday/_catalogs/
+92 Wednesday lab login weekly on Wednesday
+92 Wednesday weekly status notes
+96 Thursday use your phone battery.
+98 Thursday review my shortcuts files

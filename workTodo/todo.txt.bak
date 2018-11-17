@@ -1,116 +1,20 @@
-!followUp request my home docking station.
-!habit 11 start msTeam
-!habit 12 start that phone (vpn needed)
-!habit 20 check the skype status
-!habit 32 close at end of day Clean ending
-!habit 45 a daily read of David Allen
-!habit 47 a David Allen or Wafel quote a day.
-!habit 50 appointments first in morning
-!habit 80 early to meetings 60%
-!habit 85 notes on every meeting - use OneNote click on email, and Ctrl-N
-!habit 86 Review my done file once a day and add notes as needed
-!habit 88 check Cherwell
-!habit 94 review entire list weekly
-!habit 97 weekly refresh my git repo of jhatody production catalog
-!habit 98 passwordSafe login weekly
-!habit 99 weekly status notes on Wednesday
-(A) +case +report 211442 relocate a site with same design word doc attached to case.
-(A) +case +report 222878 hide that quick launch on modern
-(A) +case +report 223581 a set up office on my divice to work  for Tracey Sadler-Lassiter note:yRb.md
-(A) +initate research for +case 222878 Kimberly Matheny hide Quick Launch the quick launh project has its own vsCode shorcut in shortcut folder
-(A) +initiate work on mobile problem +Cherwell 223581
-(A) +Jhatoday +CSWP +News  +Archive            company News must set query start <= today
-(A) +Jhatoday +CSWP +News  +Archive            export the first one then reimport 4 times to right
-(A) +Jhatoday +CSWP +News  +Archive        Executive Update dup and add company
-(A) +Jhatoday +CSWP +News  +Archive      Symitar Brand News
-(A) +Jhatoday +CSWP +News  +Archive +issue the styling is lost.
-(A) +Jhatoday +CSWP +News +Archive debug start date on archive
-(A) +Jhatoday +CSWP +News +ceate_test_content dates
-(A) +Jhatoday +CSWP +News +test +template_format paging
-(A) +Jhatoday +CSWP +News +test expires
-(A) +Jhatoday +CSWP +News +test expires
-(A) +laptop change password for forclients
-(A) +laptop change password for forclients
-(A) +news1 add web part to page and choose the correct view
-(A) +news1 filter on Company News; Article Date > [tocay]; JHA Expired Date < [Today]
-(A) +news1 Sort on Article Date
-(A) +news1 view name CompanyNewsHome
-(A) +training harassment training
-(A) add news test with audience record that
-(A) double check that the Jack Henry Brand News lt eq
-(B) +decide: do I want to have my tag: as first thing or @ as first or +tag as first when and why +A the + highlights if VS Code use it
-(B) +decide: is @repeating the same as !habit or not?
-(B) +decide: just add +href to the end to keep a link without priority it will stay off todo
-(B) +gtd check error about the preview service when I preview a MD document note:sCo.md
-(B) +gtd get outline up and running
-(B) +gtd how do I duplicate an entry?
-(B) +gtd understand the commit and sync process being used
-(B) +home search for kvm switch note:IWA.md
-(B) +info completion of process change for Chad's list
-(B) +initiate test md in team site and Teams
-(B) +issue: track down the markdoc server error I get when working .md is this the same thing? https://www.mkdocs.org/
-(B) +issue: when repeat bumps the date it doesn't recognize date with the "t:" that I added
-(B) +Q how do I suppress the git warnings about LF?
-(B) in october novemberish add a tracker of morning start up time.
-(B) t:2018-09-12 CleanUpOneNoteReference needs to be a daily habit until the 100 or so items are in place
-(C) +consider adding more aliases to bash for other todo lists that have a different config. Like I have for work and home, I can have a list for case work and use alias tC when working on cases.
-(C) +consider moving the permanent stuff to a different list folder - but it shouldnt be and activity that repeats I use the action \repeat' for that
-(C) +initiate project to have document site like MS docs - chad says teams allow MD
-(C) +initiate: +Voitano project
-(C) +initiate: learning plan for workflow
-(C) +learn Andrew Connell course
-(C) +learn More React
-(C) +learn more TypeScript
-(C) +PersuadChad sp-chrome chad wasn't comfortable come back to it.
-(C) +program +gtd fix addr it only gets one word and it moves lists and tags to back
-(C) +program +gtd make some shortcuts. like show A, .... or get 'view' to work. and yes I want to edit single line hmm.
-(C) +program do the bash macros in VScode macros
-(C) +program imitate the theme of MS VSCODE setting editor,  a practice for good program design
-(C) +study read the git book I need to know what push and sync are doing
-(D) +consider instead of the remember: prefix consider using Anki when you can commit to it for a while this would need to be a new habit
-(D) +fix  +gtd the commit so it just always adds all added as well as modified like it does now.
-(D) +program +gtd make the todo.sh ls command use regex
-(D) +program create +gtd action to initiatie a new project in my repoForSubs
-(D) +program create +gtd action to look for 'code c:' on the line and run that to open directory
-(D) +program create script to center and hold the appointment alerts so I don't miss them.... or just do an alarm
-& b/f +sort alphabetical symbols
-# c/b +sort alphabetical symbols
-# d/c +sort alphabetical symbols
-% e +sort alphabetical symbols
-+decide add +status to items for weekly status
-+decide Novemeber track success of meeting notes habit
-+fix snagit shortcuts none of them seem to work
-+gtd use ! for habits so they sort to top
-+home friendly tires for alignment
-+info ! a +sort alphabetical symbols
-+remember +gtd add an extra space to a new entry if you want it to sort to the top
-+remember +gtd addr expects one blank line end and uses previous
-+remember +gtd the pattern for the repeat action is ITEM daysForward
-+remember +gtd the search item can find a tag just use the excape/backslash '(A'
-+remember +OneNote +gtd you can click OneNote in an email to move the note to a your set directory.
-+remember +OneNote use the onenote back button top left
-+remember +programming use this url for decoding html entity https://mothereff.in/html-entities
-+remember +programming use VS Code "format section" for html inside of aspx
-+remember +sharepoint page info button helps
-+remember alphabetic order of ascii t alphabetic coder of symbols space,!"#$%&'()*+ fowardtick ./
-+remember OneNote link to local page weekly @repeating
-+remember use browser history more, and favorites to get into keypirana
-+study https://github.com/todotxt/todo.txt-cli/wiki totxtWiki
-$ f/d +sort alphabetical symbols
-ask microsoft why the modern panel wouldn't show up.
-make new case for Carol about column format pannel
-t:2018-9-26 add PTO time after thanksgiving vacation https://www.jhaeap.com/psc/HR92PRD/EMPLOYEE/HRMS/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL?
-test
-zt: after work studies @z_triggerList
-zt: chad @z_triggerList
-zt: Cherwell @z_triggerList
-zt: GTD @z_triggerList
-zt: Pluralsight @z_triggerList
-zt: Power User @z_triggerList
-zt: r-repeating @z_definePriorities
-zt: Safari Books @z_triggerList
-zt: SP feedback from chad @z_triggerList
-(A) next years calendar https://jackhenry.sharepoint.com/sites/jhatoday/News/Pages/2019-Holiday-File-and-Julian-Day-of-Year-Instructions-Available.aspx
-(B) +study azure equivelent to Flow whatever they are called.
-+case +report 233870 Brian Dickey round robin ticket assignments notes in OneNote case number +report I met with Brian and sent Mindy email, I think Flow is the way
-(A) +case 235789 Tracy Tate create Web parts on home page
+ cd ./workTodo ; cat 0dailyStart.txt >> todo.txt
+@home third item outline:home
+x 2018-11-16 12:46 +consider where an how to place my Next action.  resolved by implementing outline extention in gtd outline:consider
++hold to after thanksgiving outline:cases.cisEd
++learn +consider how to use microsoft's 70 2016 site templates. https://absolute-sharepoint.com/2017/03/sharepoint-2016-site-template-id-list-for-powershell.html outline:learn.sharepoint
++learn +react  jam in a visual example of header then learn a little react to put it in with color. outline:learn.react
++learn +VScodeExpert outline:learn.VScode
++learn Get my test site working to edit outline:MsDocs
++learn keyboard shortcuts outline:learn.Chrome
++learn reread code outline:learn.JsonHelper
+add filtered queries outline:cases.product360
+jhaToday +product360 https://jackhenry.sharepoint.com/sites/jhatoday/CorporateInfo/Product-360/Pages/test-the-product360-CSWP.aspx?ControlMode=Edit&DisplayMode=Design outline:cases.news
+placeholder outline:issues
+placeholder outline:jhaTodayPerformance
+section style center - background outline:programs
+test the use of subRepos outline:department.git
+placeholder outline:anki
+placeholder outline:corporateProjects.PTOplan
+!p03 +gtdProjects 1 NEXT is a 'n'  after the number no space outline:gtd
+placeholder  https://jackhenry.sharepoint.com/sites/jhatoday/CorporateInfo/Product-360/_layouts/15/FldEdit.aspx?List=%7BFF955269-02CD-4728-967D-5CAE22F9BFD6%7D&Field=UsedByBrand outline:product350CSWP

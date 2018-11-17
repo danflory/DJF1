@@ -1,7 +1,7 @@
 outline-todo.txt
 ================
 
-**outline** is an extension for command line [todo.txt](https://github.com/ginatrapani/todo.txt-cli) that allows you to plan your projects in tab-indented outlines, and sync only the *[next actions](https://hamberg.no/gtd/#the-next-actions-list)* with todo.txt. 
+**outline** is an extension for command line [todo.txt](https://github.com/ginatrapani/todo.txt-cli) that allows you to plan your projects in tab-indented outlines, and sync only the *[next actions](https://hamberg.no/gtd/#the-next-actions-list)* with todo.txt.
 
 A *next action* is defined as the first task with no subtask of its own in an outline with no dependent outlines.
 
@@ -55,34 +55,41 @@ Add *outline* and *ol* to your todo.txt addon directory. In order to automatical
 
 Usage
 ======
+addto
+edit
+help
+import
+mkol
+mv
+prepend
 
 outline|ol addto|append PROJECT "TEXT..."
 	Append TEXT to outline with name containing PROJECT.
-	
+
 	If more than one outline name contains PROJECT, select outline
 	from menu.
-	
+
 outline|ol edit PROJECT
 	Open outline with name containing PROJECT using program specified
 	in \$EDITOR.
-	
+
 	If more than one outline name contains PROJECT, select outline
 	from menu.
 
 outline|ol help
 	Display this page
-	
+
 outline|ol import
 	Next actions, as defined below, are imported into todo.txt from outline
 	files in todo directory, unless blocked by an existing subtask.
-	
+
 outline|ol mkol PROJECT [#ITEM]
 	Create an outline file corresponding to PROJECT, and move task at line
 	#ITEM in todo.txt to the outline. A menu to select a parent outline from
-	the existing outlines is presented.	
+	the existing outlines is presented.
 
 outline|ol mv #ITEM PROJECT
-	Move todo task at #ITEM in todo.txt to outline with name containing 
+	Move todo task at #ITEM in todo.txt to outline with name containing
 	PROJECT.
 
 	If more than one outline name contains PROJECT, select outline
@@ -102,8 +109,8 @@ outline|ol import
 
 	Outline files:
 
-	Files in the todo directory ending in ".ol.txt" are regarded 
-	as outline files.  Each file should be a tab-indented outline without 
+	Files in the todo directory ending in ".ol.txt" are regarded
+	as outline files.  Each file should be a tab-indented outline without
 	blank lines.
 
 	The outline filename format is:
@@ -115,9 +122,9 @@ outline|ol import
 
 	Next Actions:
 
-	A next action is identified as an active task with no subtask, where 
+	A next action is identified as an active task with no subtask, where
 	an active task is the first item in the outline or the first subtask
-	of another active task. 
+	of another active task.
 
 	An item's status as an active task or next action can be modified by
 	various tags described below.
@@ -127,17 +134,17 @@ outline|ol import
 	#next	Marks an outline item as active.
 	#list	Marks every direct subtask of an item as active.
 	#block   Blocks the item from being identified as a next action.
-	#waitfor:PROJECT   Blocks item as next action until 
-	"+PROJECT" is absent from todo.txt and there is no outline file in the 
+	#waitfor:PROJECT   Blocks item as next action until
+	"+PROJECT" is absent from todo.txt and there is no outline file in the
 	todo directory corresponding to PROJECT.
 
 Tag and priority inheritancej:
 
-	Tags are words that have been prepended with the sigil #, @, or +. 
-	Tags with doubled sigils, as in @@context, are inherited by subtasks. 
-	This includes the special outline tags described above, and their 
-	effects. Tasks with priority indicated by, e.g. "(A)" have their 
-	prioirty inherited by any subtasks. 
+	Tags are words that have been prepended with the sigil #, @, or +.
+	Tags with doubled sigils, as in @@context, are inherited by subtasks.
+	This includes the special outline tags described above, and their
+	effects. Tasks with priority indicated by, e.g. "(A)" have their
+	prioirty inherited by any subtasks.
 
 Configuration
 =============
@@ -156,7 +163,7 @@ Towards the top of `outline`, you will find the following configuration options:
 
 `OL_NEXT_TAG`: `#next` by default. Identifies this item's task tree as active. Use `##next` to activate all subtrees.
 
-`OL_LIST_TAG`: `#list` by defualt. Direct child task trees are active when task is active. Useful for shopping lists, etc 
+`OL_LIST_TAG`: `#list` by defualt. Direct child task trees are active when task is active. Useful for shopping lists, etc
 
 `OL_BLOCK_TAG`: `#block` by default. Prevents item from bieng identified as next action.
 
