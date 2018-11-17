@@ -1,10 +1,15 @@
  cat 0dailyStart.txt >> todo.txt
 (A) give linda my soldering iron
-+initiate pray scripture for the unsaved - project 
-     commit your todo often and alwas at end of day
      personal email clean daily +gtd
      pick trail to walk
      The implanted word every day.(B) +cleanOffice  boxes under desk consolidate to one shelf
 use program pray scripture
 * during thanksgiving week 2018 listent to bible 4 hrs a day. Joshua Complete
      30 min purpose walking daily 10 finished
+(A) +home under bumper on linda's car @car outline:car
+(A) clone repo to phone note:MFE.md outline:gtdHome
++info for termux on android the bash.bashrc is at /data/data/com.termux/files/usr/etc/bash.bashrc - Shrotcut.lnk outline:homeLaptop
+(A) +research how to do patio outline:house
+(B) resolve bash history issue home desk outline:issues
++info the termux directory for DFF1 repo is at /c/Users/msdn/storage/downloads/DJF1/ outline:phone
+(D) +home +wood paper rack outline:wood

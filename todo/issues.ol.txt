@@ -1,2 +1,1 @@
-(B) resolve bash history issue home desk
 placeholder
