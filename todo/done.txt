@@ -265,3 +265,6 @@ x 2018-11-17 13:37 resolve bash history wk
 x 2018-11-17 13:39 should I +install @switch +todo.sh "chron" I can do this is vsCode +Trash I no longer know what chron is so I guess this is a great don't do what you may never need to
 x 2018-11-17 14:04 http://cs231n.statnford.edu/ ; an introductory course on NN I won't do it
 x 2018-11-17 14:05 +chess try leela august 27 in aquarium
+x 2018-11-17 15:30 * during thanksgiving week 2018 listent to bible 4 hrs a day. Joshua Complete
+x 2018-11-17 15:46      30 min purpose walking daily 10 finished
+x 2018-11-17 15:56      cast cares on God daily put yout. code ./notes/GodCares.md 
