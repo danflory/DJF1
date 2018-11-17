@@ -1,7 +1,3 @@
- cat 0dailyStart.txt >> todo.txt
-(A) give linda my soldering iron
-+initiate pray scripture for the unsaved - project 
-
      @GodsPrize +WebSite https://wordpress.com/stats/day/godsprize.wordpress.com
      +health weight loss track in SparkPeople
      +skills practice cad 20 min free cad t:2018-09-01
@@ -11,4 +7,4 @@
      personal email clean daily +gtd
      pick trail to walk
      The implanted word every day.(B) +cleanOffice  boxes under desk consolidate to one shelf
-use program pray scripture
+     use program pray scripture
