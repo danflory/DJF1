@@ -1,0 +1,2 @@
+
++info the termux directory for DFF1 repo is at /c/Users/msdn/storage/downloads/DJF1/
