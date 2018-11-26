@@ -4,7 +4,6 @@
 (B) +home friendly tires for alignment outline:home
 +gtd change start up process to cp from file to todo outline:gtd
 +learn +consider how to use microsoft's 70 2016 site templates. https://absolute-sharepoint.com/2017/03/sharepoint-2016-site-template-id-list-for-powershell.html outline:learn.sharepoint
-+learn +react  jam in a visual example of header then learn a little react to put it in with color. outline:learn.react
 +learn +VScodeExpert outline:learn.VScode
 +learn Get my test site working to edit outline:MsDocs
 +learn keyboard shortcuts outline:learn.Chrome
@@ -21,3 +20,5 @@ placeholder outline:jhaTodayPerformance
 section style center - background outline:programs
 test the use of subRepos outline:department.git
 +quickemail to Chad what happes when sla is not met?
+email Tracey through Cherwell outline:cases.corpfacilities
+create directory and do basic install from spfxstart.modify outline:learn.react

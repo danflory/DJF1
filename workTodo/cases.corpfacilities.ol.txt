@@ -1,0 +1,3 @@
+read MS document https://docs.microsoft.com/en-us/sharepoint/dev/features/hub-site/hub-site-overview
+create a OneNote doc for HubSites: 
+https://jackhenry.sharepoint.com/sites/corpfacilities

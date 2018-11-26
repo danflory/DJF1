@@ -1,4 +1,5 @@
-(B) +react learn how react id's work so I can modify a style.
+install Markdown Preview and do a some basik Anki entry
+update pnpm seems very slow!
 YOUR Done next do item will delete project .ol. file
 last line
 last line

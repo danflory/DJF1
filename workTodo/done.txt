@@ -919,3 +919,11 @@ x 2018-11-26 09:18 catch up my email after a weeks vacation
 x 2018-11-26 09:19 +quickEmail notify chad that I finished Security Awarness
 x 2018-11-26 09:25 +note by using 'cat anki.ol.txt cases.cisEd.ol.txt cases.news.ol.txt cases.ol.txt cases.product360.ol.txt consider.ol.txt corporateProjects.ol.txt corporateProjects.PTOplan.ol.txt department.git.ol.txt department.ol.txt gtd.ol.txt home.ol.txt issues.ol.txt jhaTodayPerformance.ol.txt learn.Chrome.ol.txt learn.JsonHelper.ol.txt learn.ol.txt learn.react.ol.txt learn.sharepoint.ol.txt learn.VScode.ol.txt pas.ol.txt pas.react.ol.txt pas.replaceCBQ.ol.txt product350CSWP.ol.txt programs.ol.txt I saw that I have 70 lines in project files ... not bad. My todo.txt is now olnly 25 lines or so.
 x 2018-11-26 09:49 +quickEmail to Heath Ruchotzke about case 268685
+x 2018-11-26 10:12 +quickEmal Kyle about sortable https://jackhenry.sharepoint.com/sites/jhatoday/_layouts/15/managedproperty.aspx?property=Title
+x 2018-11-26 10:21 + _quickEmail mindy about news
+x 2018-11-26 14:32 +quickEmail to cindy I took Product List CQWP off the list https://jackhenry.sharepoint.com/teams/esdm3p/Lists/jhaTodayCQWP/Pending.aspx
+x 2018-11-26 14:47 install Markdown Preview Enhanced +vsCode extention
+x 2018-11-26 15:42 +learn +react  jam in a visual example of header then learn a little react to put it in with color. outline:learn.react
+x 2018-11-26 15:44 +react learn how react id's work so I can modify a style. outline:learn.react
+x 2018-11-26 15:51 read voitanos solution for pnpm use --shamefully-flatten when you run pnpm outline:learn.react
+x 2018-11-26 16:22 start over on voitano course 1 hour in today

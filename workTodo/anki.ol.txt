@@ -1,3 +1,4 @@
+make some md preview shortuct cards
 jhaToday webdav to paste in explorer \\jackhenry.sharepoint.com@SSL\DavWWWRoot\sites\jhatoday\_catalogs\masterpage\Display Templates
 file names should never start with cap
 practice personal chrome menu
@@ -7,3 +8,4 @@ I made news project in cases
 when using ol move it does remove the previous identifer postfix outline:oldPrj
 fix the good advance so max is 7 days
 review what is in your environment settings periodically with /env > tmp.txt/
+bash how to prepend text  sed -i '1s;^;Force-1\nForce-2\n;' input.txt
