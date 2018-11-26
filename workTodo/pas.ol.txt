@@ -1,5 +1,5 @@
+placeholder for parent file has link and notes
 *  30 cases - missed so far by a little
 *  1 react extension - add a background image given the image name and the section id
 *  one CBQ part a week - 12 needed
-
 https://external.jackhenry.com/pas19/#/dashboard

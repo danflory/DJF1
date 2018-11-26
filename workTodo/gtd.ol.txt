@@ -1,4 +1,3 @@
-+gtd change start up process to cp from file to todo
 +gtd t:2018-09-12 CleanUpOneNoteReference needs to be a daily habit until the 100 or so items are in place
 YOUR Done next do item will delete project .ol. file\nlast line
 YOUR Done next do item will delete project .ol. file
@@ -13,3 +12,5 @@ prudential password is in Password Safe
 Make a scheduling system for learning x minutes a day
 How To organize projects
 cleanup workTodo by moving them to OneNote
+review all of the times in the notes sub directory, they don\'t have real names so arn\'t useful
+how to work with a todo file other than todo.txt

@@ -1,4 +1,4 @@
-consider if I want office for home https://jackhenry-my.sharepoint.com/personal/dflory_jhacorp_com/Documents/Notebooks/GTD/IN-NEXT.one#Get%20the%20new%20Office%202019%20for%20PC%20and%20Mac&section-id={0A8EEDF6-CB63-48B3-969E-5E4BC61BA682}&page-id={6DC21ED4-32CF-4E48-B8DA-388472238470}&end
 YOUR Done next do item will delete project .ol. file
 last line
 last line
+switch to using windows bash, not gitBash

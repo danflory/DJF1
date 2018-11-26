@@ -1,20 +1,24 @@
  cd ./workTodo ; cat 0dailyStart.txt >> todo.txt
-@home third item outline:home
-x 2018-11-16 12:46 +consider where an how to place my Next action.  resolved by implementing outline extention in gtd outline:consider
-+hold to after thanksgiving outline:cases.cisEd
+(A) +hold to after thanksgiving outline:cases.cisEd
+(A) add filtered queries outline:cases.product360
+(B) +home friendly tires for alignment outline:home
++gtd change start up process to cp from file to todo outline:gtd
 +learn +consider how to use microsoft's 70 2016 site templates. https://absolute-sharepoint.com/2017/03/sharepoint-2016-site-template-id-list-for-powershell.html outline:learn.sharepoint
 +learn +react  jam in a visual example of header then learn a little react to put it in with color. outline:learn.react
 +learn +VScodeExpert outline:learn.VScode
 +learn Get my test site working to edit outline:MsDocs
 +learn keyboard shortcuts outline:learn.Chrome
 +learn reread code outline:learn.JsonHelper
-add filtered queries outline:cases.product360
+consider if I want office for home https://jackhenry-my.sharepoint.com/personal/dflory_jhacorp_com/Documents/Notebooks/GTD/IN-NEXT.one#Get%20the%20new%20Office%202019%20for%20PC%20and%20Mac&section-id={0A8EEDF6-CB63-48B3-969E-5E4BC61BA682}&page-id={6DC21ED4-32CF-4E48-B8DA-388472238470}&end outline:consider
+initiate react app outline:pas.react
 jhaToday +product360 https://jackhenry.sharepoint.com/sites/jhatoday/CorporateInfo/Product-360/Pages/test-the-product360-CSWP.aspx?ControlMode=Edit&DisplayMode=Design outline:cases.news
+news outline:pas.replaceCBQ
+placeholder  https://jackhenry.sharepoint.com/sites/jhatoday/CorporateInfo/Product-360/_layouts/15/FldEdit.aspx?List=%7BFF955269-02CD-4728-967D-5CAE22F9BFD6%7D&Field=UsedByBrand outline:product350CSWP
+placeholder outline:anki
+placeholder outline:corporateProjects.PTOplan
 placeholder outline:issues
 placeholder outline:jhaTodayPerformance
 section style center - background outline:programs
 test the use of subRepos outline:department.git
-placeholder outline:anki
-placeholder outline:corporateProjects.PTOplan
-!p03 +gtdProjects 1 NEXT is a 'n'  after the number no space outline:gtd
-placeholder  https://jackhenry.sharepoint.com/sites/jhatoday/CorporateInfo/Product-360/_layouts/15/FldEdit.aspx?List=%7BFF955269-02CD-4728-967D-5CAE22F9BFD6%7D&Field=UsedByBrand outline:product350CSWP
++quickemail to Chad what happes when sla is not met?
+x 2018-11-26 09:49 +quickEmail to Heath Ruchotzke about case 268685
