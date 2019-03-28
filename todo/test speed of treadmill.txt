@@ -1,0 +1,22 @@
+check LifeSpan Speed
+1. measure the length of the bed = bedLength
+2. 528 feet per tenth of a mile . testLengthFeet
+
+3. testLengthInches = testLengthFeet * 12.
+4. dotsToCount = testLengthInches / bedLength
+5. set one mile per hour. 
+
+in 6 minutes it should be dotsToCount. 
+in .6 minutes or 36seconds it should be dotsToCount/10
+
+The time to make one length
+inchesPerMile = 5280*12
+fractionOfMilePerBelt = inchesPerMile/bedLength
+timePerMile = 3600 seconds
+timePerBelt = timePerMile * fractionOfMilePerBelt
+
+6. setUp a beeper timer at interveral = timePerBelt
+7. click the timer start with the dots in 
+a visible spot. The sound should always have be
+with the dots in the same spot.
+
