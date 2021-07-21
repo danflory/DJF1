@@ -1,0 +1,62 @@
+dev site: ms account danflory2
+Business essential license of $5 a month may be enough to get a tennant for dev
+how to get a dev tennant png: https://thunderyard.sharepoint.com/sites/Danforypersonal/Shared%20Documents/ScreenShots/2021-07-20%2018_24_48-Voitanos%20and%202%20more%20pages%20-%20Work%20-%20Microsoft%e2%80%8b%20Edge.png?Web=1
+site catalog: https://danflory2.sharepoint.com/sites/AppCatalogForTenantDanFlory/
+practice collection: https://danflory2.sharepoint.com/sites/spfx/SitePages/DevHome.aspx
+
+get Node Version manager.
+https://github.com/coreybutler/nvm-windows
+
+# after the install of nvm from it's windows installer
+# confirm install
+nvm
+# learn what is the current LTS
+nvm list available
+nvm install 14.17.3
+nvm use 14.17.3
+# approve windows prompt
+# check install
+npm -Version
+# check global packages currently installed
+npm list -g --depth=0
+# check if any of the global packages are out of date.
+npm outdated -g
+# if needed update npm to Wanted
+
+# install some other packeges that Andrew likes.
+npm install -g  source-map-explorer nodetree
+
+# check global packages currently installed
+npm list -g --depth=0
+
+#-------------
+# now for spfx set update
+# ---------
+
+# install yeoman
+npm install -g yo
+npm install -g @microsoft/generator-sharepoint
+yo @microsoft/sharepoint
+
+# check it out
+yo
+# perhaps we need to get powershell in shape.
+Get-ExecutionPolicy
+Get-ExecutionPolicy -list
+# Very significant. this doesn't work well inside of vscode terminal.
+# In Windows Vista and later versions of Windows, to run commands that change the execution policy for the local computer, LocalMachine scope, start PowerShell with the Run as administrator option.
+
+# !!!!!! in an administrator powershell terminal
+Set-ExecutionPolicy -ExecutionPolicy remoteSigned
+
+# ctrl-c will exit the comand at the current prompt
+# simple yo does recognize that @microsoft/sharepoint is the only kid on the block
+
+# make your directory for this extension.
+mkdir sample1
+cd sample1
+
+yo
+
+#after it installs
+du -hs node_modules # it has 665M this should not be put in source control
