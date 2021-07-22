@@ -60,3 +60,26 @@ yo
 
 #after it installs
 du -hs node_modules # it has 665M this should not be put in source control
+
+# about typescript https://basarat.gitbooks.io/typescript and http://www.typescript.org
+
+# Gulp -----------------------------
+# -------Code over configuration tasks written in javascript ---------------
+
+npm install -g gulp
+
+### consider yarn https://yarnpkg.com 
+npm install -g yarn
+yarn --Version
+
+* move to project folder
+mkdir yarn
+cd yarn
+yarn set version berry #version name of Yarn 2 release and repository name
+ls
+yo --skip-install
+yarn 
+yarn install
+
+# gulp.
+gulp serve
