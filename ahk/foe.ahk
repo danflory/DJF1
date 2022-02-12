@@ -42,15 +42,16 @@ return
 ; Launch_App1 TODO
 GoCode()
 {
-    If (WinExist("foe.ahk - Visual Studio Code") )
+    If (WinExist("foe.ahk - githh - Visual Studio Code") )
     {
         WinActivate 
-        Return
+     
 
         ; Use the window found by WinExist.
 
     }
 }
+   Return
 
 GoFOE(){
     If WinExist("Forge of Empires - Google Chrome") 
@@ -181,6 +182,7 @@ CollectTavern(){
 
     OrientScreen()
     MouseClick, l, 1351, 203, 1,20
+    Sleep 1000
     MouseClick, l, 836, 635, 1,30
     
 
@@ -257,9 +259,9 @@ Firstperson(){
 }
 LeaveguildStep1(){
     Send G
-    Sleep, 500
+    Sleep, 1000
     click 836, 332 
-    sleep 500
+    sleep 1000
     ; bottom of guildd
     click 1423, 793
     ;  InputBox, OutputVar [, Title, Prompt, HIDE, Width, Height, X,  , Locale, Timeout, Default]
