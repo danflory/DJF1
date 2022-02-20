@@ -1,4 +1,5 @@
 ﻿#NoEnv ; Recommended for performance and compatibility with future AutoHotkey releases.
+#InstallKeybdHook
 ; #Warn  ; Enable warnings to assist with detecting common errors.
 SendMode Input ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir% ; Ensures a consistent starting directory.
@@ -36,28 +37,70 @@ z & d::Visit5()
 z & l::LeaveCoversation()
 z & f::VisitTaverns() ; think Friends
 z & g::Aid() ; Think guild for aid
+z & 1::Contribution15() ; Think guild for aid
+z & 2::ContributeCollectOnly() ; Think guild for aid
 
+Return
 
-return
+ContributeCollectOnly(){
+    loop 3 {
+        MouseClick, l, 52, 187, 1 ;the old man 3 times
+        sleep 1000
+    }
+
+    MouseClick, l, 658, 268 , 1, 20 ; Collect
+    sleep 2500
+    Send {esc} ; it may have been a BP
+    sleep 1000
+    UnbirthdayAbortButton()
+    UnbirthdayAbortLowerButton()
+    UnbirthdayAbortButton()
+    UnbirthdayOnly()
+    loop 3 {
+        UnbirthdayAbortButton() ;; should be back to spend 15
+    }
+}
+
+Contribution15(){
+    ; should first OrientScreen()
+
+    KeyWait, NumpadAdd, T8
+    click ; the gb Open button leads to contribute screen
+    sleep 2000 ;
+    MouseClick, l,1240, 436 ; the enter box for amount
+    Sleep 1000
+    Send, 15
+    Sleep 1000
+    MouseClick,l, 1305, 435
+    sleep 1000
+
+    ContributeCollectOnly()
+    MouseClick, l, 665, 1007
+    Sleep 1000
+    Click ; first click opens gb on the people menu
+    Sleep 2000
+    MouseMove, 1267, 453 ;  aproximatly the open for contribution
+    ; manually choose the correct Gb for the next round
+}
+Return
 ; Launch_App1 TODO
 GoCode()
 {
     If (WinExist("foe.ahk - githh - Visual Studio Code") )
     {
         WinActivate 
-     
 
         ; Use the window found by WinExist.
 
     }
 }
-   Return
+Return
 
 GoFOE(){
     If WinExist("Forge of Empires - Google Chrome") 
     {
 
-        WinActivate  
+        WinActivate 
 
         ; Use the window found by WinExist.
 
@@ -68,7 +111,7 @@ Return
 ClickMany(){
 
     BlockInput On
-    Loop 29{
+    Loop 300{
         Send {Click}
         Sleep 800
 
@@ -117,14 +160,12 @@ Collect1(){
     OrientScreen()
     sleep, 300
 
-
     ;---------------------------------------
 
- CollectTavern()
+    CollectTavern()
     sleep 500
     EmptyClick()
     Return
-
 
     ;- -----------------------------
     ; ; one row down; X: 1125-1173=-48 Y: 808-832=-24
@@ -167,25 +208,42 @@ EmptyClick(){
 }
 OnTime(){
     ; hr min sec * 1000
-    ; (3600 * )+ (60* ) * 1000*4*3600 = 14400000 
-    SetTimer, CollectTraz , -14400000 
+    ; (3600 * )+ (60* ) * 1000* 60 * 15 =900000
+    SetTimer, CollectTavern , 900000 
     Return
 }
 CollectTraz(){
     OrientScreen()
-    MouseClick, l,  1048, 558 ,1,30
-  
+    MouseClick, l, 1048, 558 ,1,30
 
     return
 }
 CollectTavern(){
-
+    Send {esc}
     OrientScreen()
     MouseClick, l, 1351, 203, 1,20
     Sleep 1000
-    MouseClick, l, 836, 635, 1,30
-    
+    MouseClick, l, 836, 635, 1,40
+    return
+    ;  collect rosarium
+    Sleep 2000
 
+    ; click ok
+    MouseClick, l, 975, 865, 1,40
+
+    ; click rosarium then 5 Minutes to collect
+    MouseClick, l, 889, 975 , 1,40 ; CollectTavern()
+    sleep 1500
+    ; when not collecting dismiss window
+    send {esc}
+    sleep 500
+    MouseClick, l, 889, 975 , 1,40 ; open time options
+    sleep 1500
+    MouseClick, l, 704, 573 , 1,40 ;choos 5 min
+    sleep 1000
+    ; if not a collection what happens?
+
+    send {esc}
     Return
 }
 
@@ -222,7 +280,7 @@ Visit5Taverns(){
     Click,	409, 1036 
 
     Sleep 2000
-    send {esc}
+    Send, {esc}
 
     ; 493 -359=134, Y is always same
     loop 4{
@@ -286,6 +344,14 @@ Joinguild(){
     click 1078, 1046 
     InputBox, guildCount, guildCount, How many are in Guild,, 400, 600,,,,, 20
     value := Floor(guildCount/5) +1
+    Sleep 2000
+    ; for forge commande get rid of scroll bar
+    click 1546, 1060 ; fc menu may be showing
+    sleep 2000
+    click 1900, 1061 ; will open now
+    sleep 2000
+    click 1546, 1060 ; really close it hide that bar
+    sleep 2000
     Firstperson()
     loop %value%
         Visit5()
@@ -294,29 +360,26 @@ Joinguild(){
 }
 
 Aid(){
-    
 
     click 1078, 1046 
     InputBox, guildCount, guildCount, How many are in Guild,, 400, 600,,,,, 20
     value := Floor(guildCount/5) +1
     Firstperson()
-   loop %value%
-       Visit5()
+    loop %value%
+        Visit5()
     return value
 
 }
 
 VisitTaverns(){
-    
- 
-  
+
     value := Aid()
-   
+
     Firstperson()
     loop %value%
         Visit5Taverns()
-    return
 
+    return
 }
 FoeTimer(){
 
@@ -371,30 +434,34 @@ LeavePageOfConversations(){
 }
 UnbirthdayAbortButton(){
     MouseClick, L,	367, 594 , 1, 10
-    sleep 2000
+    sleep 1000
     return
 }
 UnbirthdayAbortLowerButton(){
     MouseClick, L,	362, 664 , 1, 10
-    sleep 2000
+    sleep 1000
     return
 }
 
 ; ---------------------------------------------
+UnbirthdayOnly(){
+    MouseClick, 	L,	553, 526 , 1, 10
+    sleep 1000
+    MouseClick, L,	541, 602 , 1, 30
+    sleep 1000
+    MouseClick, 	L,	666, 554 , 1, 30
+    sleep 1000
+    send {esc}
+    sleep 1000
+    return
+}
 Unbirthday(){
     OrientScreen()
     MouseClick, l,	48, 197 , 1, 30
 
-    loop 25 {
+    loop 10 {
 
-        MouseClick, 	L,	553, 526 , 1, 10
-        sleep 2000
-        MouseClick, L,	541, 602 , 1, 30
-        sleep 2000
-        MouseClick, 	L,	666, 554 , 1, 30
-        sleep 2000
-        send {esc}
-        sleep 2000
+        UnbirthdayOnly()
 
         loop 5 {
             UnbirthdayAbortButton()
