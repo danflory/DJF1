@@ -40,7 +40,32 @@ z & g::Aid() ; Think guild for aid
 z & 1::Contribution15() ; Think guild for aid
 z & 2::ContributeCollectOnly() ; Think guild for aid
 
+;;fights
+/*
+
+
+f::send f
+^f::send ^{f}
+!f::send !{f}
++f::send +{f}
+!^f::send !^{f}
+^!+f::send ^!+{f}
+f & a::click 846, 580 ; attack
+f & c::getAChampion() 
 Return
+*/
+
+getAChampion()
+{
+    ; remove the woonded 
+    click 612, 425
+    sleep 500
+    ;show fast UnbirthdayOnly
+    click 733, 602 
+    sleep 500
+
+    return
+}
 
 ContributeCollectOnly(){
     loop 3 {
@@ -111,7 +136,7 @@ Return
 ClickMany(){
 
     BlockInput On
-    Loop 300{
+    Loop 1300 {
         Send {Click}
         Sleep 800
 
@@ -209,7 +234,8 @@ EmptyClick(){
 OnTime(){
     ; hr min sec * 1000
     ; (3600 * )+ (60* ) * 1000* 60 * 15 =900000
-    SetTimer, CollectTavern , 900000 
+    value := 1000 * 60 * 15
+    SetTimer, CollectTavern , %value% 
     Return
 }
 CollectTraz(){
@@ -224,6 +250,9 @@ CollectTavern(){
     MouseClick, l, 1351, 203, 1,20
     Sleep 1000
     MouseClick, l, 836, 635, 1,40
+    sleep 2000
+
+    send {esc}
     return
     ;  collect rosarium
     Sleep 2000
@@ -459,7 +488,7 @@ Unbirthday(){
     OrientScreen()
     MouseClick, l,	48, 197 , 1, 30
 
-    loop 10 {
+    loop 77 {
 
         UnbirthdayOnly()
 
