@@ -25,6 +25,15 @@ Numpad0 & Numpad7::Unbirthday()
 Numpad0 & Numpad8::Firstperson()
 Numpad0 & Numpad9:: FoeTimer()
 
+; recordings
+Numpad0 & u::UBQrecording1()0
+Numpad0 & h::Heavy()
+Numpad0 & 6::Zoom67()
+Numpad0 & a::Artilery()
+Numpad0 & 1::MinuteClickTimer()
+Numpad0 & 2::ClickTimer15sec()
+
+
 ; switching guild
 z::send {z}
 ^z::send ^{z}
@@ -42,7 +51,6 @@ z & 2::ContributeCollectOnly() ; Think guild for aid
 
 ;;fights
 /*
-
 
 f::send f
 ^f::send ^{f}
@@ -70,13 +78,13 @@ getAChampion()
 ContributeCollectOnly(){
     loop 3 {
         MouseClick, l, 52, 187, 1 ;the old man 3 times
-        sleep 1000
+        sleep 1500
     }
 
     MouseClick, l, 658, 268 , 1, 20 ; Collect
-    sleep 2500
+    sleep 3000
     Send {esc} ; it may have been a BP
-    sleep 1000
+    sleep 1500
     UnbirthdayAbortButton()
     UnbirthdayAbortLowerButton()
     UnbirthdayAbortButton()
@@ -341,7 +349,7 @@ unknown(){
     return
 }
 Firstperson(){
-    click 	288, 1040 
+    click 	288, 1030
     return
 }
 LeaveguildStep1(){
@@ -390,9 +398,10 @@ Joinguild(){
 
 Aid(){
 
-    click 1078, 1046 
-    InputBox, guildCount, guildCount, How many are in Guild,, 400, 600,,,,, 20
-    value := Floor(guildCount/5) +1
+    ; click 1078, 1046 
+   ; InputBox, guildCount, guildCount, How many are in Guild,, 400, 600,,,,, 20
+    ;value := Floor(guildCount/5) +1
+    value := 100
     Firstperson()
     loop %value%
         Visit5()
@@ -418,7 +427,23 @@ FoeTimer(){
     ;SetTimer, Label [, Period|On|Off]
     return
 }
-
+JustClick(){
+    click
+}
+MinuteClickTimer(){
+    JustClick()
+    
+    time := 1 * 60 *1000
+    SetTimer, JustClick, %time%
+    Return
+}
+ClickTimer15sec(){
+    JustClick()
+    
+    time := 1 * 15 *1000
+    SetTimer, JustClick, %time%
+    Return
+}
 UBQ(){
     MouseClick, L, 542, 530, 1, 25
     sleep 500
@@ -463,32 +488,32 @@ LeavePageOfConversations(){
 }
 UnbirthdayAbortButton(){
     MouseClick, L,	367, 594 , 1, 10
-    sleep 1000
+    sleep 1500
     return
 }
 UnbirthdayAbortLowerButton(){
     MouseClick, L,	362, 664 , 1, 10
-    sleep 1000
+    sleep 1500
     return
 }
 
 ; ---------------------------------------------
 UnbirthdayOnly(){
     MouseClick, 	L,	553, 526 , 1, 10
-    sleep 1000
+    sleep 1500
     MouseClick, L,	541, 602 , 1, 30
-    sleep 1000
+    sleep 1500
     MouseClick, 	L,	666, 554 , 1, 30
-    sleep 1000
+    sleep 1500
     send {esc}
-    sleep 1000
+    sleep 1500
     return
 }
 Unbirthday(){
     OrientScreen()
     MouseClick, l,	48, 197 , 1, 30
 
-    loop 77 {
+    loop 70 {
 
         UnbirthdayOnly()
 
@@ -498,6 +523,206 @@ Unbirthday(){
         }
         UnbirthdayAbortLowerButton()
         UnbirthdayAbortButton()
+    }
+    return
+}
+UBQrecording1(){
+;67% 
+    SetTitleMatchMode, 2
+    CoordMode, Mouse, Window
+
+    tt = Forge of Empires - Google Chrome ahk_class Chrome_WidgetWin_1
+    WinWait, %tt%
+    IfWinNotActive, %tt%,, WinActivate, %tt%
+
+    MouseClick, L, 35, 133
+
+    Sleep, 1101
+
+    loop 4 {
+        Send, {Blind}{WheelDown}
+        sleep 300
+    }
+
+    Loop, 70
+    {
+        Sleep, 1200
+
+        MouseClick, L, 356, 370
+
+        Sleep, 1200
+
+        MouseClick, L, 361, 423
+
+        Sleep, 1200
+
+        MouseClick, L, 445, 388
+
+        Sleep, 1200
+
+        Send {esc}
+
+        Sleep, 2000
+
+        MouseClick, L, 277, 431
+
+        Sleep, 1200
+
+        MouseClick, L, 277, 431
+
+        Sleep, 1200
+
+        MouseClick, L, 277, 431
+
+        Sleep, 1200
+
+        MouseClick, L, 277, 431
+
+        Sleep, 1200
+
+        MouseClick, L, 277, 431
+
+        Sleep, 1554
+
+        MouseClick, L, 273, 460
+
+        Sleep, 1200
+
+        MouseClick, L, 271, 432
+
+        Sleep, 1200
+
+    }
+
+    return
+}
+Zoom67(){
+    Loop 8{
+        Send ^-
+        Sleep 300
+
+    }
+
+    Loop 3{
+        Send ^{+}
+        Sleep 300
+
+    }
+    Sleep 800
+    return
+}
+Attack(){
+;67% zoom
+    Click 
+    sleep 1000
+    
+MouseClick, L, 731, 492
+
+    return
+}
+
+Heavy(){
+; 67% zoom
+
+    ; clear all
+    loop 8{
+        MouseClick, L, 575, 379
+
+        Sleep, 50
+    }
+    Sleep 300
+    ; all ages
+    MouseClick, L, 1088, 489
+
+    Sleep, 100
+
+    MouseClick, L, 1009, 505
+
+    Sleep, 100
+
+    ; heavy tab then two Heavy
+
+    MouseClick, L, 1009, 505
+
+    Sleep, 100
+    MouseClick, L, 681, 495
+    sleep 100
+    loop 2{
+        MouseClick, L, 689, 547
+        sleep 100
+    }
+
+    ; no age unites
+
+    MouseClick, L, 1084, 488
+
+    Sleep,100
+
+    MouseClick, L, 1039, 524
+
+    Sleep,100
+
+    MouseClick, L, 717, 494
+
+    Sleep, 100
+    ; 6 rogues
+    loop 6 {
+        MouseClick, L, 623, 544
+
+        Sleep, 100
+    }
+    return
+}
+Artilery(){
+; 67% zoom
+
+    ; clear all
+    loop 8{
+        MouseClick, L, 575, 379
+
+        Sleep, 50
+    }
+    Sleep 300
+    ; all ages
+    MouseClick, L, 1088, 489
+
+    Sleep, 100
+
+    MouseClick, L, 1009, 505
+
+    Sleep, 100
+
+    ; current age > artelery> tab then two Unites
+
+    MouseClick, L, 1009, 505
+
+    Sleep, 100
+
+MouseClick, L, 747, 493
+    sleep 100
+    loop 2{
+        MouseClick, L, 689, 547
+        sleep 100
+    }
+
+    ; no age unites
+
+    MouseClick, L, 1084, 488
+
+    Sleep,100
+
+    MouseClick, L, 1039, 524
+
+    Sleep,100
+
+    MouseClick, L, 717, 494
+
+    Sleep, 100
+    ; 6 rogues
+    loop 6 {
+        MouseClick, L, 623, 544
+
+        Sleep, 100
     }
     return
 }
