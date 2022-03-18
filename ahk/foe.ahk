@@ -26,13 +26,16 @@ Numpad0 & Numpad8::Firstperson()
 Numpad0 & Numpad9:: FoeTimer()
 
 ; recordings
-Numpad0 & u::UBQrecording1()0
-Numpad0 & h::Heavy()
+Numpad0 & u::UBQrecording1()
+Numpad0 & e::EightArtileryIA()
+
+Numpad0 & h::HeavyIA()
 Numpad0 & 6::Zoom67()
-Numpad0 & a::Artilery()
+Numpad0 & a::ArtileryIA()
+Numpad0 & c::ChampionIA()
 Numpad0 & 1::MinuteClickTimer()
 Numpad0 & 2::ClickTimer15sec()
-
+; Numpad0 & 2::ClickTimer15sec()
 
 ; switching guild
 z::send {z}
@@ -62,18 +65,6 @@ f & a::click 846, 580 ; attack
 f & c::getAChampion() 
 Return
 */
-
-getAChampion()
-{
-    ; remove the woonded 
-    click 612, 425
-    sleep 500
-    ;show fast UnbirthdayOnly
-    click 733, 602 
-    sleep 500
-
-    return
-}
 
 ContributeCollectOnly(){
     loop 3 {
@@ -349,7 +340,8 @@ unknown(){
     return
 }
 Firstperson(){
-    click 	288, 1030
+    MouseClick, L, 289, 1041
+    sleep 500
     return
 }
 LeaveguildStep1(){
@@ -382,7 +374,7 @@ Joinguild(){
     InputBox, guildCount, guildCount, How many are in Guild,, 400, 600,,,,, 20
     value := Floor(guildCount/5) +1
     Sleep 2000
-    ; for forge commande get rid of scroll bar
+    ; for forge commander get rid of scroll bar
     click 1546, 1060 ; fc menu may be showing
     sleep 2000
     click 1900, 1061 ; will open now
@@ -399,7 +391,7 @@ Joinguild(){
 Aid(){
 
     ; click 1078, 1046 
-   ; InputBox, guildCount, guildCount, How many are in Guild,, 400, 600,,,,, 20
+    ; InputBox, guildCount, guildCount, How many are in Guild,, 400, 600,,,,, 20
     ;value := Floor(guildCount/5) +1
     value := 100
     Firstperson()
@@ -432,14 +424,14 @@ JustClick(){
 }
 MinuteClickTimer(){
     JustClick()
-    
+
     time := 1 * 60 *1000
     SetTimer, JustClick, %time%
     Return
 }
 ClickTimer15sec(){
     JustClick()
-    
+
     time := 1 * 15 *1000
     SetTimer, JustClick, %time%
     Return
@@ -527,7 +519,7 @@ Unbirthday(){
     return
 }
 UBQrecording1(){
-;67% 
+    ;67% 
     SetTitleMatchMode, 2
     CoordMode, Mouse, Window
 
@@ -564,23 +556,23 @@ UBQrecording1(){
 
         Sleep, 2000
 
-        MouseClick, L, 277, 431
+        MouseClick, L, 277, 450
 
         Sleep, 1200
 
-        MouseClick, L, 277, 431
+        MouseClick, L, 277, 450
 
         Sleep, 1200
 
-        MouseClick, L, 277, 431
+        MouseClick, L, 277, 450
 
         Sleep, 1200
 
-        MouseClick, L, 277, 431
+        MouseClick, L, 277, 450
 
         Sleep, 1200
 
-        MouseClick, L, 277, 431
+        MouseClick, L, 277, 450
 
         Sleep, 1554
 
@@ -588,7 +580,7 @@ UBQrecording1(){
 
         Sleep, 1200
 
-        MouseClick, L, 271, 432
+        MouseClick, L, 271, 450
 
         Sleep, 1200
 
@@ -612,18 +604,32 @@ Zoom67(){
     return
 }
 Attack(){
-;67% zoom
+    ;67% zoom
     Click 
     sleep 1000
-    
-MouseClick, L, 731, 492
+
+    MouseClick, L, 731, 492
 
     return
 }
+ChampionIA(){
+    ClearAllUnits()
+    IronAge()
+    FastUnitsTab()
+    threeLowerLeft()
+    SelectNoAge()
+    LightUnits6()
+    autoFight()
 
-Heavy(){
-; 67% zoom
-
+    return
+}
+FastUnitsTab(){
+    MouseClick, L, 646, 491
+    sleep 300
+    return
+}
+ClearAllUnits(){
+    ;  67% 1600x900
     ; clear all
     loop 8{
         MouseClick, L, 575, 379
@@ -631,98 +637,118 @@ Heavy(){
         Sleep, 50
     }
     Sleep 300
-    ; all ages
+    return
+}
+
+SelectAllAges(){
+
     MouseClick, L, 1088, 489
-
     Sleep, 100
-
     MouseClick, L, 1009, 505
-
     Sleep, 100
+    return
+}
+SelectNoAge(){
+    ; no age units
+
+    MouseClick, L, 1084, 488
+
+    Sleep,100
+
+    MouseClick, L, 1039, 524
+
+    Sleep,100
+
+    return
+}
+LightUnits6(){
+
+    MouseClick, L, 717, 494
+    sleep 100
+    loop 6 {
+        MouseClick, L, 623, 544
+
+        Sleep, 100
+    }
+
+    return
+}
+IronAge(){
+    MouseClick, L, 1084, 488 ; age selector
+    sleep 100
+    MouseClick, L, 1036, 565 ; iron age
+    Sleep, 300
+    return
+}
+HeavyTab(){
+    MouseClick, L, 681, 494 ; heavy
+    sleep 100
+    return
+}
+threeLowerLeft(){
+    loop 3{
+        MouseClick, L, 615, 590 ; bottom left unit
+        sleep 100
+    }
+    return
+}
+twoLowerLeft(){
+    loop 2{
+        MouseClick, L, 615, 590 ; bottom left unit
+        sleep 100
+    }
+    return
+}
+eightLowerLeft(){
+    loop 8{
+        MouseClick, L, 615, 590 ; bottom left unit
+        sleep 100
+    }
+    return
+}
+HeavyIA(){
+    ; 67% zoom
+
+    ClearAllUnits()
 
     ; heavy tab then two Heavy
 
-    MouseClick, L, 1009, 505
-
-    Sleep, 100
-    MouseClick, L, 681, 495
-    sleep 100
-    loop 2{
-        MouseClick, L, 689, 547
-        sleep 100
-    }
-
-    ; no age unites
-
-    MouseClick, L, 1084, 488
-
-    Sleep,100
-
-    MouseClick, L, 1039, 524
-
-    Sleep,100
-
-    MouseClick, L, 717, 494
-
-    Sleep, 100
+    IronAge()
+    HeavyTab()
+    twoLowerLeft()
     ; 6 rogues
-    loop 6 {
-        MouseClick, L, 623, 544
+    SelectNoAge()
+    LightUnits6()
+    autoFight()
 
-        Sleep, 100
-    }
     return
 }
-Artilery(){
-; 67% zoom
+autoFight(){
+MouseClick, L, 735, 657
+sleep 100
+    return
+}
 
-    ; clear all
-    loop 8{
-        MouseClick, L, 575, 379
+EightArtileryIA(){
+    ClearAllUnits()
+    IronAge()
+    MouseClick, L, 747, 493
+    eightLowerLeft()
+   autoFight()
+    return
+}
+ArtileryIA(){
 
-        Sleep, 50
-    }
-    Sleep 300
-    ; all ages
-    MouseClick, L, 1088, 489
+    ClearAllUnits()
+    IronAge()
 
-    Sleep, 100
-
-    MouseClick, L, 1009, 505
-
-    Sleep, 100
-
-    ; current age > artelery> tab then two Unites
-
-    MouseClick, L, 1009, 505
-
-    Sleep, 100
-
-MouseClick, L, 747, 493
+    MouseClick, L, 747, 493
     sleep 100
-    loop 2{
-        MouseClick, L, 689, 547
-        sleep 100
-    }
+    twoLowerLeft()
+    //rogues
+    SelectNoAge()
+    LightUnits6()
+    autoFight()
 
-    ; no age unites
-
-    MouseClick, L, 1084, 488
-
-    Sleep,100
-
-    MouseClick, L, 1039, 524
-
-    Sleep,100
-
-    MouseClick, L, 717, 494
-
-    Sleep, 100
-    ; 6 rogues
-    loop 6 {
-        MouseClick, L, 623, 544
-
-        Sleep, 100
-    }
     return
 }
