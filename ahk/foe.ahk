@@ -13,8 +13,12 @@ SetMouseDelay 20
 
 ;; key index
 Numpad0::send {Numpad0}
-Numpad0 & Numpad1:: GoFOE()
 
+Numpad1::send {Numpad1}
+^Numpad1::send ^{Numpad1}
+!Numpad1::send !{Numpad1}
++Numpad1::send +{Numpad1}
+Numpad0 & Numpad1:: GoFOE()
 Numpad0 & Numpad2::GoCode()
 Numpad0 & Numpad3::ClickMany()
 Numpad0 & Numpad4::OrientScreen()
@@ -22,26 +26,34 @@ Numpad0 & Numpad5::CollectTavern()
 Numpad0 & Numpad6::OnTime()
 
 Numpad0 & Numpad7::Unbirthday()
+; Numpad1 & Numpad7::UnbirthdayBAsmallScreen()
 Numpad0 & Numpad8::Firstperson()
 Numpad0 & Numpad9:: FoeTimer()
 
 ; recordings
-Numpad0 & u::UBQrecording1()
+;Numpad0 & u::UBQrecording1()
 Numpad0 & e::EightArtileryIA()
+Numpad0 & n::noNeighborFight()
+Numpad0 & b::NeighborBackAfterFight() ; think BACK
+Numpad1 & n::NeighborAutoBattle()
 
+Numpad0 & r::RogueOnly() 
 Numpad0 & h::HeavyIA()
+Numpad1 & h::HeavyIA2()
+
 Numpad0 & 6::Zoom67()
 Numpad0 & a::ArtileryIA()
+Numpad1 & a::ArtileryIA2()
 Numpad0 & c::ChampionIA()
 Numpad0 & 1::MinuteClickTimer()
 Numpad0 & 2::ClickTimer15sec()
-; Numpad0 & 2::ClickTimer15sec()
 
 ; switching guild
 z::send {z}
 ^z::send ^{z}
 !z::send !{z}
 +z::send +{z}
+
 z & a::LeaveguildStep1()
 z & b::Exitguild()
 z & c::Joinguild()
@@ -49,8 +61,9 @@ z & d::Visit5()
 z & l::LeaveCoversation()
 z & f::VisitTaverns() ; think Friends
 z & g::Aid() ; Think guild for aid
-z & 1::Contribution15() ; Think guild for aid
-z & 2::ContributeCollectOnly() ; Think guild for aid
+z & 1::Contribution15() ;  
+z & 2::ContributeCollectOnly() ;  
+z & 3::ContributionMultiple() ;  
 
 ;;fights
 /*
@@ -85,6 +98,14 @@ ContributeCollectOnly(){
     }
 }
 
+ContributionMultiple(){
+    value := Floor (65/15)
+    loop %value%
+    {
+        Contribution15()
+    }
+    Return
+}
 Contribution15(){
     ; should first OrientScreen()
 
@@ -288,7 +309,7 @@ CollectCastle(){
 Visit5(){
 
     ; first spot
-    Click,	359, 1071
+    Click,	359, 1065
 
     ; 
 
@@ -365,6 +386,7 @@ Exitguild(){
 }
 
 Joinguild(){
+
     click ; manual find the join word
     Sleep 400
     send {esc}
@@ -375,12 +397,13 @@ Joinguild(){
     value := Floor(guildCount/5) +1
     Sleep 2000
     ; for forge commander get rid of scroll bar
-    click 1546, 1060 ; fc menu may be showing
-    sleep 2000
-    click 1900, 1061 ; will open now
+   /*
+click 1900, 1061 ; will open now
     sleep 2000
     click 1546, 1060 ; really close it hide that bar
-    sleep 2000
+    sleep 2000 12*161=1932
+    */
+
     Firstperson()
     loop %value%
         Visit5()
@@ -390,10 +413,10 @@ Joinguild(){
 
 Aid(){
 
-    ; click 1078, 1046 
-    ; InputBox, guildCount, guildCount, How many are in Guild,, 400, 600,,,,, 20
-    ;value := Floor(guildCount/5) +1
-    value := 100
+    click 1078, 1046 
+
+    InputBox, guildCount, guildCount, How many are in Guild,, 400, 600,,,,, 20
+    value := Floor(guildCount/5) 
     Firstperson()
     loop %value%
         Visit5()
@@ -505,84 +528,51 @@ Unbirthday(){
     OrientScreen()
     MouseClick, l,	48, 197 , 1, 30
 
-    loop 70 {
+    loop 140 {
 
-        UnbirthdayOnly()
+        MouseClick, L, 359, 351
 
-        loop 5 {
-            UnbirthdayAbortButton()
-            sleep 2000
-        }
-        UnbirthdayAbortLowerButton()
-        UnbirthdayAbortButton()
-    }
-    return
-}
-UBQrecording1(){
-    ;67% 
-    SetTitleMatchMode, 2
-    CoordMode, Mouse, Window
+        Sleep, 562
 
-    tt = Forge of Empires - Google Chrome ahk_class Chrome_WidgetWin_1
-    WinWait, %tt%
-    IfWinNotActive, %tt%,, WinActivate, %tt%
+        MouseClick, L, 361, 393
 
-    MouseClick, L, 35, 133
+        Sleep, 547
 
-    Sleep, 1101
+        MouseClick, L, 430, 368
 
-    loop 4 {
-        Send, {Blind}{WheelDown}
-        sleep 300
-    }
+        Sleep, 984
 
-    Loop, 70
-    {
-        Sleep, 1200
+        MouseClick, L, 265, 392
 
-        MouseClick, L, 356, 370
+        Sleep, 640
 
-        Sleep, 1200
+        MouseClick, L, 265, 392
 
-        MouseClick, L, 361, 423
+        Sleep, 710
 
-        Sleep, 1200
+        MouseClick, L, 265, 392
 
-        MouseClick, L, 445, 388
+        Sleep, 1547
 
-        Sleep, 1200
+        MouseClick, L, 262, 437
 
-        Send {esc}
+        Sleep, 867
 
-        Sleep, 2000
+        MouseClick, L, 252, 393
 
-        MouseClick, L, 277, 450
+        Sleep, 633
 
-        Sleep, 1200
+        MouseClick, L, 252, 393
 
-        MouseClick, L, 277, 450
+        Sleep, 687
 
-        Sleep, 1200
+        MouseClick, L, 252, 393
 
-        MouseClick, L, 277, 450
+        Sleep, 773
 
-        Sleep, 1200
+        MouseClick, L, 252, 393
 
-        MouseClick, L, 277, 450
-
-        Sleep, 1200
-
-        MouseClick, L, 277, 450
-
-        Sleep, 1554
-
-        MouseClick, L, 273, 460
-
-        Sleep, 1200
-
-        MouseClick, L, 271, 450
-
-        Sleep, 1200
+        Sleep, 1000
 
     }
 
@@ -616,7 +606,7 @@ ChampionIA(){
     ClearAllUnits()
     IronAge()
     FastUnitsTab()
-    threeLowerLeft()
+    threeCenterBottom()
     SelectNoAge()
     LightUnits6()
     autoFight()
@@ -639,13 +629,24 @@ ClearAllUnits(){
     Sleep 300
     return
 }
+Clear2Units(){
+    ;  67% 1600x900
+    ; clear all
+    loop 2{
+        MouseClick, L, 575, 379
+
+        Sleep, 50
+    }
+    Sleep 300
+    return
+}
 
 SelectAllAges(){
 
     MouseClick, L, 1088, 489
-    Sleep, 100
+    Sleep, 300
     MouseClick, L, 1009, 505
-    Sleep, 100
+    Sleep, 300
     return
 }
 SelectNoAge(){
@@ -653,12 +654,31 @@ SelectNoAge(){
 
     MouseClick, L, 1084, 488
 
-    Sleep,100
+    Sleep,300
 
     MouseClick, L, 1039, 524
 
-    Sleep,100
+    Sleep,300
 
+    return
+}
+twoRogue(){
+    ; clear two Rogue
+    loop 2 {
+        MouseClick, L, 740, 393 
+
+        Sleep, 300
+    }
+    ; add them back In
+    SelectNoAge()
+    MouseClick, L, 717, 494 ; light units
+    sleep 100
+
+    loop 2 {
+        MouseClick, L, 845, 538 ; use center to avoid defense
+
+        Sleep, 100
+    }
     return
 }
 LightUnits6(){
@@ -666,7 +686,7 @@ LightUnits6(){
     MouseClick, L, 717, 494
     sleep 100
     loop 6 {
-        MouseClick, L, 623, 544
+        MouseClick, L, 845, 538 ; use center to avoid the defensive
 
         Sleep, 100
     }
@@ -675,14 +695,14 @@ LightUnits6(){
 }
 IronAge(){
     MouseClick, L, 1084, 488 ; age selector
-    sleep 100
+    sleep 300
     MouseClick, L, 1036, 565 ; iron age
     Sleep, 300
     return
 }
 HeavyTab(){
     MouseClick, L, 681, 494 ; heavy
-    sleep 100
+    sleep 300
     return
 }
 threeLowerLeft(){
@@ -692,9 +712,24 @@ threeLowerLeft(){
     }
     return
 }
+; avoid the issue of defensive units
+threeCenterBottom(){
+    loop 3{
+        MouseClick, L, 845, 538 ;  center unit
+        sleep 100
+    }
+    return
+}
 twoLowerLeft(){
     loop 2{
         MouseClick, L, 615, 590 ; bottom left unit
+        sleep 100
+    }
+    return
+}
+twoCenterBottom(){
+    loop 2{
+        MouseClick, L, 845, 538 ; bottom center unit
         sleep 100
     }
     return
@@ -715,7 +750,7 @@ HeavyIA(){
 
     IronAge()
     HeavyTab()
-    twoLowerLeft()
+    twoCenterBottom()
     ; 6 rogues
     SelectNoAge()
     LightUnits6()
@@ -723,9 +758,25 @@ HeavyIA(){
 
     return
 }
+HeavyIA2(){
+    ; 67% zoom
+
+    Clear2Units()
+
+    ; heavy tab then two Heavy
+
+    IronAge()
+    HeavyTab()
+    twoCenterBottom()
+    ; 2 rogues
+    twoRogue()
+    autoFight()
+
+    return
+}
 autoFight(){
-MouseClick, L, 735, 657
-sleep 100
+    MouseClick, L, 735, 657
+    sleep 100
     return
 }
 
@@ -734,7 +785,7 @@ EightArtileryIA(){
     IronAge()
     MouseClick, L, 747, 493
     eightLowerLeft()
-   autoFight()
+    autoFight()
     return
 }
 ArtileryIA(){
@@ -744,11 +795,74 @@ ArtileryIA(){
 
     MouseClick, L, 747, 493
     sleep 100
-    twoLowerLeft()
+    twoCenterBottom()
     //rogues
     SelectNoAge()
     LightUnits6()
     autoFight()
 
+    return
+}
+ArtileryIA2(){
+
+    Clear2Units()
+    IronAge()
+
+    MouseClick, L, 747, 493
+    sleep 100
+    twoCenterBottom()
+    twoRogue()
+    sleep 100
+    autoFight()
+
+    return
+}
+RogueOnly(){
+    ; clear two
+    loop 2 {
+        MouseClick, L, 740, 393 
+
+        Sleep, 300
+    }
+    ; add them NeighborBackAfterFight() assums that we are seeing them
+
+    loop 2 {
+        MouseClick, L, 845, 538 ; use center to avoid defense
+
+        Sleep, 100
+    }
+    sleep 300
+    autoFight()
+    return
+}
+noNeighborFight(){
+    ; done at 66% small screen person in right most slot
+    MouseClick, L, 801, 527 ; dismiss the prompt
+    sleep 800 ;
+    MouseClick, L, 575, 891 ; Aid()
+    sleep 1000 ;
+    MouseClick, L, 192, 823 ; left one person
+    sleep 800 ;
+    MouseClick, L, 611, 872 ; attack this g
+    Return
+
+}
+
+NeighborAutoBattle(){
+    MouseClick, L, 726, 658 ; the autobattle button
+    sleep 1200
+    MouseClick, L, 889, 627 ; the back to city button after fight
+    sleep 300
+    MouseClick, L, 192, 823 ; left one person
+    sleep 800 ;
+    MouseClick, L, 611, 872 ; attack this g
+    return
+}
+NeighborBackAfterFight(){
+    MouseClick, L, 889, 627 ; back to City
+    sleep 300
+    MouseClick, L, 192, 823 ; left one person
+    sleep 800 ;
+    MouseClick, L, 611, 872 ; attack this guy
     return
 }
