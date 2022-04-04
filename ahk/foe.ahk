@@ -1,5 +1,6 @@
 ﻿#NoEnv ; Recommended for performance and compatibility with future AutoHotkey releases.
 #InstallKeybdHook
+#SingleInstance Force
 ; #Warn  ; Enable warnings to assist with detecting common errors.
 SendMode Input ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir% ; Ensures a consistent starting directory.
@@ -30,13 +31,14 @@ Numpad0 & Numpad7::Unbirthday()
 Numpad0 & Numpad8::Firstperson()
 Numpad0 & Numpad9:: FoeTimer()
 
-; recordings
+ ;; fight
 ;Numpad0 & u::UBQrecording1()
 Numpad0 & e::EightArtileryIA()
 Numpad0 & n::noNeighborFight()
 Numpad0 & b::NeighborBackAfterFight() ; think BACK
 Numpad1 & n::NeighborAutoBattle()
 
+Numpad1 & r::twoRogue() 
 Numpad0 & r::RogueOnly() 
 Numpad0 & h::HeavyIA()
 Numpad1 & h::HeavyIA2()
@@ -47,6 +49,8 @@ Numpad1 & a::ArtileryIA2()
 Numpad0 & c::ChampionIA()
 Numpad0 & 1::MinuteClickTimer()
 Numpad0 & 2::ClickTimer15sec()
+Numpad1 & g::Attack()
+
 
 ; switching guild
 z::send {z}
@@ -99,14 +103,14 @@ ContributeCollectOnly(){
 }
 
 ContributionMultiple(){
-    value := Floor (65/15)
+    value := Floor (107/15)
     loop %value%
     {
         Contribution15()
     }
     Return
 }
-Contribution15(){
+Contribution15(){ 
     ; should first OrientScreen()
 
     KeyWait, NumpadAdd, T8
@@ -502,12 +506,12 @@ LeavePageOfConversations(){
     return
 }
 UnbirthdayAbortButton(){
-    MouseClick, L,	367, 594 , 1, 10
+   MouseClick, L, 398, 595
     sleep 1500
     return
 }
 UnbirthdayAbortLowerButton(){
-    MouseClick, L,	362, 664 , 1, 10
+    MouseClick, L, 371, 670
     sleep 1500
     return
 }
@@ -527,52 +531,13 @@ UnbirthdayOnly(){
 Unbirthday(){
     OrientScreen()
     MouseClick, l,	48, 197 , 1, 30
-
     loop 140 {
-
-        MouseClick, L, 359, 351
-
-        Sleep, 562
-
-        MouseClick, L, 361, 393
-
-        Sleep, 547
-
-        MouseClick, L, 430, 368
-
-        Sleep, 984
-
-        MouseClick, L, 265, 392
-
-        Sleep, 640
-
-        MouseClick, L, 265, 392
-
-        Sleep, 710
-
-        MouseClick, L, 265, 392
-
-        Sleep, 1547
-
-        MouseClick, L, 262, 437
-
-        Sleep, 867
-
-        MouseClick, L, 252, 393
-
-        Sleep, 633
-
-        MouseClick, L, 252, 393
-
-        Sleep, 687
-
-        MouseClick, L, 252, 393
-
-        Sleep, 773
-
-        MouseClick, L, 252, 393
-
-        Sleep, 1000
+        UnbirthdayOnly()
+        loop 5{ 
+          UnbirthdayAbortButton()
+        }
+            UnbirthdayAbortLowerButton()
+        UnbirthdayAbortButton()
 
     }
 
@@ -598,7 +563,7 @@ Attack(){
     Click 
     sleep 1000
 
-    MouseClick, L, 731, 492
+    MouseClick, L, 740, 655
 
     return
 }
@@ -768,9 +733,10 @@ HeavyIA2(){
     IronAge()
     HeavyTab()
     twoCenterBottom()
-    ; 2 rogues
-    twoRogue()
+    
     autoFight()
+     
+      
 
     return
 }
@@ -808,12 +774,11 @@ ArtileryIA2(){
     Clear2Units()
     IronAge()
 
-    MouseClick, L, 747, 493
+    MouseClick, L, 747, 493 ; artillery tab
     sleep 100
     twoCenterBottom()
-    twoRogue()
-    sleep 100
-    autoFight()
+ 
+     
 
     return
 }
@@ -851,7 +816,7 @@ noNeighborFight(){
 NeighborAutoBattle(){
     MouseClick, L, 726, 658 ; the autobattle button
     sleep 1200
-    MouseClick, L, 889, 627 ; the back to city button after fight
+    MouseClick, L, 875, 663 ; the back to city button after fight
     sleep 300
     MouseClick, L, 192, 823 ; left one person
     sleep 800 ;
@@ -859,7 +824,7 @@ NeighborAutoBattle(){
     return
 }
 NeighborBackAfterFight(){
-    MouseClick, L, 889, 627 ; back to City
+    MouseClick, L, 875, 663 ; back to City
     sleep 300
     MouseClick, L, 192, 823 ; left one person
     sleep 800 ;
