@@ -1,11 +1,12 @@
 #SingleInstance, Force
 SendMode Input
 SetWorkingDir, %A_ScriptDir%
-
-
 s::fightRemoveStarting2()
 e::fightRemoveLast2()
 h::fightAdd2heavy()
+r::fightAdd2rogue()()
+a::fightAdd2artelery() 
+c::fightAdd2Champs() 
 q::ExitApp
 return
 fightRemoveLast2(){
@@ -44,9 +45,32 @@ fightAdd2Champs(){
 }
 fightAdd2rogue(){
 
+    MouseClick, L, 861, 584
+
+    Sleep, 50
+
+    MouseClick, L, 894, 766
+
+    Sleep, 50
+
+    MouseClick, L, 874, 647
+
+    Sleep, 50
+
+    MouseClick, L, 874, 647
+
     return
 }
 fightAdd2artelery(){
 
+    MouseClick, L, 901, 587
+
+    Sleep, 50
+
+    MouseClick, L, 755, 656
+
+    Sleep, 50
+
+    MouseClick, L, 755, 656
     return
 }
