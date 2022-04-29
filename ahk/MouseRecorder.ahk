@@ -33,7 +33,7 @@ Gui, +AlwaysOnTop -Caption +ToolWindow +E0x08000000 +Hwndgui_id
 Gui, Margin, 0, 0
 Gui, Font, s12
 s:="[F1]Record(Screen),[F2]Record(Window),"
-  . "[F3]Stop,[F4]Play,[F5]Edit,[F6] Pause "
+. "[F3]Stop,[F4]Play,[F5]Edit,[F6] Pause "
 For i,v in StrSplit(s, ",")
 {
   j:=i=1 ? "":"x+0", j.=InStr(v,"Pause") ? " vPause":""
@@ -45,12 +45,12 @@ OnMessage(0x200,"WM_MOUSEMOVE")
 ;--------------------------
 SetTimer, OnTop, 2000
 OnTop:
-Gui, +AlwaysOnTop
+  Gui, +AlwaysOnTop
 return
 
 Run:
-if IsLabel(k:=RegExReplace(RegExReplace(A_GuiControl,".*]"),"\W"))
-  Goto, %k%
+  if IsLabel(k:=RegExReplace(RegExReplace(A_GuiControl,".*]"),"\W"))
+    Goto, %k%
 return
 
 WM_MOUSEMOVE() {
@@ -82,144 +82,137 @@ ShowTip(s:="", pos:="y35", color:="Red|00FFFF") {
   Gui, ShowTip: Add, Text,, %s%
   Gui, ShowTip: Show, NA %pos%, ShowTip
   SetTimer, ShowTip_ChangeColor, 1000
-  ShowTip_ChangeColor:
+ShowTip_ChangeColor:
   Gui, ShowTip: +AlwaysOnTop
   r:=StrSplit(SubStr(bak,1,InStr(bak,",")-1),"|")
   Gui, ShowTip: Font, % "Q3 c" r[idx:=Mod(Round(idx),r.length())+1]
   GuiControl, ShowTip: Font, Static1
-  return
+return
 }
-
 
 ;============ Hotkey =============
 
-
 F1::
-Suspend, Permit
-Goto, RecordScreen
+  Suspend, Permit
+  Goto, RecordScreen
 
 F2::
-Suspend, Permit
-Goto, RecordWindow
+  Suspend, Permit
+  Goto, RecordWindow
 
 RecordScreen:
 RecordWindow:
-if (Recording or Playing)
-  return
-Coord:=InStr(A_ThisLabel,"Win") ? "Window":"Screen"
-LogArr:=[], oldid:="", Log(), Recording:=1, SetHotkey(1)
-ShowTip("Recording")
+  if (Recording or Playing)
+    return
+  Coord:=InStr(A_ThisLabel,"Win") ? "Window":"Screen"
+  LogArr:=[], oldid:="", Log(), Recording:=1, SetHotkey(1)
+  ShowTip("Recording")
 return
-
 
 F3::
 Stop:
-Suspend, Permit
-if Recording
-{
-  if (LogArr.MaxIndex()>0)
+  Suspend, Permit
+  if Recording
   {
-    s:="`nLoop, 1`n{`n`nSetTitleMatchMode, 2"
+    if (LogArr.MaxIndex()>0)
+    {
+      s:="`nLoop, 1`n{`n`nSetTitleMatchMode, 2"
       . "`nCoordMode, Mouse, " Coord "`n"
-    For k,v in LogArr
-      s.="`n" v "`n"
-    s.="`nSleep, 1000`n`n}`n"
-    s:=RegExReplace(s,"\R","`n")
-    FileDelete, %LogFile%
-    FileAppend, %s%, %LogFile%
-    s:=""
+      For k,v in LogArr
+        s.="`n" v "`n"
+      s.="`nSleep, 1000`n`n}`n"
+      s:=RegExReplace(s,"\R","`n")
+      FileDelete, %LogFile%
+      FileAppend, %s%, %LogFile%
+      s:=""
+    }
+    SetHotkey(0), Recording:=0, LogArr:=""
   }
-  SetHotkey(0), Recording:=0, LogArr:=""
-}
-else if Playing
-{
-  WinGet, list, List, %Play_Title%
-  Loop, % list
-    if WinExist("ahk_id " list%A_Index%)!=A_ScriptHwnd
+  else if Playing
+  {
+    WinGet, list, List, %Play_Title%
+    Loop, % list
+      if WinExist("ahk_id " list%A_Index%)!=A_ScriptHwnd
     {
       WinGet, pid, PID
       WinClose,,, 3
       IfWinExist
         Process, Close, %pid%
     }
-  SetTimer, CheckPlay, Off
-  Playing:=0
-}
-ShowTip()
-Suspend, Off
-Pause, Off
-GuiControl,, Pause, % "[F6] Pause "
-isPaused:=0
+    SetTimer, CheckPlay, Off
+    Playing:=0
+  }
+  ShowTip()
+  Suspend, Off
+  Pause, Off
+  GuiControl,, Pause, % "[F6] Pause "
+  isPaused:=0
 return
-
 
 F4::
 Play:
-Suspend, Permit
-if (Recording or Playing)
-  Gosub, Stop
-ahk:=A_IsCompiled ? A_ScriptDir "\AutoHotkey.exe" : A_AhkPath
-IfNotExist, %ahk%
-{
-  MsgBox, 4096, Error, Can't Find %ahk% !
-  Exit
-}
-Run, %ahk% /r "%LogFile%"
-SetTimer, CheckPlay, 500
-Gosub, CheckPlay
+  Suspend, Permit
+  if (Recording or Playing)
+    Gosub, Stop
+  ahk:=A_IsCompiled ? A_ScriptDir "\AutoHotkey.exe" : A_AhkPath
+  IfNotExist, %ahk%
+  {
+    MsgBox, 4096, Error, Can't Find %ahk% !
+    Exit
+  }
+  Run, %ahk% /r "%LogFile%"
+  SetTimer, CheckPlay, 500
+  Gosub, CheckPlay
 return
 
 CheckPlay:
-Check_OK:=0
-WinGet, list, List, %Play_Title%
-Loop, % list
-  if (list%A_Index%!=A_ScriptHwnd)
+  Check_OK:=0
+  WinGet, list, List, %Play_Title%
+  Loop, % list
+    if (list%A_Index%!=A_ScriptHwnd)
     Check_OK:=1
-if Check_OK
-  Playing:=1, ShowTip("Playing")
-else if Playing
-{
-  SetTimer, CheckPlay, Off
-  Playing:=0, ShowTip()
-}
+  if Check_OK
+    Playing:=1, ShowTip("Playing")
+  else if Playing
+  {
+    SetTimer, CheckPlay, Off
+    Playing:=0, ShowTip()
+  }
 return
-
 
 F5::
 Edit:
-Suspend, Permit
-Gosub, Stop
-Run, notepad.exe "%LogFile%"
+  Suspend, Permit
+  Gosub, Stop
+  Run, notepad.exe "%LogFile%"
 return
-
 
 F6::
 Pause:
-Suspend, Permit
-if Recording
-{
-  Suspend
-  Pause, % A_IsSuspended ? "On":"Off", 1
-  isPaused:=A_IsSuspended, Log()
-}
-else if Playing
-{
-  isPaused:=!isPaused
-  WinGet, list, List, %Play_Title%
-  Loop, %list%
-    if WinExist("ahk_id " list%A_Index%)!=A_ScriptHwnd
+  Suspend, Permit
+  if Recording
+  {
+    Suspend
+    Pause, % A_IsSuspended ? "On":"Off", 1
+    isPaused:=A_IsSuspended, Log()
+  }
+  else if Playing
+  {
+    isPaused:=!isPaused
+    WinGet, list, List, %Play_Title%
+    Loop, %list%
+      if WinExist("ahk_id " list%A_Index%)!=A_ScriptHwnd
       PostMessage, 0x111, 65306
-}
+  }
 else return
 if isPaused
   GuiControl,, Pause, [F6]<Pause>
 else
   GuiControl,, Pause, % "[F6] Pause "
 return
-
-
+F7::
+  ExitApp
 ;============ Functions =============
-
 
 SetHotkey(f:=0) {
   ; These keys are already used as hotkeys
@@ -244,11 +237,11 @@ SetHotkey(f:=0) {
 }
 
 LogKey:
-LogKey()
+  LogKey()
 return
 
 LogWindow:
-LogWindow()
+  LogWindow()
 return
 
 LogKey() {
@@ -336,31 +329,31 @@ LogWindow() {
   }
   title.=class ? " ahk_class " class : ""
   title:=RegExReplace(Trim(title), "[``%;]", "``$0")
-  s:="tt = " title "`nWinWait, %tt%"
+    s:="tt = " title "`nWinWait, %tt%"
     . "`nIfWinNotActive, %tt%,, WinActivate, %tt%"
-  i:=LogArr.MaxIndex(), r:=LogArr[i]
-  if InStr(r,"tt = ")=1
-    LogArr[i]:=s, Log()
-  else
-    Log(s)
-}
-
-Log(str:="", Keyboard:=0) {
-  global LogArr
-  static LastTime
-  t:=A_TickCount, Delay:=(LastTime ? t-LastTime:0), LastTime:=t
-  IfEqual, str,, return
-  i:=LogArr.MaxIndex(), r:=LogArr[i]
-  if (Keyboard and InStr(r,"Send,") and Delay<1000)
-  {
-    LogArr[i]:=r . str
-    return
+    i:=LogArr.MaxIndex(), r:=LogArr[i]
+    if InStr(r,"tt = ")=1
+      LogArr[i]:=s, Log()
+    else
+      Log(s)
   }
-  if (Delay>200)
-    LogArr.Push("Sleep, " (Delay//2))
-  LogArr.Push(Keyboard ? "Send, {Blind}" str : str)
-}
 
-;============ The End ============
+  Log(str:="", Keyboard:=0) {
+    global LogArr
+    static LastTime
+    t:=A_TickCount, Delay:=(LastTime ? t-LastTime:0), LastTime:=t
+    IfEqual, str,, return
+    i:=LogArr.MaxIndex(), r:=LogArr[i]
+    if (Keyboard and InStr(r,"Send,") and Delay<1000)
+    {
+      LogArr[i]:=r . str
+      return
+    }
+    if (Delay>200)
+      LogArr.Push("Sleep, " (Delay//2))
+    LogArr.Push(Keyboard ? "Send, {Blind}" str : str)
+  }
 
-;
+  ;============ The End ============
+
+  ;

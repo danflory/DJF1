@@ -11,7 +11,7 @@ SetMouseDelay 20
 ; plan is to have various screens resopond to different number key combo keys
 ; I am using functions to make it self document the keypresses
 !esc::Reload
-
+Numpad0 & q::ExitApp
 ;; key index
 Numpad0::send {Numpad0}
 
@@ -54,8 +54,7 @@ Numpad1 & g::autoFight()
 ;; fight large OrientScreen()
 ;use normal keys hotkeys
 Numpad0 & f::run "C:\d\githh\DJF1\ahk\fightkeys.ahk"
- 
- 
+
 Numpad2::send {Numpad2}
 ^Numpad2::send ^{Numpad2}
 !Numpad2::send !{Numpad2}
@@ -73,8 +72,8 @@ z & b::Exitguild()
 z & c::Joinguild()
 z & d::Visit5()
 z & l::LeaveCoversation()
-z & f::VisitTaverns() ; think Friends
-z & g::Aid() ; Think guild for aid
+z & f::VisitTaverns80p() ; think Friends
+; z & g::Aid() ; Think guild for aid
 z & 1::Contribution15() ;  
 z & 2::ContributeCollectOnly() ;  
 z & 3::ContributionMultiple() ;  
@@ -125,7 +124,7 @@ ContributionMultiple(){
         IfWinNotActive, %tt%,,Reload
             Contribution15()
     }
-Return
+    Return
 }
 ;; contribute
 Contribution15(){ 
@@ -184,7 +183,7 @@ ClickMany(){
 
     }
     BlockInput Off
-return
+    return
 }
 return
 OrientScreen(){
@@ -214,7 +213,7 @@ OrientScreen(){
 
     MouseClickDrag, L, 759, 124, 550 , 124, 30 ; shift screen left
 
-Return
+    Return
 }
 
 Collect1(){
@@ -232,59 +231,59 @@ Collect1(){
     CollectTavern()
     sleep 500
     EmptyClick()
-Return
+    Return
 
-;- -----------------------------
-; ; one row down; X: 1125-1173=-48 Y: 808-832=-24
+    ;- -----------------------------
+    ; ; one row down; X: 1125-1173=-48 Y: 808-832=-24
 
-;1073-1510,=-437 576-335 =241
-;1633, 506 
-;1255-1633,=Run-378 698-508= rise190
-;1814 -1121=693
-; sy is x* -378/190=-1.989474
-SendEvent {Click 1121, 801 Down}
-loop 2 {
-    MouseMove, 750, -375,30,R
-    MouseMove , 50, 25, 0, R
-    MouseMove, -750,375, 30, R
-    MouseMove , 50, 25, 0, R
-}
-mouseMove 1121, 801 ; still down I want to work up the screen
+    ;1073-1510,=-437 576-335 =241
+    ;1633, 506 
+    ;1255-1633,=Run-378 698-508= rise190
+    ;1814 -1121=693
+    ; sy is x* -378/190=-1.989474
+    SendEvent {Click 1121, 801 Down}
+    loop 2 {
+        MouseMove, 750, -375,30,R
+        MouseMove , 50, 25, 0, R
+        MouseMove, -750,375, 30, R
+        MouseMove , 50, 25, 0, R
+    }
+    mouseMove 1121, 801 ; still down I want to work up the screen
 
-loop 4{
-    MouseMove, 750, -375,30,R
-    MouseMove , -50, -25, 0, R
-    MouseMove, -750,375, 30, R
-    MouseMove , -50, -25, 0, R
-}
-SendEvent {Click up}
-Click 1121, 801 ; back to start square
-Sleep 600
-click 700, 576 ; the 5 minute timer
-ClickMany()
+    loop 4{
+        MouseMove, 750, -375,30,R
+        MouseMove , -50, -25, 0, R
+        MouseMove, -750,375, 30, R
+        MouseMove , -50, -25, 0, R
+    }
+    SendEvent {Click up}
+    Click 1121, 801 ; back to start square
+    Sleep 600
+    click 700, 576 ; the 5 minute timer
+    ClickMany()
 
-CollectTavern()
-sleep 500
-EmptyClick()
-Return
+    CollectTavern()
+    sleep 500
+    EmptyClick()
+    Return
 }
 
 EmptyClick(){
     click 492, 115 
-return
+    return
 }
 OnTime(){
     ; hr min sec * 1000
     ; (3600 * )+ (60* ) * 1000* 60 * 15 =900000
     value := 1000 * 60 * 15
     SetTimer, CollectTavern , %value% 
-Return
+    Return
 }
 CollectTraz(){
     OrientScreen()
     MouseClick, l, 1048, 558 ,1,30
 
-return
+    return
 }
 CollectTavern(){
     Send {esc}
@@ -295,27 +294,27 @@ CollectTavern(){
     sleep 2000
 
     send {esc}
-return
-;  collect rosarium
-Sleep 2000
+    return
+    ;  collect rosarium
+    Sleep 2000
 
-; click ok
-MouseClick, l, 975, 865, 1,40
+    ; click ok
+    MouseClick, l, 975, 865, 1,40
 
-; click rosarium then 5 Minutes to collect
-MouseClick, l, 889, 975 , 1,40 ; CollectTavern()
-sleep 1500
-; when not collecting dismiss window
-send {esc}
-sleep 500
-MouseClick, l, 889, 975 , 1,40 ; open time options
-sleep 1500
-MouseClick, l, 704, 573 , 1,40 ;choos 5 min
-sleep 1000
-; if not a collection what happens?
+    ; click rosarium then 5 Minutes to collect
+    MouseClick, l, 889, 975 , 1,40 ; CollectTavern()
+    sleep 1500
+    ; when not collecting dismiss window
+    send {esc}
+    sleep 500
+    MouseClick, l, 889, 975 , 1,40 ; open time options
+    sleep 1500
+    MouseClick, l, 704, 573 , 1,40 ;choos 5 min
+    sleep 1000
+    ; if not a collection what happens?
 
-send {esc}
-Return
+    send {esc}
+    Return
 }
 
 CollectCastle(){
@@ -326,7 +325,7 @@ CollectCastle(){
 
     MouseMove, 1299, 464 ,15
     click
-Return
+    Return
 }
 Visit5(){
 
@@ -343,7 +342,7 @@ Visit5(){
     sleep 1000
     ; advance people
     click 1079, 1002 
-return
+    return
 }
 Visit5Taverns(){
 
@@ -363,7 +362,7 @@ Visit5Taverns(){
     sleep 1000
     ; advance people
     click 1079, 1002 
-return
+    return
 }
 unknown(){
 
@@ -380,12 +379,12 @@ unknown(){
     sleep 1000
     ; advance people
     click 1079, 1002 
-return
+    return
 }
 Firstperson(){
     MouseClick, L, 289, 1041
     sleep 500
-return
+    return
 }
 LeaveguildStep1(){
     Send G
@@ -395,7 +394,7 @@ LeaveguildStep1(){
     ; bottom of guildd
     click 1423, 793
     ;  InputBox, OutputVar [, Title, Prompt, HIDE, Width, Height, X,  , Locale, Timeout, Default]
-return 
+    return 
 }
 
 Exitguild(){
@@ -404,7 +403,7 @@ Exitguild(){
     click 1117, 688 ; verify
     sleep 200
     click 964, 687 ; OK
-return
+    return
 }
 
 Joinguild(){
@@ -429,32 +428,36 @@ click 1900, 1061 ; will open now
     Firstperson()
     loop %value%
         Visit5()
-return
+    return
 
 }
-
-Aid(){
-
-    click 1078, 1046 
+;; dd
+VisitTaverns80p(){
+    MouseClick, L, 902, 1023 ; last person
 
     InputBox, guildCount, guildCount, How many are in Guild,, 400, 600,,,,, 20
     value := Floor(guildCount/5) 
-    Firstperson()
+    Sleep, 1100
+    ;last person
+    MouseClick, L, 895, 1008
     loop %value%
-        Visit5()
-return value
+        run "C:\d\githh\DJF1\ahk\Friends.ahk"
+    Sleep 8000
+    return value
 
 }
 
 VisitTaverns(){
 
-    value := Aid()
+    InputBox, guildCount, guildCount, How many are in Guild,, 400, 600,,,,, 20
+    value := Floor(guildCount/5) 
+    Sleep, 1100
 
     Firstperson()
     loop %value%
         Visit5Taverns()
 
-return
+    return
 }
 FoeTimer(){
 
@@ -462,7 +465,7 @@ FoeTimer(){
     time := 6 * 60 *1000
     SetTimer, collect1, %time%
     ;SetTimer, Label [, Period|On|Off]
-return
+    return
 }
 JustClick(){
     click
@@ -472,14 +475,14 @@ MinuteClickTimer(){
 
     time := 1 * 60 *1000
     SetTimer, JustClick, %time%
-Return
+    Return
 }
 ClickTimer15sec(){
     JustClick()
 
     time := 1 * 15 *1000
     SetTimer, JustClick, %time%
-Return
+    Return
 }
 UBQ(){
     MouseClick, L, 542, 530, 1, 25
@@ -492,7 +495,7 @@ UBQ(){
         sleep 500
     }
     send {esc}
-return
+    return
 }
 LeaveCoversation(){
 
@@ -506,7 +509,7 @@ LeaveCoversation(){
 
     MouseClick, L, 952, 828 , 1, 30
 
-return
+    return
 }
 LeavePageOfConversations(){
 
@@ -521,17 +524,17 @@ LeavePageOfConversations(){
     MouseClick, L, 1039, 744 , 1, 30
     LeaveCoversation()
 
-return
+    return
 }
 UnbirthdayAbortButton(){
     MouseClick, L, 398, 595
     sleep 1500
-return
+    return
 }
 UnbirthdayAbortLowerButton(){
     MouseClick, L, 371, 670
     sleep 1500
-return
+    return
 }
 
 ; ---------------------------------------------
@@ -544,7 +547,7 @@ UnbirthdayOnly(){
     sleep 1500
     send {esc}
     sleep 1500
-return
+    return
 }
 Unbirthday(){
     OrientScreen()
@@ -559,7 +562,7 @@ Unbirthday(){
 
     }
 
-return
+    return
 }
 Zoom67(){
     Loop 8{
@@ -574,7 +577,7 @@ Zoom67(){
 
     }
     Sleep 800
-return
+    return
 }
 
 ChampionIA(){
@@ -586,12 +589,12 @@ ChampionIA(){
     LightUnits6()
     autoFight()
 
-return
+    return
 }
 FastUnitsTab(){
     MouseClick, L, 646, 491
     sleep 300
-return
+    return
 }
 ClearAllUnits(){
     ;  67% 1600x900
@@ -602,7 +605,7 @@ ClearAllUnits(){
         Sleep, 50
     }
     Sleep 300
-return
+    return
 }
 Clear2Units(){
     ;  67% 1600x900
@@ -613,7 +616,7 @@ Clear2Units(){
         Sleep, 50
     }
     Sleep 300
-return
+    return
 }
 
 SelectAllAges(){
@@ -622,7 +625,7 @@ SelectAllAges(){
     Sleep, 300
     MouseClick, L, 1009, 505
     Sleep, 300
-return
+    return
 }
 SelectNoAge(){
     ; no age units
@@ -635,7 +638,7 @@ SelectNoAge(){
 
     Sleep,300
 
-return
+    return
 }
 twoRogue(){
     ; clear two Rogue
@@ -654,7 +657,7 @@ twoRogue(){
 
         Sleep, 100
     }
-return
+    return
 }
 LightUnits6(){
 
@@ -666,26 +669,26 @@ LightUnits6(){
         Sleep, 100
     }
 
-return
+    return
 }
 IronAge(){
     MouseClick, L, 1084, 488 ; age selector
     sleep 300
     MouseClick, L, 1036, 565 ; iron age
     Sleep, 300
-return
+    return
 }
 HeavyTab(){
     MouseClick, L, 681, 494 ; heavy
     sleep 300
-return
+    return
 }
 threeLowerLeft(){
     loop 3{
         MouseClick, L, 615, 590 ; bottom left unit
         sleep 100
     }
-return
+    return
 }
 ; avoid the issue of defensive units
 threeCenterBottom(){
@@ -693,28 +696,28 @@ threeCenterBottom(){
         MouseClick, L, 845, 538 ;  center unit
         sleep 100
     }
-return
+    return
 }
 twoLowerLeft(){
     loop 2{
         MouseClick, L, 615, 590 ; bottom left unit
         sleep 100
     }
-return
+    return
 }
 twoCenterBottom(){
     loop 2{
         MouseClick, L, 845, 538 ; bottom center unit
         sleep 100
     }
-return
+    return
 }
 eightLowerLeft(){
     loop 8{
         MouseClick, L, 615, 590 ; bottom left unit
         sleep 100
     }
-return
+    return
 }
 HeavyIA(){
     ; 67% zoom
@@ -731,7 +734,7 @@ HeavyIA(){
     LightUnits6()
     autoFight()
 
-return
+    return
 }
 HeavyIA2(){
     ; 67% zoom
@@ -746,12 +749,12 @@ HeavyIA2(){
 
     autoFight()
 
-return
+    return
 }
 autoFight(){
     MouseClick, L, 735, 657
     sleep 100
-return
+    return
 }
 
 EightArtileryIA(){
@@ -760,7 +763,7 @@ EightArtileryIA(){
     MouseClick, L, 747, 493
     eightLowerLeft()
     autoFight()
-return
+    return
 }
 ArtileryIA(){
 
@@ -775,7 +778,7 @@ ArtileryIA(){
     LightUnits6()
     autoFight()
 
-return
+    return
 }
 ArtileryIA2(){
 
@@ -786,7 +789,7 @@ ArtileryIA2(){
     sleep 100
     twoCenterBottom()
 
-return
+    return
 }
 RogueOnly(){
     ; clear two
@@ -804,7 +807,7 @@ RogueOnly(){
     }
     sleep 300
     autoFight()
-return
+    return
 }
 noNeighborFight(){
     ; done at 66% small screen person in right most slot
@@ -815,7 +818,7 @@ noNeighborFight(){
     MouseClick, L, 192, 823 ; left one person
     sleep 800 ;
     MouseClick, L, 611, 872 ; attack this g
-Return
+    Return
 
 }
 
@@ -827,7 +830,7 @@ NeighborAutoBattle(){
     MouseClick, L, 192, 823 ; left one person
     sleep 800 ;
     MouseClick, L, 611, 872 ; attack this g
-return
+    return
 }
 NeighborBackAfterFight(){
     MouseClick, L, 875, 663 ; back to City
@@ -835,7 +838,7 @@ NeighborBackAfterFight(){
     MouseClick, L, 192, 823 ; left one person
     sleep 800 ;
     MouseClick, L, 611, 872 ; attack this guy
-return
+    return
 }
 
 largeScreenHeavy()
@@ -891,10 +894,10 @@ largeScreenHeavy()
 
     Sleep, %sleeptime%
     MouseClick, L, 862, 853
-return
+    return
 }
 Temp(){
 
-return
+    return
 }
 
