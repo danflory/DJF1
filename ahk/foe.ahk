@@ -54,12 +54,15 @@ Numpad1 & g::autoFight()
 ;; fight large OrientScreen()
 ;use normal keys hotkeys
 Numpad0 & f::run "C:\d\githh\DJF1\ahk\fightkeys.ahk"
-
+Numpad1 & f::run "C:\d\githh\DJF1\ahk\fightkeys Small67p.ahk"
 Numpad2::send {Numpad2}
-^Numpad2::send ^{Numpad2}
+^Numpad2::send ^{Numpad2}15
 !Numpad2::send !{Numpad2}
 +Numpad2::send +{Numpad2}
 Numpad2 & h::largeScreenHeavy()
+Numpad2 & 7::run C:\d\githh\DJF1\ahk\smallScreenRQs.ahk
+Numpad2 & 8::run C:\d\githh\DJF1\ahk\emaRQ80pLargeScreen.ahk
+
 
 ; switching guild
 z::send {z}
@@ -112,18 +115,10 @@ ContributeCollectOnly(){
 }
 
 ContributionMultiple(){
-    SetTitleMatchMode, 2
-    CoordMode, Mouse, Screen
+ 
 
-    tt = Forge of Empires - Google Chrome ahk_class Chrome_WidgetWin_1
-    value := Floor ((1539)/15)
-    loop %value%
-    {
-
-        WinWait, %tt%
-        IfWinNotActive, %tt%,,Reload
-            Contribution15()
-    }
+       run C:\d\githh\DJF1\ahk\contributeLots.ahk
+    
     Return
 }
 ;; contribute
@@ -435,14 +430,14 @@ click 1900, 1061 ; will open now
 VisitTaverns80p(){
     MouseClick, L, 902, 1023 ; last person
 
-    InputBox, guildCount, guildCount, How many are in Guild,, 400, 600,,,,, 20
-    value := Floor(guildCount/5) 
-    Sleep, 1100
+   ; InputBox, guildCount, guildCount, How many are in Guild,, 400, 600,,,,, 20
+   ; value := Floor(guildCount/5) 
+    ;Sleep, 1100
     ;last person
     MouseClick, L, 895, 1008
-    loop %value%
+    
         run "C:\d\githh\DJF1\ahk\Friends.ahk"
-    Sleep 8000
+    
     return value
 
 }
