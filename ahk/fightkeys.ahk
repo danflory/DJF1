@@ -10,10 +10,74 @@ c::fightAdd2Champs()
 t::attackFromMap()
 x::OKOne()
 v::OKTwo()
+d::fightAdd2drummers()
+i::IronAge()
 b::OKthree() ; in GE it is victory OK
 Space::autoFight()
+
 q::ExitApp
 return
+
+IronAge(){
+
+    Sleep, 150
+
+    MouseClick, L, 1303, 589
+
+    Sleep, 150
+    MouseClick, L, 1301, 611
+ Sleep, 150
+    MouseClick, L, 1301, 611
+ Sleep, 150
+    MouseClick, L, 1301, 613
+ 
+    Sleep, 50
+
+    MouseClick, L, 1241, 680
+
+    Sleep, 50
+
+    return
+}
+
+fightAdd2drummers(){
+
+  /*
+
+ Sleep, 150
+
+    MouseClick, L, 1304, 586
+
+    Sleep, 150
+
+    MouseClick, L, 1307, 612
+Sleep, 150
+    MouseClick, L, 1307, 612
+Sleep, 150
+    MouseClick L, 1307, 612
+*/ 
+ 
+    Sleep, 50
+    MouseClick, L, 861, 584
+
+    Sleep, 50
+
+    MouseClick, L, 894, 766
+
+Sleep, 50
+ 
+
+    MouseClick, L, 1143, 764
+
+    Sleep, 50
+
+    MouseClick, L, 1141, 707
+
+    Sleep, 50
+
+    return
+}
+
 fightRemoveLast2(){
 
     MouseClick, L, 870, 447
@@ -63,7 +127,7 @@ fightAdd2rogue(){
 
     Sleep, 50
 
-    MouseClick, L, 894, 766
+    MouseClick, L, 794, 766
 
     Sleep, 50
 
@@ -89,7 +153,17 @@ fightAdd2artelery(){
     return
 }
 autoFight(){
-    MouseClick, L, 862, 785
+    attackFromMap()
+    Sleep,600
+    fightRemoveLast2()
+    Sleep, 50
+    fightRemoveStarting2()
+    Sleep, 100
+    fightAdd2artelery()
+    Sleep, 200
+    fightAdd2rogue()
+    Sleep, 50
+    OKOne()
     return
 }
 attackFromMap(){

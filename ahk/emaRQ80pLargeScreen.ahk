@@ -30,43 +30,43 @@ runit(){
 
         Sleep, 1062
 
-        MouseClick, L, 335, 510
+        MouseClick, L, 335, 510 ; 1
 
         Sleep, 1195
 
-        MouseClick, L, 330, 550
+        MouseClick, L, 330, 550 ; 2
 
         Sleep, 1093
 
-        MouseClick, L, 329, 518
+        MouseClick, L, 329, 518 ; 3
 
         Sleep, 1039
 
-        MouseClick, L, 329, 518
+        MouseClick, L, 329, 518 ; 4
 
         Sleep, 1140
 
-        MouseClick, L, 324, 542
+        MouseClick, L, 324, 542 ; 5
 
         Sleep, 1179
 
-        MouseClick, L, 321, 518
+        MouseClick, L, 321, 518 ; 6
 
         Sleep, 1054
 
-        MouseClick, L, 321, 518
+        MouseClick, L, 321, 518 ; 7
 
         Sleep, 1429
 
-        MouseClick, L, 313, 552
+        MouseClick, L, 313, 552 ; 8
 
         Sleep, 1078
 
-        MouseClick, L, 313, 552
+        MouseClick, L, 313, 552 ; 9
 
         Sleep, 1312
 
-        MouseClick, L, 317, 520
+        MouseClick, L, 317, 520 ; 10
 
         Sleep, 1000
 

@@ -32,19 +32,16 @@ RunIt()
 doOne(){ 
 
     sleepsome()
-   MouseClick, L, 1289, 441
- 
+;--------------------- now set to my arc
+ ;   MouseClick, L, 1289, 441
+MouseClick, L, 926, 644
 
     sleepsome()
+    MouseClick, L, 926, 644
 sleepsome()
-    MouseClick, L, 1200, 439
+    MouseClick, L, 1254, 439
 
-    ; = 2560 * 1440=3,686,400; 1920*1080=2,073,600
-    ; 1440/2560= 0.5625 
-    ; s1 = .5625 * s2;
-    ; sqrt(s2^2 + (.5625*s2)^2) = 32 inches
-
-
+    
 sleepsome()
 
     Send, 15
@@ -119,11 +116,11 @@ sleepsome()
 
     MouseClick, L, 687, 1004
 
-   sleepsome()
+  ;  sleepsome()
 
-     MouseClick, L, 687, 1004
+;    MouseClick, L, 687, 1004
 
-     sleepsome()
+  ;  sleepsome()
 
 }
 Return

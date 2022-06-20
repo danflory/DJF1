@@ -80,6 +80,7 @@ z & f::VisitTaverns80p() ; think Friends
 z & 1::Contribution15() ;  
 z & 2::ContributeCollectOnly() ;  
 z & 3::ContributionMultiple() ;  
+z & 4::run C:\d\githh\DJF1\ahk\contributeLotsSpecificClick.ahk 
 
 ;;fights
 /*
@@ -264,7 +265,7 @@ Collect1(){
 }
 
 EmptyClick(){
-    click 492, 115 
+    click 492, 415 
     return
 }
 OnTime(){
