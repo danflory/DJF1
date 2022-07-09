@@ -60,8 +60,8 @@ Numpad2::send {Numpad2}
 !Numpad2::send !{Numpad2}
 +Numpad2::send +{Numpad2}
 Numpad2 & h::largeScreenHeavy()
-Numpad2 & 7::run C:\d\githh\DJF1\ahk\smallScreenRQs.ahk
-Numpad2 & 8::run C:\d\githh\DJF1\ahk\emaRQ80pLargeScreen.ahk
+Numpad2 & 7::run C:\d\githh\DJF1\ahk\fcRQ.ahk
+Numpad2 & 8::run C:\d\githh\DJF1\ahk\firefoxRQ.ahk
 
 
 ; switching guild
@@ -536,11 +536,13 @@ UnbirthdayAbortLowerButton(){
 ; ---------------------------------------------
 UnbirthdayOnly(){
     MouseClick, 	L,	553, 526 , 1, 10
-    sleep 1500
+    sleep 1300
     MouseClick, L,	541, 602 , 1, 30
-    sleep 1500
-    MouseClick, 	L,	666, 554 , 1, 30
-    sleep 1500
+    sleep 1300
+    MouseClick, 	L,	666, 550 , 1, 30
+    sleep 150
+     MouseClick, 	L,	666, 560 , 1, 30
+    sleep 1300
     send {esc}
     sleep 1500
     return

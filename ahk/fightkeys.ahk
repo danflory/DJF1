@@ -131,11 +131,11 @@ fightAdd2rogue(){
 
     Sleep, 50
 
-    MouseClick, L, 874, 647
+    MouseClick, L, 934, 647
 
     Sleep, 50
 
-    MouseClick, L, 874, 647
+    MouseClick, L, 934, 647
 
     return
 }
@@ -145,11 +145,11 @@ fightAdd2artelery(){
 
     Sleep, 50
 
-    MouseClick, L, 755, 656
+    MouseClick, L, 934, 656
 
     Sleep, 50
 
-    MouseClick, L, 755, 656
+    MouseClick, L, 934, 656
     return
 }
 autoFight(){
@@ -171,7 +171,7 @@ attackFromMap(){
     return
 }
 OKOne(){
-    MouseClick, L, 941, 795
+    MouseClick, L, 941, 785
     return
 }
 OKTwo()
