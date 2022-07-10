@@ -1,19 +1,29 @@
 #SingleInstance Force
 SetTitleMatchMode, 2
-    CoordMode, Mouse, Window
+CoordMode, Mouse, Window
 
-    tt = Forge of Empires — Mozilla Firefox ahk_class MozillaWindowClass
-    WinWait, %tt%
-    IfWinNotActive, %tt%,, WinActivate, %tt%
+tt = Forge of Empires — Mozilla Firefox ahk_class MozillaWindowClass
+WinWait, %tt%
+IfWinNotActive, %tt%,, WinActivate, %tt%
 
 global ContributionCount
 ContributionCount := 2
-r::runit()
+g::runit()
 q::ExitApp
 s::SetAmount()
-
+p::pay()
+t::upperAbort()
+b::lowerAbort()
+u::Unbirthday()
+c::collect()
+r::closeopen() ; think reopen
+a::collectAfterPay()
+x::nextContribution()
+w::waistAClick()
+z::doAll()
+return
 ; NOTES. Foe helper  browser 100% full screen
- 
+
 setAmount(){
 
   InputBox, ContributionCount, ContributionCount, amount to contribute,, 400, 600,,,,, 20
@@ -27,82 +37,93 @@ sleepfor2(){
   return
 }
 closeopen(){
-   
-   MouseClick, L, 693, 92 ; silly game made it harder close and reopen
-    sleepfor2()
 
-    MouseClick, L, 41, 169
+  MouseClick, L, 693, 92 ; silly game made it harder close and reopen
+  sleep 4000
 
-    sleepfor1()
-    MouseClick, L, 41, 169
-     sleepfor1()
-      MouseClick, L, 41, 169
-     sleepfor1()
-    return
+  MouseClick, L, 41, 169
+
+  return
 }
 
 sleepfor1(){
   sleep 1300
   return
 }
+Pay(){
+  MouseClick, L, 1193, 455
 
-; ------------------------------------------------------------------------------------------
-runit(){
-  Loop,1
-  {
+  sleep 250
 
-    
-    
+  Send, {Blind}{Numpad3}{Numpad8}
 
-    MouseClick, L, 1193, 455
+  Sleep, 250
 
-   sleep 250
+  MouseClick, L, 1249, 453 ; pay button
+  sleepfor2()
+  return
+}
+doAll(){
+  Pay()
+  collectAfterPay()
+   sleepfor2()
+  upperAbort()
+   sleepfor1() 
+  lowerAbort()
+  sleepfor1() 
+  upperAbort()
+  sleepfor1() 
+  Unbirthday()
+  sleepfor1() 
+  upperAbort()
+  sleepfor1() 
+  upperAbort()
+  sleepfor1() 
+  closeopen()
+sleepfor1()
+  upperAbort()
+  sleepfor1() 
+  nextContribution()
+  sleepfor1() 
+  return
+}
+collect(){
+  MouseClick, L, 557, 223 ;collect
+  return
+}
+waistAClick(){
+   MouseClick, L, 41, 169 ; waist a click
+}
+collectAfterPay(){
+ 
 
-    Send, {Blind}{Numpad2}{Numpad5}
+  MouseClick, L, 41, 169
 
-    Sleep, 250
+  sleepfor1()
 
-    MouseClick, L, 1249, 453 ; pay button
+  MouseClick, L, 41, 169
 
-    sleepfor1()
+  sleepfor1()
 
-    MouseClick, L, 41, 169
+  MouseClick, L, 41, 169
 
-    sleepfor1()
+  sleepfor1()
+  
+  collect()
+  
+  Return
+}
 
-    MouseClick, L, 41, 169
-
-    sleepfor1()
-
-    MouseClick, L, 41, 169
-
-    sleepfor1()
-
-    MouseClick, L, 557, 223 ;collect
-
-    sleepfor2()
- MouseClick, L, 41, 169 ;waist a click
-
-    sleepfor1()
-    MouseClick, L, 336, 505
-
-    sleepfor1()
-
-    MouseClick, L, 308, 564 ; lower abort
-
-    sleepfor2()
-     
-
-    MouseClick, L, 306, 505
-    sleep 200
-     MouseClick, L, 306, 505
-
-    sleepfor1()
-
-    closeopen()
-    
-
-    MouseClick, L, 461, 450 ; pay coins
+lowerAbort(){
+  MouseClick, L, 308, 564 ; lower abort
+  return
+}
+upperAbort(){
+     MouseClick, L, 336, 505
+     return
+}
+Unbirthday(){
+  MouseClick, L, 461, 450 ; pay coins
 
     sleepfor1()
 
@@ -113,26 +134,11 @@ runit(){
     MouseClick, L, 556, 476 ; collect the unbirthday
 
     sleepfor2()
-     MouseClick, L, 41, 169 ; waist a click
+    MouseClick, L, 41, 169 ; waist a click
 
-    sleepfor1()
-
-    MouseClick, L, 326, 508
-
-    sleepfor1()
-
-    MouseClick, L, 326, 508
-
-    sleepfor1()
-
-    closeopen()
-    
-SoundBeep 
-    MouseClick, L, 326, 508
-
-    sleepfor1()
-
-    MouseClick, L, 577, 1016
+}
+nextContribution(){
+  MouseClick, L, 577, 1016
 
     sleepfor1()
 
@@ -143,6 +149,53 @@ SoundBeep
     MouseClick, L, 1213, 461
 
     sleepfor1()
+  return
+}
+; ------------------------------------------------------------------------------------------
+runit(){
+  Loop,1
+  {
+
+    Pay()
+
+    collectAfterPay()
+
+    sleepfor1()
+ upperAbort()
+
+    sleepfor1()
+
+   lowerAbort()
+
+    sleepfor2()
+
+    MouseClick, L, 306, 505
+    sleep 200
+    MouseClick, L, 306, 505
+
+    sleepfor1()
+
+    closeopen()
+
+    Unbirthday() 
+    sleepfor1()
+
+    collect()
+
+    sleepfor1()
+
+    lowerAbort()
+
+    sleepfor1()
+
+    closeopen()
+
+    SoundBeep 
+   lowerAbort()
+
+    sleepfor1()
+nextContribution()
+  
   }
   return
 }
