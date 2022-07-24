@@ -27,7 +27,7 @@ return
 setAmount(){
 
   InputBox, ContributionCount, ContributionCount, amount to contribute,, 400, 600,,,,, 20
-  ContributionCount := Floor(ContributionCount/25) 
+  ContributionCount := Floor(ContributionCount/38) 
   return
 }
 runit()
@@ -69,9 +69,15 @@ doAll(){
    sleepfor2()
   upperAbort()
    sleepfor1() 
+     upperAbort()
+   sleepfor1() 
   lowerAbort()
   sleepfor1() 
+  closeopen()
+  sleepfor1()
   upperAbort()
+  sleepfor1()
+  closeopen()
   sleepfor1() 
   Unbirthday()
   sleepfor1() 
@@ -110,6 +116,8 @@ collectAfterPay(){
   sleepfor1()
   
   collect()
+    sleepfor1()
+    waistAClick()
   
   Return
 }
@@ -128,7 +136,8 @@ Unbirthday(){
     sleepfor1()
 
     MouseClick, L, 463, 515
-
+    sleep 250
+MouseClick, L, 465, 518
     sleepfor1()
 
     MouseClick, L, 556, 476 ; collect the unbirthday
@@ -153,49 +162,9 @@ nextContribution(){
 }
 ; ------------------------------------------------------------------------------------------
 runit(){
-  Loop,1
+    Loop, %ContributionCount%
   {
-
-    Pay()
-
-    collectAfterPay()
-
-    sleepfor1()
- upperAbort()
-
-    sleepfor1()
-
-   lowerAbort()
-
-    sleepfor2()
-
-    MouseClick, L, 306, 505
-    sleep 200
-    MouseClick, L, 306, 505
-
-    sleepfor1()
-
-    closeopen()
-
-    Unbirthday() 
-    sleepfor1()
-
-    collect()
-
-    sleepfor1()
-
-    lowerAbort()
-
-    sleepfor1()
-
-    closeopen()
-
-    SoundBeep 
-   lowerAbort()
-
-    sleepfor1()
-nextContribution()
-  
+        doAll() 
   }
   return
 }

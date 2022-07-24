@@ -51,15 +51,15 @@ sleepfor1(){
     return
 }
 Pay(){
-    MouseClick, L,967, 455
+    MouseClick, L,1017, 455
 
     sleep 250
 
     Send, {Blind}{Numpad3}{Numpad8}
 
-    Sleep, 250
-
-    MouseClick, L, 1002, 453 ; pay button
+    Sleep, 1000
+  
+    MouseClick, L, 1052, 453 ; pay button
     sleepfor2()
     return
 }
@@ -70,19 +70,23 @@ doAll(){
     upperAbort()
     sleepfor1() 
     lowerAbort()
-    sleepfor1() 
+      
+    closeopen()
+    sleepfor1()
     upperAbort()
-    sleepfor1() 
+     
+    closeopen()
+     sleepfor1()
     Unbirthday()
     sleepfor1() 
     upperAbort()
     sleepfor1() 
     upperAbort()
-    sleepfor1() 
+    
     closeopen()
     sleepfor1()
     upperAbort()
-    sleepfor1() 
+     
     nextContribution()
     sleepfor1() 
     return
