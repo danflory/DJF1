@@ -8,7 +8,7 @@ IfWinNotActive, %tt%,, WinActivate, %tt%
 
 global ContributionCount
 ContributionCount := 2
-g::runit()
+g::runit() ; the loop that does many
 q::ExitApp
 s::SetAmount()
 p::pay()
@@ -20,9 +20,10 @@ r::closeopen() ; think reopen
 a::collectAfterPay()
 x::nextContribution()
 w::waistAClick()
-z::doAll()
+z::collect1()
+o::doAll() ; do it once
 return
-; NOTES. Foe helper  browser 100% full screen
+; NOTES. Foe helper  browser 90% full screen
 
 setAmount(){
 
@@ -38,7 +39,7 @@ sleepfor2(){
 }
 closeopen(){
 
-  MouseClick, L, 693, 92 ; silly game made it harder close and reopen
+    MouseClick, L, 752, 98 ; silly game made it harder close and reopen
   sleep 4000
 
   MouseClick, L, 41, 169
@@ -51,7 +52,9 @@ sleepfor1(){
   return
 }
 Pay(){
-  MouseClick, L, 1193, 455
+  MouseClick, L, 1214, 447
+  ;1193, 455
+  ;1214, 447
 
   sleep 250
 
@@ -59,12 +62,13 @@ Pay(){
 
   Sleep, 250
 
-  MouseClick, L, 1249, 453 ; pay button
+  MouseClick, L, 1272, 441 
+  ;1249, 453 ; pay button
+  ;1272, 441 
   sleepfor2()
   return
 }
-doAll(){
-  Pay()
+collect1(){
   collectAfterPay()
    sleepfor2()
   upperAbort()
@@ -72,11 +76,11 @@ doAll(){
      upperAbort()
    sleepfor1() 
   lowerAbort()
-  sleepfor1() 
+      
   closeopen()
   sleepfor1()
   upperAbort()
-  sleepfor1()
+     
   closeopen()
   sleepfor1() 
   Unbirthday()
@@ -84,17 +88,25 @@ doAll(){
   upperAbort()
   sleepfor1() 
   upperAbort()
-  sleepfor1() 
+    
   closeopen()
 sleepfor1()
   upperAbort()
-  sleepfor1() 
+     
   nextContribution()
   sleepfor1() 
   return
 }
+doAll(){
+    Pay()
+    Collect1()
+    return
+
+}
 collect(){
   MouseClick, L, 557, 223 ;collect
+    sleep 125
+     MouseClick, L, 557, 253
   return
 }
 waistAClick(){
@@ -102,12 +114,11 @@ waistAClick(){
 }
 collectAfterPay(){
  
-
-  MouseClick, L, 41, 169
+    MouseClick, L, 41, 179
 
   sleepfor1()
 
-  MouseClick, L, 41, 169
+    MouseClick, L, 41, 179
 
   sleepfor1()
 
@@ -124,40 +135,47 @@ collectAfterPay(){
 
 lowerAbort(){
   MouseClick, L, 308, 564 ; lower abort
+    sleep 125
+    MouseClick, L, 308, 594
+
   return
 }
 upperAbort(){
      MouseClick, L, 336, 505
+    sleep 125
+       MouseClick, L, 336, 535
      return
 }
 Unbirthday(){
-  MouseClick, L, 461, 450 ; pay coins
+    MouseClick, L, 505, 460 ; pay coins
 
     sleepfor1()
 
-    MouseClick, L, 463, 515
-    sleep 250
-MouseClick, L, 465, 518
+    MouseClick, L, 503, 535
+
     sleepfor1()
 
-    MouseClick, L, 556, 476 ; collect the unbirthday
+    MouseClick, L, 586, 496 ; collect the unbirthday
+ sleep 125
+    MouseClick, L, 583, 514 ; collect the unbirthday
 
     sleepfor2()
     MouseClick, L, 41, 169 ; waist a click
 
 }
 nextContribution(){
-  MouseClick, L, 577, 1016
+   ; MouseClick, L, 577, 1016
+    MouseClick, L, 617, 1012
 
-    sleepfor1()
+    sleepfor2()
 
-    MouseClick, L, 577, 1015
+   ; MouseClick, L, 577, 1015
+    MouseClick, L, 618, 1015
 
-    sleepfor1()
+    sleepfor2()
 
-    MouseClick, L, 1213, 461
-
-    sleepfor1()
+     MouseClick, L,   1232, 452
+     sleepfor1()
   return
 }
 ; ------------------------------------------------------------------------------------------
