@@ -53,15 +53,15 @@ Numpad1 & g::autoFight()
 
 ;; fight large OrientScreen()
 ;use normal keys hotkeys
-Numpad0 & f::run "C:\d\githh\DJF1\ahk\fightkeys.ahk"
-Numpad1 & f::run "C:\d\githh\DJF1\ahk\fightkeys Small67p.ahk"
+Numpad0 & f::run fightkeys.ahk
+; Numpad1 & f::run "C:\d\githh\DJF1\ahk\fightkeys Small67p.ahk"
 Numpad2::send {Numpad2}
 ^Numpad2::send ^{Numpad2}15
 !Numpad2::send !{Numpad2}
 +Numpad2::send +{Numpad2}
 Numpad2 & h::largeScreenHeavy()
-Numpad2 & 7::run   C:\d\github.danflory\djf1\ahk\fcRQ copy.ahk ;   C:\d\githh\DJF1\ahk\fcRQ.ahk
-Numpad2 & 8::run C:\d\githh\DJF1\ahk\firefoxRQ.ahk
+Numpad2 & 7::run   "fcRQDesktop.ahk" ;   C:\d\githh\DJF1\ahk\fcRQ.ahk
+Numpad2 & 8::run  firefoxRQ.ahk
 
 
 ; switching guild

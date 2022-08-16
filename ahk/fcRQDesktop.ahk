@@ -11,11 +11,11 @@ ContributionCount := 2
 g::runit() ; the loop that does many
 q::ExitApp
 s::SetAmount()
- 
+p::pay()
 t::upperAbort()
 b::lowerAbort()
 u::Unbirthday()
- 
+c::collect()
 r::closeopen() ; think reopen
 a::collectAfterPay()
 x::nextContribution()
@@ -51,10 +51,22 @@ sleepfor1(){
     sleep 1300
     return
 }
+Pay(){
+    MouseClick, L,1017, 455
 
-Acollect1(){
-    
-     
+    sleep 250
+
+    Send, {Blind}{Numpad3}{Numpad8}
+
+    Sleep, 1000
+  
+    MouseClick, L, 1052, 453 ; pay button
+    sleepfor2()
+    return
+}
+collect1(){
+    collectAfterPay()
+    sleepfor2()
     upperAbort()
     sleepfor1() 
     lowerAbort()
@@ -75,21 +87,45 @@ Acollect1(){
     sleepfor1()
     upperAbort()
      
-   ; nextContribution()
+    nextContribution()
     sleepfor1() 
     return
 }
 doAll(){
-   ; Pay()
+    Pay()
     Collect1()
     return
 
 }
- 
+collect(){
+    MouseClick, L, 557, 223 ;collect
+    sleep 125
+     MouseClick, L, 557, 253
+    return
+}
 waistAClick(){
     MouseClick, L, 41, 169 ; waist a click
 }
+collectAfterPay(){
 
+    MouseClick, L, 41, 179
+
+    sleepfor1()
+
+    MouseClick, L, 41, 179
+
+    sleepfor1()
+
+    MouseClick, L, 41, 169
+
+    sleepfor1()
+
+    collect()
+    sleepfor1()
+    waistAClick()
+
+    Return
+}
 
 lowerAbort(){
     MouseClick, L, 308, 564 ; lower abort
