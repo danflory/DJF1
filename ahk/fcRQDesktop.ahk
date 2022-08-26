@@ -39,10 +39,10 @@ sleepfor2(){
 }
 closeopen(){
 
-    MouseClick, L, 752, 98 ; silly game made it harder close and reopen
+    MouseClick, L, 628, 85 ; silly game made it harder close and reopen
     sleep 4000
 
-    MouseClick, L, 41, 169
+    MouseClick, L, 23, 137
 
     return
 }
@@ -52,7 +52,7 @@ sleepfor1(){
     return
 }
 Pay(){
-    MouseClick, L,1017, 455
+    MouseClick, L,999, 463
 
     sleep 250
 
@@ -60,7 +60,7 @@ Pay(){
 
     Sleep, 1000
   
-    MouseClick, L, 1052, 453 ; pay button
+    MouseClick, L, 1040, 453 ; pay button
     sleepfor2()
     return
 }
@@ -98,9 +98,8 @@ doAll(){
 
 }
 collect(){
-    MouseClick, L, 557, 223 ;collect
-    sleep 125
-     MouseClick, L, 557, 253
+    MouseClick, L, 503, 204 ;collect
+ 
     return
 }
 waistAClick(){
@@ -108,15 +107,15 @@ waistAClick(){
 }
 collectAfterPay(){
 
-    MouseClick, L, 41, 179
+    MouseClick, L, 	28, 142
 
     sleepfor1()
 
-    MouseClick, L, 41, 179
+    MouseClick, L,	28, 142
 
     sleepfor1()
 
-    MouseClick, L, 41, 169
+    MouseClick, L, 	28, 142
 
     sleepfor1()
 
@@ -128,30 +127,30 @@ collectAfterPay(){
 }
 
 lowerAbort(){
-    MouseClick, L, 308, 564 ; lower abort
+    MouseClick, L, 	268, 501 ; lower abort
     sleep 125
-    MouseClick, L, 308, 594
+    MouseClick, L, 	268, 501
 
     return
 }
 upperAbort(){
-    MouseClick, L, 336, 505
+    MouseClick, L, 264, 452
     sleep 125
-       MouseClick, L, 336, 535
+       MouseClick, L, 264, 452
     return
 }
 Unbirthday(){
-    MouseClick, L, 505, 460 ; pay coins
+    MouseClick, L, 414, 405 ; pay coins
 
     sleepfor1()
 
-    MouseClick, L, 503, 535
+    MouseClick, L, 417, 453
 
     sleepfor1()
 
-    MouseClick, L, 586, 496 ; collect the unbirthday
+    MouseClick, L, 486, 421 ; collect the unbirthday
  sleep 125
-    MouseClick, L, 583, 514 ; collect the unbirthday
+    MouseClick, L, 486, 421 ; collect the unbirthday
 
     sleepfor2()
     MouseClick, L, 41, 169 ; waist a click
@@ -159,16 +158,16 @@ Unbirthday(){
 }
 nextContribution(){
    ; MouseClick, L, 577, 1016
-    MouseClick, L, 617, 1012
+    MouseClick, L, 520, 1021
 
     sleepfor2()
 
    ; MouseClick, L, 577, 1015
-    MouseClick, L, 618, 1015
+    MouseClick, L, 520, 1021
 
     sleepfor2()
 
-    MouseClick, L, 987, 461
+    MouseClick, L, 1011, 468
   ;sleep 125
   ;  MouseClick, L, 1008, 481
 
