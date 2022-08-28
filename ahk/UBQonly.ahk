@@ -11,13 +11,13 @@ ContributionCount := 2
 g::runit() ; the loop that does many
 q::ExitApp
 s::SetAmount()
-p::pay()
+ 
 t::upperAbort()
 b::lowerAbort()
 u::Unbirthday()
-c::collect()
+ 
 r::closeopen() ; think reopen
-a::collectAfterPay()
+ 
 x::nextContribution()
 w::waistAClick()
 z::collect1()
@@ -28,7 +28,7 @@ return
 setAmount(){
 
     InputBox, ContributionCount, ContributionCount, amount to contribute,, 400, 600,,,,, 20
-    ContributionCount := Floor(ContributionCount/38) 
+    ContributionCount := Floor(ContributionCount/7) 
     return
 }
 runit()
@@ -52,7 +52,7 @@ sleepfor1(){
     return
 }
 
-Acollect1(){
+collect1(){
     
      
     upperAbort()
@@ -80,7 +80,8 @@ Acollect1(){
     return
 }
 doAll(){
-   ; Pay()
+    upperAbort()
+    sleepfor1()
     Collect1()
     return
 

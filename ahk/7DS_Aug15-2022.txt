@@ -1,0 +1,741 @@
+20m
+#⯅	
+Player
+Guild
+	
+Aids
+(2wk)
+	
+Sits
+(2wk)
+	
+Trades
+(2wk)
+	
+GB Lvls
+(2wk)
+	Era	CB%	
+Points
+(2wk)
+	
+Medals
+(2wk)
+	
+Battles
+(2wk)
+	City
+#1	
+Lohrian the Great
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	1,871
++1	SpaceAgeJupiterMoon	+94.20	575,698,008
++2,348,422	141,656,009
++525,163	137,479
++139	Frontier
+#2	
+Carolynosb
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	1,629
++40	ArcticFuture	+95.00	422,798,123
++6,828,111	297,385,478
++9,623,795	230,889
++3,000	Carol
+#3	
+dave reid
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	1,813
++4	SpaceAgeJupiterMoon	+94.60	415,985,060
++2,916,987	117,704,945
++885,224	70,531
++222	borg
+#4	
+Charles 705 the Brash
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	1,883
++15	SpaceAgeJupiterMoon	+93.00	251,865,633
++7,580,732	99,303,234
++838,226	66,882
++265	Sedlec Ossuary
+#5	
+Daddio759
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	1,189
++7	OceanicFuture	+90.50	223,379,847
++3,178,404	78,312,855
++1,151,597	139,512
++980	Daddio's Empire
+#6	
+XENA27
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	761
++2	VirtualFuture	+90.30	171,687,317
++894,985	31,203,874
++262,080	110,071
++325	Sin City
+#7	
+MinorGeneral
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	658
++15	SpaceAgeJupiterMoon	+90.30	159,464,293
++3,532,836	36,994,445
++634,465	23,132
++490	Valle Verde
+#8	
+Lee the Forger
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	1,634
++12	OceanicFuture	+91.00	159,384,589
++3,441,281	65,802,835
++1,022,300	87,108
++747	H-Town
+#9	
+bensiso92
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	429
++4	SpaceAgeJupiterMoon	+86.50	128,369,965
++3,109,452	35,698,159
++496,335	18,246
++349	bensiso92's City
+#10	
+Habman
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	520
++9	VirtualFuture	+87.50	114,272,040
++2,291,449	45,243,916
++542,849	45,885
++734	Conquerer
+#11	
+Otto the Terrible22
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	1,045
++7	ContemporaryEra	+90.00	112,681,512
++2,692,380	28,418,921
++661,441	89,704
++2,123	Otto the Terrible22's City
+#12	
+Lady Devora
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	1,521
++5	ProgressiveEra	+94.20	111,207,316
++1,242,008	118,043,223
++2,784,530	196,760
++2,838	🐝 Apiary 🌻🐝
+#13	
+HeyFool the Great
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	1,385
++2	ArcticFuture	+94.10	107,902,319
++430,239	34,680,744
++73,521	26,404
++48	HeyFool the Gre
+#14	
+LoyolaGrad
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	1,627
++52	ProgressiveEra	+90.00	106,914,856
++3,210,647	65,164,422
++3,593,946	132,573
++1,449	GO RAMBLERS!!!
+#15	
+Awesome E
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	1,436
++15	PostModernEra	+95.00	99,417,305
++4,565,550	150,332,675
++4,852,424	131,127
++4,237	Zen Zone
+#16	
+Jax Funtime
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	1,799
++18	ProgressiveEra	+93.70	96,483,114
++1,825,200	123,145,402
++1,867,330	138,853
++2,399	Jax's Corner
+#17	
+Decon the big toker
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	1,298
++15	ProgressiveEra	+92.10	86,085,190
++1,521,967	34,507,540
++1,049,961	157,423
++1,611	smoke house
+#18	
+AmanoJaku61
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	1,572
++10	ProgressiveEra	+94.00	83,803,828
++927,813	161,061,735
++1,220,660	41,791
++228	R'lyeh
+#19	
+Destinator
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	1,039
++37	VirtualFuture	+92.00	77,386,457
++2,695,301	42,249,661
++945,461	3,744
++143	Destinator's City
+#20	
+LordUzzo
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	632
++15	SpaceAgeMars	+91.40	75,588,159
++1,348,543	26,468,323
++383,184	7,126
++157	LordUzzo's City
+#21	
+MarkJoe PatBill Dinosaur
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	1,355
++9	PostModernEra	+90.10	75,058,874
++1,862,044	33,426,568
++519,447	90,787
++968	MarkJoe PatBill Dinosaur's City
+#22	
+Cassander 858
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	1,635
++11	ModernEra	+91.80	73,763,350
++1,901,297	53,128,976
++344,662	57,711
++201	Cassander's City
+#23	
+Shogunsan
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	821
++29	VirtualFuture	+90.10	73,063,195
++1,779,473	19,595,091
++231,429	12,218
++169	Shogunsan's City
+#24	
+Tman60
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	736
++15	PostModernEra	+92.70	68,258,582
++3,530,141	13,267,611
++552,761	117,406
++4,235	Tman60's City
+#25	
+Queen J55
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	989
++6	ContemporaryEra	+92.80	66,112,627
++1,260,578	17,037,811
++236,860	71,185
++699	Queen J55's City
+#26	
+Ollieo
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	649
++3	ArcticFuture	+90.90	64,373,706
++468,901	26,427,907
++79,425	29,144
++45	Ollieo's City
+#27	
+Allan L
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	598
++3	ArcticFuture	+90.00	63,742,801
++826,457	17,747,687
++278,770	29,625
++250	Allan L's City
+#28	
+tonyjoey
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	1,078
++5	ContemporaryEra	+91.10	62,383,443
++979,983	27,456,274
++32,762	16,981
++215	tonyjoey's City
+#29	
+Never-On-Sunday
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	361
++17	OceanicFuture	+90.00	50,313,974
++2,303,055	12,676,836
++413,135	26,251
++680	FancyRafa's City
+#30	
+angrywolf69
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	932
++6	PostModernEra	+90.00	42,053,033
++560,043	14,710,636
++238,236	17,514
++272	angrywolf69's City
+#31	
+jarhead9
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	327
++4	SpaceAgeMars	+88.50	38,485,324
++2,131,386	15,901,006
++181,798	6,028
++182	Hound Haven PSC
+#32	
+English Peter
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	169
++2	SpaceAgeMars	+45.00	33,072,334
++747,639	12,077,102
++184,919	11,010
++159	English Peter's City
+#33	
+Duncan the Elder
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	542
++9	PostModernEra	+90.40	30,691,121
++497,514	9,798,964
++470,520	12,645
++159	Jaims City
+#34	
+Reflog I
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	488
++14	ArcticFuture	+90.00	27,751,594
++4,508,347	7,156,560
++435,409	15,614
++1,860	Augusta Nat’l
+#35	
+Mrs. S W
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	729
++4	ProgressiveEra	+91.40	26,701,674
++261,912	23,377,770
++117,260	15,296
++176	N. Marathontown
+#36	
+Neko322
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	553
++3	FutureEra	+90.30	26,137,283
++660,972	10,695,496
++36,215	23,130
++402	Neko322's City
+#37	
+Mme Sheila
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	466
++6	FutureEra	+90.30	25,801,671
++1,007,271	5,266,877
++79,680	16,683
++510	Karma
+#38	
+dj-2022
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	629
++17	HighMiddleAge	+94.90	25,709,786
++3,026,215	65,469,764
++5,968,108	33,291
++5,115	KT boom town
+#39	
+Iokasta 1287 the Wicked
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	493
++22	PostModernEra	+90.40	25,462,113
++1,343,608	14,849,311
++374,806	41,195
++1,131	COLD MOUNTAIN
+#40	
+Ralph de Gator
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	470
++7	FutureEra	+90.60	24,580,301
++986,003	11,790,763
++110,919	19,237
++262	Hastings Field
+#41	
+stephen37
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	479
++1	PostModernEra	+90.00	23,159,197
++370,371	17,833,562
++133,514	41,957
++470	stephen37's City
+#42	
+carcounty
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	520
++1	LateMiddleAge	+91.60	22,487,473
++131,919	32,423,876
++113,872	38,588
++197	carcounty's City
+#43	
+RaPiD 1
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	194
++9	ArcticFuture	+48.00	22,236,594
++1,830,756	7,315,707
++663,478	13,856
++809	RaPiD 1's City
+#44	
+Sir Winchester
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	539
++16	ProgressiveEra	+90.00	20,629,953
++631,334	7,539,434
++349,818	24,707
++488	Supernatural
+#45	
+Jaheira
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	369
++11	ModernEra	+91.40	16,686,403
++1,526,404	12,623,286
++1,625,749	22,381
++1,841	Jaheira City
+#46	
+IceHeartXXX
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	307
++12	PostModernEra	+91.50	15,861,435
++587,828	5,925,198
++245,770	13,004
++253	IceHeartXXX's City
+#47	
+Diva the Divine Ruler
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	431
++11	ModernEra	+90.10	15,354,419
++550,666	4,613,730
++238,857	19,641
++660	Diva the Divine Ruler's City
+#48	
+Hyperion75
+7 Deadly Sins 🔥
+	14
++3	14
++3	0
++0	428
++5	PostModernEra	+90.00	13,618,383
++399,084	5,490,867
++121,201	7,094
++65	Forgotton City
+#49	
+SinisterKing76
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	325
++4	ModernEra	+90.40	13,045,741
++229,564	2,316,388
++4,939	9,743
++252	king moises's City
+#50	
+LordofTemplars
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	405
++13	EarlyMiddleAge	+90.00	12,155,733
++206,934	7,231,024
++187,311	11,089
++289	LordofTemplars's City
+#51	
+HeatedMoon
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	370
++2	IndustrialAge	+90.00	9,591,329
++52,441	2,435,258
++2,636	5,641
++41	HeatedMoon's City
+#52	
+lr519606
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	345
++12	LateMiddleAge	+90.00	8,489,133
++327,590	1,934,475
++125,302	10,895
++398	Stonehenge
+#53	
+Pagan 384
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	348
++21	HighMiddleAge	+90.00	8,215,931
++599,140	3,575,257
++624,319	8,521
++156	Pagan 384's City
+#54	
+Zzar
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	294
++14	HighMiddleAge	+90.20	7,767,218
++469,056	1,727,097
++392,109	17,619
++2,105	Zzar's City
+#55	
+mankthierret
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	243
++4	LateMiddleAge	+90.00	6,558,788
++69,091	6,913,268
++75,460	3,779
++54	mankthierret's City
+#56	
+Eric the terror
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	215
++9	LateMiddleAge	+88.50	5,466,240
++558,689	924,600
++61,058	8,912
++326	Eric the terror's City
+#57	
+Violetbug84
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	234
++6	HighMiddleAge	+90.00	5,291,801
++136,914	1,287,973
++121,914	7,014
++242	Violetbug84's City
+#58	
+Qalandar
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	177
++11	HighMiddleAge	+90.00	5,159,042
++299,462	2,547,097
++483,686	5,797
++658	San Mejias
+#59	
+Brava builder
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	158
++4	ProgressiveEra	+86.00	4,360,636
++383,987	799,215
++68,216	4,456
++158	GRIDOPOLIS
+#60	
+marie sunshine
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	145
++0	EarlyMiddleAge	+90.00	3,972,535
++6,575	915,386
++69	585
++2	marie sunshine's City
+#61	
+Proseon
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	137
++7	LateMiddleAge	+42.00	2,184,292
++138,501	469,144
++32,420	4,404
++166	Nibleheim
+#62	
+W00DC0CK
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	122
++2	LateMiddleAge	+22.00	1,345,052
++45,867	185,756
++1,765	2,160
++44	W00DC0CK's City
+#63	
+The..Witcher
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	67
++21	EarlyMiddleAge	+52.00	1,250,137
++412,848	286,509
++117,139	257
++54	The..Witcher's City
+#64	
+Horne 626 the black
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	74
++4	IndustrialAge	+34.00	1,206,052
++58,209	438,053
++42,859	1,475
++18	Plague union
+#65	
+Guinevere Lioness
+7 Deadly Sins 🔥
+	0
++0	0
++0	0
++0	87
++4	HighMiddleAge	+37.00	952,438
++72,968	193,854
++29,342	3,278
++230	Forest of Kemp
