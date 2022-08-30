@@ -60,7 +60,7 @@ Numpad2::send {Numpad2}
 !Numpad2::send !{Numpad2}
 +Numpad2::send +{Numpad2}
 Numpad2 & h::largeScreenHeavy()
-Numpad2 & 7::run   C:\d\github.danflory\djf1\ahk\fcRQ copy.ahk ;   C:\d\githh\DJF1\ahk\fcRQ.ahk
+Numpad2 & 7::run    fcRQ copy.ahk ;   C:\d\githh\DJF1\ahk\fcRQ.ahk
 Numpad2 & 8::run C:\d\githh\DJF1\ahk\firefoxRQ.ahk
 Numpad2 & 9::run C:\d\githh\DJF1\ahk\UBQonly.ahk
 

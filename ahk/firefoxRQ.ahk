@@ -164,13 +164,13 @@ Unbirthday(){
 
 }
 nextContribution(){
-   ; MouseClick, L, 577, 1016
-    MouseClick, L, 617, 1012
+ 
+    MouseClick, L, 377, 1008
 
     sleepfor2()
 
-   ; MouseClick, L, 577, 1015
-    MouseClick, L, 618, 1015
+ 
+    MouseClick, L,377, 1008
 
     sleepfor2()
 
