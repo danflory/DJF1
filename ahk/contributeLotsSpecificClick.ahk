@@ -6,7 +6,12 @@
 
 
 global ContributionAmount
+global EraFpAmount 
+
+EraFpAmount   := 59
+
 setAmount()
+;; key definitions
 q::ExitApp
 ;+esc::Reload
  
@@ -134,6 +139,6 @@ setAmount(){
  
  
       InputBox, ContributionAmount, ContributionAmount, amount to contribute,, 400, 600,,,,, 20
-  ContributionAmount   := Floor(ContributionAmount/15) 
+  ContributionAmount   := Floor(ContributionAmount/%EraFpAmount%) 
     return
 }

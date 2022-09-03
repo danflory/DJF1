@@ -54,7 +54,7 @@ Numpad1 & g::autoFight()
 ;; fight large OrientScreen()
 ;use normal keys hotkeys
 Numpad0 & f::run "C:\d\githh\DJF1\ahk\fightkeys.ahk"
-Numpad1 & f::run "C:\d\githh\DJF1\ahk\fightkeys Small67p.ahk"
+;Numpad1 & f::run "C:\d\githh\DJF1\ahk\fightkeys Small67p.ahk"
 Numpad2::send {Numpad2}
 ^Numpad2::send ^{Numpad2}15
 !Numpad2::send !{Numpad2}
@@ -67,6 +67,9 @@ Numpad2 & 9::run C:\d\githh\DJF1\ahk\UBQonly.ahk
 
 
 ; switching guild
+/* coment out the z modifiers
+
+
 z::send {z}
 ^z::send ^{z}
 !z::send !{z}
@@ -79,10 +82,11 @@ z & d::Visit5()
 z & l::LeaveCoversation()
 z & f::VisitTaverns80p() ; think Friends
 ; z & g::Aid() ; Think guild for aid
-z & 1::Contribution15() ;  
-z & 2::ContributeCollectOnly() ;  
-z & 3::ContributionMultiple() ;  
-z & 4::run C:\d\githh\DJF1\ahk\contributeLotsSpecificClick.ahk 
+;z & 1::Contribution15() ;  
+; z & 2::ContributeCollectOnly() ;  
+; z & 3::ContributionMultiple() ;  
+; z & 4::run C:\d\githh\DJF1\ahk\contributeLotsSpecificClick.ahk 
+*/
 
 ;;fights
 /*

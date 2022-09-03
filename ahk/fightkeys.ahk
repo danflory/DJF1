@@ -13,7 +13,8 @@ v::OKTwo()
 d::fightAdd2drummers()
 i::IronAge()
 b::OKthree() ; in GE it is victory OK
-Space::autoFight()
+1::autoFight() ; adding rougues, not replace
+2::autofight2() ; repacing main
 
 q::ExitApp
 return
@@ -101,11 +102,11 @@ fightAdd2heavy(){
 
     Sleep, 50
 
-    MouseClick, L, 894, 652
+    MouseClick, L, 757, 646
 
     Sleep, 50
 
-    MouseClick, L, 894, 652
+    MouseClick, L,757, 646
     return
 }
 fightAdd2Champs(){
@@ -152,18 +153,31 @@ fightAdd2artelery(){
     MouseClick, L, 934, 656
     return
 }
+; replace main unit on auto fight
+autofight2(){
+    attackFromMap()
+    sleep 600
+    fightRemoveStarting2()
+    sleep, 50
+    fight fightAdd2heavy()
+    sleep, 50
+    fightAdd2rogue() ; will add not remove
+    sleep, 50
+    OKOne()
+    return
+}
 autoFight(){
     attackFromMap()
     Sleep,600
-    fightRemoveLast2()
-    Sleep, 50
-    fightRemoveStarting2()
-    Sleep, 100
-    fightAdd2artelery()
-    Sleep, 200
+;    fightRemoveLast2()
+;    Sleep, 50
+   ; fightRemoveStarting2()
+    ;Sleep, 100
+   ; fightAdd2artelery()
+   ; Sleep, 200
     fightAdd2rogue()
     Sleep, 50
-    OKOne()
+    OKOne() ;mapped to x key
     return
 }
 attackFromMap(){

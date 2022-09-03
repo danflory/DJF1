@@ -34,7 +34,7 @@ setAmount(){
 runit()
 return
 sleepfor2(){
-  Sleep 2000
+  Sleep 3000
   return
 }
 closeopen(){
@@ -43,10 +43,17 @@ closeopen(){
   sleep 4000
 
   MouseClick, L, 41, 169
-
+sleepfor1()
+Scroll4Down()
   return
 }
-
+Scroll4Down(){
+  loop, 4 {
+Click WheelDown
+sleep 100
+  }
+  return
+}
 sleepfor1(){
   sleep 1300
   return
@@ -57,8 +64,8 @@ Pay(){
   ;1214, 447
 
   sleep 250
-
-  Send, {Blind}{Numpad3}{Numpad8}
+; ----------------amount to pay ------------------
+  Send, 59
 
   Sleep, 250
 
@@ -75,7 +82,8 @@ collect1(){
    sleepfor1() 
      upperAbort()
    sleepfor1() 
-  lowerAbort()
+   upperAbort()
+  ;lowerAbort()
       
   closeopen()
   sleepfor1()
@@ -143,21 +151,36 @@ lowerAbort(){
 upperAbort(){
      MouseClick, L, 336, 505
     sleep 125
-       MouseClick, L, 336, 535
+       MouseClick, L, 336, 565
+    sleep 125
+       MouseClick, L, 348, 583 
      return
 }
 Unbirthday(){
     MouseClick, L, 505, 460 ; pay coins
+sleep 100
+    MouseClick, L, 495, 495 ; pay coins
+sleep 100
+    MouseClick, L, 495, 519 ; pay coins
+
 
     sleepfor1()
 
     MouseClick, L, 503, 535
+    sleep 100
+    MouseClick, L,	492, 568  ; pay coins
+    sleep 100
+    MouseClick, L,	492, 590  ; pay coins
 
     sleepfor1()
 
     MouseClick, L, 586, 496 ; collect the unbirthday
  sleep 125
     MouseClick, L, 583, 514 ; collect the unbirthday
+ sleep 125
+    MouseClick, L, 583, 534 ; collect the unbirthday
+ sleep 125
+    MouseClick, L, 583, 554 ; collect the unbirthday
 
     sleepfor2()
     MouseClick, L, 41, 169 ; waist a click
