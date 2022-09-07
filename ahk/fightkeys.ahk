@@ -1,6 +1,8 @@
 #SingleInstance, Force
 SendMode Input
 SetWorkingDir, %A_ScriptDir%
+
+;; key definitions
 s::fightRemoveStarting2()
 e::fightRemoveLast2()
 h::fightAdd2heavy()
@@ -14,6 +16,7 @@ d::fightAdd2drummers()
 i::IronAge()
 b::OKthree() ; in GE it is victory OK
 1::autoFight() ; adding rougues, not replace
+Space::autoFight() ; adding rougues, not replace
 2::autofight2() ; repacing main
 
 q::ExitApp
@@ -123,7 +126,7 @@ fightAdd2Champs(){
     return
 }
 fightAdd2rogue(){
-
+; this used to add 2, now it adds 3 but is paired up with remove 2
     MouseClick, L, 861, 584
 
     Sleep, 50
@@ -131,12 +134,12 @@ fightAdd2rogue(){
     MouseClick, L, 794, 766
 
     Sleep, 50
-
+loop 3{
     MouseClick, L, 934, 647
 
     Sleep, 50
-
-    MouseClick, L, 934, 647
+}
+  
 
     return
 }
@@ -157,12 +160,15 @@ fightAdd2artelery(){
 autofight2(){
     attackFromMap()
     sleep 600
-    fightRemoveStarting2()
+    fightRemoveLast2()
     sleep, 50
-    fight fightAdd2heavy()
+    fightRemoveStarting2()
+      fightAdd2heavy()
     sleep, 50
     fightAdd2rogue() ; will add not remove
     sleep, 50
+    OKOne()
+    sleep, 1200
     OKOne()
     return
 }
@@ -176,6 +182,8 @@ autoFight(){
    ; fightAdd2artelery()
    ; Sleep, 200
     fightAdd2rogue()
+    Sleep, 50
+    OKOne() ;mapped to x key
     Sleep, 50
     OKOne() ;mapped to x key
     return
