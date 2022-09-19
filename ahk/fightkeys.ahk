@@ -135,7 +135,7 @@ fightAdd2rogue(){
 
     Sleep, 50
 loop 3{
-    MouseClick, L, 934, 647
+    MouseClick, L, 761, 644
 
     Sleep, 50
 }

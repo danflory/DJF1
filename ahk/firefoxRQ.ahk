@@ -6,8 +6,8 @@ tt = Forge of Empires — Mozilla Firefox ahk_class MozillaWindowClass
 WinWait, %tt%
 IfWinNotActive, %tt%,, WinActivate, %tt%
 
-global ContributionCount
-ContributionCount := 2
+
+ 
 g::runit() ; the loop that does many
 q::ExitApp
 s::SetAmount()
@@ -22,13 +22,17 @@ x::nextContribution()
 w::waistAClick()
 z::collect1()
 o::doAll() ; do it once
+ 
 return
 ; NOTES. Foe helper  browser 90% full screen
 
 setAmount(){
-
-  InputBox, ContributionCount, ContributionCount, amount to contribute,, 400, 600,,,,, 20
-  ContributionCount := Floor(ContributionCount/38) 
+global ContributionCount
+global AmountPerContribution
+AmountPerContribution := 77
+ContributionCount := AmountPerContribution
+  InputBox, ContributionCount, ContributionCount, amount to contribute,, 400, 600,,,,, %AmountPerContribution%
+  ContributionCount := Floor(ContributionCount/AmountPerContribution) 
   return
 }
 runit()
@@ -59,13 +63,14 @@ sleepfor1(){
   return
 }
 Pay(){
+  global AmountPerContribution
   MouseClick, L, 1214, 447
   ;1193, 455
   ;1214, 447
 
   sleep 250
 ; ----------------amount to pay ------------------
-  Send, 59
+  Send, %AmountPerContribution%
 
   Sleep, 250
 
@@ -92,10 +97,11 @@ collect1(){
   closeopen()
   sleepfor1() 
   Unbirthday()
+  loop, 2{
   sleepfor1() 
   upperAbort()
-  sleepfor1() 
-  upperAbort()
+  }
+
     
   closeopen()
 sleepfor1()
@@ -195,17 +201,14 @@ nextContribution(){
  
     MouseClick, L,377, 1008
 
-    sleepfor2()
-
-     MouseClick, L,   1232, 452
+    sleepfor2()q
      sleepfor1()
   return
 }
 ; ------------------------------------------------------------------------------------------
 runit(){
+  global ContributionCount
     Loop, %ContributionCount%
-  {
         doAll() 
   }
   return
-}
